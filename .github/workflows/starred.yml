@@ -27,6 +27,6 @@ jobs:
       - name: Pull changes
         run: git pull -r
       - name: Push changes
-        uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
+        uses: ad-m/github-push-action@057a6ba835d986bfe495dd476a6c4db1d5f9503c
         with:
           github_token: ${{ secrets.GH_TOKEN }}
