@@ -18,15 +18,10 @@ jobs:
       - run: pip install starred
       - name: Update star list
         run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GITHUB_TOKEN }} > README.md
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update awesome stars"
-      - name: Pull changes
-        run: git pull -r
-      - name: Push changes
-        uses: ad-m/github-push-action@057a6ba835d986bfe495dd476a6c4db1d5f9503c
+      - uses: EndBug/add-and-commit@v7
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          add: '["README.md"]'
+          author_name: "GH Bot"
+          author_email: "bot@github.com"
+          message: "chore: recap update"
+          pull_strategy: "--no-ff"
