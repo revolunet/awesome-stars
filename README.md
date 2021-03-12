@@ -453,6 +453,7 @@
 
 ## Go 
 
+- [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [kail](https://github.com/boz/kail) - kubernetes log viewer
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -3081,6 +3082,7 @@
 - [grunt-sftp-deploy](https://github.com/thrashr888/grunt-sftp-deploy) - Grunt task for code deployment over sftp
 - [devfriendlyplaces](https://github.com/avernois/devfriendlyplaces) - Note: devfriendlyplaces has moved to an organisation. Code and data can be found at https://github.com/devfriendlyplaces
 - [Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
+- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [grunt-image](https://github.com/1000ch/grunt-image) - Optimize PNG, JPEG, GIF, SVG images with grunt task.
 - [iOS-Orientationchange-Fix](https://github.com/scottjehl/iOS-Orientationchange-Fix) - A fix for the iOS orientationchange zoom bug.
 - [ngSocket](https://github.com/angular/ngSocket) - WebSocket support for angular
@@ -5204,7 +5206,6 @@
 - [plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
 - [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
