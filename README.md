@@ -453,6 +453,7 @@
 
 ## Go 
 
+- [tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
 - [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [kail](https://github.com/boz/kail) - kubernetes log viewer
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
