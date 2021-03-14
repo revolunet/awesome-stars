@@ -1029,7 +1029,6 @@
 - [jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library.
 - [ipfs-watch-and-publish](https://github.com/BubuAnabelas/ipfs-watch-and-publish) - Watch a directory and automatically publish it in IPNS if any file or folder changes
 - [s4](https://github.com/simonfrey/s4) - Simple Shamir's Secret Sharing (s4) - A go package giving a easy to use interface for the shamir's secret sharing algorithm
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [orbit-db-resolver](https://github.com/phillmac/orbit-db-resolver) - A Resolver to check resolution of orbit-db head entries
 - [ra-data-django-rest-framework](https://github.com/bmihelac/ra-data-django-rest-framework) - react-admin data provider for Django REST framework
 - [excalidraw-share-peer-link](https://github.com/davidbonan/excalidraw-share-peer-link) - Link to excalidraw from tiers application React
@@ -3083,7 +3082,6 @@
 - [grunt-sftp-deploy](https://github.com/thrashr888/grunt-sftp-deploy) - Grunt task for code deployment over sftp
 - [devfriendlyplaces](https://github.com/avernois/devfriendlyplaces) - Note: devfriendlyplaces has moved to an organisation. Code and data can be found at https://github.com/devfriendlyplaces
 - [Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
-- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [grunt-image](https://github.com/1000ch/grunt-image) - Optimize PNG, JPEG, GIF, SVG images with grunt task.
 - [iOS-Orientationchange-Fix](https://github.com/scottjehl/iOS-Orientationchange-Fix) - A fix for the iOS orientationchange zoom bug.
 - [ngSocket](https://github.com/angular/ngSocket) - WebSocket support for angular
@@ -3680,6 +3678,7 @@
 
 ## Others 
 
+- [suivi-recommandations-bothorel](https://github.com/bzg/suivi-recommandations-bothorel) - Dépôt pour suivre la mise en oeuvre des recommandations du rapport Bothorel
 - [analytics_docs](https://github.com/CityOfBoston/analytics_docs) - The official documentation of the City of Boston's Analytics Team.
 - [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
 - [nuclei-action](https://github.com/projectdiscovery/nuclei-action) - Dynamic Application Security Testing (DAST) with Nuclei
@@ -4871,6 +4870,7 @@
 
 ## TypeScript 
 
+- [assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [next-mdx](https://github.com/arshad/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 A complete Pattern Matching library for TypeScript, with smart type inference.
@@ -4945,6 +4945,7 @@
 - [clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies
 - [react-resource-router](https://github.com/atlassian-labs/react-resource-router) - Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [svguitar](https://github.com/omnibrain/svguitar) - Create beautiful SVG guitar chord charts
 - [use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for react-three-fiber
 - [model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
@@ -5207,6 +5208,7 @@
 - [plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
 - [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
