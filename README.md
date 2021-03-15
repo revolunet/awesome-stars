@@ -4842,6 +4842,7 @@
 
 ## Svelte 
 
+- [jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
 
 ## Swift 
@@ -4921,7 +4922,6 @@
 - [spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete node js wrapper of spotify api with oauth support
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [react](https://github.com/geist-org/react) - Modern and minimalist React UI library.
@@ -5200,7 +5200,7 @@
 - [nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) - Use @google-cloud/datastore as a Key/Value store.
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
-- [react-day-picker](https://github.com/gpbl/react-day-picker) - Lightweight date picker component for React
+- [react-day-picker](https://github.com/gpbl/react-day-picker) - Reusable date picker component for React
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [hybrid](https://github.com/wordpress-clients/hybrid) - [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
