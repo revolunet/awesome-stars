@@ -638,6 +638,7 @@
 
 ## Groovy 
 
+- [gitops-build-lib](https://github.com/cloudogu/gitops-build-lib) - Jenkins pipeline shared library for automating deployments via GitOps
 - [rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
 ## HTML 
@@ -870,6 +871,7 @@
 
 ## JavaScript 
 
+- [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [next-mdx](https://github.com/JS-DevTools/next-mdx) - Adds support for MDX with advanced syntax features in Next.js applications
 - [design-react-kit](https://github.com/italia/design-react-kit) - A React toolkit that implements the Italia design system
 - [twitter-clone](https://github.com/buwilliams/twitter-clone) - Experiments with Dolt and Dolthub via node.js, express.js, and mysql.
@@ -1015,7 +1017,7 @@
 - [Natakanu](https://github.com/Wapikoni-Technique/Natakanu) - Indigenous p2p collaboration tool
 - [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) - A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me
 - [vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
-- [Twake](https://github.com/Twake/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
+- [Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 - [git-remote-ipfs](https://github.com/dhappy/git-remote-ipfs) - Git Remote Helper to Push/Fetch from IPFS
 - [parallax-effect](https://github.com/munsocket/parallax-effect) - 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam.
 - [vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
@@ -4952,7 +4954,7 @@
 - [tesselle](https://github.com/medialab/tesselle) - an image annotation and publication tool
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
-- [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
+- [cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [react-tooltip](https://github.com/RenoFi/react-tooltip) - React tooltip component
 - [tinacms.org](https://github.com/tinacms/tinacms.org) - Organization site for general info, documentation, blogs & contribution guidelines.
