@@ -458,7 +458,7 @@
 - [kail](https://github.com/boz/kail) - kubernetes log viewer
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [keycloak-operator](https://github.com/keycloak/keycloak-operator) - A Kubernetes Operator based on the Operator SDK for syncing resources in Keycloak
 - [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
@@ -871,6 +871,7 @@
 
 ## JavaScript 
 
+- [react-solidgauge](https://github.com/arnthor3/react-solidgauge) - A React-d3 solid gauge chart
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [next-mdx](https://github.com/JS-DevTools/next-mdx) - Adds support for MDX with advanced syntax features in Next.js applications
 - [design-react-kit](https://github.com/italia/design-react-kit) - A React toolkit that implements the Italia design system
@@ -930,7 +931,6 @@
 - [webrtc-experiments](https://github.com/topheman/webrtc-experiments) - An example of how you could use WebRTC on the web, based on the PeerJS library
 - [nextjs-101](https://github.com/Ihatetomatoes/nextjs-101) - 
 - [nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
-- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [di-ninja](https://github.com/di-ninja/di-ninja) - The Dependency Injection Framework for JavaScript NodeJS and Browser - really made for Composition Root
 - [scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
@@ -1068,7 +1068,6 @@
 - [field-manual](https://github.com/orbitdb/field-manual) - The Offical User's Guide to OrbitDB
 - [pose-animator](https://github.com/yemount/pose-animator) - 
 - [ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) - Simple Ethereum Voting dapp using Truffle framework
-- [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [DataTurks](https://github.com/DataTurks/DataTurks) - ML data annotations made super easy for teams. Just upload data, add your team and build training/evaluation dataset in hours.
 - [versed](https://github.com/sgbj/versed) - A file conversion microservice written in Node
 - [mammoth-style](https://github.com/Go7hic/mammoth-style) - Convert Word documents (.docx files) to HTML (with style)
@@ -3312,7 +3311,7 @@
 - [ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel) - Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas.
 - [Delta-jQuery-UI-Theme](https://github.com/kiandra/Delta-jQuery-UI-Theme) - Delta jQuery UI Theme
 - [angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
-- [PEP](https://github.com/jquery/PEP) - Pointer Events Polyfill: a unified event system for the web platform
+- [PEP](https://github.com/jquery-archive/PEP) - Pointer Events Polyfill: a unified event system for the web platform
 - [meetcha](https://github.com/javamanrj/meetcha) - We developed the Meetcha app to demonstrate how to use Sencha Touch 2 features in a real world application. We used the Sencha Touch’s built in MVC architecture, which we’ve found in this app and in general is absolutely required for developing large commercial applications. We also wanted the Meetcha app to have an engaging UI, so we used custom theming to create rounded buttons and non-rectangular positioning with a custom background that changes with orientation. This app also illustrates how to create context-sensitive navigation by showing the map of the meetup or home screen depending on how soon the event is taking place. You can read about this application on a Sencha Blog Post. If you have questions, please contact ashvin@avantsoft.com.
 - [angular-http-auth](https://github.com/witoldsz/angular-http-auth) - 
 - [infinity](https://github.com/airbnb/infinity) - UITableViews for the web (DEPRECATED)
@@ -4131,6 +4130,7 @@
 - [text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
+- [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [Pytition](https://github.com/pytition/Pytition) - Django app for self-hosted privacy-friendly online petitions
 - [csv-detective](https://github.com/etalab/csv-detective) - CSV inspection
 - [zap-tutorial](https://github.com/rezen/zap-tutorial) - WIP - A tutorial for OWASP ZAP
@@ -4907,6 +4907,7 @@
 - [next-page-tester](https://github.com/toomuchdesign/next-page-tester) - DOM integration testing for Next.js
 - [pixano-elements](https://github.com/pixano/pixano-elements) - Pixano Elements - Re-usable web components dedicated to data annotation tasks.
 - [api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [replay](https://github.com/edbentley/replay) - A cross-platform JS game engine inspired by React
 - [web-playground](https://github.com/ceramicstudio/web-playground) - A sample web app for testing Ceramic components in the browser
 - [dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
