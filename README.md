@@ -871,6 +871,8 @@
 
 ## JavaScript 
 
+- [node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 databases as an npm lib
+- [node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [react-solidgauge](https://github.com/arnthor3/react-solidgauge) - A React-d3 solid gauge chart
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [next-mdx](https://github.com/JS-DevTools/next-mdx) - Adds support for MDX with advanced syntax features in Next.js applications
