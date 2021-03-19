@@ -871,6 +871,7 @@
 
 ## JavaScript 
 
+- [get-domain-certificate](https://github.com/nav-een/get-domain-certificate) - Simple module to get a website's SSL certificate from domain name
 - [node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 databases as an npm lib
 - [node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [react-solidgauge](https://github.com/arnthor3/react-solidgauge) - A React-d3 solid gauge chart
@@ -1527,6 +1528,7 @@
 - [attina](https://github.com/obartra/attina) - React Mermaid Renderer 🐟
 - [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
 - [cypress-example-docker-circle](https://github.com/cypress-io/cypress-example-docker-circle) - Cypress + Docker + CircleCI = ❤️
+- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [issue-db](https://github.com/issue-db/issue-db) - ☁️ Use GitHub Issues as a JSON datastore
 - [color-accessibility-neural-network-deeplearnjs](https://github.com/javascript-machine-learning/color-accessibility-neural-network-deeplearnjs) - 🍃 Using a Neural Network to improve web accessibility in JavaScript.
 - [svmjs](https://github.com/karpathy/svmjs) - Support Vector Machine in Javascript (SMO algorithm, supports arbitrary kernels) + GUI demo
@@ -3681,6 +3683,7 @@
 
 ## Others 
 
+- [awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
 - [suivi-recommandations-bothorel](https://github.com/bzg/suivi-recommandations-bothorel) - Dépôt pour suivre la mise en oeuvre des recommandations du rapport Bothorel
 - [analytics_docs](https://github.com/CityOfBoston/analytics_docs) - The official documentation of the City of Boston's Analytics Team.
 - [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
@@ -4875,6 +4878,7 @@
 
 ## TypeScript 
 
+- [flowchart-fun](https://github.com/tone-row/flowchart-fun) - A small app for making quick flowcharts from text ⿻
 - [assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [next-mdx](https://github.com/arshad/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
@@ -5090,7 +5094,6 @@
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [angular-github-issues](https://github.com/crh225/angular-github-issues) - This repository searches github for repositories, issues, and users. It is written in Angular 10 and is using ngrx/store for state.
-- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [searchkit](https://github.com/searchkit/searchkit) - GraphQL API & React UI components for Elasticsearch. The easiest way to build a great search experience
 - [re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
