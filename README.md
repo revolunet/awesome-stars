@@ -1268,7 +1268,7 @@
 - [code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [waldorf](https://github.com/hobbyquaker/waldorf) - Simple Mattermost Bot 🤡🤠
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [use-global-hook](https://github.com/andregardi/use-global-hook) - 
+- [use-global-hook](https://github.com/use-global-hook/use-global-hook) - 
 - [make8bitart](https://github.com/jennschiffer/make8bitart) - THIS REPO IS ARCHIVED AND THE PROJECT IS NOW MAINTAINED ON GLITCH.COM :)
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
@@ -1812,7 +1812,6 @@
 - [schwifty](https://github.com/hapipal/schwifty) - A model layer for hapi integrating Objection ORM
 - [react-times](https://github.com/ecmadao/react-times) - A time picker react component, no jquery-rely
 - [next-static](https://github.com/infiniteluke/next-static) - A simple static blog powered by next.js
-- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [courier](https://github.com/micnews/courier) - Create email components with React / react-html-email and send them to Mailchimp on the server.
 - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [collab-react-components](https://github.com/chili-epfl/collab-react-components) - React components for collaborative editing: text, rich text, and complex forms
@@ -2458,7 +2457,7 @@
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS
 - [react-motion-flip](https://github.com/bloodyowl/react-motion-flip) - A simple component to naively perform transitions between children changes
 - [iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
-- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment.
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from userAgent data. Supports browser & node.js environment.
 - [mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate) - Small project to quickly start with React, MobX, JSX, ES6, Babel
 - [bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
@@ -4711,6 +4710,7 @@
 - [AusweisBot](https://github.com/samueltardieu/AusweisBot) - Telegram bot to generate self-authorizations for moving around during covid-19 pandemic in France
 - [attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 
 ## Shell 
 
