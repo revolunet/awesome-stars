@@ -453,6 +453,7 @@
 
 ## Go 
 
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kotalco/kotal](https://github.com/kotalco/kotal) - Blockchain Kubernetes Operator
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -1532,7 +1533,6 @@
 - [obartra/attina](https://github.com/obartra/attina) - React Mermaid Renderer 🐟
 - [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
 - [cypress-io/cypress-example-docker-circle](https://github.com/cypress-io/cypress-example-docker-circle) - Cypress + Docker + CircleCI = ❤️
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [issue-db/issue-db](https://github.com/issue-db/issue-db) - ☁️ Use GitHub Issues as a JSON datastore
 - [javascript-machine-learning/color-accessibility-neural-network-deeplearnjs](https://github.com/javascript-machine-learning/color-accessibility-neural-network-deeplearnjs) - 🍃 Using a Neural Network to improve web accessibility in JavaScript.
 - [karpathy/svmjs](https://github.com/karpathy/svmjs) - Support Vector Machine in Javascript (SMO algorithm, supports arbitrary kernels) + GUI demo
@@ -1593,9 +1593,9 @@
 - [digidem/react-dimensions](https://github.com/digidem/react-dimensions) - [Looking for maintainers]
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [newbreedofgeek/react-stepzilla](https://github.com/newbreedofgeek/react-stepzilla) - A React multi-step/wizard component for sequential data collection
-- [promethe42/dredd](https://github.com/promethe42/dredd) - A RESTful API to fetch data from the French "Assemblée Nationale".
-- [promethe42/passport-franceconnect](https://github.com/promethe42/passport-franceconnect) - 
-- [promethe42/cocorico](https://github.com/promethe42/cocorico) - Cocorico is an open online voting platform powered by the blockchain.
+- [JMLX42/dredd](https://github.com/JMLX42/dredd) - A RESTful API to fetch data from the French "Assemblée Nationale".
+- [JMLX42/passport-franceconnect](https://github.com/JMLX42/passport-franceconnect) - 
+- [JMLX42/cocorico](https://github.com/JMLX42/cocorico) - Cocorico is an open online voting platform powered by the blockchain.
 - [jabney/vala](https://github.com/jabney/vala) - Generate HTML markup for highlighting segments of text
 - [Neamar/document-highlighter](https://github.com/Neamar/document-highlighter) - Context-aware highlighting for search queries in HTML documents.
 - [functional-promises/functional-promises](https://github.com/functional-promises/functional-promises) - Write code like a story w/ a powerful Fluent (function chaining) API
@@ -4084,6 +4084,7 @@
 
 ## Python 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [GoogleCloudPlatform/fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) - 
 - [erwtokritos/keras-glove](https://github.com/erwtokritos/keras-glove) - Implementation of GloVe in Keras
@@ -4278,7 +4279,7 @@
 - [toji/semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [Legilibre/DuraLex](https://github.com/Legilibre/DuraLex) - DuraLex is a French bill compiler.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [tudelft3d/Random3Dcity](https://github.com/tudelft3d/Random3Dcity) - A basic procedural modelling engine for generating buildings and other features in CityGML
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -5102,6 +5103,7 @@
 - [graphql-compose/graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [crh225/angular-github-issues](https://github.com/crh225/angular-github-issues) - This repository searches github for repositories, issues, and users. It is written in Angular 10 and is using ngrx/store for state.
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - GraphQL API & React UI components for Elasticsearch. The easiest way to build a great search experience
 - [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
