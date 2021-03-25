@@ -56,6 +56,7 @@
   - [Processing](#processing)
   - [Pug](#pug)
   - [Python](#python)
+  - [QML](#qml)
   - [R](#r)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -106,7 +107,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
-- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is an open source ad blocker for Android using the hosts file.
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -367,6 +368,7 @@
 - [microflo/microflo](https://github.com/microflo/microflo) - Live dataflow programming for microcontrollers and embedded
 - [pimatic/pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
 - [mwittig/pimatic-johnny-five](https://github.com/mwittig/pimatic-johnny-five) - Pimatic Plugin for Johnny Five, a Robotics and IoT programming framework - http://johnny-five.io
+- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [danielgtaylor/aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [pughpugh/react-countdown-clock](https://github.com/pughpugh/react-countdown-clock) - HTML5 canvas countdown clock React component
 - [snd/mesa](https://github.com/snd/mesa) - simple elegant sql for nodejs
@@ -453,6 +455,8 @@
 
 ## Go 
 
+- [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
+- [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kotalco/kotal](https://github.com/kotalco/kotal) - Blockchain Kubernetes Operator
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
@@ -873,6 +877,7 @@
 
 ## JavaScript 
 
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [reneschoonrok/Kubernetes-3d-visualizer](https://github.com/reneschoonrok/Kubernetes-3d-visualizer) - Interact with your kubernetes cluster rendered in 3d using threejs and css3d
 - [styfle/tls-check](https://github.com/styfle/tls-check) - ✅ Check the TLS protocol support of one or more web servers
 - [nav-een/get-domain-certificate](https://github.com/nav-een/get-domain-certificate) - Simple module to get a website's SSL certificate from domain name
@@ -899,7 +904,6 @@
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
 - [alex-page/get-site-urls](https://github.com/alex-page/get-site-urls) - 🔗 Get all of the URL's from a website.
-- [contra/react-responsive](https://github.com/contra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [MarkKragerup/weblint-eslint-security](https://github.com/MarkKragerup/weblint-eslint-security) - ESLint rules for enhanced security
 - [kuzjka/codeceptjs-remote-maildev](https://github.com/kuzjka/codeceptjs-remote-maildev) - Maildev instance for CodeceptJS Maildev helper
 - [kuzjka/codeceptjs-remote-maildev-helper](https://github.com/kuzjka/codeceptjs-remote-maildev-helper) - CodeceptJS helper for simplest email check using remote maildev server
@@ -907,7 +911,7 @@
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [paolomainardi/additronk8s-retrogames-kubernetes-controller](https://github.com/paolomainardi/additronk8s-retrogames-kubernetes-controller) - A retrogames kubernetes controller built in Javascript
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ARTILLERY - modern load and smoke testing for SREs
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-native performance & reliability testing for developers and SREs
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
@@ -2354,7 +2358,6 @@
 - [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 - [JeremyHeleine/Photo-Sphere-Viewer](https://github.com/JeremyHeleine/Photo-Sphere-Viewer) - A JavaScript library to display Photo Sphere panoramas.
 - [alex-wilmer/canvas-animation](https://github.com/alex-wilmer/canvas-animation) - Canvas Animation w/ Tutorial
-- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [jeffbski/redux-logic](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing all your business logic. Intercept actions and perform async processing.
 - [jimpick/lambda-comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
@@ -4167,7 +4170,7 @@
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [getalp/Flaubert](https://github.com/getalp/Flaubert) - Unsupervised Language Model Pre-training for French
-- [etalab/piaf](https://github.com/etalab/piaf) - Question Answering annotation platform - Plateforme d'annotation du projet Piaf
+- [etalab/piaf](https://github.com/etalab/piaf) - Question Answering annotation platform - Plateforme d'annotation
 - [utterworks/fast-bert](https://github.com/utterworks/fast-bert) - Super easy library for BERT based NLP models
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
 - [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
@@ -4626,6 +4629,10 @@
 - [lincolnloop/django-startproject](https://github.com/lincolnloop/django-startproject) - Boilerplate code for new Django projects.
 - [HashNuke/Python-Arduino-Prototyping-API](https://github.com/HashNuke/Python-Arduino-Prototyping-API) - Helps you to quickly prototype Arduino programs, without having to repeatedly load the program to the Arduino board
 
+## QML 
+
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+
 ## R 
 
 - [pommedeterresautee/OPJ](https://github.com/pommedeterresautee/OPJ) - Open Predictive Justice
@@ -4899,6 +4906,7 @@
 - [47ng/typescript-library-starter](https://github.com/47ng/typescript-library-starter) - Template repository for TypeScript libraries
 - [47ng/cloak](https://github.com/47ng/cloak) - Serialized AES-GCM 256 encryption, decryption and key management in the browser & Node.js
 - [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
+- [contra/react-responsive](https://github.com/contra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [rap2hpoutre/pg-anonymizer](https://github.com/rap2hpoutre/pg-anonymizer) - Dump anonymized PostgreSQL database with a NodeJS CLI
 - [pmndrs/react-three-flex](https://github.com/pmndrs/react-three-flex) - 💪📦  Flexbox for react-three-fiber
 - [serverless-nextjs/serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js) - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
