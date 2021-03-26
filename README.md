@@ -549,7 +549,7 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
-- [loadimpact/k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [hagen1778/fasthttploader](https://github.com/hagen1778/fasthttploader) - Http benchmark (kinda ab) with autoadjustment and charts based on fasthttp library
 - [RTradeLtd/s3x](https://github.com/RTradeLtd/s3x) - s3x is a minio gateway providing an S3 API powered by TemporalX that uses IPFS as the data storage layer. It lets you turn any S3 application into an IPFS application with no change in application design
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
@@ -565,7 +565,7 @@
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [cloud-annotations/training](https://github.com/cloud-annotations/training) - 🐝 Custom Object Detection and Classification Training
-- [txthinking/mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
+- [txthinking/mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. Mr.2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [jacobtomlinson/krontab](https://github.com/jacobtomlinson/krontab) - ⏰ A crontab like editor for Kubernetes cron jobs
@@ -812,6 +812,7 @@
 
 ## Java 
 
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [svenstaro/keycloak-http-webhook-provider](https://github.com/svenstaro/keycloak-http-webhook-provider) - A Keycloak provider that posts events to a URL via HTTP POST as JSON
 - [Tanaguru/Tanaguru](https://github.com/Tanaguru/Tanaguru) - Automated accessibility (a11y) testing tool, with emphasis on reliablity and automation
@@ -877,6 +878,7 @@
 
 ## JavaScript 
 
+- [ndimatteo/HULL](https://github.com/ndimatteo/HULL) - 💀 Headless Shopify Starter – powered by Next.js + Sanity.io
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [reneschoonrok/Kubernetes-3d-visualizer](https://github.com/reneschoonrok/Kubernetes-3d-visualizer) - Interact with your kubernetes cluster rendered in 3d using threejs and css3d
 - [styfle/tls-check](https://github.com/styfle/tls-check) - ✅ Check the TLS protocol support of one or more web servers
@@ -2464,7 +2466,7 @@
 - [christianalfoni/formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS
 - [bloodyowl/react-motion-flip](https://github.com/bloodyowl/react-motion-flip) - A simple component to naively perform transitions between children changes
 - [fregante/iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from userAgent data. Supports browser & node.js environment.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
 - [mobxjs/mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate) - Small project to quickly start with React, MobX, JSX, ES6, Babel
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [noble/noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
@@ -3689,6 +3691,7 @@
 
 ## Others 
 
+- [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh) - ZSH is awesome, here's why...
 - [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
 - [bzg/suivi-recommandations-bothorel](https://github.com/bzg/suivi-recommandations-bothorel) - Dépôt pour suivre la mise en oeuvre des recommandations du rapport Bothorel
 - [CityOfBoston/analytics_docs](https://github.com/CityOfBoston/analytics_docs) - The official documentation of the City of Boston's Analytics Team.
@@ -4726,6 +4729,7 @@
 
 ## Shell 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [jhassine/server-ip-addresses](https://github.com/jhassine/server-ip-addresses) - Daily updated list of IP addresses / CIDR blocks used by data centers, cloud service providers, servers, etc.
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
 - [hpi-schul-cloud/jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
