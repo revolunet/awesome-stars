@@ -565,7 +565,7 @@
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [cloud-annotations/training](https://github.com/cloud-annotations/training) - 🐝 Custom Object Detection and Classification Training
-- [txthinking/mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. Mr.2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
+- [txthinking/mr2](https://github.com/txthinking/mr2) - mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. mr2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [jacobtomlinson/krontab](https://github.com/jacobtomlinson/krontab) - ⏰ A crontab like editor for Kubernetes cron jobs
@@ -1861,7 +1861,7 @@
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
-- [stripe/react-stripe-elements](https://github.com/stripe/react-stripe-elements) - React components for Stripe.js and Stripe Elements
+- [stripe/react-stripe-elements](https://github.com/stripe/react-stripe-elements) - Moved to stripe/react-stripe-js.
 - [MoOx/react-svg-inline](https://github.com/MoOx/react-svg-inline) - DEPRECATED, I recommend you the tool SVGR
 - [vesparny/fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
