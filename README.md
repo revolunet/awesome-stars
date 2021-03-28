@@ -3691,6 +3691,7 @@
 
 ## Others 
 
+- [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh) - ZSH is awesome, here's why...
 - [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
 - [bzg/suivi-recommandations-bothorel](https://github.com/bzg/suivi-recommandations-bothorel) - Dépôt pour suivre la mise en oeuvre des recommandations du rapport Bothorel
@@ -4304,7 +4305,7 @@
 - [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [uskudnik/amazon-glacier-cmd-interface](https://github.com/uskudnik/amazon-glacier-cmd-interface) - Command line interface for Amazon Glacier
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -4896,6 +4897,7 @@
 
 ## TypeScript 
 
+- [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
 - [SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
 - [fission-suite/ipfs-photo-gallery](https://github.com/fission-suite/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - A small app for making quick flowcharts from text ⿻
@@ -5226,7 +5228,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
-- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09 and JSON Type Definition (RFC8927)
+- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [googleapis/nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) - Use @google-cloud/datastore as a Key/Value store.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
