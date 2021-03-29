@@ -4091,6 +4091,8 @@
 
 ## Python 
 
+- [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
+- [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [GoogleCloudPlatform/fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) - 
@@ -4897,6 +4899,7 @@
 
 ## TypeScript 
 
+- [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
 - [SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
 - [fission-suite/ipfs-photo-gallery](https://github.com/fission-suite/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
@@ -5053,7 +5056,7 @@
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [vega/react-vega](https://github.com/vega/react-vega) - Convert Vega spec into React class conveniently
 - [mathiassoeholm/use-anim](https://github.com/mathiassoeholm/use-anim) - A super small hook-based animation library for React
-- [ajv-validator/json-schema-migrate](https://github.com/ajv-validator/json-schema-migrate) - Migrate JSON-Schema to draft-07 and draft-2019-09
+- [ajv-validator/json-schema-migrate](https://github.com/ajv-validator/json-schema-migrate) - Migrate JSON-Schema draft-04 to draft-07, draft-2019-09 or draft-2020-12
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [trojanowski/react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks) - Use Apollo Client as React hooks
 - [Kinto/kinto-admin](https://github.com/Kinto/kinto-admin) - Kinto Web Administration Console
