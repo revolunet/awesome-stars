@@ -4899,6 +4899,7 @@
 
 ## TypeScript 
 
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
 - [SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
@@ -5065,7 +5066,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [anthonyshort/use-next-route](https://github.com/anthonyshort/use-next-route) - React hook for easy routing within a Next.js app
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
-- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [climax/core](https://github.com/climax/core) - [In progress] The "Electron" for CLI applications: build and distribute cross-platform CLI clients with NodeJS.
 - [Weakky/ra-data-opencrud](https://github.com/Weakky/ra-data-opencrud) - A react-admin data provider for Prisma and GraphCMS
 - [TimoSta/sprite](https://github.com/TimoSta/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
