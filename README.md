@@ -455,6 +455,7 @@
 
 ## Go 
 
+- [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
 - [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
@@ -937,7 +938,6 @@
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [kfarr/3dstreet](https://github.com/kfarr/3dstreet) - 🚲🚶🚌 Web-based 3D visualization of streets using A-Frame
 - [mafintosh/hyperphone](https://github.com/mafintosh/hyperphone) - A telephone over Hyperbeam
-- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Electrical power consumption metrology agent. Let scaph dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [ankane/react-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
 - [libp2p/js-libp2p-webrtc-direct](https://github.com/libp2p/js-libp2p-webrtc-direct) - Dial using WebRTC without the need to set up any Signalling Rendezvous Point!
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
@@ -2142,7 +2142,7 @@
 - [dburrows/draft-js-basic-html-editor](https://github.com/dburrows/draft-js-basic-html-editor) - Basic HTML editor using draft.js - html in, html out
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
-- [stdlib/lib](https://github.com/stdlib/lib) - Autocode API Development, Deployment, and Management Tools
+- [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 - [guybedford/systemjs-webpack-plugin](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
@@ -4288,7 +4288,7 @@
 - [toji/semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [Legilibre/DuraLex](https://github.com/Legilibre/DuraLex) - DuraLex is a French bill compiler.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [tudelft3d/Random3Dcity](https://github.com/tudelft3d/Random3Dcity) - A basic procedural modelling engine for generating buildings and other features in CityGML
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -4687,6 +4687,7 @@
 - [duniter/duniter-rs](https://github.com/duniter/duniter-rs) - Implementation of DUniter Protocol (DUP) in Rust. DUP is a crypto-currency protocol to manage libre currency such as Ğ1.
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Electrical power consumption metrology agent. Let scaph dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
