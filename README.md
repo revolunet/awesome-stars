@@ -455,6 +455,7 @@
 
 ## Go 
 
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
 - [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
@@ -650,6 +651,7 @@
 
 ## HTML 
 
+- [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [chris-short/kubernetesreadme.com](https://github.com/chris-short/kubernetesreadme.com) - What to read to get up to speed with Kubernetes
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
@@ -879,6 +881,8 @@
 
 ## JavaScript 
 
+- [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
+- [k6io/har-to-k6](https://github.com/k6io/har-to-k6) - JSON config representation of K6 script
 - [ndimatteo/HULL](https://github.com/ndimatteo/HULL) - 💀 Headless Shopify Starter – powered by Next.js + Sanity.io
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [reneschoonrok/Kubernetes-3d-visualizer](https://github.com/reneschoonrok/Kubernetes-3d-visualizer) - Interact with your kubernetes cluster rendered in 3d using threejs and css3d
@@ -4147,7 +4151,7 @@
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
 - [facebookresearch/MUSE](https://github.com/facebookresearch/MUSE) - A library for Multilingual Unsupervised or Supervised word Embeddings
 - [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [pytition/Pytition](https://github.com/pytition/Pytition) - Django app for self-hosted privacy-friendly online petitions
