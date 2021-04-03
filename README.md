@@ -882,6 +882,9 @@
 
 ## JavaScript 
 
+- [hmarr/debug-action](https://github.com/hmarr/debug-action) - 🛠 Show environment variables and event JSON in the Action logs
+- [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
+- [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [mbogh/test-ssl-action](https://github.com/mbogh/test-ssl-action) - testssl.sh GitHub Action
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 - [k6io/har-to-k6](https://github.com/k6io/har-to-k6) - JSON config representation of K6 script
@@ -3701,6 +3704,8 @@
 
 ## Others 
 
+- [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
+- [fivedots/storage-foundation-api-explainer](https://github.com/fivedots/storage-foundation-api-explainer) - Explainer showcasing a new web storage API, NativeIO
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh) - ZSH is awesome, here's why...
 - [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
@@ -4124,7 +4129,6 @@
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
-- [etalab-ia/ami-ia-ce](https://github.com/etalab-ia/ami-ia-ce) - Dépôt de code pour le projet AMI IA 2 du Conseil d'Etat.
 - [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -4779,7 +4783,7 @@
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts directly from Git repositories
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [aumouvantsillage/TablaZinc](https://github.com/aumouvantsillage/TablaZinc) - Generate guitar tablatures using a constraint solver
-- [nginx-proxy/docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - Automated ACME SSL certificate generation for nginx-proxy
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [pexip/pi-player](https://github.com/pexip/pi-player) - Fullscreen Video Player for Raspberry Pi
@@ -4911,6 +4915,7 @@
 
 ## TypeScript 
 
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
