@@ -456,6 +456,7 @@
 
 ## Go 
 
+- [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
@@ -3455,7 +3456,7 @@
 - [node-js-libs/chain.js](https://github.com/node-js-libs/chain.js) - 
 - [cubiq/add-to-homescreen](https://github.com/cubiq/add-to-homescreen) - Add to home screen call-out for mobile devices
 - [madrobby/dom-monster](https://github.com/madrobby/dom-monster) - 
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 - [revolunet/Ext.ux.AwesomeCombo](https://github.com/revolunet/Ext.ux.AwesomeCombo) - combobox awesomeness
