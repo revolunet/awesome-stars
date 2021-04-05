@@ -528,7 +528,7 @@
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [tommy351/layercake](https://github.com/tommy351/layercake) - A command line tool for building complex Docker images.
 - [knative/client](https://github.com/knative/client) - Knative developer experience, docs, reference Knative CLI implementation
-- [tommy351/pullup](https://github.com/tommy351/pullup) - Deploy pull requests on a Kubernetes cluster before merged.
+- [tommy351/pullup](https://github.com/tommy351/pullup) - Update Kubernetes resources by webhooks.
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
@@ -3706,7 +3706,6 @@
 ## Others 
 
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
-- [fivedots/storage-foundation-api-explainer](https://github.com/fivedots/storage-foundation-api-explainer) - Explainer showcasing a new web storage API, NativeIO
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh) - ZSH is awesome, here's why...
 - [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
@@ -4107,6 +4106,8 @@
 
 ## Python 
 
+- [IV2FI/DrawBot](https://github.com/IV2FI/DrawBot) - DrawBot lets you draw images taken from the internet on Skribbl.io, Gartic Phone and Paint
+- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
 - [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
@@ -4749,6 +4750,7 @@
 
 ## Shell 
 
+- [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [jhassine/server-ip-addresses](https://github.com/jhassine/server-ip-addresses) - Daily updated list of IP addresses / CIDR blocks used by data centers, cloud service providers, servers, etc.
@@ -5111,7 +5113,7 @@
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
-- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [gajus/roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
