@@ -913,7 +913,7 @@
 - [laem/futureco-data](https://github.com/laem/futureco-data) - Les modèles de calcul de futur.eco
 - [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) - We are a small group of friendly humans working on an open source project to make informal video calls more fun and dynamic.
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [dataesr/react-rfds](https://github.com/dataesr/react-rfds) - 
+- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - 
 - [vasturiano/aframe-forcegraph-component](https://github.com/vasturiano/aframe-forcegraph-component) - Force-directed graph component for A-Frame
 - [rwieruch/purchasing-power-parity](https://github.com/rwieruch/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -1927,7 +1927,7 @@
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [ilkkao/capture-video-frame](https://github.com/ilkkao/capture-video-frame) - Take screenshots from a &lt;video&gt; element
 - [choojs/nanotask](https://github.com/choojs/nanotask) - Microtask queue scheduler for the browser
-- [google/audion](https://github.com/google/audion) - Audion (Web Audio Inspector) is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time and lets users inspect nodes.
+- [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion (Web Audio Inspector) is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time and lets users inspect nodes.
 - [PlasmaPower/phash-image](https://github.com/PlasmaPower/phash-image) - phash for images
 - [artheus/media-file-probe](https://github.com/artheus/media-file-probe) - node module using ffprobe to get metadata
 - [philbot9/youtube-info](https://github.com/philbot9/youtube-info) - Fetch meta information about YouTube videos
@@ -3720,7 +3720,7 @@
 - [voxpelli/types-in-js](https://github.com/voxpelli/types-in-js) - Tips and tricks for working with types in JavaScript
 - [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh) - ZSH is awesome, here's why...
 - [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
-- [bzg/suivi-recommandations-bothorel](https://github.com/bzg/suivi-recommandations-bothorel) - Dépôt pour suivre la mise en oeuvre des recommandations du rapport Bothorel
+- [ebothorel/suivi-politique-publique-de-la-donnee](https://github.com/ebothorel/suivi-politique-publique-de-la-donnee) - Dépôt pour suivre la mise en oeuvre des recommandations du rapport Bothorel
 - [CityOfBoston/analytics_docs](https://github.com/CityOfBoston/analytics_docs) - The official documentation of the City of Boston's Analytics Team.
 - [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
 - [projectdiscovery/nuclei-action](https://github.com/projectdiscovery/nuclei-action) - Dynamic Application Security Testing (DAST) with Nuclei
