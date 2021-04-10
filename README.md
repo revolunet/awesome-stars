@@ -1667,7 +1667,7 @@
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators
 - [Iwasawafag/node-potrace](https://github.com/Iwasawafag/node-potrace) - JavaScript port of Potrace, for NodeJS
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
-- [npmgraph/npmgraph.github.io](https://github.com/npmgraph/npmgraph.github.io) - 
+- [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
 - [willsoto/validate-commit](https://github.com/willsoto/validate-commit) - Validate commit messages
 - [devoxx4kids/materials](https://github.com/devoxx4kids/materials) - Devoxx4Kids Workshop Materials
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
@@ -1761,6 +1761,7 @@
 - [wotjs/browserify-johnny-five](https://github.com/wotjs/browserify-johnny-five) - Build Johnny Five as a browserify module.
 - [Jam3/360-image-viewer](https://github.com/Jam3/360-image-viewer) - A standalone panorama viewer with WebGL
 - [styleguidist/snapguidist](https://github.com/styleguidist/snapguidist) - Snapshot testing for React Styleguidist
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [MadDogTechnology/postrestql](https://github.com/MadDogTechnology/postrestql) - Create RESTful web services from a PostgreSQL database
 - [threepointone/markdown-in-js](https://github.com/threepointone/markdown-in-js) - inline markdown for react/jsx
 - [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
@@ -4695,7 +4696,6 @@
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [codebar/mentoring.io](https://github.com/codebar/mentoring.io) - An online community where mentors can share their skills and provide guidance to new developers.
 - [openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [covoiturage-libre/covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - UNMAINTAINED
 - [bamlab/fastlane-plugin-cordova](https://github.com/bamlab/fastlane-plugin-cordova) - Integrate your Cordova build into your Fastlane setup
 - [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
