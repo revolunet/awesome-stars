@@ -664,9 +664,9 @@
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [chris-short/kubernetesreadme.com](https://github.com/chris-short/kubernetesreadme.com) - What to read to get up to speed with Kubernetes
+- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [VegaDeftwing/opinionatedguide](https://github.com/VegaDeftwing/opinionatedguide) - See OpGuidesHugoSRC repo to Contrubitue---A collection of educational un-textbooked, actually digestible pages on various topics. Links to various better sources as a modern educational source should. Make learning open source!
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
-- [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
 - [18F/ux-guide](https://github.com/18F/ux-guide) - Resources, norms, and practices for doing user experience research and design work at 18F.
 - [govmeeting/govmeeting](https://github.com/govmeeting/govmeeting) - Software to increase citizen involvement in democracy at the local level
@@ -3549,6 +3549,7 @@
 
 ## Jinja 
 
+- [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Jsonnet 
@@ -3564,7 +3565,6 @@
 
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
-- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
 - [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [etalab/calculette-impots-exemples](https://github.com/etalab/calculette-impots-exemples) - Exemples d'utilisations de la calculatrice de l'impôt sur le revenu
