@@ -718,7 +718,6 @@
 - [betagouv/beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr) - Le site public de l'Incubateur de Services Numériques de l'État
 - [wiredjs/designer](https://github.com/wiredjs/designer) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
 - [maciakl/MarkdownJournal](https://github.com/maciakl/MarkdownJournal) - Plain text journaling with Markdown and Dropbox on the Sinatra platform.
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [supnate/rekit-portal](https://github.com/supnate/rekit-portal) - Web UI for managing a Rekit project.
 - [fourkitchens/annotated-vr-tour](https://github.com/fourkitchens/annotated-vr-tour) - 🕶✨ A React VR + JSON API powered annotated tour frontend
 - [legalese/legalese.github.io](https://github.com/legalese/legalese.github.io) - Static assets for legalese.com
@@ -3551,6 +3550,7 @@
 
 - [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Jsonnet 
 
@@ -4753,7 +4753,6 @@
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
 
 ## SCSS 
@@ -5328,6 +5327,7 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 ## XSLT 
 
