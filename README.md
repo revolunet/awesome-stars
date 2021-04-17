@@ -226,7 +226,7 @@
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
 - [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) - Node bindings for YOLO/Darknet image recognition library
-- [facebookresearch/wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality) - :gem: "Marker-less Augmented Reality" with OpenCV and OpenGL.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -754,6 +754,7 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
 - [tc39/proposal-async-await](https://github.com/tc39/proposal-async-await) - Async/await for ECMAScript
@@ -989,7 +990,7 @@
 - [mikeal/dkv](https://github.com/mikeal/dkv) - Decentralized key-value store running on IPFS
 - [playerxo/playerx](https://github.com/playerxo/playerx) - Media Player Web Component - Uniform Player API - Video QoE benchmark - Supports raw media files, HLS, Dash, Vimeo, YouTube, JW Player, Wistia, SoundCloud, Twitch, Dailymotion, Facebook, Vidyard, Brightcove, Streamable.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
-- [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools.
+- [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [aravind-kr/Telegram-Math-Bot](https://github.com/aravind-kr/Telegram-Math-Bot) - 
 - [ritz078/react-fuzzy-search](https://github.com/ritz078/react-fuzzy-search) - 📜   A fuzzy search component written in React
 - [easylogic/codemirror-colorpicker](https://github.com/easylogic/codemirror-colorpicker) - colorpicker  with codemirror
@@ -1928,7 +1929,6 @@
 - [Raathigesh/dazzle](https://github.com/Raathigesh/dazzle) - :rocket: Dashboards made easy in React JS.
 - [start-react/sb-admin-react](https://github.com/start-react/sb-admin-react) - Starter theme for React JS Dashboard Apps
 - [verma/plasio](https://github.com/verma/plasio) - Drag-n-drop In-browser LAS/LAZ point cloud viewer. http://plas.io
-- [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [ssbc/epidemic-broadcast-trees](https://github.com/ssbc/epidemic-broadcast-trees) - bandwidth efficient broadcast gossip
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [ilkkao/capture-video-frame](https://github.com/ilkkao/capture-video-frame) - Take screenshots from a &lt;video&gt; element
@@ -2811,7 +2811,6 @@
 - [samsonjs/strftime](https://github.com/samsonjs/strftime) - strftime for JavaScript
 - [acdlite/redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
 - [markmarijnissen/cordova-app-loader](https://github.com/markmarijnissen/cordova-app-loader) - Remote update your Cordova app
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [reactjs/react-art](https://github.com/reactjs/react-art) - React Bridge to the ART Drawing Library
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
@@ -5224,6 +5223,7 @@
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
+- [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [handsontable/react-handsontable](https://github.com/handsontable/react-handsontable) - React Data Grid with Spreadsheet Look & Feel. Official React wrapper for Handsontable.
 - [mikehadlow/gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
