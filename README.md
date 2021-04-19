@@ -665,7 +665,7 @@
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [chris-short/kubernetesreadme.com](https://github.com/chris-short/kubernetesreadme.com) - What to read to get up to speed with Kubernetes
-- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
+- [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
 - [VegaDeftwing/opinionatedguide](https://github.com/VegaDeftwing/opinionatedguide) - See OpGuidesHugoSRC repo to Contrubitue---A collection of educational un-textbooked, actually digestible pages on various topics. Links to various better sources as a modern educational source should. Make learning open source!
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
@@ -700,7 +700,6 @@
 - [kemar/html-elements](https://github.com/kemar/html-elements) - How various CSS frameworks style bare HTML elements.
 - [sourcey/spectacle](https://github.com/sourcey/spectacle) - Beautiful static documentation generator for OpenAPI/Swagger 2.0
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - The Definitive Guide to Elasticsearch
 - [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to OKD (Origin Community Distribution of Kubernetes) with Ansible
 - [MattiSG/decider-mes-impots](https://github.com/MattiSG/decider-mes-impots) - Une application web pour orienter le type d'actions que je souhaite que mes impôts financent.
@@ -891,6 +890,7 @@
 
 ## JavaScript 
 
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [MTES-MCT/updownio-action](https://github.com/MTES-MCT/updownio-action) - Fetch updown.io checks from API and report results as JSON.
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files via IPFS
@@ -1686,7 +1686,7 @@
 - [mafintosh/mkcontainer](https://github.com/mafintosh/mkcontainer) - Lightweight container builder for Linux backed by make and systemd-nspawn
 - [hemanth/cors-now](https://github.com/hemanth/cors-now) - reverse proxy with CORS headers.
 - [nitin42/React-Web-AR](https://github.com/nitin42/React-Web-AR) - 🕶️ Augmented Reality on web with React
-- [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [gilyes/docker-nginx-letsencrypt-sample](https://github.com/gilyes/docker-nginx-letsencrypt-sample) - Dockerized Nginx + Let's Encrypt sample
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [calvinmetcalf/crypto-pouch](https://github.com/calvinmetcalf/crypto-pouch) - plugin for encrypted pouchdb/couchdb databases
@@ -2236,7 +2236,6 @@
 - [benelsen/enigma](https://github.com/benelsen/enigma) - (Mechanical) implementation of an enigma machine
 - [cjb/serverless-webrtc](https://github.com/cjb/serverless-webrtc) - A demo of using WebRTC with no signaling server.
 - [transcranial/keras-js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support using WebGL
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [davidkpiano/RxCSS](https://github.com/davidkpiano/RxCSS) - 
 - [500tech/mimic](https://github.com/500tech/mimic) - Seamless client side mocking
 - [vadimdemedes/google-images](https://github.com/vadimdemedes/google-images) - Search for images using Google Images
@@ -3852,7 +3851,6 @@
 - [vercel/now-examples](https://github.com/vercel/now-examples) - Old examples of Vercel projects you can deploy yourself
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [jmreicha/awesome-rancher](https://github.com/jmreicha/awesome-rancher) - Curated list of Rancher resources
-- [AKSHAYUBHAT/DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) - A distributed visual search and visual data analytics platform.
 - [fendouai/Awesome-Text-Classification](https://github.com/fendouai/Awesome-Text-Classification) - Awesome-Text-Classification Projects,Papers,Tutorial .
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
@@ -4130,6 +4128,7 @@
 
 ## Python 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [IV2FI/DrawBot](https://github.com/IV2FI/DrawBot) - DrawBot lets you draw images taken from the internet on Skribbl.io, Gartic Phone and Paint
@@ -4851,6 +4850,7 @@
 - [deepeeess/PiShrink](https://github.com/deepeeess/PiShrink) - Make your pi images smaller!
 - [bsycorp/kind](https://github.com/bsycorp/kind) - Kubernetes-in-Docker - A single node cluster to run your CI tests against thats ready in 30 seconds
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [ruphy/publiccode.yml](https://github.com/ruphy/publiccode.yml) - A metadata description standard for public software and policy repositories
 - [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script) - Test and demo repo for a script to deploy ghpages on a successful CircleCI build
@@ -5253,6 +5253,7 @@
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [piotrwitek/jspm-hmr](https://github.com/piotrwitek/jspm-hmr) - NodeJS Dev-Server with Hot-Reload for JSPM / SystemJS Loader
