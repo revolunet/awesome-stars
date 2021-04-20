@@ -267,6 +267,7 @@
 
 ## CSS 
 
+- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - 
 - [etalab/tchatcha](https://github.com/etalab/tchatcha) - Captchacha: solution de vérification de formulaire
 - [LINCnil/CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
@@ -905,7 +906,6 @@
 - [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
 - [ndimatteo/HULL](https://github.com/ndimatteo/HULL) - 💀 Headless Shopify Starter – powered by Next.js + Sanity.io
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
-- [reneschoonrok/Kubernetes-3d-visualizer](https://github.com/reneschoonrok/Kubernetes-3d-visualizer) - Interact with your kubernetes cluster rendered in 3d using threejs and css3d
 - [styfle/tls-check](https://github.com/styfle/tls-check) - ✅ Check the TLS protocol support of one or more web servers
 - [nav-een/get-domain-certificate](https://github.com/nav-een/get-domain-certificate) - Simple module to get a website's SSL certificate from domain name
 - [GitSquared/node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 databases as an npm lib
@@ -920,7 +920,6 @@
 - [laem/futureco-data](https://github.com/laem/futureco-data) - Les modèles de calcul de futur.eco
 - [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) - We are a small group of friendly humans working on an open source project to make informal video calls more fun and dynamic.
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - 
 - [vasturiano/aframe-forcegraph-component](https://github.com/vasturiano/aframe-forcegraph-component) - Force-directed graph component for A-Frame
 - [rwieruch/purchasing-power-parity](https://github.com/rwieruch/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -989,7 +988,7 @@
 - [msztolcman/sendria](https://github.com/msztolcman/sendria) - Sendria (formerly MailTrap) is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface instead of sending to real world.
 - [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same `fetch()` API browsers provide for HTTP, but for IPFS
 - [mikeal/dkv](https://github.com/mikeal/dkv) - Decentralized key-value store running on IPFS
-- [playerxo/playerx](https://github.com/playerxo/playerx) - Media Player Web Component - Uniform Player API - Video QoE benchmark - Supports raw media files, HLS, Dash, Vimeo, YouTube, JW Player, Wistia, SoundCloud, Twitch, Dailymotion, Facebook, Vidyard, Brightcove, Streamable.
+- [playerxo/playerx](https://github.com/playerxo/playerx) - Media Player Web Component - Uniform Player API - Video QoE benchmark - Supports raw media files, HLS, Dash, Vimeo, YouTube, JW Player, Wistia, SoundCloud, Twitch, Dailymotion, Facebook, Vidyard, Brightcove, Streamable, api.video.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [aravind-kr/Telegram-Math-Bot](https://github.com/aravind-kr/Telegram-Math-Bot) - 
@@ -1686,7 +1685,6 @@
 - [mafintosh/mkcontainer](https://github.com/mafintosh/mkcontainer) - Lightweight container builder for Linux backed by make and systemd-nspawn
 - [hemanth/cors-now](https://github.com/hemanth/cors-now) - reverse proxy with CORS headers.
 - [nitin42/React-Web-AR](https://github.com/nitin42/React-Web-AR) - 🕶️ Augmented Reality on web with React
-- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [gilyes/docker-nginx-letsencrypt-sample](https://github.com/gilyes/docker-nginx-letsencrypt-sample) - Dockerized Nginx + Let's Encrypt sample
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [calvinmetcalf/crypto-pouch](https://github.com/calvinmetcalf/crypto-pouch) - plugin for encrypted pouchdb/couchdb databases
@@ -1925,7 +1923,7 @@
 - [beyondscreen/fivetwelve](https://github.com/beyondscreen/fivetwelve) - dmx512 lighting-control library
 - [madjam002/specular](https://github.com/madjam002/specular) - Build lightshows with React
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [alabeduarte/feedparser-promised](https://github.com/alabeduarte/feedparser-promised) - Wrapper around feedparser with promises
+- [alabeduarte/feedparser-promised](https://github.com/alabeduarte/feedparser-promised) - [DEPRECATED] Wrapper around feedparser with promises
 - [glowbox/maptasticjs](https://github.com/glowbox/maptasticjs) - Javascript/CSS projection mapping utility
 - [philholden/song-display](https://github.com/philholden/song-display) - Display song lyrics on a canvas such that text is as large as possible
 - [Raathigesh/dazzle](https://github.com/Raathigesh/dazzle) - :rocket: Dashboards made easy in React JS.
@@ -3587,7 +3585,7 @@
 - [hundredblocks/concrete_NLP_tutorial](https://github.com/hundredblocks/concrete_NLP_tutorial) - An NLP workshop about concrete solutions to real problems
 - [tchambon/deepfrench](https://github.com/tchambon/deepfrench) - NLP French language model implementing ULMFiT
 - [MAIF/melusine](https://github.com/MAIF/melusine) - Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français".
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [eisenjulian/nlp_estimator_tutorial](https://github.com/eisenjulian/nlp_estimator_tutorial) - Educational material on using the TensorFlow Estimator framework for text classification
 - [WillKoehrsen/automated-feature-engineering](https://github.com/WillKoehrsen/automated-feature-engineering) - Automated feature engineering in Python with Featuretools
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
@@ -3959,7 +3957,6 @@
 - [btnwtn/awesome-guitar](https://github.com/btnwtn/awesome-guitar) - 🎸 A collection of awesome guitar resources.
 - [WebReflection/benja](https://github.com/WebReflection/benja) - Bootable Electron Node JS Application
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mbj36/awesome-service-workers](https://github.com/mbj36/awesome-service-workers) - A Collection of some awesome Service-Workers resources. Feel Free to contribute if u feel it's worth adding in this repository
 - [jas-chen/thisless-react](https://github.com/jas-chen/thisless-react) - Reactive React application flow with React, RxJS and Redux
 - [ouralien/raspberry-pi-chromium-kiosk-mode](https://github.com/ouralien/raspberry-pi-chromium-kiosk-mode) - Chromium 48 on Debian 8 (Jessie) in a kiosk mode.
@@ -4886,6 +4883,7 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [c0b/chrome-in-docker](https://github.com/c0b/chrome-in-docker) - run Google Chrome in container (as a perfect headless browser)
 - [DuckyTeam/heroku-buildpack-imagemagick](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) - 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [bahmutov/secure-dokku](https://github.com/bahmutov/secure-dokku) - A single Bash script to run on fresh Dokku install that sets Nginx to be secure (gets A on SSLabs)
 - [mbriskar/dokku-wkhtmltopdf](https://github.com/mbriskar/dokku-wkhtmltopdf) - Installs the wkhtmltopdf in the dokku-managed docker container
 - [nickstenning/dokku-webhooks](https://github.com/nickstenning/dokku-webhooks) - A dokku plugin for triggering external webhooks.
@@ -5191,6 +5189,7 @@
 - [kriasoft/graphql-starter](https://github.com/kriasoft/graphql-starter) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [staltz/dat-installer](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
