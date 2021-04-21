@@ -441,6 +441,7 @@
 
 ## Elixir 
 
+- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [open-peer-network/open-peer-network](https://github.com/open-peer-network/open-peer-network) - P2P decentralized application platform. https://sites.google.com/view/open-peer-network/home
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
@@ -891,6 +892,7 @@
 
 ## JavaScript 
 
+- [SocketDev/wormhole-crypto](https://github.com/SocketDev/wormhole-crypto) - Streaming encryption for Wormhole.app, based on Encrypted Content-Encoding for HTTP (RFC 8188)
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [MTES-MCT/updownio-action](https://github.com/MTES-MCT/updownio-action) - Fetch updown.io checks from API and report results as JSON.
@@ -1340,7 +1342,7 @@
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [tomdreamer/hptime-backend-express](https://github.com/tomdreamer/hptime-backend-express) - Mongo powered backend: CRUD requests, sorting data according to user location. https://medirect.herokuapp.com/
 - [Freeboard/thingproxy](https://github.com/Freeboard/thingproxy) - A simple forward proxy server for processing API calls to servers that don't send CORS headers or support HTTPS.
-- [mertenats/NodeMCU-and-JavaScript](https://github.com/mertenats/NodeMCU-and-JavaScript) - Programming NodeMCU boards with Espruino (JavaScript)
+- [smrtnt/NodeMCU-and-JavaScript](https://github.com/smrtnt/NodeMCU-and-JavaScript) - Programming NodeMCU boards with Espruino (JavaScript)
 - [getsentry/sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Official webpack plugin for Sentry https://sentry.io
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [leebyron/react-loops](https://github.com/leebyron/react-loops) - React Loops works with React Hooks as part of the React Velcro Architecture
@@ -4942,6 +4944,10 @@
 
 ## TypeScript 
 
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
+- [simonireilly/observatory-github-action](https://github.com/simonireilly/observatory-github-action) - Run https://observatory.mozilla.org/ against pull requests and preview URLs
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [opengovsg/formsg-javascript-sdk](https://github.com/opengovsg/formsg-javascript-sdk) - JavaScript SDK for integrating with FormSG
 - [ceramicstudio/js-idx](https://github.com/ceramicstudio/js-idx) - JavaScript SDK for managing decentralized identities and building apps with interoperable data.
