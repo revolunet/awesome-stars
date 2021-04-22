@@ -1011,7 +1011,7 @@
 - [accordproject/markdown-transform](https://github.com/accordproject/markdown-transform) - Library for Markdown Transformations and Markdown Templates
 - [orbitdb/orbit-db-powergate-io](https://github.com/orbitdb/orbit-db-powergate-io) - A bridge between OrbitDB and Powergate, which is itself a bridge between Filecoin and IPFS.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
-- [vasanthv/talk](https://github.com/vasanthv/talk) - A group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [msztolcman/mailtrap](https://github.com/msztolcman/mailtrap) - MailTrap has been renamed to Sendria. Please use Sendria now, MailTrap is abandoned. MailTrap is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface instead of sending to real world.
 - [lbryio/spee.ch](https://github.com/lbryio/spee.ch) - An image hosting service on top of the LBRY protocol.
@@ -4944,6 +4944,7 @@
 
 ## TypeScript 
 
+- [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
