@@ -1541,7 +1541,7 @@
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
-- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch
+- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue: powered by appbase.io / Elasticsearch
 - [xodio/xod](https://github.com/xodio/xod) - XOD IDE
 - [NuCivic/react-nvd3](https://github.com/NuCivic/react-nvd3) - React component for NVD3 re-usable charting library
 - [bcbcarl/react-c3js](https://github.com/bcbcarl/react-c3js) - React component for C3.js
