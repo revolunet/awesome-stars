@@ -4768,6 +4768,7 @@
 
 ## Scala 
 
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [samueltardieu/AusweisBot](https://github.com/samueltardieu/AusweisBot) - Telegram bot to generate self-authorizations for moving around during covid-19 pandemic in France
 - [apache/attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
@@ -4946,6 +4947,8 @@
 
 ## TypeScript 
 
+- [codecoolture/next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi
+- [jagaapple/next-secure-headers](https://github.com/jagaapple/next-secure-headers) - Sets secure response headers for Next.js.
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
