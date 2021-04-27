@@ -188,6 +188,7 @@
 
 ## C++ 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
@@ -3119,7 +3120,7 @@
 - [disintegrator/grunt-juice-email](https://github.com/disintegrator/grunt-juice-email) - Inline stylesheets into email HTML templates using LearnBoost's Juice
 - [thrashr888/grunt-sftp-deploy](https://github.com/thrashr888/grunt-sftp-deploy) - Grunt task for code deployment over sftp
 - [avernois/devfriendlyplaces](https://github.com/avernois/devfriendlyplaces) - Note: devfriendlyplaces has moved to an organisation. Code and data can be found at https://github.com/devfriendlyplaces
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
 - [1000ch/grunt-image](https://github.com/1000ch/grunt-image) - Optimize PNG, JPEG, GIF, SVG images with grunt task.
 - [scottjehl/iOS-Orientationchange-Fix](https://github.com/scottjehl/iOS-Orientationchange-Fix) - A fix for the iOS orientationchange zoom bug.
 - [angular/ngSocket](https://github.com/angular/ngSocket) - WebSocket support for angular
@@ -4128,6 +4129,7 @@
 
 ## Python 
 
+- [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -4252,7 +4254,7 @@
 - [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [Kinto/kinto-elasticsearch](https://github.com/Kinto/kinto-elasticsearch) - Index and query Kinto records via ElasticSearch
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner.
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioners.
 - [Kinto/kinto-attachment](https://github.com/Kinto/kinto-attachment) - Attach files to Kinto records
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [openai/deeptype](https://github.com/openai/deeptype) - Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
