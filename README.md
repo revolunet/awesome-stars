@@ -297,7 +297,6 @@
 - [elefevre/opendatadiversite](https://github.com/elefevre/opendatadiversite) - 
 - [fnky/css3-uiswitch](https://github.com/fnky/css3-uiswitch) - A pretty sweet and pure CSS3 iOS 7 UISwitch
 - [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
-- [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [fullstackreact/react-daily-ui](https://github.com/fullstackreact/react-daily-ui) - 100 Days of React UI Interfaces - https://codepen.io/collection/DoLZRm/4/
 - [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
@@ -749,7 +748,6 @@
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [asciimike/flaming-specs](https://github.com/asciimike/flaming-specs) - Firebase Storage + Google Cloud Vision API
 - [superlogout/superlogout.github.io](https://github.com/superlogout/superlogout.github.io) - Most likely the most secured page in the world
-- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [bahmutov/draw-cycle](https://github.com/bahmutov/draw-cycle) - Simple Cycle.js application visualized: streams, events, DOM
 - [apache/cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) - Apache Cordova
 - [e-books/backbone.en.douceur](https://github.com/e-books/backbone.en.douceur) - le gros tuto pour apprendre Backbone.js
@@ -893,6 +891,7 @@
 
 ## JavaScript 
 
+- [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 - [VictorCazanave/svg-maps](https://github.com/VictorCazanave/svg-maps) - :earth_africa: A set of SVG maps
 - [SocketDev/wormhole-crypto](https://github.com/SocketDev/wormhole-crypto) - Streaming encryption for Wormhole.app, based on Encrypted Content-Encoding for HTTP (RFC 8188)
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
@@ -2501,6 +2500,7 @@
 - [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
 - [stackgl/headless-gl](https://github.com/stackgl/headless-gl) - 🎃 Windowless WebGL for node.js
 - [GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
+- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
@@ -4760,6 +4760,7 @@
 
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [codebar/manual](https://github.com/codebar/manual) - 📖 The manual
+- [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
