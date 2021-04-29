@@ -360,7 +360,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [Delegation-numerique-en-sante/covid19-algorithme-orientation](https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation) - Documentation de l'algorithme d'orientation COVID19
 - [uncomplicate/deep-diamond](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
-- [etalab/choices](https://github.com/etalab/choices) - 🧢 Build SPAs to let users answer questions from a decision tree
+- [bzg/choices](https://github.com/bzg/choices) - 🧢 Build SPAs to let users answer questions from a decision tree
 - [denisidoro/floki](https://github.com/denisidoro/floki) - A JSON/EDN browser for the terminal
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -462,6 +462,7 @@
 
 ## Go 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -1538,7 +1539,7 @@
 - [nkbt/react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height
 - [voronianski/react-star-rating-component](https://github.com/voronianski/react-star-rating-component) - Basic React component for star (or any other icon based) rating elements
 - [NdYAG/react-rater](https://github.com/NdYAG/react-rater) - ⭐️ Interative & customizable star rater
-- [jonschlinkert/set-value](https://github.com/jonschlinkert/set-value) - Set nested values on an object using dot-notation, like 'a.b.c'.
+- [jonschlinkert/set-value](https://github.com/jonschlinkert/set-value) - Set nested properties on an object using dot-notation.
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -1762,7 +1763,6 @@
 - [SpectivOfficial/live-tour-lab](https://github.com/SpectivOfficial/live-tour-lab) - :heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
 - [mboperator/sublime-react-es6](https://github.com/mboperator/sublime-react-es6) - ES6 based Sublime Text snippets for React.
 - [FGRibreau/node-language-detect](https://github.com/FGRibreau/node-language-detect) - 🇫🇷 NodeJS language detection library using n-gram
-- [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [wotjs/browserify-johnny-five](https://github.com/wotjs/browserify-johnny-five) - Build Johnny Five as a browserify module.
 - [Jam3/360-image-viewer](https://github.com/Jam3/360-image-viewer) - A standalone panorama viewer with WebGL
 - [styleguidist/snapguidist](https://github.com/styleguidist/snapguidist) - Snapshot testing for React Styleguidist
@@ -4741,7 +4741,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust.
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
-- [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - 🦜 Conversational Standard Meta Language
+- [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - Support us on Product Hunt!
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [Holo-Host/holo-router](https://github.com/Holo-Host/holo-router) - Holo routing infrastructure
 - [willemolding/holochain-collections](https://github.com/willemolding/holochain-collections) - A Rust crate to be used in Holochain DNAs to deal with collections of entries
@@ -5217,6 +5217,7 @@
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
+- [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [chrisguttandin/web-audio-conference-2017](https://github.com/chrisguttandin/web-audio-conference-2017) - My talk at the Web Audio Conference 2017.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
