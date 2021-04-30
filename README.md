@@ -3724,6 +3724,7 @@
 
 ## Others 
 
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - a metadata standard for public software
 - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.
 - [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) - A list of awesome projects built on Ceramic
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
@@ -4258,7 +4259,7 @@
 - [Kinto/kinto-attachment](https://github.com/Kinto/kinto-attachment) - Attach files to Kinto records
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [openai/deeptype](https://github.com/openai/deeptype) - Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
-- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything you'll need to know about web-application firewalls (WAF).
+- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF).
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [etalab/data-codes-sources-fr](https://github.com/etalab/data-codes-sources-fr) - Métadonnées des dépôts de code d'organismes publics en France
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -4950,6 +4951,7 @@
 
 ## TypeScript 
 
+- [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [codecoolture/next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi
 - [jagaapple/next-secure-headers](https://github.com/jagaapple/next-secure-headers) - Sets secure response headers for Next.js.
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
