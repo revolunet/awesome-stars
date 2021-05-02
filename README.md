@@ -892,6 +892,7 @@
 
 ## JavaScript 
 
+- [webscopeio/react-textarea-autocomplete](https://github.com/webscopeio/react-textarea-autocomplete) - 📝 React component implements configurable GitHub's like textarea autocomplete.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 - [VictorCazanave/svg-maps](https://github.com/VictorCazanave/svg-maps) - :earth_africa: A set of SVG maps
@@ -2085,7 +2086,7 @@
 - [cloudflare/cf-ui](https://github.com/cloudflare/cf-ui) - :gem: Cloudflare UI Framework
 - [rakannimer/react-orchestra](https://github.com/rakannimer/react-orchestra) - A declarative toolbox to build interactive musical instruments on web and mobile.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
-- [nolanlawson/marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)
+- [nolanlawson/marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (488 bytes min+gz)
 - [revivek/oy](https://github.com/revivek/oy) - Render HTML emails on the server with React.
 - [chromakode/react-html-email](https://github.com/chromakode/react-html-email) - Create elegant HTML email templates using React.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -5162,7 +5163,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [wessberg/color](https://github.com/wessberg/color) - A library of well-tested helper methods for working with colors.
-- [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline wiki. Want to try it out? Create an account:
+- [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
 - [reakit/reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
