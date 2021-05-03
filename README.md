@@ -462,6 +462,7 @@
 
 ## Go 
 
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
@@ -3567,6 +3568,7 @@
 
 ## Jupyter Notebook 
 
+- [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021)
@@ -4134,7 +4136,6 @@
 
 - [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
-- [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [IV2FI/DrawBot](https://github.com/IV2FI/DrawBot) - DrawBot lets you draw images taken from the internet on Skribbl.io, Gartic Phone and Paint
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
@@ -4882,7 +4883,6 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [node-on-mobile/androidify](https://github.com/node-on-mobile/androidify) - 
 - [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential Emoji
-- [pirelenito/git-revision-webpack-plugin](https://github.com/pirelenito/git-revision-webpack-plugin) - 🏗 Webpack plugin that generates VERSION and COMMITHASH files during build
 - [geraldoramos/pigeon](https://github.com/geraldoramos/pigeon) - Pigeon is a simple 3D printed cloud home surveillance camera project that uses the new Raspberry Pi Zero W
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [openhab/openhabian](https://github.com/openhab/openhabian) - openHABian - empowering the smart home, for Raspberry Pi and Debian systems
@@ -4953,6 +4953,7 @@
 
 ## TypeScript 
 
+- [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [codecoolture/next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi
 - [jagaapple/next-secure-headers](https://github.com/jagaapple/next-secure-headers) - Sets secure response headers for Next.js.
@@ -5242,6 +5243,7 @@
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+- [pirelenito/git-revision-webpack-plugin](https://github.com/pirelenito/git-revision-webpack-plugin) - 🏗 Webpack plugin that generates VERSION and COMMITHASH files during build
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
