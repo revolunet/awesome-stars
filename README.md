@@ -893,6 +893,8 @@
 
 ## JavaScript 
 
+- [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
+- [MTES-MCT/dataroom](https://github.com/MTES-MCT/dataroom) - Inventaire des données détenues par le MTES & MCTCRT
 - [webscopeio/react-textarea-autocomplete](https://github.com/webscopeio/react-textarea-autocomplete) - 📝 React component implements configurable GitHub's like textarea autocomplete.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
@@ -1033,7 +1035,6 @@
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
-- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [mikeal/dagdb](https://github.com/mikeal/dagdb) - Syncable database built on IPLD
@@ -1245,6 +1246,7 @@
 - [hasura/json2graphql](https://github.com/hasura/json2graphql) - From a JSON file to postgres-backed realtime GraphQL
 - [smooth-code/knex-scripts](https://github.com/smooth-code/knex-scripts) - Knex utilities to interact with Postgres database 🗄
 - [fredericvergnaud/extractify](https://github.com/fredericvergnaud/extractify) - Extract structured data online
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [medfreeman/remark-generic-extensions](https://github.com/medfreeman/remark-generic-extensions) - !Extension[Content](Argument){Properties} -&gt; :tada: — commonmark generic directive extension for remark
 - [geut/discovery-swarm-webrtc](https://github.com/geut/discovery-swarm-webrtc) - discovery-swarm for WebRTC
 - [france-connect/identity-provider-example](https://github.com/france-connect/identity-provider-example) - An example of an Identity Provider for FranceConnect
@@ -1723,7 +1725,7 @@
 - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
 - [drichard/mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [Akryum/vue-summit-app](https://github.com/Akryum/vue-summit-app) - Example App: Vue + GraphQL + Apollo (Devfest Nantes 2017)
-- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac and Linux, connect with PuTTY on Windows
+- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [corihudson/crossorigin.me](https://github.com/corihudson/crossorigin.me) - A CORS proxy for everyone.
 - [github/accessibilityjs](https://github.com/github/accessibilityjs) - Client side accessibility error scanner.
 - [sidraval/MONDRIAN.js](https://github.com/sidraval/MONDRIAN.js) - 
@@ -4066,6 +4068,7 @@
 
 ## PHP 
 
+- [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [ujamii/prometheus-sentry-exporter](https://github.com/ujamii/prometheus-sentry-exporter) - Exports sentry project metrics for prometheus.
@@ -4133,6 +4136,7 @@
 
 ## Python 
 
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Sentence Embeddings with BERT & XLNet
 - [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -5033,6 +5037,7 @@
 - [dubzzz/jest-fast-check](https://github.com/dubzzz/jest-fast-check) - Property based testing for Jest based on fast-check
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [the-new-sky/Wisty.js](https://github.com/the-new-sky/Wisty.js) - 🧚‍♀️ Chatbot library turning conversations into actions, locally, in the browser.
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [4lejandrito/react-guitar](https://github.com/4lejandrito/react-guitar) - A beautiful and accessible guitar component for React. ⚛️ 🎸
@@ -5102,7 +5107,6 @@
 - [nhost/hasura-backend-plus](https://github.com/nhost/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
 - [RodolfoSilva/hasura-auth](https://github.com/RodolfoSilva/hasura-auth) - 🔐 Hasura Auth 🔐
 - [jjwtay/client-directives](https://github.com/jjwtay/client-directives) - GraphQL client directives for transforming data and inputs.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [stanlemon/react-couchdb-authentication](https://github.com/stanlemon/react-couchdb-authentication) - React component for authenticating against a CouchDB user db and syncing it locally with PouchDB.
 - [assurance-maladie-digital/design-system](https://github.com/assurance-maladie-digital/design-system) - 👾 A Design System for the French Health Insurance
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -5194,7 +5198,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
-- [prisma-labs/graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
 - [project-orion/orion](https://github.com/project-orion/orion) - 
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dequelabs/react-axe](https://github.com/dequelabs/react-axe) - [DEPRECATED] Accessibility auditing for React.js applications
