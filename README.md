@@ -5304,7 +5304,7 @@
 - [ionic-team/ionic-native](https://github.com/ionic-team/ionic-native) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. The successor to ngCordova. Pairs exquisitely with a nice bottle of Ionic Framework.
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
-- [video-dev/hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
