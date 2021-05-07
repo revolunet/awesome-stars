@@ -462,7 +462,7 @@
 
 ## Go 
 
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
@@ -669,7 +669,6 @@
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [chris-short/kubernetesreadme.com](https://github.com/chris-short/kubernetesreadme.com) - What to read to get up to speed with Kubernetes
-- [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
 - [VegaDeftwing/opinionatedguide](https://github.com/VegaDeftwing/opinionatedguide) - See OpGuidesHugoSRC repo to Contrubitue---A collection of educational un-textbooked, actually digestible pages on various topics. Links to various better sources as a modern educational source should. Make learning open source!
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
@@ -1104,6 +1103,7 @@
 - [wix-incubator/mjml-react](https://github.com/wix-incubator/mjml-react) - React component library to generate the HTML emails on the fly
 - [nihgwu/react-texty](https://github.com/nihgwu/react-texty) - A straight forward text component with tooltip support when it's truncated
 - [dappkit/aviondb-p2p-sync](https://github.com/dappkit/aviondb-p2p-sync) - A Todo App that can be synced p2p with multiple devices via QR Code
+- [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [shlemph/ipfsecret](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
 - [mrsaeeddev/react-covid-hooks](https://github.com/mrsaeeddev/react-covid-hooks) - 📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks
 - [wrannaman/IPFS-Demo](https://github.com/wrannaman/IPFS-Demo) - IPFS demo using IPFS, React, MobX, Material-UI
@@ -2888,7 +2888,6 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [borbit/react-mask-mixin](https://github.com/borbit/react-mask-mixin) - Input mask for text input http://borbit.github.io/react-mask-mixin/
 - [jsdir/react-ladda](https://github.com/jsdir/react-ladda) - React wrapper for Ladda buttons.
-- [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [voronianski/flux-comparison](https://github.com/voronianski/flux-comparison) - :pencil: Practical comparison of different Flux solutions
 - [jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles
 - [brianpeiris/Perambulate](https://github.com/brianpeiris/Perambulate) - Perambulate is a physics-based, VR construction game inspired by sodaplay.
@@ -3572,6 +3571,7 @@
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
+- [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
 - [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021)
 - [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [etalab/calculette-impots-exemples](https://github.com/etalab/calculette-impots-exemples) - Exemples d'utilisations de la calculatrice de l'impôt sur le revenu
@@ -4136,7 +4136,7 @@
 
 ## Python 
 
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Sentence Embeddings with BERT & XLNet
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -5065,7 +5065,6 @@
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [bluebill1049/little-state-machine](https://github.com/bluebill1049/little-state-machine) - 📠 React custom hook for persist state management
 - [dappkit/aviondb](https://github.com/dappkit/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
-- [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [egoist/docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [FireBlinkLTD/keycloak-security-gateway](https://github.com/FireBlinkLTD/keycloak-security-gateway) - Node.js based proxy service to secure applications and integrate with Keycloak SSO flow.
 - [file2html/file2html](https://github.com/file2html/file2html) - JS convertor of files to HTML and CSS code
@@ -5315,6 +5314,7 @@
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [wordpress-clients/hybrid](https://github.com/wordpress-clients/hybrid) - [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
+- [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
