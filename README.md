@@ -414,6 +414,7 @@
 
 ## Dockerfile 
 
+- [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
 - [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux
 - [djmaze/docker-caching-proxy](https://github.com/djmaze/docker-caching-proxy) - Caching proxy docker image
@@ -892,6 +893,8 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [babykarte/babykarte](https://github.com/babykarte/babykarte) - OpenStreetMap project showing relevant POIs and information for parents of infants and toddlers (0-3 years of age)
 - [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
 - [MTES-MCT/dataroom](https://github.com/MTES-MCT/dataroom) - Inventaire des données détenues par le MTES & MCTCRT
 - [webscopeio/react-textarea-autocomplete](https://github.com/webscopeio/react-textarea-autocomplete) - 📝 React component implements configurable GitHub's like textarea autocomplete.
@@ -1413,7 +1416,7 @@
 - [hipstersmoothie/next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Ivshti/linvodb3](https://github.com/Ivshti/linvodb3) - Persistent database for Node.js/NW.js/Electron with MongoDB/Mongoose-like features and interface on top of LevelUp
-- [MacroConnections/DIVE-frontend](https://github.com/MacroConnections/DIVE-frontend) - Codebase for DIVE SPA using React and Redux
+- [CenterForCollectiveLearning/DIVE-frontend](https://github.com/CenterForCollectiveLearning/DIVE-frontend) - Codebase for DIVE SPA using React and Redux
 - [bredele/date-resolve](https://github.com/bredele/date-resolve) - Resolve Numbers, Dates or Strings (RFC822 and ISO 861) into dates in milliseconds
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
@@ -1556,7 +1559,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [ajoslin/react-form-lifecycle](https://github.com/ajoslin/react-form-lifecycle) - Effortless forms, no payload. Render-prop wrapper for npm.im/form-lifecycle
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
-- [ggcode1/connect-session-knex](https://github.com/ggcode1/connect-session-knex) - A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
+- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
 - [voxpelli/node-connect-pg-simple](https://github.com/voxpelli/node-connect-pg-simple) - A simple, minimal PostgreSQL session store for Connect/Express
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
@@ -4281,7 +4284,7 @@
 - [Franck-Dernoncourt/NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
-- [MacroConnections/DIVE-backend](https://github.com/MacroConnections/DIVE-backend) - Codebase for DIVE backend (server, worker, and ORM)
+- [CenterForCollectiveLearning/DIVE-backend](https://github.com/CenterForCollectiveLearning/DIVE-backend) - Codebase for DIVE backend (server, worker, and ORM)
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [nok/sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
