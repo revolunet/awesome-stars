@@ -50,6 +50,7 @@
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
   - [Open Policy Agent](#open-policy-agent)
+  - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
@@ -3730,6 +3731,10 @@
 
 - [gbrindisi/dockerfile-security](https://github.com/gbrindisi/dockerfile-security) - A collection of OPA rules to statically analyze Dockerfiles to improve security
 
+## OpenSCAD 
+
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
+
 ## Others 
 
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
@@ -4299,7 +4304,6 @@
 - [kiwicom/crane](https://github.com/kiwicom/crane) - ⬆ A GitLab CI ready image to upgrade services in Rancher
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader) - A tool for batch loading data files (json, parquet, csv, tsv) into ElasticSearch
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [Anaphory/open20q](https://github.com/Anaphory/open20q) - Bayes network for Twenty-Questions, Identification Key and similar games/utilities
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode + Novation Launchpad + Raspberry Pi = a music instrument!
 - [betagouv/zam](https://github.com/betagouv/zam) - Alléger la charge de préparation par le gouvernement du débat parlementaire.
@@ -4960,6 +4964,7 @@
 
 ## TypeScript 
 
+- [UnlyEd/simple-logger](https://github.com/UnlyEd/simple-logger) - Simple universal and extra-light (1kB) logger for node/browser, with prefix, time and colours.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [codecoolture/next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi
