@@ -189,6 +189,7 @@
 
 ## C++ 
 
+- [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -1250,7 +1251,6 @@
 - [hasura/json2graphql](https://github.com/hasura/json2graphql) - From a JSON file to postgres-backed realtime GraphQL
 - [smooth-code/knex-scripts](https://github.com/smooth-code/knex-scripts) - Knex utilities to interact with Postgres database 🗄
 - [fredericvergnaud/extractify](https://github.com/fredericvergnaud/extractify) - Extract structured data online
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [medfreeman/remark-generic-extensions](https://github.com/medfreeman/remark-generic-extensions) - !Extension[Content](Argument){Properties} -&gt; :tada: — commonmark generic directive extension for remark
 - [geut/discovery-swarm-webrtc](https://github.com/geut/discovery-swarm-webrtc) - discovery-swarm for WebRTC
 - [france-connect/identity-provider-example](https://github.com/france-connect/identity-provider-example) - An example of an Identity Provider for FranceConnect
@@ -4145,6 +4145,7 @@
 
 ## Python 
 
+- [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -4316,7 +4317,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [SocialGouv/work-in-france-bo](https://github.com/SocialGouv/work-in-france-bo) - Back office de la plateforme de demande d’autorisations provisoires de travail.
 - [chrismattmann/tika-python](https://github.com/chrismattmann/tika-python) - Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.
-- [EdjoLabs/image-match](https://github.com/EdjoLabs/image-match) - 🎇 Quickly search over billions of images
+- [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [regardscitoyens/the-law-factory-parser](https://github.com/regardscitoyens/the-law-factory-parser) - Data generator for the-law-factory project
 - [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
@@ -5115,6 +5116,7 @@
 - [nhost/hasura-backend-plus](https://github.com/nhost/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
 - [RodolfoSilva/hasura-auth](https://github.com/RodolfoSilva/hasura-auth) - 🔐 Hasura Auth 🔐
 - [jjwtay/client-directives](https://github.com/jjwtay/client-directives) - GraphQL client directives for transforming data and inputs.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [stanlemon/react-couchdb-authentication](https://github.com/stanlemon/react-couchdb-authentication) - React component for authenticating against a CouchDB user db and syncing it locally with PouchDB.
 - [assurance-maladie-digital/design-system](https://github.com/assurance-maladie-digital/design-system) - 👾 A Design System for the French Health Insurance
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
