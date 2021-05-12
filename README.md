@@ -189,6 +189,7 @@
 
 ## C++ 
 
+- [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
@@ -895,6 +896,8 @@
 
 ## JavaScript 
 
+- [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
+- [emnbdx/annuaire-sante-as-api](https://github.com/emnbdx/annuaire-sante-as-api) - Import data from https://annuaire.sante.fr/ to mysql database and provide api to query data
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [babykarte/babykarte](https://github.com/babykarte/babykarte) - OpenStreetMap project showing relevant POIs and information for parents of infants and toddlers (0-3 years of age)
 - [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
@@ -1203,7 +1206,7 @@
 - [SocialGouv/monitorer](https://github.com/SocialGouv/monitorer) - A highly customizable deploy-in-one-click application to monitor your web services uptime and latency.
 - [hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard - Customizable, responsive and lightweight
 - [hodgef/simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard - Customizable, responsive and lightweight
-- [yjs/yjs](https://github.com/yjs/yjs) - Peer-to-peer shared types
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
 - [SocialGouv/www](https://github.com/SocialGouv/www) - Site de la fabrique numérique des Ministères sociaux
 - [dappuniversity/social-network](https://github.com/dappuniversity/social-network) - Blockchain social network powered by Ethereum smart contracts
@@ -4145,6 +4148,7 @@
 
 ## Python 
 
+- [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [huggingface/autonlp](https://github.com/huggingface/autonlp) - 🤗 AutoNLP: train state-of-the-art natural language processing models and deploy them in a scalable environment automatically
