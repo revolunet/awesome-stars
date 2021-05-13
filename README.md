@@ -3803,7 +3803,7 @@
 - [param087/Pytorch-tutorial-on-Google-colab](https://github.com/param087/Pytorch-tutorial-on-Google-colab) - PyTorch Tutorial on google colaboratory.
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [lionelB/hasura-backend-plus](https://github.com/lionelB/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
-- [noffle/p2p-faq](https://github.com/noffle/p2p-faq) - :question: Commonly asked questions about peer-to-peer networks & programs.
+- [hackergrrl/p2p-faq](https://github.com/hackergrrl/p2p-faq) - :question: Commonly asked questions about peer-to-peer networks & programs.
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider
 - [CSML-by-Clevy/covidbot-autodiagnostic](https://github.com/CSML-by-Clevy/covidbot-autodiagnostic) - Chatbot d'auto diagnostic basé sur l'algorithme élaboré en lien avec l’Institut Pasteur et l’Assistance publique des Hôpitaux de Paris
@@ -3967,7 +3967,7 @@
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [expo/awesome-expo](https://github.com/expo/awesome-expo) - Useful resources for creating apps with Exponent
 - [HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) - A curated list of resources for teaching kids programming.
-- [noffle/art-of-readme](https://github.com/noffle/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
+- [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
 - [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [MattiSG/voting-recommendations-schema](https://github.com/MattiSG/voting-recommendations-schema) - A representation format for voting recommendations.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -4793,7 +4793,7 @@
 
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [samueltardieu/AusweisBot](https://github.com/samueltardieu/AusweisBot) - Telegram bot to generate self-authorizations for moving around during covid-19 pandemic in France
-- [apache/attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
+- [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 
@@ -5148,6 +5148,7 @@
 - [rmarganti/re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
 - [theKashey/react-focus-on](https://github.com/theKashey/react-focus-on) - 🎯 Solution for WAI ARIA compatible modal dialogs or full-screen tasks, you were looking for
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [anthonyshort/use-next-route](https://github.com/anthonyshort/use-next-route) - React hook for easy routing within a Next.js app
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -5362,7 +5363,6 @@
 - [aleph-im/myaleph](https://github.com/aleph-im/myaleph) - aleph.im account and personal data management dApp
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [etalab/playlists](https://github.com/etalab/playlists) - 🎧 😌 📊 créer et partager simplement des listes de jeux de données
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [pierrechls/tweetscape](https://github.com/pierrechls/tweetscape) - A WebVR experience displaying tweets in real-time along a 3D timeline
