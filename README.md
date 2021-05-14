@@ -4148,6 +4148,7 @@
 
 ## Python 
 
+- [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 43 languages, 21 formats, 16 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action or other CI tools
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
@@ -4894,7 +4895,7 @@
 - [iamerikjolson/GitHub-Issues-Process](https://github.com/iamerikjolson/GitHub-Issues-Process) - How we use GitHub Issues as our project task tracker
 - [fsouza/docker-ssl-proxy](https://github.com/fsouza/docker-ssl-proxy) - Builds a docker image that proxies SSL calls to another docker container (fork of bombbomb/docker-ssl-proxy)
 - [drtyhlpr/rpi23-gen-image](https://github.com/drtyhlpr/rpi23-gen-image) - Advanced Debian "stretch" and "buster" bootstrap script for RPi 0/1/2/3 and QEMU
-- [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom OS images for single-board computers
+- [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [aoakley/cotswoldjam](https://github.com/aoakley/cotswoldjam) - Command-line utilities for the Raspberry Pi, of particular interest to Raspberry Jam organisers & educators
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [node-on-mobile/androidify](https://github.com/node-on-mobile/androidify) - 
