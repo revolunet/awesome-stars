@@ -896,6 +896,8 @@
 
 ## JavaScript 
 
+- [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
 - [emnbdx/annuaire-sante-as-api](https://github.com/emnbdx/annuaire-sante-as-api) - Import data from https://annuaire.sante.fr/ to mysql database and provide api to query data
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -4148,6 +4150,7 @@
 
 ## Python 
 
+- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 43 languages, 21 formats, 16 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action or other CI tools
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
