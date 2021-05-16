@@ -387,7 +387,7 @@
 - [klorenz/atom-regex-railroad-diagrams](https://github.com/klorenz/atom-regex-railroad-diagrams) - display regex as railroad diagram, if cursor moves to it
 - [jariz/vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
 - [soyjavi/QuoJS](https://github.com/soyjavi/QuoJS) - Micro #JavaScript Library for Mobile Devices
-- [nekobird/stack-up.js](https://github.com/nekobird/stack-up.js) - Create fixed width, variable height grid layouts.
+- [entroform/stack-up.js](https://github.com/entroform/stack-up.js) - Create fixed width, variable height grid layouts.
 - [rs/pushd](https://github.com/rs/pushd) - Blazing fast multi-protocol mobile and web push notification service
 - [openstf/adbkit](https://github.com/openstf/adbkit) - A pure Node.js client for the Android Debug Bridge.
 - [Lordnibbler/colorpicker-client](https://github.com/Lordnibbler/colorpicker-client) - Node.js client that converts JSON rgb objects to UART instructions and send them to arduino. Designed to run on Beaglebone Black or Raspberry pi
@@ -896,6 +896,7 @@
 
 ## JavaScript 
 
+- [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
@@ -1005,6 +1006,7 @@
 - [cagline/react-router-component-keycloak-example](https://github.com/cagline/react-router-component-keycloak-example) - React Routes and Components restrict with Keycloak
 - [msztolcman/sendria](https://github.com/msztolcman/sendria) - Sendria (formerly MailTrap) is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface instead of sending to real world.
 - [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same `fetch()` API browsers provide for HTTP, but for IPFS
+- [lucky-sideburn/KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [mikeal/dkv](https://github.com/mikeal/dkv) - Decentralized key-value store running on IPFS
 - [playerxo/playerx](https://github.com/playerxo/playerx) - Media Player Web Component - Uniform Player API - Video QoE benchmark - Supports raw media files, HLS, Dash, Vimeo, YouTube, JW Player, Wistia, SoundCloud, Twitch, Dailymotion, Facebook, Vidyard, Brightcove, Streamable, api.video.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
@@ -1779,7 +1781,6 @@
 - [wotjs/browserify-johnny-five](https://github.com/wotjs/browserify-johnny-five) - Build Johnny Five as a browserify module.
 - [Jam3/360-image-viewer](https://github.com/Jam3/360-image-viewer) - A standalone panorama viewer with WebGL
 - [styleguidist/snapguidist](https://github.com/styleguidist/snapguidist) - Snapshot testing for React Styleguidist
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [MadDogTechnology/postrestql](https://github.com/MadDogTechnology/postrestql) - Create RESTful web services from a PostgreSQL database
 - [threepointone/markdown-in-js](https://github.com/threepointone/markdown-in-js) - inline markdown for react/jsx
 - [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
@@ -3633,7 +3634,6 @@
 
 ## Lua 
 
-- [lucky-sideburn/KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [hypebeast/micro-auth](https://github.com/hypebeast/micro-auth) - A microservice that makes adding authentication with Google and Github to your application easy.
@@ -4732,6 +4732,7 @@
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [codebar/mentoring.io](https://github.com/codebar/mentoring.io) - An online community where mentors can share their skills and provide guidance to new developers.
 - [openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [covoiturage-libre/covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - UNMAINTAINED
 - [bamlab/fastlane-plugin-cordova](https://github.com/bamlab/fastlane-plugin-cordova) - Integrate your Cordova build into your Fastlane setup
 - [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -4973,6 +4974,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [UnlyEd/simple-logger](https://github.com/UnlyEd/simple-logger) - Simple universal and extra-light (1kB) logger for node/browser, with prefix, time and colours.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
@@ -5167,7 +5169,7 @@
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [apollographql/apollo-link-persisted-queries](https://github.com/apollographql/apollo-link-persisted-queries) - Persisted Query support with Apollo Link
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [pmndrs/react-use-gesture](https://github.com/pmndrs/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
+- [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [EmmanuelDemey/codelab-elastic](https://github.com/EmmanuelDemey/codelab-elastic) - 
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
