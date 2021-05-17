@@ -26,6 +26,7 @@
   - [GDScript](#gdscript)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [HaXe](#haxe)
   - [Haskell](#haskell)
@@ -417,6 +418,7 @@
 
 ## Dockerfile 
 
+- [rberrelleza/duketeto](https://github.com/rberrelleza/duketeto) - Debian + Wine + OpenVNC + Docker Compose + Okteto = awesome
 - [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
 - [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux
@@ -668,6 +670,10 @@
 - [cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib) - Jenkins pipeline shared library for automating deployments via GitOps
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
+## HCL 
+
+- [nemani/scalable-jitsi](https://github.com/nemani/scalable-jitsi) - How to scale Jitsi to handle 2000+ users across 20 conferences, using terraform + gcp
+
 ## HTML 
 
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
@@ -896,6 +902,7 @@
 
 ## JavaScript 
 
+- [HashQL/HashQL](https://github.com/HashQL/HashQL) - 
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -1040,7 +1047,7 @@
 - [Ovilia/ThreeExample.js](https://github.com/Ovilia/ThreeExample.js) - 《Three.js 入门指南》书例代码
 - [cypsela/sailplane-web](https://github.com/cypsela/sailplane-web) - Collaborative p2p file sharing in the browser
 - [breejs/later](https://github.com/breejs/later) - *Maintained fork of Later.* A javascript library for defining recurring schedules and calculating future (or past) occurrences for them. Includes support for using English phrases and Cron schedules. Works in Node and in the browser.
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.33.1) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.34.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt) - Add files to IPFS with encryption
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
