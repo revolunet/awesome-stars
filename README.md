@@ -3749,6 +3749,7 @@
 
 ## Others 
 
+- [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - a metadata standard for public software
 - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.
@@ -3834,7 +3835,6 @@
 - [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS.
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
-- [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [learnk8s/kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
 - [syntax-tree/xast](https://github.com/syntax-tree/xast) - Extensible Abstract Syntax Tree
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
@@ -4884,7 +4884,7 @@
 - [BirgerK/docker-apache-letsencrypt](https://github.com/BirgerK/docker-apache-letsencrypt) - This docker-image contains a simple Apache webserver and supports https-encryption by great Let's Encrypt certificates!
 - [139bercy/format-commande-publique](https://github.com/139bercy/format-commande-publique) - Documentation du format de référence des données essentielles des marchés publics français
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
-- [deepeeess/PiShrink](https://github.com/deepeeess/PiShrink) - Make your pi images smaller!
+- [a2f0/PiShrink](https://github.com/a2f0/PiShrink) - Make your pi images smaller!
 - [bsycorp/kind](https://github.com/bsycorp/kind) - Kubernetes-in-Docker - A single node cluster to run your CI tests against thats ready in 30 seconds
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
