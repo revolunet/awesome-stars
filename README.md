@@ -111,6 +111,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
+- [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
@@ -524,7 +525,6 @@
 - [alash3al/scraply](https://github.com/alash3al/scraply) - Scraply a simple dom scraper to fetch information from any html based website and convert that info to JSON APIs
 - [mcorbin/cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
 - [lbryio/chainquery](https://github.com/lbryio/chainquery) - Chainquery parses and syncs the LBRY blockchain data into structured SQL
-- [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [profclems/glab](https://github.com/profclems/glab) - An open-source GitLab command line tool bringing GitLab's cool features to your command line
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
@@ -638,7 +638,7 @@
 - [ehazlett/conduit](https://github.com/ehazlett/conduit) - Deployment system for Docker
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
-- [jwilder/docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data
+- [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
@@ -798,7 +798,7 @@
 - [tmort/Socialite](https://github.com/tmort/Socialite) - 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [topcoat/topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
-- [usablica/intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [django-admin-bootstrapped/django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped) - A Django admin theme using Twitter Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [mourner/dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
