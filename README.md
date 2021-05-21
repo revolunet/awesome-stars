@@ -999,7 +999,6 @@
 - [LLK/scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
 - [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [serverless/forms-service](https://github.com/serverless/forms-service) - Serverless Forms Service to collect form data with Admin UI
-- [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [solid/react-components](https://github.com/solid/react-components) - Core React components for building your own Solid components and apps
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [graphery/graphery](https://github.com/graphery/graphery) - 
@@ -2048,7 +2047,7 @@
 - [linkmesrl/react-redux-dashboard](https://github.com/linkmesrl/react-redux-dashboard) - React Redux Dashboard with redux-saga and local-storage support
 - [AdamPflug/express-brute](https://github.com/AdamPflug/express-brute) - Brute-force protection middleware for express routes by rate limiting incoming requests
 - [elierotenberg/react-prepare](https://github.com/elierotenberg/react-prepare) - Prepare you app state for async server-side rendering and more!
-- [typicode/lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
 - [cvan/webvr360](https://github.com/cvan/webvr360) - It's like Tim Berners-Lee meets Oculus meets YouTube.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
@@ -2412,7 +2411,7 @@
 - [jimpick/lambda-comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 - [googleanalytics/autotrack](https://github.com/googleanalytics/autotrack) - Automatic and enhanced Google Analytics tracking for common user interactions on the web.
 - [douglowder/react-native-appletv](https://github.com/douglowder/react-native-appletv) - Apple TV support is now merged to facebook/react-native.
-- [phenomic/phenomic](https://github.com/phenomic/phenomic) - DEPRECATED. Please use Next.js instead.
+- [MoOx/phenomic](https://github.com/MoOx/phenomic) - DEPRECATED. Please use Next.js instead.
 - [motdotla/node-lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your node.js application to Amazon Lambda
 - [erbbysam/webRTCCopy](https://github.com/erbbysam/webRTCCopy) - A simple file sharing application using webRTC-data.io
 - [binaryjs/binaryjs](https://github.com/binaryjs/binaryjs) - Node binary websocket streaming made easy
@@ -4153,6 +4152,7 @@
 
 ## Pug 
 
+- [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [Bttstrp/bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
 
 ## Python 
@@ -4501,7 +4501,7 @@
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [limpyd/redis-limpyd](https://github.com/limpyd/redis-limpyd) - Provide an easy way to store python objects in Redis, without losing the power and the control of the Redis API
 - [paymill/paymill-python](https://github.com/paymill/paymill-python) - Python wrapper for Paymill API
-- [heroku-python/dj-static](https://github.com/heroku-python/dj-static) - Serve production static files with Django.
+- [heroku-python/dj-static](https://github.com/heroku-python/dj-static) - DEPRECATED - use WhiteNoise instead!
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [lociii/jukebox](https://github.com/lociii/jukebox) - Democratic Jukebox - your democratic music player
 - [fusionbox/django-authtools](https://github.com/fusionbox/django-authtools) - A custom User model for everybody!
