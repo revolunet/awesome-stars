@@ -835,6 +835,7 @@
 
 ## Java 
 
+- [ClementGre/PDF4Teachers](https://github.com/ClementGre/PDF4Teachers) - PDF editing software in large quantities. Designed for teachers, this app keeps recorded previous annotations, and offers features like marking scale, PDF conversion.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [svenstaro/keycloak-http-webhook-provider](https://github.com/svenstaro/keycloak-http-webhook-provider) - A Keycloak provider that posts events to a URL via HTTP POST as JSON
@@ -902,6 +903,9 @@
 
 ## JavaScript 
 
+- [opening-hours/opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
+- [3box/3box-orbitdb-plugins](https://github.com/3box/3box-orbitdb-plugins) - Custom identity-provider and access-controllers for orbitdb
+- [orbitdb/orbit-db-io](https://github.com/orbitdb/orbit-db-io) - Helper module used in OrbitDB to interface with storage layer
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [HashQL/HashQL](https://github.com/HashQL/HashQL) - 
@@ -1002,7 +1006,6 @@
 - [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [serverless/forms-service](https://github.com/serverless/forms-service) - Serverless Forms Service to collect form data with Admin UI
 - [solid/react-components](https://github.com/solid/react-components) - Core React components for building your own Solid components and apps
-- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [graphery/graphery](https://github.com/graphery/graphery) - 
 - [surveyjs/surveyjs-nodejs](https://github.com/surveyjs/surveyjs-nodejs) - Sample NodeJS backend for SurveyJS: Survey Library and Survey Creator
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
@@ -4094,6 +4097,7 @@
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [ujamii/prometheus-sentry-exporter](https://github.com/ujamii/prometheus-sentry-exporter) - Exports sentry project metrics for prometheus.
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [justicenode/files_external_ipfs](https://github.com/justicenode/files_external_ipfs) - Nextcloud App to add ipfs external storage support
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
@@ -4814,6 +4818,7 @@
 
 ## Shell 
 
+- [soulshake/fonos](https://github.com/soulshake/fonos) - Sonos-like multi-room audio setup for Raspberry Pi
 - [AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller](https://github.com/AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller) - DIY Call of Duty Warzone controller built using a nerf gun powered by the Raspberry Pi 4.
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -4984,6 +4989,10 @@
 
 ## TypeScript 
 
+- [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The ½ kb state machine hook for React
+- [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
+- [ceramicstudio/js-3id-did-provider](https://github.com/ceramicstudio/js-3id-did-provider) - DID Provider for 3IDs in JavaScript
+- [hollygrimm/idx-ceramic-todos](https://github.com/hollygrimm/idx-ceramic-todos) - Secure Smart Documents (todos) on the Ceramic Network
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
@@ -5172,7 +5181,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [climax/core](https://github.com/climax/core) - [In progress] The "Electron" for CLI applications: build and distribute cross-platform CLI clients with NodeJS.
 - [Weakky/ra-data-opencrud](https://github.com/Weakky/ra-data-opencrud) - A react-admin data provider for Prisma and GraphCMS
-- [TimoSta/sprite](https://github.com/TimoSta/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
+- [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [FotonTech/gigatron](https://github.com/FotonTech/gigatron) - https://gigatron.now.sh/signin
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
