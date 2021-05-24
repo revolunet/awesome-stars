@@ -273,6 +273,7 @@
 
 ## CSS 
 
+- [dravedev/manifeste-souverainete-numerique](https://github.com/dravedev/manifeste-souverainete-numerique) - Manifeste de la souveraineté numérique
 - [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - 
 - [etalab/tchatcha](https://github.com/etalab/tchatcha) - Captchacha: solution de vérification de formulaire
 - [LINCnil/CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
@@ -835,6 +836,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [ClementGre/PDF4Teachers](https://github.com/ClementGre/PDF4Teachers) - PDF editing software in large quantities. Designed for teachers, this app keeps recorded previous annotations, and offers features like marking scale, PDF conversion.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -3753,6 +3755,7 @@
 
 ## Others 
 
+- [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - a metadata standard for public software
