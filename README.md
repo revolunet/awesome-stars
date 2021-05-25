@@ -470,6 +470,7 @@
 
 ## Go 
 
+- [vorteil/direktiv](https://github.com/vorteil/direktiv) - Serverless Container Workflows
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
@@ -1631,7 +1632,7 @@
 - [drcmda/react-contextual](https://github.com/drcmda/react-contextual) - 🚀 react-contextual is a small (less than 1KB) helper around React 16s new context api
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [AlmeroSteyn/react-aria-live](https://github.com/AlmeroSteyn/react-aria-live) - ARIA live message announcer for React apps
-- [AndiDittrich/Node.CLI-Progress](https://github.com/AndiDittrich/Node.CLI-Progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
+- [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
 - [NullDev/qwant-api](https://github.com/NullDev/qwant-api) - :crystal_ball: Unofficial API wrapper for qwant
 - [konsumer/gatsby-remark-graph](https://github.com/konsumer/gatsby-remark-graph) - Make nice graphs in your markdown files in gatsbyjs, using mermaid
 - [TankofVines/node-vincenty](https://github.com/TankofVines/node-vincenty) - Repacked some vanilla JS that calculates metric distance between two latitude and longitude coordinates
@@ -4992,6 +4993,7 @@
 
 ## TypeScript 
 
+- [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The ½ kb state machine hook for React
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
 - [ceramicstudio/js-3id-did-provider](https://github.com/ceramicstudio/js-3id-did-provider) - DID Provider for 3IDs in JavaScript
