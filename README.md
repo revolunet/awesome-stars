@@ -906,6 +906,7 @@
 
 ## JavaScript 
 
+- [near-examples/guest-book](https://github.com/near-examples/guest-book) - Sign in with NEAR and add a message to the guest book!
 - [opening-hours/opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
 - [3box/3box-orbitdb-plugins](https://github.com/3box/3box-orbitdb-plugins) - Custom identity-provider and access-controllers for orbitdb
 - [orbitdb/orbit-db-io](https://github.com/orbitdb/orbit-db-io) - Helper module used in OrbitDB to interface with storage layer
@@ -3596,7 +3597,7 @@
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
-- [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021)
+- [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework
 - [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [etalab/calculette-impots-exemples](https://github.com/etalab/calculette-impots-exemples) - Exemples d'utilisations de la calculatrice de l'impôt sur le revenu
 - [etalab/calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) - Calculette de l'impôt sur le revenu parsée
