@@ -3757,6 +3757,7 @@
 
 ## Others 
 
+- [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
@@ -4190,7 +4191,7 @@
 - [brianckeegan/wikifunctions](https://github.com/brianckeegan/wikifunctions) - Python functions for retrieving data from the MediaWiki/Wikipedia API
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [netlify/node-template](https://github.com/netlify/node-template) - Netlify's Node.js repository template
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [anki-code/metabase-sql-wrapper](https://github.com/anki-code/metabase-sql-wrapper) - This is a docker-container based on Metabase container that automatically saves Metabase H2 database to SQL-file and creates Metabase H2 database from SQL-file.
@@ -4965,7 +4966,6 @@
 
 ## Svelte 
 
-- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [vnglst/svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
 
 ## Swift 
@@ -4994,6 +4994,7 @@
 
 ## TypeScript 
 
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The ½ kb state machine hook for React
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
@@ -5074,6 +5075,7 @@
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete node js wrapper of spotify api with oauth support
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library.
