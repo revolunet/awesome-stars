@@ -589,7 +589,6 @@
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
-- [cloud-annotations/training](https://github.com/cloud-annotations/training) - 🐝 Custom Object Detection and Classification Training
 - [txthinking/mr2](https://github.com/txthinking/mr2) - mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. mr2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -3016,7 +3015,7 @@
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [domenic/count-to-6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops.
 - [dpellier/bem-comment](https://github.com/dpellier/bem-comment) - Automatically comment your BEM compliant SASS files to add class name comments
@@ -3593,6 +3592,7 @@
 
 ## Jupyter Notebook 
 
+- [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -5177,6 +5177,7 @@
 - [vega/react-vega](https://github.com/vega/react-vega) - Convert Vega spec into React class conveniently
 - [mathiassoeholm/use-anim](https://github.com/mathiassoeholm/use-anim) - A super small hook-based animation library for React
 - [ajv-validator/json-schema-migrate](https://github.com/ajv-validator/json-schema-migrate) - Migrate JSON-Schema draft-04 to draft-07, draft-2019-09 or draft-2020-12
+- [cloud-annotations/cloud-annotations](https://github.com/cloud-annotations/cloud-annotations) - 🐝 A fast, easy and collaborative open source image annotation tool for teams and individuals.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [trojanowski/react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks) - Use Apollo Client as React hooks
 - [Kinto/kinto-admin](https://github.com/Kinto/kinto-admin) - Kinto Web Administration Console
