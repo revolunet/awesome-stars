@@ -470,6 +470,7 @@
 
 ## Go 
 
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [vorteil/direktiv](https://github.com/vorteil/direktiv) - Serverless Container Workflows
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -905,6 +906,7 @@
 
 ## JavaScript 
 
+- [jdfekete/reorder.js](https://github.com/jdfekete/reorder.js) - JavaScript library to reorder matrices
 - [near-examples/guest-book](https://github.com/near-examples/guest-book) - Sign in with NEAR and add a message to the guest book!
 - [opening-hours/opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
 - [3box/3box-orbitdb-plugins](https://github.com/3box/3box-orbitdb-plugins) - Custom identity-provider and access-controllers for orbitdb
@@ -3757,6 +3759,8 @@
 
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [decentralized-identity/horcrux](https://github.com/decentralized-identity/horcrux) - Horcrux Protocol
 - [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
@@ -4169,6 +4173,8 @@
 
 ## Python 
 
+- [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
+- [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 45 languages, 22 formats, 17 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
@@ -4788,7 +4794,6 @@
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - Support us on Product Hunt!
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-- [Holo-Host/holo-router](https://github.com/Holo-Host/holo-router) - Holo routing infrastructure
 - [willemolding/holochain-collections](https://github.com/willemolding/holochain-collections) - A Rust crate to be used in Holochain DNAs to deal with collections of entries
 - [willemolding/holochain-rust-todo](https://github.com/willemolding/holochain-rust-todo) - Basic example using holochain-rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -5391,6 +5396,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
