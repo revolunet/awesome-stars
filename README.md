@@ -3761,7 +3761,6 @@
 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [decentralized-identity/horcrux](https://github.com/decentralized-identity/horcrux) - Horcrux Protocol
-- [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
@@ -4231,7 +4230,7 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [vladimarius/pyap](https://github.com/vladimarius/pyap) - Python address detector and parser
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [etalab-ia/pseudonymisation_decisions_ce](https://github.com/etalab-ia/pseudonymisation_decisions_ce) - Temporary repo to split the pseudo livrable
@@ -4829,6 +4828,7 @@
 
 ## Shell 
 
+- [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [soulshake/fonos](https://github.com/soulshake/fonos) - Sonos-like multi-room audio setup for Raspberry Pi
 - [AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller](https://github.com/AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller) - DIY Call of Duty Warzone controller built using a nerf gun powered by the Raspberry Pi 4.
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
