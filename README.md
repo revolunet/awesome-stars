@@ -470,6 +470,7 @@
 
 ## Go 
 
+- [oursky/kubernetes-github-authn](https://github.com/oursky/kubernetes-github-authn) - GitHub token authentication for Kubernetes
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [vorteil/direktiv](https://github.com/vorteil/direktiv) - Serverless Container Workflows
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
@@ -906,6 +907,7 @@
 
 ## JavaScript 
 
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 - [jdfekete/reorder.js](https://github.com/jdfekete/reorder.js) - JavaScript library to reorder matrices
 - [near-examples/guest-book](https://github.com/near-examples/guest-book) - Sign in with NEAR and add a message to the guest book!
 - [opening-hours/opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
@@ -3272,7 +3274,6 @@
 - [frapontillo/angular-bootstrap-switch](https://github.com/frapontillo/angular-bootstrap-switch) - AngularJS directive for the bootstrap-switch jQuery plugin.
 - [jonashartmann/webcam-directive](https://github.com/jonashartmann/webcam-directive) - Angularjs directive to access the webcam
 - [angular-translate/grunt-angular-translate](https://github.com/angular-translate/grunt-angular-translate) - Grunt tasks to extract translation with AngularJS and angular-translate
-- [fnakstad/angular-client-side-auth](https://github.com/fnakstad/angular-client-side-auth) - One way to implement authentication/authorization in Angular applications
 - [cubiq/cardview](https://github.com/cubiq/cardview) - Javascript incarnation of the rolodex
 - [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 - [Hill30/NGScroller](https://github.com/Hill30/NGScroller) - Bidirectional infinite scrolling with dynamic data load
@@ -3759,6 +3760,7 @@
 
 ## Others 
 
+- [m2q1n9/awesome-skynet](https://github.com/m2q1n9/awesome-skynet) - A community driven list of useful skynet resources.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [decentralized-identity/horcrux](https://github.com/decentralized-identity/horcrux) - Horcrux Protocol
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
@@ -4234,6 +4236,7 @@
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [etalab-ia/pseudonymisation_decisions_ce](https://github.com/etalab-ia/pseudonymisation_decisions_ce) - Temporary repo to split the pseudo livrable
+- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [TroyWilson1/ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - This script takes a file or directory as input, uses GPG AES256 symmetric encryption with the password you provide and adds it to IPFS and returns the IPFS hash.
 - [OrhanKupusoglu/docker-tetris](https://github.com/OrhanKupusoglu/docker-tetris) - Docker container for Tetris JavaScript game served with Flask
 - [bheinzerling/bpemb](https://github.com/bheinzerling/bpemb) - Pre-trained subword embeddings in 275 languages, based on Byte-Pair Encoding (BPE)
@@ -4258,7 +4261,6 @@
 - [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [possan/atari-spotify-app](https://github.com/possan/atari-spotify-app) - Running Spotify on an 8-bit Atari
 - [labteral/ernie](https://github.com/labteral/ernie) - Simple State-of-the-Art BERT-Based Sentence Classification with Keras / TensorFlow 2. Built with HuggingFace's Transformers.
-- [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
 - [andychase/reparse](https://github.com/andychase/reparse) - Regular Expression based parsers for extracting data from natural languages
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
@@ -4297,7 +4299,7 @@
 - [tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [metapensiero/metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [openfisca/calculette-impots-python](https://github.com/openfisca/calculette-impots-python) - Traduction en langage Python du code source (en langage M) du calculateur des impôts sur le revenu et sur la fortune
 - [ArmandGiraud/letor_scores](https://github.com/ArmandGiraud/letor_scores) - a flask minimal api to score a ranking system against human relevance scores
 - [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
@@ -5113,7 +5115,6 @@
 - [medialab/tesselle](https://github.com/medialab/tesselle) - an image annotation and publication tool
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
-- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [RenoFi/react-tooltip](https://github.com/RenoFi/react-tooltip) - React tooltip component
 - [tinacms/tinacms.org](https://github.com/tinacms/tinacms.org) - Organization site for general info, documentation, blogs & contribution guidelines.
