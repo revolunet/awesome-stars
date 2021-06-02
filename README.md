@@ -4174,6 +4174,7 @@
 
 ## Python 
 
+- [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - A wrapper around Semgrep that supports running as a Github Action, in Gitlab, and other CI providers and interfacing with https://semgrep.dev
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
