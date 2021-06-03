@@ -205,7 +205,7 @@
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++11 support for Caffe, Caffe2, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, Caffe2, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [pirxpilot/postal-async](https://github.com/pirxpilot/postal-async) - Async NAPI based interface for libpostal
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
@@ -470,6 +470,7 @@
 
 ## Go 
 
+- [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [oursky/kubernetes-github-authn](https://github.com/oursky/kubernetes-github-authn) - GitHub token authentication for Kubernetes
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [vorteil/direktiv](https://github.com/vorteil/direktiv) - Serverless Container Workflows
@@ -907,6 +908,7 @@
 
 ## JavaScript 
 
+- [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 - [jdfekete/reorder.js](https://github.com/jdfekete/reorder.js) - JavaScript library to reorder matrices
 - [near-examples/guest-book](https://github.com/near-examples/guest-book) - Sign in with NEAR and add a message to the guest book!
@@ -2132,7 +2134,7 @@
 - [lukeed/colors-app](https://github.com/lukeed/colors-app) - :art: A PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [dataarts/dat.guiVR](https://github.com/dataarts/dat.guiVR) - A flexible graphical user interface for changing variables within WebVR.
 - [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - DN2A - Digital Neural Networks Architecture
+- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - DN2A - Digital Neural Networks Architecture in JavaScript
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [microsoft/HoloJS](https://github.com/microsoft/HoloJS) - Provides a framework for creating holographic apps using JavaScript and WebGL.
 - [remy/now-no-alias](https://github.com/remy/now-no-alias) - CLI tool for now to list idle deploys (with no active aliases)
@@ -4371,7 +4373,7 @@
 - [cdrx/rancher-gitlab-deploy](https://github.com/cdrx/rancher-gitlab-deploy) - Painless deployment of projects built with GitLab CI onto your Rancher infrastructure
 - [renskiy/fabricio](https://github.com/renskiy/fabricio) - Docker deploy automation tool
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-- [datawire/ambassador](https://github.com/datawire/ambassador) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+- [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [Pegase745/sublime-flowtype](https://github.com/Pegase745/sublime-flowtype) - A full featured Flow type support for Sublime Text 3
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
@@ -5399,7 +5401,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
