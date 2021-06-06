@@ -961,7 +961,7 @@
 - [laem/futureco-data](https://github.com/laem/futureco-data) - Les modèles de calcul de futur.eco
 - [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) - We are a small group of friendly humans working on an open source project to make informal video calls more fun and dynamic.
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - 
+- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - Non-official React components of the official French Governement Design System.
 - [vasturiano/aframe-forcegraph-component](https://github.com/vasturiano/aframe-forcegraph-component) - Force-directed graph component for A-Frame
 - [rwieruch/purchasing-power-parity](https://github.com/rwieruch/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
