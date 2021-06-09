@@ -681,6 +681,7 @@
 
 ## HTML 
 
+- [alphagov/accessibility-tool-audit](https://github.com/alphagov/accessibility-tool-audit) - Automated accessibility tools audit
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -841,6 +842,7 @@
 
 ## Java 
 
+- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [ClementGre/PDF4Teachers](https://github.com/ClementGre/PDF4Teachers) - PDF editing software in large quantities. Designed for teachers, this app keeps recorded previous annotations, and offers features like marking scale, PDF conversion.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
@@ -910,6 +912,7 @@
 
 ## JavaScript 
 
+- [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, Internal.io etc
 - [erdtman/cose-js](https://github.com/erdtman/cose-js) - JavaScript implementation of COSE
 - [lovasoa/aes-cbc-mac](https://github.com/lovasoa/aes-cbc-mac) - Node implementation for aes cbc mac
@@ -4184,7 +4187,7 @@
 
 ## Python 
 
-- [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - A wrapper around Semgrep that supports running as a Github Action, in Gitlab, and other CI providers and interfacing with https://semgrep.dev
+- [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - Semgrep CI is a specialized Docker image for running Semgrep in CI environments. It can either be used stand-alone or connected with Semgrep App for centralized rule and findings management.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
