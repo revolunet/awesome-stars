@@ -471,6 +471,7 @@
 
 ## Go 
 
+- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains and scan for endpoints, secrets, api keys, file extensions, tokens and more...
 - [utkusen/reqstress](https://github.com/utkusen/reqstress) - a benchmarking&stressing tool that can send raw HTTP requests
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [oursky/kubernetes-github-authn](https://github.com/oursky/kubernetes-github-authn) - GitHub token authentication for Kubernetes
@@ -863,7 +864,7 @@
 - [tsegismont/graphql-api-gateway-workshop](https://github.com/tsegismont/graphql-api-gateway-workshop) - How-to implement the API Gateway pattern with GraphQL
 - [inception-project/inception](https://github.com/inception-project/inception) - INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.
 - [pranab/avenir](https://github.com/pranab/avenir) - Set of Machine Learning and Stochastic Optimazion  tools based on Hadoop, Spark and Storm  https://pkghosh.wordpress.com/
-- [dinsic-pim/tchap-android](https://github.com/dinsic-pim/tchap-android) - A glossy Matrix collaboration client for Android
+- [tchapgouv/tchap-android](https://github.com/tchapgouv/tchap-android) - A glossy Matrix collaboration client for Android
 - [ICIJ/datashare](https://github.com/ICIJ/datashare) - Better analyze information, in all its forms
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
@@ -913,8 +914,9 @@
 
 ## JavaScript 
 
+- [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Opensource internal tool builder. An alternative to Retool, JetAdmin, Internal.io, Budibase etc
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - An open-source no-code platform for building and deploying internal tools.
 - [erdtman/cose-js](https://github.com/erdtman/cose-js) - JavaScript implementation of COSE
 - [lovasoa/aes-cbc-mac](https://github.com/lovasoa/aes-cbc-mac) - Node implementation for aes cbc mac
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
@@ -1478,7 +1480,7 @@
 - [nfroidure/swagger-http-router](https://github.com/nfroidure/swagger-http-router) - A HTTP router based on your Swagger definition.
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
-- [dinsic-pim/tchap-web](https://github.com/dinsic-pim/tchap-web) - A glossy Matrix collaboration client for the web.
+- [tchapgouv/tchap-web](https://github.com/tchapgouv/tchap-web) - A glossy Matrix collaboration client for the web.
 - [topheman/docker-experiments](https://github.com/topheman/docker-experiments) - Discover docker with a simple use case in development, production (local kubernetes) and CI
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -1521,7 +1523,7 @@
 - [StreetStrider/knexed](https://github.com/StreetStrider/knexed) - Adds some neatness to Knex. Utilities for tables, joins, transactions and other
 - [lemonde/knex-schema](https://github.com/lemonde/knex-schema) - Bookshelf sync utility.
 - [ballercat/wasm-loader](https://github.com/ballercat/wasm-loader) - :sparkles: WASM webpack loader
-- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [alphagov/accessible-autocomplete](https://github.com/alphagov/accessible-autocomplete) - An autocomplete component, built to be accessible.
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
 - [yldio/graphql-workshop](https://github.com/yldio/graphql-workshop) - GraphQL Workshop Material
@@ -4188,6 +4190,7 @@
 
 ## Python 
 
+- [CERN/captcha-api](https://github.com/CERN/captcha-api) - Open Source Captcha API
 - [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - Semgrep CI is a specialized Docker image for running Semgrep in CI environments. It can either be used stand-alone or connected with Semgrep App for centralized rule and findings management.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
