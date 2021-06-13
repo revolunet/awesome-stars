@@ -211,7 +211,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [Makuna/Task](https://github.com/Makuna/Task) - Arduino Nonpreemptive multitasking library.  Please refer to the Wiki for more details.  Please use the gitter channel to ask questions as the GitHub Issues feature is used for bug tracking.
 - [barn53/esp8266-PushButton](https://github.com/barn53/esp8266-PushButton) - Arduino library that provides debounced push button functionality on GPIO pins
 - [barn53/esp8266-lightsaber](https://github.com/barn53/esp8266-lightsaber) - 
@@ -3146,7 +3146,6 @@
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [SparrowJang/ngFileReader](https://github.com/SparrowJang/ngFileReader) - This is file reader component on angular.
 - [lperrin/paperwork](https://github.com/lperrin/paperwork) - Lightweight JSON validation for node.js REST APIs
-- [dreamineering/start.ionic](https://github.com/dreamineering/start.ionic) - gulp sass browserify angular ionic
 - [uberVU/elasticboard](https://github.com/uberVU/elasticboard) - Dashboard that aggregates relevant metrics for Open Source projects.
 - [educastellano/qr-code](https://github.com/educastellano/qr-code) - Web Component for generating QR codes
 - [blackgate/bg-splitter](https://github.com/blackgate/bg-splitter) - Simple pane splitter for angular.js
