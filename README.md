@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap) - Open source video mapping software
 - [collectif-pow/wifi-artnet](https://github.com/collectif-pow/wifi-artnet) - 
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
@@ -471,6 +472,7 @@
 
 ## Go 
 
+- [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to create a cluster of PostgreSql instances and manage databases replication, failover and backup.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains and scan for endpoints, secrets, api keys, file extensions, tokens and more...
 - [utkusen/reqstress](https://github.com/utkusen/reqstress) - a benchmarking&stressing tool that can send raw HTTP requests
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
