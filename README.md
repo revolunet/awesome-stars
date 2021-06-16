@@ -916,6 +916,7 @@
 
 ## JavaScript 
 
+- [dabit3/decentralized-identity-example](https://github.com/dabit3/decentralized-identity-example) - An authentication system built with Ceramic & IDX
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
@@ -924,7 +925,6 @@
 - [lovasoa/aes-cbc-mac](https://github.com/lovasoa/aes-cbc-mac) - Node implementation for aes cbc mac
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
-- [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 - [jdfekete/reorder.js](https://github.com/jdfekete/reorder.js) - JavaScript library to reorder matrices
 - [near-examples/guest-book](https://github.com/near-examples/guest-book) - Sign in with NEAR and add a message to the guest book!
@@ -4238,6 +4238,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [mozilla-services/poucave](https://github.com/mozilla-services/poucave) - A dumb auditing service
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [gw3l/richelieu](https://github.com/gw3l/richelieu) - Solution complète du challenge Richelieu de la DGSE
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [LonnyGomes/CountryGeoJSONCollection](https://github.com/LonnyGomes/CountryGeoJSONCollection) - A collection GeoJSON files of all first admin boundaries generated from the natural earth dataset
@@ -4871,7 +4872,6 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
 - [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - Load testing as a service (LTaaS) with Apache Jmeter on kubernetes
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
@@ -5030,6 +5030,7 @@
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [coldi/r3f-game-demo](https://github.com/coldi/r3f-game-demo) - A demo on how to do a simple tile-based game with React and react-three-fiber
 - [garronej/onyxia-ui](https://github.com/garronej/onyxia-ui) - 🌓 A modern UI toolkit with excellent typing.
+- [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The ½ kb state machine hook for React
