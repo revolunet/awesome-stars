@@ -301,7 +301,7 @@
 - [clementoriol/MetroDNA](https://github.com/clementoriol/MetroDNA) - MetroDNA est une librairie de symboles de Transports en Commun Parisiens (RATP - SNCF) faciles à intégrer à vos sites. Metro, RER, Tram, Transilien. Versions CSS ou SASS Disponibles.
 - [MTES-MCT/numerique](https://github.com/MTES-MCT/numerique) - 
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
-- [amarofashion/react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms
+- [amaroteam/react-credit-cards](https://github.com/amaroteam/react-credit-cards) - Beautiful credit cards for your payment forms
 - [elefevre/opendatadiversite](https://github.com/elefevre/opendatadiversite) - 
 - [fnky/css3-uiswitch](https://github.com/fnky/css3-uiswitch) - A pretty sweet and pure CSS3 iOS 7 UISwitch
 - [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
@@ -809,7 +809,6 @@
 - [tmort/Socialite](https://github.com/tmort/Socialite) - 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [topcoat/topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [django-admin-bootstrapped/django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped) - A Django admin theme using Twitter Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [mourner/dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
@@ -1113,7 +1112,7 @@
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 - [dhappy/git-remote-ipfs](https://github.com/dhappy/git-remote-ipfs) - Git Remote Helper to Push/Fetch from IPFS
-- [munsocket/parallax-effect](https://github.com/munsocket/parallax-effect) - 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam.
+- [munrocket/parallax-effect](https://github.com/munrocket/parallax-effect) - 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam.
 - [und3f/vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [hugozanini/realtime-semantic-segmentation](https://github.com/hugozanini/realtime-semantic-segmentation) - Implementation of RefineNet to perform real time instance segmentation in the browser using TensorFlow.js
@@ -3363,6 +3362,7 @@
 - [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
 - [FirebaseExtended/angularfire](https://github.com/FirebaseExtended/angularfire) - AngularJS bindings for Firebase
 - [trochette/Angular-Design-Patterns-Best-Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices) - Slideshow from session done @opencodeqc and @MagmaConf, built with AngularJS using best practices expressed in the presentation.
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [evolvedlight/pydashie](https://github.com/evolvedlight/pydashie) - Port of Dashing to python
 - [edmenendez/django-angular-auth](https://github.com/edmenendez/django-angular-auth) - Example app showing how to use Django for authentication of an Angular app.
@@ -3778,6 +3778,7 @@
 
 ## Others 
 
+- [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [m2q1n9/awesome-skynet](https://github.com/m2q1n9/awesome-skynet) - A community driven list of useful skynet resources.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
