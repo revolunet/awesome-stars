@@ -2219,7 +2219,6 @@
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
-- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 - [guybedford/systemjs-webpack-plugin](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
 - [4Catalyzer/found](https://github.com/4Catalyzer/found) - Extensible route-based routing for React applications
@@ -4005,6 +4004,7 @@
 - [kevinswiber/siren](https://github.com/kevinswiber/siren) - Structured Interface for Representing Entities, super-rad hypermedia
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 - [ds-hwang/wiki](https://github.com/ds-hwang/wiki) - wiki about chromium and etc.
 - [jakearchibald/navigation-transitions](https://github.com/jakearchibald/navigation-transitions) - 
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
@@ -4800,6 +4800,7 @@
 
 ## Rust 
 
+- [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -5058,7 +5059,7 @@
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
-- [SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
+- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminBro is an admin panel for apps written in node.js
 - [fission-suite/ipfs-photo-gallery](https://github.com/fission-suite/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
