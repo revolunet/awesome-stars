@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap) - Open source video mapping software
 - [collectif-pow/wifi-artnet](https://github.com/collectif-pow/wifi-artnet) - 
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
@@ -4194,6 +4195,7 @@
 
 ## Python 
 
+- [aleph-im/pyaleph](https://github.com/aleph-im/pyaleph) - Next generation network of decentralized big data applications. Current connected chains: NULS, BNB and Ethereum.
 - [CERN/captcha-api](https://github.com/CERN/captcha-api) - Open Source Captcha API
 - [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - Semgrep CI is a specialized Docker image for running Semgrep in CI environments. It can either be used stand-alone or connected with Semgrep App for centralized rule and findings management.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
