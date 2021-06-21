@@ -474,7 +474,7 @@
 ## Go 
 
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to create a cluster of PostgreSql instances and manage databases replication, failover and backup.
-- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains and scan for endpoints, secrets, api keys, file extensions, tokens and more...
+- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
 - [utkusen/reqstress](https://github.com/utkusen/reqstress) - a benchmarking&stressing tool that can send raw HTTP requests
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [oursky/kubernetes-github-authn](https://github.com/oursky/kubernetes-github-authn) - GitHub token authentication for Kubernetes
@@ -1017,7 +1017,7 @@
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
-- [kfarr/3dstreet](https://github.com/kfarr/3dstreet) - 🚲🚶🚌 Web-based 3D visualization of streets using A-Frame
+- [3DStreet/3dstreet](https://github.com/3DStreet/3dstreet) - 🚲🚶🚌 Web-based 3D visualization of streets using A-Frame
 - [mafintosh/hyperphone](https://github.com/mafintosh/hyperphone) - A telephone over Hyperbeam
 - [ankane/react-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
 - [libp2p/js-libp2p-webrtc-direct](https://github.com/libp2p/js-libp2p-webrtc-direct) - Dial using WebRTC without the need to set up any Signalling Rendezvous Point!
