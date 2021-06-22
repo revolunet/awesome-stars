@@ -4005,7 +4005,7 @@
 - [kevinswiber/siren](https://github.com/kevinswiber/siren) - Structured Interface for Representing Entities, super-rad hypermedia
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
-- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [ds-hwang/wiki](https://github.com/ds-hwang/wiki) - wiki about chromium and etc.
 - [jakearchibald/navigation-transitions](https://github.com/jakearchibald/navigation-transitions) - 
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
@@ -5115,7 +5115,7 @@
 - [livepeer/file-video](https://github.com/livepeer/file-video) - 
 - [zakjan/pixi-graph](https://github.com/zakjan/pixi-graph) - Graph visualization library using PIXI.js and Graphology
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete node js wrapper of spotify api with oauth support
-- [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
+- [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
