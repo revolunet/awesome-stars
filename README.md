@@ -2396,7 +2396,7 @@
 - [jxnblk/reline](https://github.com/jxnblk/reline) - React SVG line icon components
 - [FormidableLabs/react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [moshen/node-googlemaps](https://github.com/moshen/node-googlemaps) - A simple way to query the Google Maps API from Node.js
-- [vvo/selenium-standalone](https://github.com/vvo/selenium-standalone) - A node based CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)
+- [webdriverio/selenium-standalone](https://github.com/webdriverio/selenium-standalone) - A node based CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [beginner-corp/lambda](https://github.com/beginner-corp/lambda) - :heart_decoration: Authoring tools for AWS Lambda functions
 - [bonniee/learning-react-native](https://github.com/bonniee/learning-react-native) - Code samples for the book Learning React Native.
