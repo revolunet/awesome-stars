@@ -4402,7 +4402,6 @@
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [mopidy/mopidy-spotify](https://github.com/mopidy/mopidy-spotify) - Mopidy extension for playing music from Spotify
-- [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [cquest/tootbot](https://github.com/cquest/tootbot) - python bot to clone tweets to a mastodon account
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [toji/semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
@@ -4928,7 +4927,7 @@
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) - Fish shell tool for managing Python virtual environments
 - [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-- [wmde/wikibase-docker](https://github.com/wmde/wikibase-docker) - 🐳 Docker images and example compose file for Wikibase and surrounding services
+- [wmde/wikibase-docker](https://github.com/wmde/wikibase-docker) - LEGACY 🐳 Docker images and example compose file for Wikibase and surrounding services
 - [etalab/inventaire-codes-sources-organismes-publics](https://github.com/etalab/inventaire-codes-sources-organismes-publics) - Inventaire des codes sources des organismes publics (archivé)
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
@@ -5331,6 +5330,7 @@
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
+- [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
