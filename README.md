@@ -494,7 +494,7 @@
 - [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
 - [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
-- [kotalco/kotal](https://github.com/kotalco/kotal) - Blockchain Kubernetes Operator
+- [kotalco/kotal](https://github.com/kotalco/kotal) - Kubernetes Blockchain Operator
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
@@ -1277,7 +1277,6 @@
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [hackerart/nextjs-auth-hoc](https://github.com/hackerart/nextjs-auth-hoc) - A Higher Order Component for restricting page access.
 - [possibilities/next-github-auth](https://github.com/possibilities/next-github-auth) - Components and decorators for using Github authentication with Next.js
-- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [AlexLakatos/workshop-tfjs-webspeech](https://github.com/AlexLakatos/workshop-tfjs-webspeech) - 
 - [kevinrobinson/tiny-trainer](https://github.com/kevinrobinson/tiny-trainer) - experiment with using the universal sentence encoder and KNN to make a classifier from small training sets
@@ -3781,6 +3780,7 @@
 
 ## Others 
 
+- [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -4199,6 +4199,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [panzi/verify-ehc](https://github.com/panzi/verify-ehc) - Simple Python script to decode and verify an European Health Certificate QR-code
 - [n0madic/gitlab-registry-images-cleaner](https://github.com/n0madic/gitlab-registry-images-cleaner) - Utility to remove old Docker images from the Gitlab registry
 - [aleph-im/pyaleph](https://github.com/aleph-im/pyaleph) - Next generation network of decentralized big data applications. Current connected chains: NULS, BNB and Ethereum.
@@ -5196,6 +5197,7 @@
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [qruzz/react-auth-hook](https://github.com/qruzz/react-auth-hook) - A small library for authenticating users in React using Auth0.
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [kitten/bunpkg](https://github.com/kitten/bunpkg) - A proof of concept clone of Unpkg running on Cloudflare Workers
