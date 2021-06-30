@@ -935,7 +935,6 @@
 - [opening-hours/opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
 - [3box/3box-orbitdb-plugins](https://github.com/3box/3box-orbitdb-plugins) - Custom identity-provider and access-controllers for orbitdb
 - [orbitdb/orbit-db-io](https://github.com/orbitdb/orbit-db-io) - Helper module used in OrbitDB to interface with storage layer
-- [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [HashQL/HashQL](https://github.com/HashQL/HashQL) - 
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
@@ -3781,6 +3780,8 @@
 
 ## Others 
 
+- [betagouv/securite-numerique-agile](https://github.com/betagouv/securite-numerique-agile) - Intégrer la sécurité numérique dans une démarche Agile
+- [Supraneth/archi_secu_EBIOS](https://github.com/Supraneth/archi_secu_EBIOS) - An EBIOS Risk Manager application
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
 - [huggingface/awesome-huggingface](https://github.com/huggingface/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
@@ -4246,7 +4247,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [Kinto/kinto-emailer](https://github.com/Kinto/kinto-emailer) - Plugin to manage email notifications on records modification in a collection.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for any kind of data
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [mozilla-services/poucave](https://github.com/mozilla-services/poucave) - A dumb auditing service
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
@@ -5051,6 +5052,7 @@
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
 - [ceramicstudio/js-3id-did-provider](https://github.com/ceramicstudio/js-3id-did-provider) - DID Provider for 3IDs in JavaScript
 - [hollygrimm/idx-ceramic-todos](https://github.com/hollygrimm/idx-ceramic-todos) - Secure Smart Documents (todos) on the Ceramic Network
+- [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
