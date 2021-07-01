@@ -472,6 +472,7 @@
 
 ## Go 
 
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
@@ -919,6 +920,7 @@
 
 ## JavaScript 
 
+- [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [betagouv/annuaire-api](https://github.com/betagouv/annuaire-api) - Une API pour les données de l'annuaire de service-public.fr
 - [dabit3/decentralized-identity-example](https://github.com/dabit3/decentralized-identity-example) - An authentication system built with Ceramic & IDX
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
@@ -1343,7 +1345,7 @@
 - [feross/play.cash](https://github.com/feross/play.cash) - 🎶 Music lovers, rejoice.
 - [mazko/jssnowball](https://github.com/mazko/jssnowball) - JavaScript Snowball Stemmers
 - [kerryrodden/tiny-tfidf](https://github.com/kerryrodden/tiny-tfidf) - Minimal implementations of a couple of classic text analysis tools (TF-IDF and cosine similarity)
-- [nib-edit/Nib](https://github.com/nib-edit/Nib) - Wysiwyg / Text editor components built using React and Prosemirror
+- [nib-edit/nib](https://github.com/nib-edit/nib) - Wysiwyg / Text editor components built using React and Prosemirror
 - [vercel/schemas](https://github.com/vercel/schemas) - All schemas used for validation that are shared between our projects
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
@@ -1933,7 +1935,7 @@
 - [rknightuk/micro-dashboard](https://github.com/rknightuk/micro-dashboard) - A dashboard for micro-analytics
 - [alexvcasillas/react-mobx-router](https://github.com/alexvcasillas/react-mobx-router) - Create React App with React Router 4 and MobX + Internationalization
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
-- [peeinears/MagicEye.js](https://github.com/peeinears/MagicEye.js) - Generate "Magic Eye" images in the browser
+- [peeinears/Stereogram.js](https://github.com/peeinears/Stereogram.js) - Generate stereogram images (popularized as "Magic Eye") in the browser
 - [flatiron/director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [kevva/screenshot-stream](https://github.com/kevva/screenshot-stream) - Capture screenshot of a website and return it as a stream
 - [alisd23/mobx-react-router](https://github.com/alisd23/mobx-react-router) - Keep your MobX state in sync with react-router
@@ -4824,7 +4826,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [dropbox/fast_rsync](https://github.com/dropbox/fast_rsync) - An optimized implementation of librsync in pure Rust.
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
@@ -5039,6 +5041,8 @@
 
 ## TypeScript 
 
+- [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - A simple JS/TS client for interacting with a Gotenberg API
+- [charto/cxsd](https://github.com/charto/cxsd) - Streaming XSD parser and XML parser generator with TypeScript output
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator (WiP)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [application-research/next-bucket](https://github.com/application-research/next-bucket) - A template to start a project easily with NextJS and Textile Buckets
