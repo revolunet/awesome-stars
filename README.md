@@ -5059,7 +5059,7 @@
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [UnlyEd/simple-logger](https://github.com/UnlyEd/simple-logger) - Simple universal and extra-light (1kB) logger for node/browser, with prefix, time and colours.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
