@@ -105,6 +105,7 @@
 
 ## C 
 
+- [cookiengineer/audacity](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -191,6 +192,7 @@
 
 ## C++ 
 
+- [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap) - Open source video mapping software
 - [collectif-pow/wifi-artnet](https://github.com/collectif-pow/wifi-artnet) - 
@@ -5248,7 +5250,7 @@
 - [climax/core](https://github.com/climax/core) - [In progress] The "Electron" for CLI applications: build and distribute cross-platform CLI clients with NodeJS.
 - [Weakky/ra-data-opencrud](https://github.com/Weakky/ra-data-opencrud) - A react-admin data provider for Prisma and GraphCMS
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
-- [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [FotonTech/gigatron](https://github.com/FotonTech/gigatron) - https://gigatron.now.sh/signin
 - [rodrigopivi/Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
