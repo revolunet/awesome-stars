@@ -105,7 +105,7 @@
 
 ## C 
 
-- [cookiengineer/audacity](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
+- [temporary-audacity/audacity](https://github.com/temporary-audacity/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -474,6 +474,7 @@
 
 ## Go 
 
+- [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
@@ -922,6 +923,7 @@
 
 ## JavaScript 
 
+- [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [betagouv/annuaire-api](https://github.com/betagouv/annuaire-api) - Une API pour les données de l'annuaire de service-public.fr
 - [dabit3/decentralized-identity-example](https://github.com/dabit3/decentralized-identity-example) - An authentication system built with Ceramic & IDX
@@ -4849,6 +4851,7 @@
 
 ## SCSS 
 
+- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - Système de Design de l'Etat
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [codebar/manual](https://github.com/codebar/manual) - 📖 The manual
