@@ -105,7 +105,7 @@
 
 ## C 
 
-- [temporary-audacity/audacity](https://github.com/temporary-audacity/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork without any Telemetry or Reporting.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -5223,7 +5223,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [frontier-forms/frontier-forms](https://github.com/frontier-forms/frontier-forms) - The smartest web-forms.
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
 - [netzwerg/react-svg-timeline](https://github.com/netzwerg/react-svg-timeline) - React event timeline component based on SVG
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
@@ -5260,7 +5260,7 @@
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [apollographql/apollo-link-persisted-queries](https://github.com/apollographql/apollo-link-persisted-queries) - Persisted Query support with Apollo Link
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
+- [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [EmmanuelDemey/codelab-elastic](https://github.com/EmmanuelDemey/codelab-elastic) - 
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
