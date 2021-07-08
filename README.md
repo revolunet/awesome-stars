@@ -105,7 +105,7 @@
 
 ## C 
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork without any Telemetry or Reporting.
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that!
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -1538,7 +1538,6 @@
 - [alphagov/accessible-autocomplete](https://github.com/alphagov/accessible-autocomplete) - An autocomplete component, built to be accessible.
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
 - [yldio/graphql-workshop](https://github.com/yldio/graphql-workshop) - GraphQL Workshop Material
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [jeeliz/jeelizWeboji](https://github.com/jeeliz/jeelizWeboji) - JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
@@ -4339,7 +4338,7 @@
 - [tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [metapensiero/metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [openfisca/calculette-impots-python](https://github.com/openfisca/calculette-impots-python) - Traduction en langage Python du code source (en langage M) du calculateur des impôts sur le revenu et sur la fortune
 - [ArmandGiraud/letor_scores](https://github.com/ArmandGiraud/letor_scores) - a flask minimal api to score a ranking system against human relevance scores
 - [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
@@ -5287,6 +5286,7 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [pedronauck/react-adopt](https://github.com/pedronauck/react-adopt) - :sunglasses: Compose render props components like a pro
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [Atrox/haikunatorjs](https://github.com/Atrox/haikunatorjs) - Generate Heroku-like random names to use in your node applications.
