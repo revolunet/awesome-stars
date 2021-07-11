@@ -5045,6 +5045,8 @@
 
 ## TypeScript 
 
+- [jedisct1/js-base64-ct](https://github.com/jedisct1/js-base64-ct) - Safe Base64 encoding/decoding in pure JavaScript.
+- [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - A simple JS/TS client for interacting with a Gotenberg API
 - [charto/cxsd](https://github.com/charto/cxsd) - Streaming XSD parser and XML parser generator with TypeScript output
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator (WiP)
