@@ -105,7 +105,7 @@
 
 ## C 
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems and is developed by a group of volunteers as an open source software that respects user privacy.
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -568,7 +568,7 @@
 - [tommy351/pullup](https://github.com/tommy351/pullup) - Update Kubernetes resources by webhooks.
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [infracloudio/botkube](https://github.com/infracloudio/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [ContainerSolutions/helm-monitor](https://github.com/ContainerSolutions/helm-monitor) - Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
@@ -744,7 +744,7 @@
 - [DISIC/guide-contribuer_accessible](https://github.com/DISIC/guide-contribuer_accessible) - Guide "Contribuer sur le Web de manière accessible"
 - [DISIC/rgaa_referentiel](https://github.com/DISIC/rgaa_referentiel) - Référentiel Général d'Accessibilité pour les Administrations
 - [entrepreneur-interet-general/api-ccomptes](https://github.com/entrepreneur-interet-general/api-ccomptes) - 
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks.
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [Sigfried/supergroup](https://github.com/Sigfried/supergroup) - Supergroup brings extreme convenience and understandability to the manipulation of Javascript data collections, especially in the context of D3.js visualization programming.
 - [kentcdodds/advanced-react-patterns-v1](https://github.com/kentcdodds/advanced-react-patterns-v1) - The course material for my advanced react patterns course on Egghead.io
 - [betagouv/beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr) - Le site public de l'Incubateur de Services Numériques de l'État
@@ -4206,6 +4206,7 @@
 
 ## Python 
 
+- [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [panzi/verify-ehc](https://github.com/panzi/verify-ehc) - Simple Python script to decode and verify an European Health Certificate QR-code
 - [n0madic/gitlab-registry-images-cleaner](https://github.com/n0madic/gitlab-registry-images-cleaner) - Utility to remove old Docker images from the Gitlab registry
@@ -4799,7 +4800,7 @@
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [covoiturage-libre/covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - UNMAINTAINED
 - [bamlab/fastlane-plugin-cordova](https://github.com/bamlab/fastlane-plugin-cordova) - Integrate your Cordova build into your Fastlane setup
-- [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [platanus/fastlane-cordova](https://github.com/platanus/fastlane-cordova) - 
 - [mkcode/cocoapod-to-cordova](https://github.com/mkcode/cocoapod-to-cordova) - Creates and updates a cordova plugman plugin.xml and vendored product from a cocoapod spec.
 - [fastlane/itc-api-docs](https://github.com/fastlane/itc-api-docs) - The unofficial documentation of the iTunes Connect JSON API
