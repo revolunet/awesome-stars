@@ -5016,6 +5016,7 @@
 
 ## Svelte 
 
+- [tushar10sh/hasura-keycloak-sveltekit-todo-app](https://github.com/tushar10sh/hasura-keycloak-sveltekit-todo-app) - 
 - [lovasoa/sanipasse](https://github.com/lovasoa/sanipasse) - Vérificateur de passe sanitaire open-source
 - [vnglst/svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
 
