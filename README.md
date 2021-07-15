@@ -31,6 +31,7 @@
   - [HaXe](#haxe)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
+  - [Idris](#idris)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -105,7 +106,7 @@
 
 ## C 
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -850,6 +851,10 @@
 ## Haxe 
 
 - [andyli/casahx](https://github.com/andyli/casahx) - A Haxe port of "CASA Lib for ActionScript", a great collection of helpful classes that streamline your coding.
+
+## Idris 
+
+- [channable/dbcritic](https://github.com/channable/dbcritic) - 
 
 ## Java 
 
