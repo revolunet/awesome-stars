@@ -199,7 +199,7 @@
 - [collectif-pow/wifi-artnet](https://github.com/collectif-pow/wifi-artnet) - 
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
-- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
+- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -928,6 +928,7 @@
 
 ## JavaScript 
 
+- [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [betagouv/annuaire-api](https://github.com/betagouv/annuaire-api) - Une API pour les données de l'annuaire de service-public.fr
@@ -4856,7 +4857,7 @@
 
 ## SCSS 
 
-- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - Système de Design de l'Etat
+- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - Système de Design de l'État
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [codebar/manual](https://github.com/codebar/manual) - 📖 The manual
