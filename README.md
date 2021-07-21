@@ -1500,7 +1500,7 @@
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [tchapgouv/tchap-web](https://github.com/tchapgouv/tchap-web) - A glossy Matrix collaboration client for the web.
 - [topheman/docker-experiments](https://github.com/topheman/docker-experiments) - Discover docker with a simple use case in development, production (local kubernetes) and CI
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [havardh/workflow](https://github.com/havardh/workflow) - Workflow-centric workspace manager
 - [chrisguttandin/midi-json-parser](https://github.com/chrisguttandin/midi-json-parser) - This module is parsing midi files into a human-readable JSON object.
@@ -5054,6 +5054,8 @@
 
 ## TypeScript 
 
+- [ftonato/vscode-password-generator](https://github.com/ftonato/vscode-password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
+- [Kinto/kinto-http.js](https://github.com/Kinto/kinto-http.js) - A JavaScript HTTP client for the Kinto API.
 - [jedisct1/js-base64-ct](https://github.com/jedisct1/js-base64-ct) - Safe Base64 encoding/decoding in pure JavaScript.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - A simple JS/TS client for interacting with a Gotenberg API
