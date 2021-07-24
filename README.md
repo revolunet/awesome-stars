@@ -475,6 +475,7 @@
 
 ## Go 
 
+- [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
 - [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runnners
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
@@ -5470,7 +5471,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
