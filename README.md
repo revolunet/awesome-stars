@@ -930,6 +930,7 @@
 
 ## JavaScript 
 
+- [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
@@ -1852,7 +1853,7 @@
 - [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
 - [evenchange4/react-grecaptcha](https://github.com/evenchange4/react-grecaptcha) - React.js Google reCAPTCHA v2 integration component.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [pbakaus/domvas](https://github.com/pbakaus/domvas) - Domvas implements the missing piece that connects the DOM and Canvas.
 - [graphile/graphile-engine](https://github.com/graphile/graphile-engine) - Monorepo home of graphile-build, graphile-build-pg, graphile-utils, postgraphile-core and graphql-parse-resolve-info. Build a high-performance easily-extensible GraphQL schema by combining plugins!
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
@@ -4213,6 +4214,7 @@
 
 ## Python 
 
+- [MrFrangipane/oscdmx](https://github.com/MrFrangipane/oscdmx) - OSC and DMX
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
