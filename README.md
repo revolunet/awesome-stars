@@ -525,7 +525,7 @@
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility and ease of use.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, template based vulnerability scanner focusing on extensive configurability, massive extensibility and ease of use.
 - [banzaicloud/dast-operator](https://github.com/banzaicloud/dast-operator) - Dynamic Application and API Security Testing
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -3611,6 +3611,7 @@
 
 ## Jinja 
 
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
@@ -4894,7 +4895,6 @@
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
 - [hpi-schul-cloud/jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
 - [adamzammit/limesurvey-docker](https://github.com/adamzammit/limesurvey-docker) - Production ready dockerised Limesurvey
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
 - [kind-ci/examples](https://github.com/kind-ci/examples) - Repository providing samples and testing for running sigs.k8s.io/kind on various CI services
 - [warnerbryce/DocumentServer](https://github.com/warnerbryce/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
@@ -5066,7 +5066,7 @@
 - [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - A simple JS/TS client for interacting with a Gotenberg API
 - [charto/cxsd](https://github.com/charto/cxsd) - Streaming XSD parser and XML parser generator with TypeScript output
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator (WiP)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [application-research/next-bucket](https://github.com/application-research/next-bucket) - A template to start a project easily with NextJS and Textile Buckets
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [coldi/r3f-game-demo](https://github.com/coldi/r3f-game-demo) - A demo on how to do a simple tile-based game with React and react-three-fiber
