@@ -5058,6 +5058,7 @@
 
 ## TypeScript 
 
+- [garronej/ts_ci](https://github.com/garronej/ts_ci) - ✅ Continuous integration setup for TypeScript projects via GitHub Actions.
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
 - [ftonato/vscode-password-generator](https://github.com/ftonato/vscode-password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
 - [Kinto/kinto-http.js](https://github.com/Kinto/kinto-http.js) - A JavaScript HTTP client for the Kinto API.
