@@ -525,7 +525,7 @@
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, template based vulnerability scanner focusing on extensive configurability, massive extensibility and ease of use.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [banzaicloud/dast-operator](https://github.com/banzaicloud/dast-operator) - Dynamic Application and API Security Testing
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -930,6 +930,7 @@
 
 ## JavaScript 
 
+- [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - find any drugs thanks to its name or barcode
 - [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
@@ -2454,7 +2455,6 @@
 - [jeffbski/redux-logic](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing all your business logic. Intercept actions and perform async processing.
 - [jimpick/lambda-comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 - [googleanalytics/autotrack](https://github.com/googleanalytics/autotrack) - Automatic and enhanced Google Analytics tracking for common user interactions on the web.
-- [douglowder/react-native-appletv](https://github.com/douglowder/react-native-appletv) - Apple TV support is now merged to facebook/react-native.
 - [MoOx/phenomic](https://github.com/MoOx/phenomic) - DEPRECATED. Please use Next.js instead.
 - [motdotla/node-lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your node.js application to Amazon Lambda
 - [erbbysam/webRTCCopy](https://github.com/erbbysam/webRTCCopy) - A simple file sharing application using webRTC-data.io
@@ -4215,6 +4215,7 @@
 
 ## Python 
 
+- [viralpoetry/kubesurveyor](https://github.com/viralpoetry/kubesurveyor) - Good enough Kubernetes namespace visualization tool
 - [MrFrangipane/oscdmx](https://github.com/MrFrangipane/oscdmx) - OSC and DMX
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
@@ -5058,7 +5059,7 @@
 
 ## TypeScript 
 
-- [garronej/ts_ci](https://github.com/garronej/ts_ci) - ✅ Continuous integration setup for TypeScript projects via GitHub Actions.
+- [InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify) - 🔏 Create Keycloak themes using React
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
 - [ftonato/vscode-password-generator](https://github.com/ftonato/vscode-password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
 - [Kinto/kinto-http.js](https://github.com/Kinto/kinto-http.js) - A JavaScript HTTP client for the Kinto API.
@@ -5075,7 +5076,7 @@
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
-- [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The ½ kb state machine hook for React
+- [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
 - [ceramicstudio/js-3id-did-provider](https://github.com/ceramicstudio/js-3id-did-provider) - DID Provider for 3IDs in JavaScript
 - [hollygrimm/idx-ceramic-todos](https://github.com/hollygrimm/idx-ceramic-todos) - Secure Smart Documents (todos) on the Ceramic Network
