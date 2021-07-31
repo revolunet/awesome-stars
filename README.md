@@ -1098,7 +1098,7 @@
 - [breejs/later](https://github.com/breejs/later) - *Maintained fork of Later.* A javascript library for defining recurring schedules and calculating future (or past) occurrences for them. Includes support for using English phrases and Cron schedules. Works in Node and in the browser.
 - [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.34.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt) - Add files to IPFS with encryption
+- [mimadottech/ipfs-crypt](https://github.com/mimadottech/ipfs-crypt) - Add files to IPFS with encryption
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
