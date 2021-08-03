@@ -429,7 +429,6 @@
 - [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
 - [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux
-- [djmaze/docker-caching-proxy](https://github.com/djmaze/docker-caching-proxy) - Caching proxy docker image
 - [smartive/semantic-release-image](https://github.com/smartive/semantic-release-image) - Docker image with semantic-release and plugins installed so you can just put the `releaserc` file into your repo.
 - [yeasy/docker-ipfs](https://github.com/yeasy/docker-ipfs) - Docker Image for IPFS node
 - [alexellis/cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
@@ -4897,6 +4896,7 @@
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
 - [hpi-schul-cloud/jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
 - [adamzammit/limesurvey-docker](https://github.com/adamzammit/limesurvey-docker) - Production ready dockerised Limesurvey
+- [djmaze/docker-caching-proxy](https://github.com/djmaze/docker-caching-proxy) - Caching proxy docker image
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
 - [kind-ci/examples](https://github.com/kind-ci/examples) - Repository providing samples and testing for running sigs.k8s.io/kind on various CI services
 - [warnerbryce/DocumentServer](https://github.com/warnerbryce/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
