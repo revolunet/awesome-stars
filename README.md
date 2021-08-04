@@ -872,7 +872,6 @@
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [EugenMayer/officeconverter](https://github.com/EugenMayer/officeconverter) - Convert file formats like docx, xlx to other formats like pdf, png - based on jodconverter and libreoffice
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
@@ -3721,6 +3720,7 @@
 
 ## OCaml 
 
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [bloodyowl/reReactPrimitives](https://github.com/bloodyowl/reReactPrimitives) - Primitive components to build UI on the web with ReasonReact
 
@@ -4215,6 +4215,7 @@
 
 ## Python 
 
+- [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [viralpoetry/kubesurveyor](https://github.com/viralpoetry/kubesurveyor) - Good enough Kubernetes namespace visualization tool
 - [MrFrangipane/oscdmx](https://github.com/MrFrangipane/oscdmx) - OSC and DMX
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
