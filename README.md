@@ -928,6 +928,8 @@
 
 ## JavaScript 
 
+- [evanshortiss/keycloak-nodejs-quickstart-tutorial](https://github.com/evanshortiss/keycloak-nodejs-quickstart-tutorial) - A strong starting point and tutorial for Keycloak secured applications 💪
+- [keycloak/keycloak-nodejs-connect](https://github.com/keycloak/keycloak-nodejs-connect) - 
 - [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - find any drugs thanks to its name or barcode
 - [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
@@ -1228,7 +1230,6 @@
 - [temando/open-api-renderer](https://github.com/temando/open-api-renderer) - 🎩 A React renderer for OpenAPI v3.
 - [byu-oit/openapi-enforcer](https://github.com/byu-oit/openapi-enforcer) - 
 - [Redocly/openapi-sampler](https://github.com/Redocly/openapi-sampler) - :capital_abcd: Tool for generation samples based on OpenAPI(fka Swagger) payload/response schema
-- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [streamxorg/streamx](https://github.com/streamxorg/streamx) - An iteration of the Node.js core streams with a series of improvements.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
@@ -1840,7 +1841,7 @@
 - [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
 - [arscan/encom-boardroom](https://github.com/arscan/encom-boardroom) - 📈 Web tribute to the Tron: Legacy Boardroom Scene
-- [kir-belevich/hocs](https://github.com/kir-belevich/hocs) - :bento: Higher-Order Components for React
+- [deepsweet/hocs](https://github.com/deepsweet/hocs) - :bento: Higher-Order Components for React
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
@@ -5214,6 +5215,7 @@
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [castorini/covidex](https://github.com/castorini/covidex) - A multi-stage neural search engine for the COVID-19 Open Research Dataset
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [sqren/backport](https://github.com/sqren/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [wokwi/wokwi-elements](https://github.com/wokwi/wokwi-elements) - Web Components for Electronics and IoT Parts
