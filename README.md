@@ -127,7 +127,7 @@
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [guenthermi/postgres-word2vec](https://github.com/guenthermi/postgres-word2vec) - utils to use word embedding like word2vec vectors in a postgres database
+- [guenthermi/postgres-word2vec](https://github.com/guenthermi/postgres-word2vec) - utils to use word embedding models like word2vec vectors in a PostgreSQL database
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [toblum/McLighting](https://github.com/toblum/McLighting) - The ESP8266 based multi-client lighting gadget
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -474,6 +474,7 @@
 
 ## Go 
 
+- [appscode/osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
 - [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runnners
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
@@ -928,6 +929,8 @@
 
 ## JavaScript 
 
+- [UKHomeOffice/formio-gds-template](https://github.com/UKHomeOffice/formio-gds-template) - Formio template for GDS
+- [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [evanshortiss/keycloak-nodejs-quickstart-tutorial](https://github.com/evanshortiss/keycloak-nodejs-quickstart-tutorial) - A strong starting point and tutorial for Keycloak secured applications 💪
 - [keycloak/keycloak-nodejs-connect](https://github.com/keycloak/keycloak-nodejs-connect) - 
 - [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - find any drugs thanks to its name or barcode
@@ -996,7 +999,7 @@
 - [laem/futureco-data](https://github.com/laem/futureco-data) - Les modèles de calcul de futur.eco
 - [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) - We are a small group of friendly humans working on an open source project to make informal video calls more fun and dynamic.
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - Non-official React components of the official French Governement Design System.
+- [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - Non-official React components of the official french Système de Design de l'État.
 - [vasturiano/aframe-forcegraph-component](https://github.com/vasturiano/aframe-forcegraph-component) - Force-directed graph component for A-Frame
 - [rwieruch/purchasing-power-parity](https://github.com/rwieruch/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
