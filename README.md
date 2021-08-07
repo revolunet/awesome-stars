@@ -929,6 +929,8 @@
 
 ## JavaScript 
 
+- [marmelab/ArcheoloGit](https://github.com/marmelab/ArcheoloGit) - Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.
+- [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for 3D printing applications.
 - [UKHomeOffice/formio-gds-template](https://github.com/UKHomeOffice/formio-gds-template) - Formio template for GDS
 - [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [evanshortiss/keycloak-nodejs-quickstart-tutorial](https://github.com/evanshortiss/keycloak-nodejs-quickstart-tutorial) - A strong starting point and tutorial for Keycloak secured applications 💪
@@ -4246,7 +4248,7 @@
 - [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
 - [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [GoogleCloudPlatform/fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) - 
 - [erwtokritos/keras-glove](https://github.com/erwtokritos/keras-glove) - Implementation of GloVe in Keras
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
@@ -5499,7 +5501,7 @@
 
 ## WebAssembly 
 
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 
 ## XSLT 
 
