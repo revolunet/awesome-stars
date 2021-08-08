@@ -425,6 +425,7 @@
 
 ## Dockerfile 
 
+- [controlplaneio/kubesec-action](https://github.com/controlplaneio/kubesec-action) - Runs Kubesec as GitHub action
 - [rberrelleza/duketeto](https://github.com/rberrelleza/duketeto) - Debian + Wine + OpenVNC + Docker Compose + Okteto = awesome
 - [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
 - [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux
@@ -4893,6 +4894,7 @@
 
 ## Shell 
 
+- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [soulshake/fonos](https://github.com/soulshake/fonos) - Sonos-like multi-room audio setup for Raspberry Pi
 - [AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller](https://github.com/AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller) - DIY Call of Duty Warzone controller built using a nerf gun powered by the Raspberry Pi 4.
@@ -5067,6 +5069,7 @@
 
 ## TypeScript 
 
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify) - 🔏 Create Keycloak themes using React
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
 - [ftonato/vscode-password-generator](https://github.com/ftonato/vscode-password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
