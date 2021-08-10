@@ -425,6 +425,7 @@
 
 ## Dockerfile 
 
+- [appleboy/gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
 - [controlplaneio/kubesec-action](https://github.com/controlplaneio/kubesec-action) - Runs Kubesec as GitHub action
 - [rberrelleza/duketeto](https://github.com/rberrelleza/duketeto) - Debian + Wine + OpenVNC + Docker Compose + Okteto = awesome
 - [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
@@ -475,6 +476,7 @@
 
 ## Go 
 
+- [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages Prototype Pollution to XSS by exploiting known gadgets.
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [appscode/osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
@@ -932,6 +934,7 @@
 
 ## JavaScript 
 
+- [danfinlay/jazzicon](https://github.com/danfinlay/jazzicon) - Jazzy deterministic identicons for a more entertaining future.
 - [marmelab/ArcheoloGit](https://github.com/marmelab/ArcheoloGit) - Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for 3D printing applications.
 - [UKHomeOffice/formio-gds-template](https://github.com/UKHomeOffice/formio-gds-template) - Formio template for GDS
@@ -1963,7 +1966,7 @@
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
-- [stripe/react-stripe-elements](https://github.com/stripe/react-stripe-elements) - Moved to stripe/react-stripe-js.
+- [stripe-archive/react-stripe-elements](https://github.com/stripe-archive/react-stripe-elements) - Moved to stripe/react-stripe-js.
 - [MoOx/react-svg-inline](https://github.com/MoOx/react-svg-inline) - DEPRECATED, I recommend you the tool SVGR
 - [vesparny/fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
@@ -4837,6 +4840,7 @@
 
 ## Rust 
 
+- [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -5071,6 +5075,9 @@
 
 ## TypeScript 
 
+- [ChainSafe/js-libp2p-noise](https://github.com/ChainSafe/js-libp2p-noise) - Noise libp2p handshake for js-libp2p
+- [moodysalem/jointz](https://github.com/moodysalem/jointz) - ✅ Zero dependency universal TypeScript validation library
+- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify) - 🔏 Create Keycloak themes using React
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
