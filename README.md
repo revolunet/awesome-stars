@@ -741,7 +741,6 @@
 - [sourcey/spectacle](https://github.com/sourcey/spectacle) - Beautiful static documentation generator for OpenAPI/Swagger 2.0
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - The Definitive Guide to Elasticsearch
-- [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to OKD (Origin Community Distribution of Kubernetes) with Ansible
 - [MattiSG/decider-mes-impots](https://github.com/MattiSG/decider-mes-impots) - Une application web pour orienter le type d'actions que je souhaite que mes impôts financent.
 - [bootprint/bootprint](https://github.com/bootprint/bootprint) - Converts json into a static html page using Handlebars and Bootstrap, this repository has moved to https://github.com/bootprint/bootprint-monorepo/tree/master/packages/bootprint
 - [entrepreneur-interet-general/sill](https://github.com/entrepreneur-interet-general/sill) - Socle interministériel des logiciels libres
@@ -1491,7 +1490,6 @@
 - [Ivshti/linvodb3](https://github.com/Ivshti/linvodb3) - Persistent database for Node.js/NW.js/Electron with MongoDB/Mongoose-like features and interface on top of LevelUp
 - [CenterForCollectiveLearning/DIVE-frontend](https://github.com/CenterForCollectiveLearning/DIVE-frontend) - Codebase for DIVE SPA using React and Redux
 - [bredele/date-resolve](https://github.com/bredele/date-resolve) - Resolve Numbers, Dates or Strings (RFC822 and ISO 861) into dates in milliseconds
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
@@ -3625,6 +3623,7 @@
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to OKD (Origin Community Distribution of Kubernetes) with Ansible
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Jsonnet 
@@ -3710,6 +3709,7 @@
 ## Makefile 
 
 - [topheman/webassembly-wasi-experiments](https://github.com/topheman/webassembly-wasi-experiments) - Discover WebAssembly System Interface (WASI) with C/Rust use cases
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [scriptype/Makefile-for-the-Front-End](https://github.com/scriptype/Makefile-for-the-Front-End) - A decent Makefile for fast prototyping and a good development experience.
 
 ## Markdown 
@@ -4228,6 +4228,7 @@
 
 ## Python 
 
+- [juju2013/MPFA](https://github.com/juju2013/MPFA) - Make your Pass (sanitaire) Fun Again
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [viralpoetry/kubesurveyor](https://github.com/viralpoetry/kubesurveyor) - Good enough Kubernetes namespace visualization tool
 - [MrFrangipane/oscdmx](https://github.com/MrFrangipane/oscdmx) - OSC and DMX
@@ -4919,7 +4920,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
 - [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - Load testing as a service (LTaaS) with Apache Jmeter on kubernetes
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secured by default !
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
