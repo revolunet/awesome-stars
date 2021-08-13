@@ -933,6 +933,7 @@
 
 ## JavaScript 
 
+- [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [dabit3/polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) - A full stack digital marketplace running on Ethereum with Polygon & Next.js
 - [danfinlay/jazzicon](https://github.com/danfinlay/jazzicon) - Jazzy deterministic identicons for a more entertaining future.
 - [marmelab/ArcheoloGit](https://github.com/marmelab/ArcheoloGit) - Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.
@@ -4842,7 +4843,7 @@
 
 ## Rust 
 
-- [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
+- [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
