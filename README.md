@@ -3824,7 +3824,7 @@
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
-- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - a metadata standard for public software
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
 - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.
 - [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) - A list of awesome projects built on Ceramic
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
@@ -5083,6 +5083,7 @@
 
 ## TypeScript 
 
+- [danomatic/react-pdf-html](https://github.com/danomatic/react-pdf-html) - Render HTML in react-pdf
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [MyUnisoft/httpie](https://github.com/MyUnisoft/httpie) - A modern and light Node.js http client 🐢🚀 (built with undici under the hood).
 - [ChainSafe/js-libp2p-noise](https://github.com/ChainSafe/js-libp2p-noise) - Noise libp2p handshake for js-libp2p
