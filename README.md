@@ -106,7 +106,6 @@
 
 ## C 
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -193,6 +192,7 @@
 
 ## C++ 
 
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap) - Open source video mapping software
@@ -864,6 +864,7 @@
 
 ## Java 
 
+- [cloudtrust/event-emitter](https://github.com/cloudtrust/event-emitter) - 
 - [keycloak/keycloak-quickstarts](https://github.com/keycloak/keycloak-quickstarts) - 
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -5083,6 +5084,7 @@
 
 ## TypeScript 
 
+- [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
 - [danomatic/react-pdf-html](https://github.com/danomatic/react-pdf-html) - Render HTML in react-pdf
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [MyUnisoft/httpie](https://github.com/MyUnisoft/httpie) - A modern and light Node.js http client 🐢🚀 (built with undici under the hood).
