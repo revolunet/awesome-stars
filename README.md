@@ -40,6 +40,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [KiCad](#kicad)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [LiveScript](#livescript)
   - [Lua](#lua)
   - [MATLAB](#matlab)
@@ -303,7 +304,6 @@
 - [juba/tidyverse](https://github.com/juba/tidyverse) - Introduction à R et au tidyverse
 - [clementoriol/MetroDNA](https://github.com/clementoriol/MetroDNA) - MetroDNA est une librairie de symboles de Transports en Commun Parisiens (RATP - SNCF) faciles à intégrer à vos sites. Metro, RER, Tram, Transilien. Versions CSS ou SASS Disponibles.
 - [MTES-MCT/numerique](https://github.com/MTES-MCT/numerique) - 
-- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [amaroteam/react-credit-cards](https://github.com/amaroteam/react-credit-cards) - Beautiful credit cards for your payment forms
 - [elefevre/opendatadiversite](https://github.com/elefevre/opendatadiversite) - 
 - [fnky/css3-uiswitch](https://github.com/fnky/css3-uiswitch) - A pretty sweet and pure CSS3 iOS 7 UISwitch
@@ -494,7 +494,7 @@
 - [oursky/kubernetes-github-authn](https://github.com/oursky/kubernetes-github-authn) - GitHub token authentication for Kubernetes
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [vorteil/direktiv](https://github.com/vorteil/direktiv) - Serverless Container Workflows
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
@@ -3694,6 +3694,10 @@
 
 - [theopenconversationkit/tock](https://github.com/theopenconversationkit/tock) - Tock - the open source conversational AI toolkit
 
+## Less 
+
+- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
+
 ## LiveScript 
 
 - [pgrest/pgrest](https://github.com/pgrest/pgrest) - enable REST in postgres
@@ -3812,6 +3816,7 @@
 
 ## Others 
 
+- [emma11y/sous-titres](https://github.com/emma11y/sous-titres) - Liste des outils pour sous-titrer vos vidéos et podcasts
 - [shank-git/metal-kubes](https://github.com/shank-git/metal-kubes) - Create OnPrem Kubernetes Cluster
 - [betagouv/securite-numerique-agile](https://github.com/betagouv/securite-numerique-agile) - Intégrer la sécurité numérique dans une démarche Agile
 - [Supraneth/archi_secu_EBIOS](https://github.com/Supraneth/archi_secu_EBIOS) - An EBIOS Risk Manager application
@@ -4248,7 +4253,7 @@
 - [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - Semgrep CI is a specialized Docker image for running Semgrep in CI environments. It can either be used stand-alone or connected with Semgrep App for centralized rule and findings management.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
-- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 18 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
