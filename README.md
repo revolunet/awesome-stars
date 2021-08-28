@@ -53,7 +53,6 @@
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
   - [Open Policy Agent](#open-policy-agent)
-  - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
@@ -235,6 +234,7 @@
 - [MechaDuck/HexapodHDA](https://github.com/MechaDuck/HexapodHDA) - University Project: Design of a six-legged Hexapod with 3 DoF at each leg. Communication and control implementation on an Arduino 2560.
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
 - [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) - Node bindings for YOLO/Darknet image recognition library
@@ -497,7 +497,7 @@
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
-- [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
@@ -3630,7 +3630,7 @@
 - [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to OKD (Origin Community Distribution of Kubernetes) with Ansible
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jsonnet 
 
@@ -3809,10 +3809,6 @@
 ## Open Policy Agent 
 
 - [gbrindisi/dockerfile-security](https://github.com/gbrindisi/dockerfile-security) - A collection of OPA rules to statically analyze Dockerfiles to improve security
-
-## OpenSCAD 
-
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 
 ## Others 
 
