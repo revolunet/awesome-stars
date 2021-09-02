@@ -360,6 +360,7 @@
 - [mrkrupski/LESS-Dynamic-Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - A set of useful mixins for LESS, the CSS pre-processor: http://lesscss.org
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 - [NathanStrutz/LESS-CSS-Shapes-Library](https://github.com/NathanStrutz/LESS-CSS-Shapes-Library) - A mixin library of shapes for LESS CSS.
+- [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 - [ffranke/Laker-Compendium](https://github.com/ffranke/Laker-Compendium) - Laker is a compendium of files, frameworks, styles and tips for designing digital publications in HTML5.
 - [Kronuz/pyScss](https://github.com/Kronuz/pyScss) - pyScss, a Scss compiler for Python
 - [desandro/3dtransforms](https://github.com/desandro/3dtransforms) - :package: Introduction to CSS 3D transforms
@@ -1855,7 +1856,6 @@
 - [threepointone/markdown-in-js](https://github.com/threepointone/markdown-in-js) - inline markdown for react/jsx
 - [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [mafintosh/wat2js](https://github.com/mafintosh/wat2js) - Compile WebAssembly .wat files to a common js module
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
 - [arscan/encom-boardroom](https://github.com/arscan/encom-boardroom) - 📈 Web tribute to the Tron: Legacy Boardroom Scene
@@ -2087,7 +2087,7 @@
 - [withspectrum/micro-open-graph](https://github.com/withspectrum/micro-open-graph) - A tiny Node.js microservice to scrape open graph data with joy.
 - [feross/yt-player](https://github.com/feross/yt-player) - Simple, robust, blazing-fast YouTube Player API
 - [ginpei/html5-youtube.js](https://github.com/ginpei/html5-youtube.js) - YouTube Player API wrapper like HTML5 video API.
-- [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine Microsoft Stream or VideoPress video id from a url or embed string.
+- [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine, TikTok, Dailymotion, Microsoft Stream or VideoPress video id from a url or embed string.
 - [kelaberetiv/TagUI](https://github.com/kelaberetiv/TagUI) - Free RPA tool by AI Singapore
 - [jxnblk/repng](https://github.com/jxnblk/repng) - React component to PNG converter
 - [n5ro/aframe-physics-system](https://github.com/n5ro/aframe-physics-system) - Physics system for A-Frame VR, built on CANNON.js.
@@ -4065,6 +4065,7 @@
 - [btnwtn/awesome-guitar](https://github.com/btnwtn/awesome-guitar) - 🎸 A collection of awesome guitar resources.
 - [WebReflection/benja](https://github.com/WebReflection/benja) - Bootable Electron Node JS Application
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mbj36/awesome-service-workers](https://github.com/mbj36/awesome-service-workers) - A Collection of some awesome Service-Workers resources. Feel Free to contribute if u feel it's worth adding in this repository
 - [jas-chen/thisless-react](https://github.com/jas-chen/thisless-react) - Reactive React application flow with React, RxJS and Redux
 - [ouralien/raspberry-pi-chromium-kiosk-mode](https://github.com/ouralien/raspberry-pi-chromium-kiosk-mode) - Chromium 48 on Debian 8 (Jessie) in a kiosk mode.
@@ -5026,7 +5027,6 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [c0b/chrome-in-docker](https://github.com/c0b/chrome-in-docker) - run Google Chrome in container (as a perfect headless browser)
 - [DuckyTeam/heroku-buildpack-imagemagick](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [bahmutov/secure-dokku](https://github.com/bahmutov/secure-dokku) - A single Bash script to run on fresh Dokku install that sets Nginx to be secure (gets A on SSLabs)
 - [mbriskar/dokku-wkhtmltopdf](https://github.com/mbriskar/dokku-wkhtmltopdf) - Installs the wkhtmltopdf in the dokku-managed docker container
 - [nickstenning/dokku-webhooks](https://github.com/nickstenning/dokku-webhooks) - A dokku plugin for triggering external webhooks.
@@ -5219,7 +5219,7 @@
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [omnibrain/svguitar](https://github.com/omnibrain/svguitar) - Create beautiful SVG guitar chord charts
-- [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for react-three-fiber
+- [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [medialab/tesselle](https://github.com/medialab/tesselle) - an image annotation and publication tool
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -5279,7 +5279,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [frontier-forms/frontier-forms](https://github.com/frontier-forms/frontier-forms) - The smartest web-forms.
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [netzwerg/react-svg-timeline](https://github.com/netzwerg/react-svg-timeline) - React event timeline component based on SVG
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
@@ -5397,6 +5397,7 @@
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [chrisguttandin/web-audio-conference-2017](https://github.com/chrisguttandin/web-audio-conference-2017) - My talk at the Web Audio Conference 2017.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
 - [vitaly-t/pg-promise-demo](https://github.com/vitaly-t/pg-promise-demo) - :eyeglasses: Advanced example of using pg-promise
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
@@ -5496,7 +5497,6 @@
 - [angular-gantt/angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
 - [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
-- [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 
