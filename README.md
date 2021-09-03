@@ -936,6 +936,7 @@
 
 ## JavaScript 
 
+- [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Master the art of the most powerful testing technique for Node.js: Component tests. Including super-comprehensive best practices list and an example app (August 2021)
@@ -1498,6 +1499,7 @@
 - [Ivshti/linvodb3](https://github.com/Ivshti/linvodb3) - Persistent database for Node.js/NW.js/Electron with MongoDB/Mongoose-like features and interface on top of LevelUp
 - [CenterForCollectiveLearning/DIVE-frontend](https://github.com/CenterForCollectiveLearning/DIVE-frontend) - Codebase for DIVE SPA using React and Redux
 - [bredele/date-resolve](https://github.com/bredele/date-resolve) - Resolve Numbers, Dates or Strings (RFC822 and ISO 861) into dates in milliseconds
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
@@ -3720,7 +3722,6 @@
 ## Makefile 
 
 - [topheman/webassembly-wasi-experiments](https://github.com/topheman/webassembly-wasi-experiments) - Discover WebAssembly System Interface (WASI) with C/Rust use cases
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [scriptype/Makefile-for-the-Front-End](https://github.com/scriptype/Makefile-for-the-Front-End) - A decent Makefile for fast prototyping and a good development experience.
 
 ## Markdown 
@@ -4292,6 +4293,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [mozilla-services/poucave](https://github.com/mozilla-services/poucave) - A dumb auditing service
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [gw3l/richelieu](https://github.com/gw3l/richelieu) - Solution complète du challenge Richelieu de la DGSE
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [LonnyGomes/CountryGeoJSONCollection](https://github.com/LonnyGomes/CountryGeoJSONCollection) - A collection GeoJSON files of all first admin boundaries generated from the natural earth dataset
@@ -4931,7 +4933,6 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
 - [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - Load testing as a service (LTaaS) with Apache Jmeter on kubernetes
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
@@ -5132,7 +5133,7 @@
 - [simonireilly/observatory-github-action](https://github.com/simonireilly/observatory-github-action) - Run https://observatory.mozilla.org/ against pull requests and preview URLs
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [opengovsg/formsg-javascript-sdk](https://github.com/opengovsg/formsg-javascript-sdk) - JavaScript SDK for integrating with FormSG
-- [ceramicstudio/js-idx](https://github.com/ceramicstudio/js-idx) - JavaScript SDK for managing decentralized identities and building apps with interoperable data.
+- [ceramicstudio/js-glaze](https://github.com/ceramicstudio/js-glaze) - A set of libraries and tools built on top of Ceramic to help support some common use-cases.
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
