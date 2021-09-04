@@ -1040,7 +1040,6 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
 - [Viglino/ol-ext](https://github.com/Viglino/ol-ext) - Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.
 - [mikeal/IPSQL](https://github.com/mikeal/IPSQL) - InterPlanetary SQL
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [francoisromain/leaflet-markers-canvas](https://github.com/francoisromain/leaflet-markers-canvas) - A Leaflet plugin to render many markers in a canvas instead of the DOM
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [NodeSecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) - JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
@@ -5159,6 +5158,7 @@
 - [Borewit/readable-web-to-node-stream](https://github.com/Borewit/readable-web-to-node-stream) - Converts a Web-API readable-stream into a Node readable-stream.
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 - [kamiazya/typedoc-plugin-mermaid](https://github.com/kamiazya/typedoc-plugin-mermaid) - A plugin for TypeDoc that generates graphs for mermaid.js diagrams by @mermaid annotation.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [sergiodxa/swr-sync-storage](https://github.com/sergiodxa/swr-sync-storage) - Synchronize SWR cache with localStorage or sessionStorage to get offline cache
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - A modern, lightweight, performant, accessible and  extensible drag & drop toolkit for React.
