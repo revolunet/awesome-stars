@@ -1169,7 +1169,7 @@
 - [davidbonan/excalidraw-share-peer-link](https://github.com/davidbonan/excalidraw-share-peer-link) - Link to excalidraw from tiers application React
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [matomo-org/matomo-nodejs-tracker](https://github.com/matomo-org/matomo-nodejs-tracker) - A Node.js wrapper for the Matomo (Piwik) tracking HTTP API
-- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - •:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
+- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - XgeneCloud is now https://github.com/nocodb/nocodb
 - [vaultec81/js-pinza](https://github.com/vaultec81/js-pinza) - Pinza is a distributed IPFS pinning system using orbitdb as a decentralized database
 - [ipfs/js-ipfsd-ctl](https://github.com/ipfs/js-ipfsd-ctl) - Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!
 - [libp2p/js-libp2p-kad-dht](https://github.com/libp2p/js-libp2p-kad-dht) - JavaScript implementation of the DHT for libp2p
