@@ -2022,7 +2022,7 @@
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [ilkkao/capture-video-frame](https://github.com/ilkkao/capture-video-frame) - Take screenshots from a &lt;video&gt; element
 - [choojs/nanotask](https://github.com/choojs/nanotask) - Microtask queue scheduler for the browser
-- [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion (Web Audio Inspector) is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time and lets users inspect nodes.
+- [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
 - [PlasmaPower/phash-image](https://github.com/PlasmaPower/phash-image) - phash for images
 - [artheus/media-file-probe](https://github.com/artheus/media-file-probe) - node module using ffprobe to get metadata
 - [philbot9/youtube-info](https://github.com/philbot9/youtube-info) - Fetch meta information about YouTube videos
@@ -2113,7 +2113,7 @@
 - [linkmesrl/react-redux-dashboard](https://github.com/linkmesrl/react-redux-dashboard) - React Redux Dashboard with redux-saga and local-storage support
 - [AdamPflug/express-brute](https://github.com/AdamPflug/express-brute) - Brute-force protection middleware for express routes by rate limiting incoming requests
 - [elierotenberg/react-prepare](https://github.com/elierotenberg/react-prepare) - Prepare you app state for async server-side rendering and more!
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
 - [cvan/webvr360](https://github.com/cvan/webvr360) - It's like Tim Berners-Lee meets Oculus meets YouTube.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
