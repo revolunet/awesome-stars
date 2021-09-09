@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - A Python library for adding effects to audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
@@ -937,6 +938,8 @@
 
 ## JavaScript 
 
+- [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
+- [laruiss/vue-dsfr](https://github.com/laruiss/vue-dsfr) - Portage en Vue du DSFR
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
@@ -4672,7 +4675,7 @@
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [t3rm1n4l/s3cmd](https://github.com/t3rm1n4l/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [chartit/django-chartit](https://github.com/chartit/django-chartit) - A Django app to plot charts and pivot charts directly from the models. Uses HighCharts and jQuery JavaScript libraries to render the charts on the webpage.
-- [condemil/Gist](https://github.com/condemil/Gist) - Sublime Text plugin for creating new Gists from selected text
+- [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
 - [unk2k/Flask-memcache-session](https://github.com/unk2k/Flask-memcache-session) - Adds the ability to use as a storage memcache
 - [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files
