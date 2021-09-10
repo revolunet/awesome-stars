@@ -1763,7 +1763,7 @@
 - [crossfilter/universe](https://github.com/crossfilter/universe) - The fastest way to query and explore multivariate datasets
 - [crossfilter/crossfilter](https://github.com/crossfilter/crossfilter) - Fast n-dimensional filtering and grouping of records.
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators
-- [Iwasawafag/node-potrace](https://github.com/Iwasawafag/node-potrace) - JavaScript port of Potrace, for NodeJS
+- [iwsfg/node-potrace](https://github.com/iwsfg/node-potrace) - JavaScript port of Potrace, for NodeJS
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
 - [willsoto/validate-commit](https://github.com/willsoto/validate-commit) - Validate commit messages
@@ -3817,6 +3817,8 @@
 
 ## Others 
 
+- [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
+- [justinsteven/advisories](https://github.com/justinsteven/advisories) - 
 - [emma11y/sous-titres](https://github.com/emma11y/sous-titres) - Liste des outils pour sous-titrer vos vidéos et podcasts
 - [shank-git/metal-kubes](https://github.com/shank-git/metal-kubes) - Create OnPrem Kubernetes Cluster
 - [betagouv/securite-numerique-agile](https://github.com/betagouv/securite-numerique-agile) - Intégrer la sécurité numérique dans une démarche Agile
@@ -5091,6 +5093,7 @@
 
 ## TypeScript 
 
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - 
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
 - [danomatic/react-pdf-html](https://github.com/danomatic/react-pdf-html) - Render HTML in react-pdf
