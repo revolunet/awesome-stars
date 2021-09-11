@@ -192,7 +192,7 @@
 
 ## C++ 
 
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - A Python library for adding effects to audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
@@ -478,6 +478,7 @@
 
 ## Go 
 
+- [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
@@ -938,6 +939,7 @@
 
 ## JavaScript 
 
+- [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [laruiss/vue-dsfr](https://github.com/laruiss/vue-dsfr) - Portage en Vue du DSFR
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
