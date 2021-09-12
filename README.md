@@ -5096,7 +5096,7 @@
 ## TypeScript 
 
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
-- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - 
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - WIP - Not Ready Yet.
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
 - [danomatic/react-pdf-html](https://github.com/danomatic/react-pdf-html) - Render HTML in react-pdf
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
