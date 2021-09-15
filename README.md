@@ -519,7 +519,7 @@
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [keycloak/keycloak-operator](https://github.com/keycloak/keycloak-operator) - A Kubernetes Operator based on the Operator SDK for syncing resources in Keycloak
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
@@ -2118,7 +2118,7 @@
 - [linkmesrl/react-redux-dashboard](https://github.com/linkmesrl/react-redux-dashboard) - React Redux Dashboard with redux-saga and local-storage support
 - [AdamPflug/express-brute](https://github.com/AdamPflug/express-brute) - Brute-force protection middleware for express routes by rate limiting incoming requests
 - [elierotenberg/react-prepare](https://github.com/elierotenberg/react-prepare) - Prepare you app state for async server-side rendering and more!
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [cvan/webvr360](https://github.com/cvan/webvr360) - It's like Tim Berners-Lee meets Oculus meets YouTube.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
@@ -5143,7 +5143,7 @@
 - [simonireilly/observatory-github-action](https://github.com/simonireilly/observatory-github-action) - Run https://observatory.mozilla.org/ against pull requests and preview URLs
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [opengovsg/formsg-javascript-sdk](https://github.com/opengovsg/formsg-javascript-sdk) - JavaScript SDK for integrating with FormSG
-- [ceramicstudio/js-glaze](https://github.com/ceramicstudio/js-glaze) - A set of libraries and tools built on top of Ceramic to help support some common use-cases.
+- [ceramicstudio/js-glaze](https://github.com/ceramicstudio/js-glaze) - Developer suite for building Ceramic applications
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
