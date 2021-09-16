@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A storage engine for vector machine learning embeddings.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
@@ -1112,6 +1113,7 @@
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [msztolcman/mailtrap](https://github.com/msztolcman/mailtrap) - MailTrap has been renamed to Sendria. Please use Sendria now, MailTrap is abandoned. MailTrap is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface instead of sending to real world.
 - [lbryio/spee.ch](https://github.com/lbryio/spee.ch) - An image hosting service on top of the LBRY protocol.
 - [transitive-bullshit/lqip-modern](https://github.com/transitive-bullshit/lqip-modern) - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.
@@ -2285,7 +2287,6 @@
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [addityasingh/add-eventlistener-with-options](https://github.com/addityasingh/add-eventlistener-with-options) - A utility function to check if EventTarget.addEventListener supports adding passive events
 - [clarus/redux-ship](https://github.com/clarus/redux-ship) - Side effects with snapshots for Redux.
-- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [jsyang/aframe-experiment2](https://github.com/jsyang/aframe-experiment2) - VR experiments
 - [gcanti/tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -3635,7 +3636,6 @@
 ## Jinja 
 
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
-- [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to OKD (Origin Community Distribution of Kubernetes) with Ansible
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -4299,7 +4299,7 @@
 - [Kinto/kinto-emailer](https://github.com/Kinto/kinto-emailer) - Plugin to manage email notifications on records modification in a collection.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-- [mozilla-services/poucave](https://github.com/mozilla-services/poucave) - A dumb auditing service
+- [mozilla-services/telescope](https://github.com/mozilla-services/telescope) - A dumb auditing service
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [gw3l/richelieu](https://github.com/gw3l/richelieu) - Solution complète du challenge Richelieu de la DGSE
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -4922,6 +4922,7 @@
 
 ## Shell 
 
+- [kimsible/getpeer.tube](https://github.com/kimsible/getpeer.tube) - Installing of PeerTube docker stack by one shell-command
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [soulshake/fonos](https://github.com/soulshake/fonos) - Sonos-like multi-room audio setup for Raspberry Pi
@@ -5141,7 +5142,7 @@
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [simonireilly/observatory-github-action](https://github.com/simonireilly/observatory-github-action) - Run https://observatory.mozilla.org/ against pull requests and preview URLs
-- [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [opengovsg/formsg-javascript-sdk](https://github.com/opengovsg/formsg-javascript-sdk) - JavaScript SDK for integrating with FormSG
 - [ceramicstudio/js-glaze](https://github.com/ceramicstudio/js-glaze) - Developer suite for building Ceramic applications
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
@@ -5460,6 +5461,7 @@
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
+- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
