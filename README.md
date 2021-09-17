@@ -1530,7 +1530,7 @@
 - [styled-icons/styled-icons](https://github.com/styled-icons/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components
 - [tchapgouv/tchap-web](https://github.com/tchapgouv/tchap-web) - A glossy Matrix collaboration client for the web.
 - [topheman/docker-experiments](https://github.com/topheman/docker-experiments) - Discover docker with a simple use case in development, production (local kubernetes) and CI
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [havardh/workflow](https://github.com/havardh/workflow) - Workflow-centric workspace manager
 - [chrisguttandin/midi-json-parser](https://github.com/chrisguttandin/midi-json-parser) - This module is parsing midi files into a human-readable JSON object.
