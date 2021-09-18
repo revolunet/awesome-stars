@@ -1261,6 +1261,7 @@
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
 - [caresteouvert/Covid_enseignes](https://github.com/caresteouvert/Covid_enseignes) - Chain stores and services open during Covid-19 lockdown
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
 - [graphology/graphology-metrics](https://github.com/graphology/graphology-metrics) - Miscellaneous graph metrics for graphology.
@@ -3637,7 +3638,7 @@
 
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to OKD (Origin Community Distribution of Kubernetes) with Ansible
+- [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to Kubernetes with Ansible
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jsonnet 
@@ -3713,7 +3714,6 @@
 ## Lua 
 
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [hypebeast/micro-auth](https://github.com/hypebeast/micro-auth) - A microservice that makes adding authentication with Google and Github to your application easy.
@@ -5152,7 +5152,7 @@
 - [fission-suite/ipfs-photo-gallery](https://github.com/fission-suite/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-- [arshadcn/next-mdx](https://github.com/arshadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
+- [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API 😋
@@ -5275,7 +5275,7 @@
 - [huggingface/node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering in Node.js
 - [ipfs/js-dag-service](https://github.com/ipfs/js-dag-service) - Library for storing and replicating hash-linked data over the IPFS network.
 - [textileio/js-foldersync](https://github.com/textileio/js-foldersync) - Demo: Shared folder synchronization based on Textile Threads
-- [SocialGouv/postgrester](https://github.com/SocialGouv/postgrester) - Isomorphic PostgREST API Client for Javascript and Typescript.
+- [ivangabriele/postgrester](https://github.com/ivangabriele/postgrester) - Isomorphic PostgREST API Client for Javascript and Typescript.
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [qruzz/react-auth-hook](https://github.com/qruzz/react-auth-hook) - A small library for authenticating users in React using Auth0.
