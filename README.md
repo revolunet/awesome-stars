@@ -5227,7 +5227,7 @@
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [emeraldpay/hashicon](https://github.com/emeraldpay/hashicon) - Generates a beautiful representation of any hash.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
-- [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies
+- [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) - Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
