@@ -1329,7 +1329,7 @@
 - [trekhleb/nano-neuron](https://github.com/trekhleb/nano-neuron) - 🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
 - [manan30/chandrayaan-2](https://github.com/manan30/chandrayaan-2) - Chandrayaan-2 animation developed using three-js and React
 - [hasura/react-check-auth](https://github.com/hasura/react-check-auth) - Add auth protection anywhere in your react/react-native app
-- [etalab/api-geocode](https://github.com/etalab/api-geocode) - API haute performance de géocodage CSV
+- [BaseAdresseNationale/api-geocode](https://github.com/BaseAdresseNationale/api-geocode) - API haute performance de géocodage CSV
 - [catamphetamine/react-phone-number-input](https://github.com/catamphetamine/react-phone-number-input) - React component for international phone number input
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql) - Serverless GraphQL Examples for AWS AppSync and Apollo
@@ -1737,7 +1737,7 @@
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
 - [NervJS/nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
-- [etalab/adresse.data.gouv.fr](https://github.com/etalab/adresse.data.gouv.fr) - Le site officiel de l'Adresse
+- [BaseAdresseNationale/adresse.data.gouv.fr](https://github.com/BaseAdresseNationale/adresse.data.gouv.fr) - Le site officiel de l'Adresse
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
