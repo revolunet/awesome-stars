@@ -192,7 +192,7 @@
 
 ## C++ 
 
-- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A storage engine for vector machine learning embeddings.
+- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
@@ -4281,7 +4281,7 @@
 - [brianckeegan/wikifunctions](https://github.com/brianckeegan/wikifunctions) - Python functions for retrieving data from the MediaWiki/Wikipedia API
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [netlify/node-template](https://github.com/netlify/node-template) - Netlify's Node.js repository template
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [anki-code/metabase-sql-wrapper](https://github.com/anki-code/metabase-sql-wrapper) - This is a docker-container based on Metabase container that automatically saves Metabase H2 database to SQL-file and creates Metabase H2 database from SQL-file.
