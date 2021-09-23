@@ -58,6 +58,7 @@
   - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Pony](#pony)
+  - [PowerShell](#powershell)
   - [Processing](#processing)
   - [Pug](#pug)
   - [Python](#python)
@@ -940,6 +941,7 @@
 
 ## JavaScript 
 
+- [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [laruiss/vue-dsfr](https://github.com/laruiss/vue-dsfr) - Portage en Vue du DSFR
@@ -1794,7 +1796,7 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
 - [popperjs/popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
 - [KevinGrandon/ghostjs](https://github.com/KevinGrandon/ghostjs) - ghostjs provides modern UI testing with async functions
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
@@ -4233,6 +4235,10 @@
 
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 
+## PowerShell 
+
+- [KnicKnic/temp-kubernetes-ci](https://github.com/KnicKnic/temp-kubernetes-ci) - temp kubernetes cluster in github actions CI for both linux & windows
+
 ## Processing 
 
 - [mehackit/technomachine](https://github.com/mehackit/technomachine) - Processing + Sonic Pi Techno Machine
@@ -4245,6 +4251,7 @@
 
 ## Python 
 
+- [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - A package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models
 - [juju2013/MPFA](https://github.com/juju2013/MPFA) - Make your Pass (sanitaire) Fun Again
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [viralpoetry/kubesurveyor](https://github.com/viralpoetry/kubesurveyor) - Good enough Kubernetes namespace visualization tool
@@ -5096,6 +5103,7 @@
 
 ## TypeScript 
 
+- [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🦕 Deno + React: No build, no bundle, all streaming
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - WIP - Not Ready Yet.
