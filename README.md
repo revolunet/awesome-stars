@@ -440,7 +440,6 @@
 - [yeasy/docker-ipfs](https://github.com/yeasy/docker-ipfs) - Docker Image for IPFS node
 - [alexellis/cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
-- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
 - [pelias/libpostal-service](https://github.com/pelias/libpostal-service) - Dockerfile for libpostal-service based on the Who's on First implementation
 - [aa8y/docker-dataset](https://github.com/aa8y/docker-dataset) - Docker database images with pre-populated data for testing and/or practice.
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
@@ -2262,7 +2261,7 @@
 - [szaranger/firebase-saga](https://github.com/szaranger/firebase-saga) - A library for connecting redux-saga middleware to Firebase.
 - [dburrows/draft-js-basic-html-editor](https://github.com/dburrows/draft-js-basic-html-editor) - Basic HTML editor using draft.js - html in, html out
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [guybedford/systemjs-webpack-plugin](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
@@ -2818,7 +2817,7 @@
 - [drewwilson/atvImg](https://github.com/drewwilson/atvImg) - 
 - [walmartlabs/curved-carousel](https://github.com/walmartlabs/curved-carousel) - An infinitely scrolling carousel with configurable curvature
 - [alemangui/pizzicato](https://github.com/alemangui/pizzicato) - Library to simplify the way you create and manipulate sounds with the Web Audio API.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [jamesmartin/react-remote-component-demo](https://github.com/jamesmartin/react-remote-component-demo) - Wherein I demonstrate that React components can be fetched asynchronously and dynamically loaded…
 - [kornelski/slip](https://github.com/kornelski/slip) - Slip.js — UI library for manipulating lists via swipe and drag gestures
 - [voronianski/react-swipe](https://github.com/voronianski/react-swipe) - :left_right_arrow: Swipe.js as a React component
@@ -4978,6 +4977,7 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [golendo/knockd](https://github.com/golendo/knockd) - knockd iptables docker
 - [aristarkh87/docker-knockd](https://github.com/aristarkh87/docker-knockd) - 
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
 - [SocialGouv/cdtn-elk](https://github.com/SocialGouv/cdtn-elk) - ELK : Elastic / Logstash / Kibana - Elastic stack to manage CDTN search and suggest logs at scale
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
@@ -5495,7 +5495,7 @@
 - [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 - [vercel/react-keyframes](https://github.com/vercel/react-keyframes) - Create frame-based animations in React
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [ionic-team/ionic-native](https://github.com/ionic-team/ionic-native) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. The successor to ngCordova. Pairs exquisitely with a nice bottle of Ionic Framework.
+- [ionic-team/ionic-native](https://github.com/ionic-team/ionic-native) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
