@@ -1031,7 +1031,6 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [betagouv/analyse-flux-insertion](https://github.com/betagouv/analyse-flux-insertion) - Outil d'analyse des flux et échanges de données dans le domaine de l'insertion
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [SebastianZimmer/neno](https://github.com/SebastianZimmer/neno) - NENO is a note-taking app that helps you creating your personal knowledge graph.
 - [Jeday/react-docx](https://github.com/Jeday/react-docx) - React reconciler for DOCX.js.
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
@@ -5164,6 +5163,7 @@
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API 😋
+- [SebastianZimmer/neno](https://github.com/SebastianZimmer/neno) - NENO is a note-taking app that helps you creating your personal knowledge graph.
 - [minio/console](https://github.com/minio/console) - Management UI for MinIO and MinIO operator
 - [47ng/session-keystore](https://github.com/47ng/session-keystore) - Secure cryptographic key storage in the browser and Node.js
 - [47ng/simple-e2ee](https://github.com/47ng/simple-e2ee) - Simple end-to-end encryption for webapps
@@ -5399,7 +5399,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
-- [kriasoft/graphql-starter](https://github.com/kriasoft/graphql-starter) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
