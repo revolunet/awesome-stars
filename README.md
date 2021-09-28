@@ -450,7 +450,7 @@
 
 ## EJS 
 
-- [betagouv/template-design-system-de-l-etat](https://github.com/betagouv/template-design-system-de-l-etat) - Site de démo du Design System de l'État (ressource non officielle)
+- [betagouv/template-design-system-de-l-etat](https://github.com/betagouv/template-design-system-de-l-etat) - Démo du Design System de l'État (ressource non officielle)
 
 ## Eagle 
 
@@ -5495,7 +5495,7 @@
 - [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 - [vercel/react-keyframes](https://github.com/vercel/react-keyframes) - Create frame-based animations in React
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [ionic-team/ionic-native](https://github.com/ionic-team/ionic-native) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
+- [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
