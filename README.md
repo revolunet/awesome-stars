@@ -9,6 +9,7 @@
   - [ActionScript](#actionscript)
   - [ApacheConf](#apacheconf)
   - [Arduino](#arduino)
+  - [AsciiDoc](#asciidoc)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -100,6 +101,10 @@
 
 - [dwyl/iot-decibel-meter](https://github.com/dwyl/iot-decibel-meter) - A decibel meter built with an arduino
 - [BobSandberg/LEDColorStrip](https://github.com/BobSandberg/LEDColorStrip) - Controls WS8212B RGB LED Strip Lights from web server
+
+## AsciiDoc 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Batchfile 
 
@@ -423,7 +428,7 @@
 
 ## Dart 
 
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [shailen/ng-darrrt-codelab](https://github.com/shailen/ng-darrrt-codelab) - This code lab has moved. Check out the new version:
 - [passy/angular-dart-todomvc](https://github.com/passy/angular-dart-todomvc) - Work in progress
 - [vsavkin/angulardart-sample-app](https://github.com/vsavkin/angulardart-sample-app) - A sample Web application built using AngularDart
@@ -707,6 +712,7 @@
 
 ## HTML 
 
+- [Cour-de-cassation/judilibre-search](https://github.com/Cour-de-cassation/judilibre-search) - API de recherche et de consultation de la plateforme JUDILIBRE.
 - [alphagov/accessibility-tool-audit](https://github.com/alphagov/accessibility-tool-audit) - Automated accessibility tools audit
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
@@ -1579,7 +1585,6 @@
 - [yldio/graphql-workshop](https://github.com/yldio/graphql-workshop) - GraphQL Workshop Material
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [jeeliz/jeelizWeboji](https://github.com/jeeliz/jeelizWeboji) - JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.
-- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [Mr0grog/google-docs-to-markdown](https://github.com/Mr0grog/google-docs-to-markdown) - A minimal webapp for converting Google Docs to Markdown
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [jdesboeufs/addok-geocode-stream](https://github.com/jdesboeufs/addok-geocode-stream) - Node.js stream API for addok geocoder
@@ -2618,7 +2623,6 @@
 - [ds300/derivablejs](https://github.com/ds300/derivablejs) - Functional Reactive State for JavaScript and TypeScript
 - [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript &lt;Slider&gt; component for react-native
 - [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [dimaip/server-side-rendering](https://github.com/dimaip/server-side-rendering) - Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 - [mappum/webcoin](https://github.com/mappum/webcoin) - :globe_with_meridians::moneybag: SPV Bitcoin client for Node.js and the browser
@@ -4529,7 +4533,6 @@
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [Lothiraldan/ZeroServices](https://github.com/Lothiraldan/ZeroServices) - Network services made easy and Micro-Services architectures made easy.
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [bbc/pydvbcss](https://github.com/bbc/pydvbcss) - Python library that implements DVB protocols for companion synchronisation
 - [marshall/logcat-color](https://github.com/marshall/logcat-color) - A colorful and highly configurable alternative to the standard "adb logcat" command from the Android SDK
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
@@ -5061,7 +5064,7 @@
 - [mbentley/dockerfiles](https://github.com/mbentley/dockerfiles) - My collection of Dockerfiles
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 - [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [revolunet/backup-scripts](https://github.com/revolunet/backup-scripts) - 
 
 ## Smarty 
@@ -5365,6 +5368,7 @@
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [pedronauck/react-adopt](https://github.com/pedronauck/react-adopt) - :sunglasses: Compose render props components like a pro
+- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [Atrox/haikunatorjs](https://github.com/Atrox/haikunatorjs) - Generate Heroku-like random names to use in your node applications.
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
@@ -5491,6 +5495,7 @@
 - [davideast/Querybase](https://github.com/davideast/Querybase) - Bringing the where statement to the Firebase Database.
 - [FirebaseExtended/reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
 - [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 - [vercel/react-keyframes](https://github.com/vercel/react-keyframes) - Create frame-based animations in React
