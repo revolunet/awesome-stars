@@ -198,7 +198,6 @@
 
 ## C++ 
 
-- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
@@ -949,6 +948,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
+- [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
@@ -3079,7 +3079,7 @@
 - [naholyr/github-todos](https://github.com/naholyr/github-todos) - Git hook to convert your TODOs into Github issues
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [domenic/count-to-6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops.
 - [dpellier/bem-comment](https://github.com/dpellier/bem-comment) - Automatically comment your BEM compliant SASS files to add class name comments
@@ -3843,7 +3843,6 @@
 - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.
 - [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) - A list of awesome projects built on Ceramic
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) - Curated list of KeePass-related projects
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
@@ -4253,6 +4252,7 @@
 
 ## Python 
 
+- [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - A package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models
 - [juju2013/MPFA](https://github.com/juju2013/MPFA) - Make your Pass (sanitaire) Fun Again
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
@@ -4935,6 +4935,7 @@
 - [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
 - [soulshake/fonos](https://github.com/soulshake/fonos) - Sonos-like multi-room audio setup for Raspberry Pi
 - [AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller](https://github.com/AlfredoSequeida/Nerf-Gun-Call-of-Duty-Warzone-Controller) - DIY Call of Duty Warzone controller built using a nerf gun powered by the Raspberry Pi 4.
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -5330,7 +5331,6 @@
 - [anthonyshort/use-next-route](https://github.com/anthonyshort/use-next-route) - React hook for easy routing within a Next.js app
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [climax/core](https://github.com/climax/core) - [In progress] The "Electron" for CLI applications: build and distribute cross-platform CLI clients with NodeJS.
 - [Weakky/ra-data-opencrud](https://github.com/Weakky/ra-data-opencrud) - A react-admin data provider for Prisma and GraphCMS
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
