@@ -155,7 +155,6 @@
 - [adafruit/Adafruit_DotStar_Pi](https://github.com/adafruit/Adafruit_DotStar_Pi) - DotStar module for Python on Raspberry Pi
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [jperkin/node-rpio](https://github.com/jperkin/node-rpio) - Raspberry Pi GPIO library for node.js
-- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
 - [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [claudiosousa/PersistenceOfVisionGlobe](https://github.com/claudiosousa/PersistenceOfVisionGlobe) - Persistence of vision globe based on AtMega1284p
 - [Zeke-OS/zeke](https://github.com/Zeke-OS/zeke) - A POSIX-like OS for ARM processors.
@@ -265,6 +264,7 @@
 - [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tracking library bugs / enhancements.
 - [jmej/MIDI2DMX](https://github.com/jmej/MIDI2DMX) - Circuits and patches for MIDI control over DMX lights
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
@@ -947,6 +947,7 @@
 
 ## JavaScript 
 
+- [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - :sparkles: ⚛️ React Speedometer component using d3.js :rainbow:  :art:
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
@@ -1569,7 +1570,7 @@
 - [rse/tika-server](https://github.com/rse/tika-server) - Apache Tika Server as a Background Service in Node.js
 - [OpenNewsLabs/autoEdit_2](https://github.com/OpenNewsLabs/autoEdit_2) - Fast text based video editing, node Electron Os X desktop app, with Backbone front end.
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
-- [alidlorenzo/rogue.js](https://github.com/alidlorenzo/rogue.js) - The "nearly invisible" way to server-render React applications
+- [alidcastano/rogue.js](https://github.com/alidcastano/rogue.js) - The "nearly invisible" way to server-render React applications
 - [tomasreimers/tensorjs](https://github.com/tomasreimers/tensorjs) - Read and write tensor protos from multidimensional arrays in Javascript.
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [tusbar/next-runtime-dotenv](https://github.com/tusbar/next-runtime-dotenv) - Expose environment variables to the runtime config of Next.js
@@ -3081,7 +3082,7 @@
 - [naholyr/github-todos](https://github.com/naholyr/github-todos) - Git hook to convert your TODOs into Github issues
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [domenic/count-to-6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops.
 - [dpellier/bem-comment](https://github.com/dpellier/bem-comment) - Automatically comment your BEM compliant SASS files to add class name comments
@@ -3212,7 +3213,7 @@
 - [disintegrator/grunt-juice-email](https://github.com/disintegrator/grunt-juice-email) - Inline stylesheets into email HTML templates using LearnBoost's Juice
 - [thrashr888/grunt-sftp-deploy](https://github.com/thrashr888/grunt-sftp-deploy) - Grunt task for code deployment over sftp
 - [avernois/devfriendlyplaces](https://github.com/avernois/devfriendlyplaces) - Note: devfriendlyplaces has moved to an organisation. Code and data can be found at https://github.com/devfriendlyplaces
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [1000ch/grunt-image](https://github.com/1000ch/grunt-image) - Optimize PNG, JPEG, GIF, SVG images with grunt task.
 - [scottjehl/iOS-Orientationchange-Fix](https://github.com/scottjehl/iOS-Orientationchange-Fix) - A fix for the iOS orientationchange zoom bug.
 - [angular/ngSocket](https://github.com/angular/ngSocket) - WebSocket support for angular
