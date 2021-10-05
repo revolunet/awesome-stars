@@ -947,6 +947,7 @@
 
 ## JavaScript 
 
+- [neuml/txtai.js](https://github.com/neuml/txtai.js) - Build AI-powered semantic search applications in JavaScript
 - [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - :sparkles: ⚛️ React Speedometer component using d3.js :rainbow:  :art:
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
