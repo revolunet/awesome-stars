@@ -947,6 +947,7 @@
 
 ## JavaScript 
 
+- [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [neuml/txtai.js](https://github.com/neuml/txtai.js) - Build AI-powered semantic search applications in JavaScript
 - [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - :sparkles: ⚛️ React Speedometer component using d3.js :rainbow:  :art:
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
@@ -5135,7 +5136,7 @@
 - [application-research/next-bucket](https://github.com/application-research/next-bucket) - A template to start a project easily with NextJS and Textile Buckets
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [coldi/r3f-game-demo](https://github.com/coldi/r3f-game-demo) - A demo on how to do a simple tile-based game with React and react-three-fiber
-- [garronej/onyxia-ui](https://github.com/garronej/onyxia-ui) - 🌓 A modern UI toolkit with excellent typing.
+- [InseeFrLab/onyxia-ui](https://github.com/InseeFrLab/onyxia-ui) - 🌓 A modern UI toolkit with excellent typing.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
@@ -5544,7 +5545,7 @@
 ## Vue 
 
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
