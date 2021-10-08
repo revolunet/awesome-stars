@@ -444,6 +444,7 @@
 - [yeasy/docker-ipfs](https://github.com/yeasy/docker-ipfs) - Docker Image for IPFS node
 - [alexellis/cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
 - [pelias/libpostal-service](https://github.com/pelias/libpostal-service) - Dockerfile for libpostal-service based on the Who's on First implementation
 - [aa8y/docker-dataset](https://github.com/aa8y/docker-dataset) - Docker database images with pre-populated data for testing and/or practice.
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
@@ -4986,7 +4987,6 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [golendo/knockd](https://github.com/golendo/knockd) - knockd iptables docker
 - [aristarkh87/docker-knockd](https://github.com/aristarkh87/docker-knockd) - 
-- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker
 - [SocialGouv/cdtn-elk](https://github.com/SocialGouv/cdtn-elk) - ELK : Elastic / Logstash / Kibana - Elastic stack to manage CDTN search and suggest logs at scale
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
