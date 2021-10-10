@@ -3713,7 +3713,7 @@
 
 ## Kotlin 
 
-- [theopenconversationkit/tock](https://github.com/theopenconversationkit/tock) - Tock - the open source conversational AI toolkit
+- [theopenconversationkit/tock](https://github.com/theopenconversationkit/tock) - Tock, the open source conversational AI toolkit.
 
 ## Less 
 
@@ -4734,7 +4734,7 @@
 - [django-piston/django-piston](https://github.com/django-piston/django-piston) - Django Piston Community Fork
 - [rewritten/django-restful](https://github.com/rewritten/django-restful) - A set of classes to implement a RESTful interface over a Django site
 - [bearstech/DjangoDevKit](https://github.com/bearstech/DjangoDevKit) - 
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [smartpr/piston-perfect](https://github.com/smartpr/piston-perfect) - Django Piston's API framework on steroids
 - [ryan-roemer/django-cloud-browser](https://github.com/ryan-roemer/django-cloud-browser) - Django application browser for cloud datastores (Rackspace, AWS, etc.).
 - [codysoyland/django-socketio-example](https://github.com/codysoyland/django-socketio-example) - an example of using Django with Socket.IO
@@ -5134,7 +5134,7 @@
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - A simple JS/TS client for interacting with a Gotenberg API
 - [charto/cxsd](https://github.com/charto/cxsd) - Streaming XSD parser and XML parser generator with TypeScript output
-- [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator (WiP)
+- [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [application-research/next-bucket](https://github.com/application-research/next-bucket) - A template to start a project easily with NextJS and Textile Buckets
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
