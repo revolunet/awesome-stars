@@ -1032,7 +1032,6 @@
 - [arnthor3/react-solidgauge](https://github.com/arnthor3/react-solidgauge) - A React-d3 solid gauge chart
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [JS-DevTools/next-mdx](https://github.com/JS-DevTools/next-mdx) - Adds support for MDX with advanced syntax features in Next.js applications
-- [italia/design-react-kit](https://github.com/italia/design-react-kit) - A React toolkit that implements the Italia design system
 - [buwilliams/twitter-clone](https://github.com/buwilliams/twitter-clone) - Experiments with Dolt and Dolthub via node.js, express.js, and mysql.
 - [AdguardTeam/cname-trackers](https://github.com/AdguardTeam/cname-trackers) - This repository contains a list of popular CNAME trackers
 - [kevinsqi/react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap) - An svg calendar heatmap inspired by github's contribution graph
@@ -5171,6 +5170,7 @@
 - [fission-suite/ipfs-photo-gallery](https://github.com/fission-suite/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+- [italia/design-react-kit](https://github.com/italia/design-react-kit) - A React toolkit that implements the Italia design system
 - [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
