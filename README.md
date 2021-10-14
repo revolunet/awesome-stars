@@ -1490,7 +1490,6 @@
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [ColinMaudry/sparql-router](https://github.com/ColinMaudry/sparql-router) - Application to turn SPARQL queries into APIs and use them in a simple Web app (Express + Vue)
 - [jsdf/little-virtual-computer](https://github.com/jsdf/little-virtual-computer) - Learn how computers work by simulating them in Javascript
-- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
@@ -5344,6 +5343,7 @@
 - [Weakky/ra-data-opencrud](https://github.com/Weakky/ra-data-opencrud) - A react-admin data provider for Prisma and GraphCMS
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [FotonTech/gigatron](https://github.com/FotonTech/gigatron) - https://gigatron.now.sh/signin
 - [rodrigopivi/Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
