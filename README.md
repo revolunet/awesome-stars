@@ -950,6 +950,7 @@
 
 ## JavaScript 
 
+- [jfrancos/oggmented](https://github.com/jfrancos/oggmented) - decodeAudioData(oggVorbisBuffer) in any browser
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [neuml/txtai.js](https://github.com/neuml/txtai.js) - Build AI-powered semantic search applications in JavaScript
 - [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - :sparkles: ⚛️ React Speedometer component using d3.js :rainbow:  :art:
@@ -1065,7 +1066,7 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [NodeSecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) - JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
-- [panva/jose](https://github.com/panva/jose) - Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
@@ -1800,7 +1801,7 @@
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [calvinmetcalf/crypto-pouch](https://github.com/calvinmetcalf/crypto-pouch) - plugin for encrypted pouchdb/couchdb databases
 - [ajoelp/mock-json-server](https://github.com/ajoelp/mock-json-server) - A mock web server using a JSON file with live-reload support.
-- [lukechilds/keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [Level/memdown](https://github.com/Level/memdown) - In-memory abstract-leveldown store for Node.js and browsers.
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
@@ -3829,6 +3830,7 @@
 
 ## Others 
 
+- [croqaz/browsers](https://github.com/croqaz/browsers) - Just some sandboxed browsers inside containers
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
 - [justinsteven/advisories](https://github.com/justinsteven/advisories) - 
 - [emma11y/sous-titres](https://github.com/emma11y/sous-titres) - Liste des outils pour sous-titrer vos vidéos et podcasts
@@ -4258,6 +4260,7 @@
 
 ## Python 
 
+- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - A package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models
@@ -4937,7 +4940,6 @@
 
 ## Shell 
 
-- [croqaz/browsers](https://github.com/croqaz/browsers) - Just some sandboxed browsers inside containers
 - [kimsible/getpeer.tube](https://github.com/kimsible/getpeer.tube) - Installing of PeerTube docker stack by one shell-command
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
@@ -5113,6 +5115,7 @@
 
 ## TypeScript 
 
+- [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
 - [Azure/vscode-kubernetes-tools](https://github.com/Azure/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🦕 Deno + React: No build, no bundle, all streaming
