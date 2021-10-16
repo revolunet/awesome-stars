@@ -487,7 +487,7 @@
 
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A Zanzibar-inspired database that stores, computes, and validates application permissions
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for centrally managing authorization data across your organization. Inspired by the Google Zanzibar paper.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
@@ -950,6 +950,7 @@
 
 ## JavaScript 
 
+- [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [jfrancos/oggmented](https://github.com/jfrancos/oggmented) - decodeAudioData(oggVorbisBuffer) in any browser
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [neuml/txtai.js](https://github.com/neuml/txtai.js) - Build AI-powered semantic search applications in JavaScript
@@ -3075,7 +3076,6 @@
 - [jeremyckahn/rekapi](https://github.com/jeremyckahn/rekapi) - A keyframe animation library for JavaScript
 - [jcoglan/sylvester](https://github.com/jcoglan/sylvester) - Vector, matrix and geometry math JavaScript
 - [serratus/quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [pbernasconi/chrome-cordova](https://github.com/pbernasconi/chrome-cordova) - A chrome extension to mock Cordova plugin data
 - [tjallingt/react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component
 - [tomchentw/react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
@@ -4940,6 +4940,7 @@
 
 ## Shell 
 
+- [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) - This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
 - [kimsible/getpeer.tube](https://github.com/kimsible/getpeer.tube) - Installing of PeerTube docker stack by one shell-command
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [christroutner/docker-powergate](https://github.com/christroutner/docker-powergate) - A Docker Compose script for setting up IPFS, Filecoin, and Powergate software on an Ubuntu server.
@@ -5115,6 +5116,7 @@
 
 ## TypeScript 
 
+- [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
 - [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
 - [Azure/vscode-kubernetes-tools](https://github.com/Azure/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
@@ -5528,6 +5530,7 @@
 - [wordpress-clients/hybrid](https://github.com/wordpress-clients/hybrid) - [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
