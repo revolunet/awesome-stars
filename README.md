@@ -487,7 +487,7 @@
 
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for centrally managing authorization data across your organization. Inspired by the Google Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system dedicated to managing security-critical permissions checking in your applications. Inspired by Google's Zanzibar paper.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
@@ -2483,7 +2483,6 @@
 - [mjackson/web-starter](https://github.com/mjackson/web-starter) - Build and deploy a React website quickly on Heroku
 - [mihirsoni/simple-redux-form](https://github.com/mihirsoni/simple-redux-form) - This simple redux form a tiny alternative for redux-form
 - [reactjs/react-autocomplete](https://github.com/reactjs/react-autocomplete) - WAI-ARIA compliant React autocomplete (combobox) component
-- [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [hgoebl/mobile-detect.js](https://github.com/hgoebl/mobile-detect.js) - Device detection (phone, tablet, desktop, mobile grade, os, versions)
 - [ReactTraining/react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 - [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
@@ -2770,7 +2769,6 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [GoogleChromeLabs/sw-precache](https://github.com/GoogleChromeLabs/sw-precache) - [Deprecated] A node module to generate service worker code that will precache specific resources so they work offline.
 - [producthunt/chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme
-- [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
 - [markdalgleish/redial](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
 - [erikras/map-props](https://github.com/erikras/map-props) - A higher order React component and allows mapping prop values passed in to other prop values expected by the wrapped component
@@ -3539,7 +3537,7 @@
 - [revolunet/less.js](https://github.com/revolunet/less.js) - Leaner CSS, in your browser.
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
 - [jlongster/dom3d](https://github.com/jlongster/dom3d) - Rendering 3d with CSS3
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [pdeschen/nodast](https://github.com/pdeschen/nodast) - nodast is (for now) an Asterisk FastAGI reverse proxy on node
 - [joelambert/CSSAnimationKeyframeEvents](https://github.com/joelambert/CSSAnimationKeyframeEvents) - Provides Keyframe events for CSS3 Animations
 - [cowgp/xui-touchSwipe](https://github.com/cowgp/xui-touchSwipe) - port of jquery touchSwipe plugin to XUI
@@ -4260,6 +4258,7 @@
 
 ## Python 
 
+- [karmab/autolabeller](https://github.com/karmab/autolabeller) - 
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
@@ -5503,6 +5502,7 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [ui-router/react](https://github.com/ui-router/react) - 🔼 UI-Router for React
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [robertknight/webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles
 - [EddyVerbruggen/nativescript-app-shortcuts](https://github.com/EddyVerbruggen/nativescript-app-shortcuts) - :point_down: Home Icon Actions for your NativeScript app, now also for Android!
@@ -5521,6 +5521,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
+- [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [googleapis/nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) - Use @google-cloud/datastore as a Key/Value store.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -5556,7 +5557,7 @@
 ## Vue 
 
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
