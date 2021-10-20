@@ -489,7 +489,7 @@
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
-- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
@@ -538,7 +538,7 @@
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [hauke96/tiny-http-proxy](https://github.com/hauke96/tiny-http-proxy) - Maybe the tiniest HTTP proxy that also has a cache
 - [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
-- [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: the official Ingress Controller for Kubernetes.
+- [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
@@ -1791,7 +1791,6 @@
 - [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph) - :crystal_ball: morph your svg component one into another other
 - [dijs/wiki](https://github.com/dijs/wiki) - Wikipedia Interface for Node.js
 - [npm-wharf/hikaru](https://github.com/npm-wharf/hikaru) - A node service for updating services in kubernetes
-- [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
 - [hexacta/prettier-check](https://github.com/hexacta/prettier-check) - Check that all files match prettier code style.
 - [Dramloc/preact-auth0-template](https://github.com/Dramloc/preact-auth0-template) - A simple `preact-cli` template for auth0
@@ -2449,7 +2448,7 @@
 - [jxnblk/reline](https://github.com/jxnblk/reline) - React SVG line icon components
 - [FormidableLabs/react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [moshen/node-googlemaps](https://github.com/moshen/node-googlemaps) - A simple way to query the Google Maps API from Node.js
-- [webdriverio/selenium-standalone](https://github.com/webdriverio/selenium-standalone) - A node based CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)
+- [webdriverio/selenium-standalone](https://github.com/webdriverio/selenium-standalone) - A Node.js based package and CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [beginner-corp/lambda](https://github.com/beginner-corp/lambda) - :heart_decoration: Authoring tools for AWS Lambda functions
 - [bonniee/learning-react-native](https://github.com/bonniee/learning-react-native) - Code samples for the book Learning React Native.
@@ -5116,6 +5115,7 @@
 
 ## TypeScript 
 
+- [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for js/ts/jsx library
 - [jasonkuhrt/template-typescript-lib](https://github.com/jasonkuhrt/template-typescript-lib) - Project template for TypeScript libraries
 - [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
 - [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
@@ -5420,6 +5420,7 @@
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
