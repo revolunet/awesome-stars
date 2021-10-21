@@ -5123,7 +5123,7 @@
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🦕 Deno + React: No build, no bundle, all streaming
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
-- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - WIP - Not Ready Yet.
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
 - [danomatic/react-pdf-html](https://github.com/danomatic/react-pdf-html) - Render HTML in react-pdf
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
