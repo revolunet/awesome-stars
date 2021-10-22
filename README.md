@@ -1281,7 +1281,6 @@
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
-- [graphology/graphology-metrics](https://github.com/graphology/graphology-metrics) - Miscellaneous graph metrics for graphology.
 - [opencovid19-fr/data](https://github.com/opencovid19-fr/data) - Consolidation des données de sources officielles concernant l'épidémie de COVID19
 - [javieraviles/covidAPI](https://github.com/javieraviles/covidAPI) - Coronavirus API for Current cases by country COVID-19
 - [etalab/covid19-dashboard](https://github.com/etalab/covid19-dashboard) - Tableau de bord officiel de suivi de l'épidémie de COVID-19
@@ -5115,6 +5114,7 @@
 
 ## TypeScript 
 
+- [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data science oriented container launcher
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for js/ts/jsx library
 - [jasonkuhrt/template-typescript-lib](https://github.com/jasonkuhrt/template-typescript-lib) - Project template for TypeScript libraries
 - [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
