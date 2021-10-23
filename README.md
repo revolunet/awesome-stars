@@ -340,6 +340,7 @@
 - [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [zemirco/ng-form-shake](https://github.com/zemirco/ng-form-shake) - CSS3 form shake effect with AngularJS
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A collection of all country flags in SVG — plus the CSS for easier integration
 - [bosonic/bosonic.github.io](https://github.com/bosonic/bosonic.github.io) - 
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [parkerbennett/stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands.
@@ -825,7 +826,6 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
-- [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) - :flags: A collection of all country flags in SVG — plus the CSS for easier integration
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
 - [ariya/kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript
@@ -1058,7 +1058,7 @@
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [paolomainardi/additronk8s-retrogames-kubernetes-controller](https://github.com/paolomainardi/additronk8s-retrogames-kubernetes-controller) - A retrogames kubernetes controller built in Javascript
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-native performance & reliability testing for developers and SREs
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🚀Cloud-native performance & reliability testing for developers and SREs
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
@@ -1421,7 +1421,6 @@
 - [hobbyquaker/waldorf](https://github.com/hobbyquaker/waldorf) - Simple Mattermost Bot 🤡🤠
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [use-global-hook/use-global-hook](https://github.com/use-global-hook/use-global-hook) - 
-- [jennschiffer/make8bitart](https://github.com/jennschiffer/make8bitart) - THIS REPO IS ARCHIVED AND THE PROJECT IS NOW MAINTAINED ON GLITCH.COM :)
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
 - [betagouv/react-elasticsearch](https://github.com/betagouv/react-elasticsearch) - 🛁 React + Elasticsearch - UI components for building data-driven search experiences
@@ -4841,6 +4840,7 @@
 
 ## Ruby 
 
+- [doctolib/safe-pg-migrations](https://github.com/doctolib/safe-pg-migrations) - Make your PostgreSQL migrations safe
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [hypriot/image-builder-rpi](https://github.com/hypriot/image-builder-rpi) - SD card image for Raspberry Pi with Docker: HypriotOS
