@@ -1561,7 +1561,6 @@
 - [CreaturePhil/origindb](https://github.com/CreaturePhil/origindb) - Blazing fast and flexible JSON database.
 - [Surnet/swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc) - Generates swagger/openapi specification based on jsDoc comments and YAML files.
 - [ruyadorno/ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
-- [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [diegomura/react-log](https://github.com/diegomura/react-log) - React for the Console
 - [jxnblk/ok-mdx](https://github.com/jxnblk/ok-mdx) - Browser-based MDX editor
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
@@ -4411,7 +4410,7 @@
 - [openai/deeptype](https://github.com/openai/deeptype) - Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF).
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [etalab/data-codes-sources-fr](https://github.com/etalab/data-codes-sources-fr) - Métadonnées des dépôts de code d'organismes publics en France
+- [etalab/data-codes-sources-fr](https://github.com/etalab/data-codes-sources-fr) - Métadonnées des dépôts de codes sources d'organismes publics français
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [addok/addok-idcc](https://github.com/addok/addok-idcc) - Instance d'addok pour indexer des identifiants de convention collective
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
@@ -5375,6 +5374,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [wessberg/color](https://github.com/wessberg/color) - A library of well-tested helper methods for working with colors.
+- [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
 - [reakit/reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
