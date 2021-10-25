@@ -1670,7 +1670,7 @@
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [googlecreativelab/teachable-machine-boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate) - Boilerplate code for Teachable Machine
 - [stylesuxx/graphql-custom-types](https://github.com/stylesuxx/graphql-custom-types) - A collection of custom GraphQL types like Email, URL and password.
-- [remarkjs/remark-react](https://github.com/remarkjs/remark-react) - plugin to transform to React
+- [remarkjs/remark-react](https://github.com/remarkjs/remark-react) - Legacy plugin to transform to React
 - [guigrpa/jest-html](https://github.com/guigrpa/jest-html) - Preview your Jest snapshots visually in the browser
 - [CondeNast/perf-timeline-cli](https://github.com/CondeNast/perf-timeline-cli) - Generate Chrome Performance Timelines via a command line interface
 - [obartra/attina](https://github.com/obartra/attina) - React Mermaid Renderer 🐟
