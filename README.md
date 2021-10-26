@@ -5113,6 +5113,7 @@
 
 ## TypeScript 
 
+- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data science oriented container launcher
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for js/ts/jsx library
 - [jasonkuhrt/template-typescript-lib](https://github.com/jasonkuhrt/template-typescript-lib) - Project template for TypeScript libraries
