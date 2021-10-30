@@ -2792,7 +2792,7 @@
 - [jquense/teaspoon](https://github.com/jquense/teaspoon) - A jQuery like API for testing React elements and rendered components.
 - [acspike/ChordJS](https://github.com/acspike/ChordJS) - Draw guitar chord diagrams on HTML5 canvas
 - [laher/ChordialJS](https://github.com/laher/ChordialJS) - Chord chart utility  for web. Make progressions and interactive tabluation apps
-- [contra/rtc-everywhere](https://github.com/contra/rtc-everywhere) - Cross-everything WebRTC mega-project
+- [yocontra/rtc-everywhere](https://github.com/yocontra/rtc-everywhere) - Cross-everything WebRTC mega-project
 - [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [0xfe/vexchords](https://github.com/0xfe/vexchords) - JavaScript Chord Charts
 - [twitter/labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
@@ -3586,7 +3586,7 @@
 - [samyk/evercookie](https://github.com/samyk/evercookie) - Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [sylvinus/fsdfs](https://github.com/sylvinus/fsdfs) - f***ing simple distributed file system / Old toy project, do not use :)
-- [jquery/jquery-mobile](https://github.com/jquery/jquery-mobile) - jQuery Mobile Framework
+- [jquery-archive/jquery-mobile](https://github.com/jquery-archive/jquery-mobile) - jQuery Mobile Framework
 - [davidbrooks/Artisan](https://github.com/davidbrooks/Artisan) - A JavaScript library that aims to make in-browser drawing very, very easy.
 - [bevry-archive/jquery-scrollto](https://github.com/bevry-archive/jquery-scrollto) - jQuery ScrollTo - Smooth Scrolling to any jQuery/DOM Element
 - [mezzoblue/PaintbrushJS](https://github.com/mezzoblue/PaintbrushJS) - A lightweight browser-based image processing library
@@ -4289,7 +4289,7 @@
 - [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
 - [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [GoogleCloudPlatform/fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) - 
 - [erwtokritos/keras-glove](https://github.com/erwtokritos/keras-glove) - Implementation of GloVe in Keras
@@ -5191,7 +5191,7 @@
 - [47ng/typescript-library-starter](https://github.com/47ng/typescript-library-starter) - Template repository for TypeScript libraries
 - [47ng/cloak](https://github.com/47ng/cloak) - Serialized AES-GCM 256 encryption, decryption and key management in the browser & Node.js
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
-- [contra/react-responsive](https://github.com/contra/react-responsive) - CSS media queries in react - for responsive design, and more.
+- [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [rap2hpoutre/pg-anonymizer](https://github.com/rap2hpoutre/pg-anonymizer) - Dump anonymized PostgreSQL database with a NodeJS CLI
 - [pmndrs/react-three-flex](https://github.com/pmndrs/react-three-flex) - 💪📦  Flexbox for react-three-fiber
 - [serverless-nextjs/serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js) - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
