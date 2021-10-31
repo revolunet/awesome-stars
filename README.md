@@ -720,7 +720,7 @@
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-- [chris-short/kubernetesreadme.com](https://github.com/chris-short/kubernetesreadme.com) - What to read to get up to speed with Kubernetes
+- [chris-short/kubereadme.com](https://github.com/chris-short/kubereadme.com) - What to read to get up to speed with Kubernetes
 - [VegaDeftwing/opinionatedguide](https://github.com/VegaDeftwing/opinionatedguide) - See OpGuidesHugoSRC repo to Contrubitue---A collection of educational un-textbooked, actually digestible pages on various topics. Links to various better sources as a modern educational source should. Make learning open source!
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
@@ -3007,7 +3007,6 @@
 - [netgusto/IdiomaticReact](https://github.com/netgusto/IdiomaticReact) - Idiomatic React - Flux - REST app
 - [vivex/react-infinite-scroll](https://github.com/vivex/react-infinite-scroll) - Infinite Scrolling (loading new content if user reaches bottom) for all version of react (tested with 0.10,0.11 0.12,0.13 )
 - [sindresorhus/grunt-php](https://github.com/sindresorhus/grunt-php) - Start a PHP server
-- [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes.
 - [bermi/jsonp-client](https://github.com/bermi/jsonp-client) - jsonp minimal client for the browser (1.4K) and Node.js
 - [bloodyowl/react-boilerplate](https://github.com/bloodyowl/react-boilerplate) - boilerplate for a react project
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
@@ -4276,7 +4275,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
-- [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
@@ -5537,6 +5536,7 @@
 - [wordpress-clients/hybrid](https://github.com/wordpress-clients/hybrid) - [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+- [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
