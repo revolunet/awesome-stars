@@ -1813,7 +1813,6 @@
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [npm/npm-registry-client](https://github.com/npm/npm-registry-client) - 
 - [iceddev/cooldux](https://github.com/iceddev/cooldux) - Simple ducks pattern helper for redux
-- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [leboncoin/morphlingjs](https://github.com/leboncoin/morphlingjs) - A CLI to mock with meaningful data a REST API from a Swagger file
 - [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [AdamMagaluk/leo](https://github.com/AdamMagaluk/leo) - Command line tool for building Arduino firmware using Node.js and Npm.
@@ -5430,6 +5429,7 @@
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
+- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [jupemara/spreadsheet-sql](https://github.com/jupemara/spreadsheet-sql) - Get spreadsheet data by using like SQL
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [int0h/npm-hddSpace](https://github.com/int0h/npm-hddSpace) - This module provides getting information about free space and size of hdds
