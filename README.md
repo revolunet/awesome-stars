@@ -949,6 +949,7 @@
 
 ## JavaScript 
 
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [jfrancos/oggmented](https://github.com/jfrancos/oggmented) - decodeAudioData(oggVorbisBuffer) in any browser
@@ -1206,7 +1207,7 @@
 - [orbitdb/orbit-db-control-center](https://github.com/orbitdb/orbit-db-control-center) - UI for managing OrbitDB databases
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [libp2p/js-libp2p-webrtc-star](https://github.com/libp2p/js-libp2p-webrtc-star) - libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
-- [orbitdb/orbit-db-pinner](https://github.com/orbitdb/orbit-db-pinner) - A pinning service for the orbitdb decentralized database.
+- [orbitdb/orbit-db-pinner](https://github.com/orbitdb/orbit-db-pinner) - A pinning service for Orbitdb, a decentralized database based on IPFS.
 - [geut/sodium-javascript-plus](https://github.com/geut/sodium-javascript-plus) - sodium-javascript with experimental support for xchacha20 and kx
 - [teddycode/js-ipfs-pnet](https://github.com/teddycode/js-ipfs-pnet) - 
 - [VandeurenGlenn/js-ipfs-swarm-key-gen](https://github.com/VandeurenGlenn/js-ipfs-swarm-key-gen) - swarm.key file generator for the IPFS Private Network feature
@@ -4274,7 +4275,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
-- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, abusive copy-pastes and spelling mistakes in your repository sources with a GitHub Action, other CI tools or locally.
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - 
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
@@ -4877,7 +4878,7 @@
 
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -5113,6 +5114,7 @@
 
 ## TypeScript 
 
+- [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data science oriented container launcher
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for js/ts/jsx library
