@@ -956,7 +956,6 @@
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [neuml/txtai.js](https://github.com/neuml/txtai.js) - Build AI-powered semantic search applications in JavaScript
 - [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - :sparkles: ⚛️ React Speedometer component using d3.js :rainbow:  :art:
-- [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
@@ -4514,7 +4513,6 @@
 - [fixedd/RPi_Relay_Interface](https://github.com/fixedd/RPi_Relay_Interface) - Raspberry Pi Interface for the SainSmart 8-Channel 5V Relay Module
 - [jorgebastida/gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
 - [chipturner/bluetooth](https://github.com/chipturner/bluetooth) - Linux bluetooth playground
-- [MtimerCMS/SublimeText-Google-Translate-Plugin](https://github.com/MtimerCMS/SublimeText-Google-Translate-Plugin) - Google translate plugin for SublimeText 2 & 3,    please go to NEW  address :
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [andersbll/neural_artistic_style](https://github.com/andersbll/neural_artistic_style) - Neural Artistic Style in Python
 - [syrusakbary/gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL
@@ -4889,7 +4887,7 @@
 - [duniter/duniter-rs](https://github.com/duniter/duniter-rs) - Implementation of DUniter Protocol (DUP) in Rust. DUP is a crypto-currency protocol to manage libre currency such as Ğ1.
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Electrical power consumption metrology agent. Let scaph dive and bring back the metrics that will help you make your systems and applications more sustainable !
+- [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -5122,6 +5120,7 @@
 - [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
 - [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
 - [Azure/vscode-kubernetes-tools](https://github.com/Azure/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
+- [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🦕 Deno + React: No build, no bundle, all streaming
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
