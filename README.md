@@ -486,6 +486,7 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper.
@@ -520,6 +521,7 @@
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
 - [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kotalco/kotal](https://github.com/kotalco/kotal) - Kubernetes Blockchain Operator
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -1889,7 +1891,7 @@
 - [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
 - [evenchange4/react-grecaptcha](https://github.com/evenchange4/react-grecaptcha) - React.js Google reCAPTCHA v2 integration component.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [pbakaus/domvas](https://github.com/pbakaus/domvas) - Domvas implements the missing piece that connects the DOM and Canvas.
 - [graphile/graphile-engine](https://github.com/graphile/graphile-engine) - Monorepo home of graphile-build, graphile-build-pg, graphile-utils, postgraphile-core and graphql-parse-resolve-info. Build a high-performance easily-extensible GraphQL schema by combining plugins!
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
@@ -2631,7 +2633,7 @@
 - [phil-r/react-native-looped-carousel](https://github.com/phil-r/react-native-looped-carousel) - :carousel_horse: Looped carousel for React Native
 - [atilacamurca/react-native-ebook](https://github.com/atilacamurca/react-native-ebook) - React Native E-book (.mobi, .epub)
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [1602/jugglingdb](https://github.com/1602/jugglingdb) - Multi-database ORM for nodejs: redis, mongodb, mysql, sqlite3, postgresql, arango, in-memory...
 - [react-alpha-beta/alphabeta](https://github.com/react-alpha-beta/alphabeta) - Declarative split testing for React
 - [arguseyes/argus-eyes](https://github.com/arguseyes/argus-eyes) - A lightweight commandline tool for visual regression testing of UI components.
@@ -4286,7 +4288,6 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
 - [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [GoogleCloudPlatform/fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) - 
