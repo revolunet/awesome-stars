@@ -264,7 +264,7 @@
 - [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tracking library bugs / enhancements.
 - [jmej/MIDI2DMX](https://github.com/jmej/MIDI2DMX) - Circuits and patches for MIDI control over DMX lights
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
+- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
@@ -1287,7 +1287,6 @@
 - [etalab/covid19-dashboard](https://github.com/etalab/covid19-dashboard) - Tableau de bord officiel de suivi de l'épidémie de COVID-19
 - [geut/hypercore-promise](https://github.com/geut/hypercore-promise) - An async/await based wrapper for hypercore
 - [MilaNLProc/bertlang](https://github.com/MilaNLProc/bertlang) - A web interface to understand language-specific BERT-models
-- [vvo/next-iron-session](https://github.com/vvo/next-iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data
 - [glennflanagan/react-collapsible](https://github.com/glennflanagan/react-collapsible) - React component to wrap content in Collapsible element with trigger to open and close.
 - [vvo/javascript-library-template](https://github.com/vvo/javascript-library-template) - JavaScript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping
 - [adobe/git-server](https://github.com/adobe/git-server) - A GitHub Protocol & API emulation
@@ -3576,7 +3575,7 @@
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [scribd/flash_heed](https://github.com/scribd/flash_heed) - Fixes all Flash elements on a page so that they heed DOM stacking order.
 - [VinylFox/Ext.ux.touch.SwipeTabs](https://github.com/VinylFox/Ext.ux.touch.SwipeTabs) - Swipe Tab Plugin for sencha Touch
-- [parisjs/parisjs-website](https://github.com/parisjs/parisjs-website) - The Website of parisjs.org
+- [parisjs/parisjs-website](https://github.com/parisjs/parisjs-website) - Paris.JS website
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [tbuser/thingiview.js](https://github.com/tbuser/thingiview.js) - Javascript 3D Model Viewer
 - [remy/present](https://github.com/remy/present) - A(nother) JavaScript Presentation Library
@@ -5296,6 +5295,7 @@
 - [wokwi/wokwi-elements](https://github.com/wokwi/wokwi-elements) - Web Components for Electronics and IoT Parts
 - [Silind-Software/direflow](https://github.com/Silind-Software/direflow) - 🧩 Use the best of two worlds. Create fast, performant, native Web Components using React.
 - [sammccord/perge](https://github.com/sammccord/perge) - Perge is a p2p synchronization system for Automerge documents using PeerJS
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Node.js stateless session utility using signed and encrypted cookies to store data. Works with Next.js, Express, NestJs, Fastify, and any Node.js HTTP framework.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in JavaScript.
 - [fission-suite/get-ipfs](https://github.com/fission-suite/get-ipfs) - Utility to get a contextual js-ipfs instance, with graceful web fallbacks
@@ -5422,7 +5422,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
