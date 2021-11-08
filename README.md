@@ -486,6 +486,7 @@
 
 ## Go 
 
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - kdigger is a context discovery tool for Kubernetes penetration testing.
@@ -733,7 +734,6 @@
 - [LINCnil/GDPR-Developer-Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - The CNIL publishes a GDPR guide for developers
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [mikewest/http-state-tokens](https://github.com/mikewest/http-state-tokens) - Incrementally better HTTP state management.
-- [InseeFr/Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) - Extension Keycloak facilitant l'utilisation de FranceConnect
 - [thrownness/decentralized-todo-app](https://github.com/thrownness/decentralized-todo-app) - A decentralized todo app made with gundb
 - [immersive-web/webxr-samples](https://github.com/immersive-web/webxr-samples) - Samples to demonstrate use of the WebXR Device API
 - [ThorstenRangnau/continuous-security-testing](https://github.com/ThorstenRangnau/continuous-security-testing) - 
@@ -896,6 +896,7 @@
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [EugenMayer/officeconverter](https://github.com/EugenMayer/officeconverter) - Convert file formats like docx, xlx to other formats like pdf, png - based on jodconverter and libreoffice
+- [InseeFr/Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) - Extension Keycloak facilitant l'utilisation de FranceConnect
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
@@ -952,6 +953,7 @@
 
 ## JavaScript 
 
+- [JamesRyanATX/Harmonicon](https://github.com/JamesRyanATX/Harmonicon) - An experimental DAW for music as code.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
