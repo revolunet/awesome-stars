@@ -1130,7 +1130,6 @@
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
 - [robinaly/blockly-algorithms](https://github.com/robinaly/blockly-algorithms) - 
-- [nbudin/react-blockly](https://github.com/nbudin/react-blockly) - A React component that embeds a Blockly visual programming editor.
 - [accordproject/markdown-transform](https://github.com/accordproject/markdown-transform) - Library for Markdown Transformations and Markdown Templates
 - [orbitdb/orbit-db-powergate-io](https://github.com/orbitdb/orbit-db-powergate-io) - A bridge between OrbitDB and Powergate, which is itself a bridge between Filecoin and IPFS.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
@@ -1641,7 +1640,7 @@
 - [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer) - Real-time visualizer for React lifecycle methods
 - [alexanderson1993/react-dmx](https://github.com/alexanderson1993/react-dmx) - Render React components to DMX light systems.
 - [c8r/pixo](https://github.com/c8r/pixo) - Convert SVG icons into React components
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript) - IJavascript is a javascript kernel for the Jupyter notebook
 - [1egoman/fuzzy-picker](https://github.com/1egoman/fuzzy-picker) - :mag: React component that implements a fuzzy picker (like sublime text's command pallete, or slack's channel switcher).
 - [Inist-CNRS/lodex](https://github.com/Inist-CNRS/lodex) - Linked Open Data EXperiment
@@ -4260,6 +4259,8 @@
 
 ## Python 
 
+- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
 - [karmab/autolabeller](https://github.com/karmab/autolabeller) - 
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
@@ -4378,7 +4379,7 @@
 - [getalp/Flaubert](https://github.com/getalp/Flaubert) - Unsupervised Language Model Pre-training for French
 - [etalab/piaf](https://github.com/etalab/piaf) - Question Answering annotation platform - Plateforme d'annotation
 - [utterworks/fast-bert](https://github.com/utterworks/fast-bert) - Super easy library for BERT based NLP models
-- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
+- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
 - [suryasundarraj/rpi-mcp3008-analogData-thingspeak](https://github.com/suryasundarraj/rpi-mcp3008-analogData-thingspeak) - This Project has a basic demo with analog sensor, where the data from the analog sensor are visualized in the thingspeak api
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -5247,6 +5248,7 @@
 - [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [ceramicnetwork/js-dag-jose](https://github.com/ceramicnetwork/js-dag-jose) - 
+- [nbudin/react-blockly](https://github.com/nbudin/react-blockly) - A React component that embeds a Blockly visual programming editor.
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literal notebooks
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [dubzzz/jest-fast-check](https://github.com/dubzzz/jest-fast-check) - Property based testing for Jest based on fast-check
@@ -5572,7 +5574,7 @@
 ## Vue 
 
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
