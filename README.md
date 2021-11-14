@@ -956,6 +956,7 @@
 
 ## JavaScript 
 
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
 - [JamesRyanATX/Harmonicon](https://github.com/JamesRyanATX/Harmonicon) - An experimental DAW for music as code.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
