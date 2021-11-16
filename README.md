@@ -561,7 +561,7 @@
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [buidl-labs/Demux](https://github.com/buidl-labs/Demux) - A gateway to facilitate decentralised streaming ecosystem.
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
-- [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [tj/staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -1788,7 +1788,6 @@
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators
 - [iwsfg/node-potrace](https://github.com/iwsfg/node-potrace) - JavaScript port of Potrace, for NodeJS
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
-- [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
 - [devoxx4kids/materials](https://github.com/devoxx4kids/materials) - Devoxx4Kids Workshop Materials
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
 - [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph) - :crystal_ball: morph your svg component one into another other
@@ -4187,6 +4186,7 @@
 
 ## PHP 
 
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -4393,7 +4393,7 @@
 - [hjacobs/kube-janitor](https://github.com/hjacobs/kube-janitor) - Clean up (delete) Kubernetes resources after a configured TTL (time to live)
 - [kdhartmann/LinearRegression](https://github.com/kdhartmann/LinearRegression) - 
 - [gnes-ai/gnes](https://github.com/gnes-ai/gnes) - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network.
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [asyml/texar-pytorch](https://github.com/asyml/texar-pytorch) - Integrating the Best of TF into PyTorch, for Machine Learning, Natural Language Processing, and Text Generation.  This is part of the CASL project: http://casl-project.ai/
 - [facebookresearch/XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
 - [vi3k6i5/GuidedLDA](https://github.com/vi3k6i5/GuidedLDA) - semi supervised guided topic model with custom guidedLDA
@@ -5435,6 +5435,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
+- [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
