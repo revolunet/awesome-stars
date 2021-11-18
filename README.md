@@ -956,6 +956,7 @@
 
 ## JavaScript 
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
 - [JamesRyanATX/Harmonicon](https://github.com/JamesRyanATX/Harmonicon) - An experimental DAW for music as code.
@@ -1675,7 +1676,7 @@
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [googlecreativelab/teachable-machine-boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate) - Boilerplate code for Teachable Machine
 - [stylesuxx/graphql-custom-types](https://github.com/stylesuxx/graphql-custom-types) - A collection of custom GraphQL types like Email, URL and password.
-- [remarkjs/remark-react](https://github.com/remarkjs/remark-react) - Legacy plugin to transform to React
+- [remarkjs/remark-react](https://github.com/remarkjs/remark-react) - Legacy plugin to transform to React — please use `remark-rehype` and `rehype-react` instead
 - [guigrpa/jest-html](https://github.com/guigrpa/jest-html) - Preview your Jest snapshots visually in the browser
 - [CondeNast/perf-timeline-cli](https://github.com/CondeNast/perf-timeline-cli) - Generate Chrome Performance Timelines via a command line interface
 - [obartra/attina](https://github.com/obartra/attina) - React Mermaid Renderer 🐟
@@ -4212,7 +4213,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
 - [WebPlatformTest/Data](https://github.com/WebPlatformTest/Data) - Data for generating information about other browsers on HTML5test.com
 - [MobilityLab/TransitScreen](https://github.com/MobilityLab/TransitScreen) - Transit screen configuration and display.
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software written in PHP and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [rockandscissor/osid](https://github.com/rockandscissor/osid) - Open Source Image Duplicator
 - [revolunet/mit-license](https://github.com/revolunet/mit-license) - Hosted MIT License with details controlled through this repo
 - [jpetitcolas/french-geography](https://github.com/jpetitcolas/french-geography) - A collaborative list of all French regions, departments and cities. Currently only in SQL, but perhaps soon in YAML, XML, etc.
