@@ -1268,7 +1268,6 @@
 - [koajs/session](https://github.com/koajs/session) - Simple session middleware for koa
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
 - [smucode/react-world-flags](https://github.com/smucode/react-world-flags) - Easy to use SVG flags of the world for react
-- [danalloway/react-country-flag](https://github.com/danalloway/react-country-flag) - React component for emoji/svg country flags.
 - [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
 - [hCaptcha/react-hcaptcha](https://github.com/hCaptcha/react-hcaptcha) - hCaptcha Component Library for ReactJS
 - [zenghongtu/vscode-asciiflow2](https://github.com/zenghongtu/vscode-asciiflow2) - Asciiflow in VS Code
@@ -1809,7 +1808,7 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [popperjs/popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
 - [KevinGrandon/ghostjs](https://github.com/KevinGrandon/ghostjs) - ghostjs provides modern UI testing with async functions
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
@@ -4923,6 +4922,7 @@
 
 ## SCSS 
 
+- [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - Système de Design de l'État
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
@@ -5302,6 +5302,7 @@
 - [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - Isomorphic JavaScript client for PostgREST.
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
 - [hoangvvo/next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more
+- [danalloway/react-country-flag](https://github.com/danalloway/react-country-flag) - React component for emoji/svg country flags.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
 - [castorini/covidex](https://github.com/castorini/covidex) - A multi-stage neural search engine for the COVID-19 Open Research Dataset
