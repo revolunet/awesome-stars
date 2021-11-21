@@ -732,7 +732,6 @@
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
 - [18F/ux-guide](https://github.com/18F/ux-guide) - Resources, norms, and practices for doing user experience research and design work at 18F.
 - [govmeeting/govmeeting](https://github.com/govmeeting/govmeeting) - Software to increase citizen involvement in democracy at the local level
-- [MieuxVoter/mieuxvoter.fr](https://github.com/MieuxVoter/mieuxvoter.fr) - Site web de MieuxVoter
 - [LINCnil/GDPR-Developer-Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - The CNIL publishes a GDPR guide for developers
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [mikewest/http-state-tokens](https://github.com/mikewest/http-state-tokens) - Incrementally better HTTP state management.
@@ -974,7 +973,7 @@
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Master the art of the most powerful testing technique for Node.js: Component tests. Including super-comprehensive best practices list and an example app (August 2021)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Master the art of the most powerful testing technique for Node.js: Component tests. Including super-comprehensive best practices list and an example app (November 2021)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [dabit3/polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) - A full stack digital marketplace running on Ethereum with Polygon & Next.js
@@ -1185,6 +1184,7 @@
 - [dhappy/git-remote-ipfs](https://github.com/dhappy/git-remote-ipfs) - Git Remote Helper to Push/Fetch from IPFS
 - [munrocket/parallax-effect](https://github.com/munrocket/parallax-effect) - 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam.
 - [und3f/vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
+- [MieuxVoter/mieuxvoter.fr](https://github.com/MieuxVoter/mieuxvoter.fr) - Site web de MieuxVoter
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [hugozanini/realtime-semantic-segmentation](https://github.com/hugozanini/realtime-semantic-segmentation) - Implementation of RefineNet to perform real time instance segmentation in the browser using TensorFlow.js
 - [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web
