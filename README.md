@@ -955,6 +955,8 @@
 
 ## JavaScript 
 
+- [Yomguithereal/pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript and TypeScript.
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
@@ -4260,6 +4262,7 @@
 
 ## Python 
 
+- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to explore, label, and monitor data for NLP projects
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
@@ -5313,7 +5316,7 @@
 - [Silind-Software/direflow](https://github.com/Silind-Software/direflow) - 🧩 Use the best of two worlds. Create fast, performant, native Web Components using React.
 - [sammccord/perge](https://github.com/sammccord/perge) - Perge is a p2p synchronization system for Automerge documents using PeerJS
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Node.js stateless session utility using signed and encrypted cookies to store data. Works with Next.js, Express, NestJs, Fastify, and any Node.js HTTP framework.
-- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in JavaScript.
 - [fission-suite/get-ipfs](https://github.com/fission-suite/get-ipfs) - Utility to get a contextual js-ipfs instance, with graceful web fallbacks
 - [pubkey/binary-decision-diagram](https://github.com/pubkey/binary-decision-diagram) - A library to create, minimize and optimize binary decision diagrams
@@ -5439,7 +5442,7 @@
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
