@@ -955,6 +955,8 @@
 
 ## JavaScript 
 
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [Yomguithereal/pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript and TypeScript.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
@@ -5011,7 +5013,7 @@
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
-- [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept 👍
 - [etalab/addok-docker](https://github.com/etalab/addok-docker) - Conteneurs Addok pour Docker
 - [ColinMaudry/decp-json](https://github.com/ColinMaudry/decp-json) - Toutes les données essentielles de la commande publique converties en JSON
 - [LibreHealthcare/CPS3](https://github.com/LibreHealthcare/CPS3) - Lecture de la CPS (Carte de Professionnel de Santé) version 3 sous GNU/Linux
