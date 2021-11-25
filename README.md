@@ -1239,7 +1239,6 @@
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [maheshmurthy/ethereum_voting_dapp](https://github.com/maheshmurthy/ethereum_voting_dapp) - Simple Ethereum Voting dapp using Truffle framework
 - [DataTurks/DataTurks](https://github.com/DataTurks/DataTurks) - ML data annotations made super easy for teams. Just upload data, add your team and build training/evaluation dataset in hours.
-- [sgbj/versed](https://github.com/sgbj/versed) - A file conversion microservice written in Node
 - [Go7hic/mammoth-style](https://github.com/Go7hic/mammoth-style) - Convert Word documents (.docx files) to HTML (with style)
 - [lukeed/tinydate](https://github.com/lukeed/tinydate) - A tiny (349B) reusable date formatter. Extremely fast!
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
@@ -4360,6 +4359,7 @@
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [pytition/Pytition](https://github.com/pytition/Pytition) - Django app for self-hosted privacy-friendly online petitions
+- [sgbj/versed](https://github.com/sgbj/versed) - A file conversion microservice written in Node
 - [etalab/csv-detective](https://github.com/etalab/csv-detective) - CSV inspection
 - [rezen/zap-tutorial](https://github.com/rezen/zap-tutorial) - WIP - A tutorial for OWASP ZAP
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
