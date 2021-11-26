@@ -5130,6 +5130,7 @@
 
 ## TypeScript 
 
+- [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [abstracter-io/atomic-release](https://github.com/abstracter-io/atomic-release) - Automated atomic release using the command pattern 📦
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
