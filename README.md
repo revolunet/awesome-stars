@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
@@ -956,6 +957,7 @@
 
 ## JavaScript 
 
+- [bots-house/ghcr-delete-image-action](https://github.com/bots-house/ghcr-delete-image-action) - ♻️ Delete GitHub Container Registry image by tag
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [Yomguithereal/pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript and TypeScript.
@@ -4510,7 +4512,6 @@
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
 - [Gadgetoid/Pinout.xyz](https://github.com/Gadgetoid/Pinout.xyz) - Source files for the Raspberry Pi Pinout documentation website.
 - [uskudnik/amazon-glacier-cmd-interface](https://github.com/uskudnik/amazon-glacier-cmd-interface) - Command line interface for Amazon Glacier
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
@@ -5130,6 +5131,7 @@
 
 ## TypeScript 
 
+- [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [abstracter-io/atomic-release](https://github.com/abstracter-io/atomic-release) - Automated atomic release using the command pattern 📦
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
@@ -5511,6 +5513,7 @@
 - [callstack/component-docs](https://github.com/callstack/component-docs) - 📝  Simple documentation for your React components
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nebrius/raspi](https://github.com/nebrius/raspi) - Base functionality for working with a Raspberry Pi from Node.js
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
