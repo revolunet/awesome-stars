@@ -571,7 +571,7 @@
 - [alash3al/scraply](https://github.com/alash3al/scraply) - Scraply a simple dom scraper to fetch information from any html based website and convert that info to JSON APIs
 - [mcorbin/cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
 - [lbryio/chainquery](https://github.com/lbryio/chainquery) - Chainquery parses and syncs the LBRY blockchain data into structured SQL
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [profclems/glab](https://github.com/profclems/glab) - An open-source GitLab command line tool bringing GitLab's cool features to your command line
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
@@ -4664,7 +4664,7 @@
 - [gawel/impress](https://github.com/gawel/impress) - generate slide with impress.js based on a rest file
 - [egirault/googleplay-api](https://github.com/egirault/googleplay-api) - Google Play Unofficial Python API - This project was a PoC and is not maintained anymore. Please feel free to fork it and improve it in any way.
 - [jojax/django-js-error-hook](https://github.com/jojax/django-js-error-hook) - A simple Django app, for logging Javascript client side errors
-- [pinax/pinax-stripe](https://github.com/pinax/pinax-stripe) - a payments Django app for Stripe
+- [pinax/pinax-stripe-light](https://github.com/pinax/pinax-stripe-light) - a payments Django app for Stripe
 - [dobarkod/django-dynamic-model](https://github.com/dobarkod/django-dynamic-model) - Dynamic models for Django
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [kivy/pyjnius](https://github.com/kivy/pyjnius) - Access Java classes from Python
