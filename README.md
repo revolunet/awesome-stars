@@ -288,7 +288,6 @@
 
 ## CSS 
 
-- [dnum-mi/vue-dsfr](https://github.com/dnum-mi/vue-dsfr) - Portage en Vue du DSFR
 - [dravedev/manifeste-souverainete-numerique](https://github.com/dravedev/manifeste-souverainete-numerique) - Manifeste de la souveraineté numérique
 - [etalab/tchatcha](https://github.com/etalab/tchatcha) - Captchacha: solution de vérification de formulaire
 - [LINCnil/CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
@@ -976,6 +975,7 @@
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
+- [dnum-mi/vue-dsfr](https://github.com/dnum-mi/vue-dsfr) - Portage en Vue du DSFR
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
@@ -1812,7 +1812,7 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
 - [popperjs/popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
 - [KevinGrandon/ghostjs](https://github.com/KevinGrandon/ghostjs) - ghostjs provides modern UI testing with async functions
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
@@ -4889,7 +4889,7 @@
 
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
