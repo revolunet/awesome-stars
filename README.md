@@ -491,7 +491,7 @@
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - A context discovery tool for Kubernetes penetration testing.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
@@ -1151,7 +1151,7 @@
 - [Ovilia/ThreeExample.js](https://github.com/Ovilia/ThreeExample.js) - 《Three.js 入门指南》书例代码
 - [cypsela/sailplane-web](https://github.com/cypsela/sailplane-web) - Collaborative p2p file sharing in the browser
 - [breejs/later](https://github.com/breejs/later) - *Maintained fork of Later.* A javascript library for defining recurring schedules and calculating future (or past) occurrences for them. Includes support for using English phrases and Cron schedules. Works in Node and in the browser.
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.34.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.35.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [mimadottech/ipfs-crypt](https://github.com/mimadottech/ipfs-crypt) - Add files to IPFS with encryption
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
@@ -1194,7 +1194,6 @@
 - [hugozanini/realtime-semantic-segmentation](https://github.com/hugozanini/realtime-semantic-segmentation) - Implementation of RefineNet to perform real time instance segmentation in the browser using TensorFlow.js
 - [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web
 - [marmelab/argos](https://github.com/marmelab/argos) - docker monitoring experiment
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [drcmda/reactanoid](https://github.com/drcmda/reactanoid) - 
 - [chrisguttandin/video-synchronization-demo](https://github.com/chrisguttandin/video-synchronization-demo) - A website to demo usage of the media-sync package with a TimingObject and a TimingProvider.
 - [inspirit/jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library.
@@ -1543,6 +1542,7 @@
 - [nitin42/redocx](https://github.com/nitin42/redocx) - 📄  Create word documents with React
 - [bastienbot/nlp-js-tools-french](https://github.com/bastienbot/nlp-js-tools-french) - POS Tagger, lemmatizer and stemmer for french language in javascript
 - [react-container-query/react-container-query](https://github.com/react-container-query/react-container-query) - :package: Modular responsive component
+- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
 - [sebastianmoderski/react-sentry-error-boundary](https://github.com/sebastianmoderski/react-sentry-error-boundary) - A React error boundary component with integrated Sentry error reporting using Raven JS.
 - [YaroslavGaponov/queryparser](https://github.com/YaroslavGaponov/queryparser) - Library for convert text expression to Query DSL format
 - [riipen/express-elastic-sanitize](https://github.com/riipen/express-elastic-sanitize) - A sanitization middleware for Express targeting Elasticsearch.
@@ -3970,7 +3970,6 @@
 - [chartshq/muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach now powered by WebAssembly
 - [OpenInsurance/whitepaper](https://github.com/OpenInsurance/whitepaper) - The Open Insurance Initiative
 - [betagouv/pop-consultation](https://github.com/betagouv/pop-consultation) - Outil de consultation de la Plateforme Ouverte du Patrimoine
-- [sw-yx/concurrent-react-notes](https://github.com/sw-yx/concurrent-react-notes) - Notes on concurrent react - split by pre launch and post launch notes
 - [CamioCam/rtsp](https://github.com/CamioCam/rtsp) - RTSP Url paths for cameras and NVRs
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [niderhoff/nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
@@ -4256,7 +4255,7 @@
 ## Processing 
 
 - [mehackit/technomachine](https://github.com/mehackit/technomachine) - Processing + Sonic Pi Techno Machine
-- [heronarts/LXStudio-P3](https://github.com/heronarts/LXStudio-P3) - The LXStudio lighting application framework, for use in Processing IDE
+- [heronarts/LXStudio-P4](https://github.com/heronarts/LXStudio-P4) - The LXStudio lighting application framework, for use in Processing IDE
 
 ## Pug 
 
@@ -5015,7 +5014,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-- [etalab/addok-docker](https://github.com/etalab/addok-docker) - Conteneurs Addok pour Docker
+- [BaseAdresseNationale/addok-docker](https://github.com/BaseAdresseNationale/addok-docker) - Conteneurs Addok pour Docker
 - [ColinMaudry/decp-json](https://github.com/ColinMaudry/decp-json) - Toutes les données essentielles de la commande publique converties en JSON
 - [LibreHealthcare/CPS3](https://github.com/LibreHealthcare/CPS3) - Lecture de la CPS (Carte de Professionnel de Santé) version 3 sous GNU/Linux
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -5282,6 +5281,7 @@
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) - Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [omnibrain/svguitar](https://github.com/omnibrain/svguitar) - Create beautiful SVG guitar chord charts
@@ -5509,7 +5509,7 @@
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [planttheidea/selectorator](https://github.com/planttheidea/selectorator) - Simple generator of reselect selectors
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [callstack/component-docs](https://github.com/callstack/component-docs) - 📝  Simple documentation for your React components
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
