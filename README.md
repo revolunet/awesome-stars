@@ -721,6 +721,7 @@
 
 ## HTML 
 
+- [DISIC/frago](https://github.com/DISIC/frago) - Thème goHugo - génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité.
 - [Cour-de-cassation/judilibre-search](https://github.com/Cour-de-cassation/judilibre-search) - API de recherche et de consultation de la plateforme JUDILIBRE.
 - [alphagov/accessibility-tool-audit](https://github.com/alphagov/accessibility-tool-audit) - Automated accessibility tools audit
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
@@ -4040,7 +4041,6 @@
 - [wix-incubator/mobile-crash-course](https://github.com/wix-incubator/mobile-crash-course) - Crash course for engineers in Wix to start working on the mobile stack
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [Martin-Pitt/awesome-frontend-podcasts](https://github.com/Martin-Pitt/awesome-frontend-podcasts) - A curated list of awesome Front-end Podcasts
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
@@ -4264,6 +4264,7 @@
 
 ## Python 
 
+- [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
 - [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to explore, label, and monitor data for NLP projects
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
@@ -5494,6 +5495,7 @@
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [handsontable/react-handsontable](https://github.com/handsontable/react-handsontable) - React Data Grid with Spreadsheet Look & Feel. Official React wrapper for Handsontable.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [mikehadlow/gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [ubilabs/react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
