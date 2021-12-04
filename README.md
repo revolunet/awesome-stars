@@ -745,7 +745,7 @@
 - [co-demos/covid-viz](https://github.com/co-demos/covid-viz) - initiatives to fight COVID-19
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [ColinMaudry/mastermind-html-pdf](https://github.com/ColinMaudry/mastermind-html-pdf) - Plateaux de jeu Mastermind à imprimer
-- [dair-ai/dair-ai.github.io](https://github.com/dair-ai/dair-ai.github.io) - Home of dair.ai
+- [dair-ai/dair-ai.github.io](https://github.com/dair-ai/dair-ai.github.io) - Home of DAIR.AI
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [holochain/holoscape](https://github.com/holochain/holoscape) - A complete end-user deployment of a Holochain conductor with UI for administration and a run-time for hApp UIs
 - [etalab/piaf-site](https://github.com/etalab/piaf-site) - Site de présentation du projet PIAF: pour une IA francophone
@@ -4412,7 +4412,7 @@
 - [tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [metapensiero/metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [openfisca/calculette-impots-python](https://github.com/openfisca/calculette-impots-python) - Traduction en langage Python du code source (en langage M) du calculateur des impôts sur le revenu et sur la fortune
 - [ArmandGiraud/letor_scores](https://github.com/ArmandGiraud/letor_scores) - a flask minimal api to score a ranking system against human relevance scores
 - [guildai/guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
@@ -4804,7 +4804,7 @@
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [zsiciarz/django-markitup](https://github.com/zsiciarz/django-markitup) - Markup handling (using Jay Salvat's MarkItUp! flexible universal markup editor) for Django
 - [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
-- [divio/cmsplugin-filer](https://github.com/divio/cmsplugin-filer) - DEPRECATED, this project is no longer maintained, see README for more information.
+- [django-cms/cmsplugin-filer](https://github.com/django-cms/cmsplugin-filer) - DEPRECATED, this project is no longer maintained, see README for more information.
 - [zain/jogging](https://github.com/zain/jogging) - Easier Django logging!
 - [shrubberysoft/django-picklefield](https://github.com/shrubberysoft/django-picklefield) - A pickled object field for Django
 - [mfenniak/pyPdf](https://github.com/mfenniak/pyPdf) - Pure-Python PDF Library; this repository is no longer maintained, please see https://github.com/knowah/PyPDF2/ insead.
@@ -5304,7 +5304,7 @@
 - [chain-gun/chaingun](https://github.com/chain-gun/chaingun) - Reimplementation of gunDB in TypeScript with SocketCluster
 - [peerstate/peerstate](https://github.com/peerstate/peerstate) - state management for p2p apps with authentication/authorization and a drop in key management server
 - [peerstate/react-peerstate](https://github.com/peerstate/react-peerstate) - react hooks bindings for peerstate
-- [atlassian/changesets](https://github.com/atlassian/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [gatteo/react-jitsi](https://github.com/gatteo/react-jitsi) - React and Typescript component to include Jitsi Meet with ease
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
