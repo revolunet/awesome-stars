@@ -3598,7 +3598,7 @@
 - [bevry-archive/jquery-scrollto](https://github.com/bevry-archive/jquery-scrollto) - jQuery ScrollTo - Smooth Scrolling to any jQuery/DOM Element
 - [mezzoblue/PaintbrushJS](https://github.com/mezzoblue/PaintbrushJS) - A lightweight browser-based image processing library
 - [xui/xui-plugins](https://github.com/xui/xui-plugins) - Extends XUI (a lightweight mobile javascript framework) with more features
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [daleharvey/pacman](https://github.com/daleharvey/pacman) - HTML5 Pacman
 - [kennethkufluk/js-mindmap](https://github.com/kennethkufluk/js-mindmap) - JavaScript Mindmap
 - [HenrikJoreteg/ICanHaz.js](https://github.com/HenrikJoreteg/ICanHaz.js) - A clean solution for templating with Mustache.js and jQuery or Zepto
@@ -5132,7 +5132,6 @@
 
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
-- [abstracter-io/atomic-release](https://github.com/abstracter-io/atomic-release) - Automated atomic release using the command pattern 📦
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
