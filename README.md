@@ -1156,7 +1156,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [mimadottech/ipfs-crypt](https://github.com/mimadottech/ipfs-crypt) - Add files to IPFS with encryption
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
-- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
