@@ -957,6 +957,7 @@
 
 ## JavaScript 
 
+- [jessy1092/react-github-fork-ribbon](https://github.com/jessy1092/react-github-fork-ribbon) - Pure inline style github fork ribbon on React component.
 - [bots-house/ghcr-delete-image-action](https://github.com/bots-house/ghcr-delete-image-action) - ♻️ Delete GitHub Container Registry image by tag
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
@@ -2425,7 +2426,7 @@
 - [TheLarkInn/webpack-developer-kit](https://github.com/TheLarkInn/webpack-developer-kit) - webpack dev kit for writing custom plugins and loaders on the fly. Education/Exploration tool as well.
 - [smalldots/smalldots](https://github.com/smalldots/smalldots) - 
 - [anandkumarpatel/rest-fs](https://github.com/anandkumarpatel/rest-fs) - restful interface to a filesystem.
-- [Fluidbyte/Node-FSAPI](https://github.com/Fluidbyte/Node-FSAPI) - A RESTful FileSystem API for NodeJS
+- [ksafranski/Node-FSAPI](https://github.com/ksafranski/Node-FSAPI) - A RESTful FileSystem API for NodeJS
 - [marmelab/restful.js](https://github.com/marmelab/restful.js) - A pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.
 - [mthuret/storybook-addon-specifications](https://github.com/mthuret/storybook-addon-specifications) - :book: Write tests next to your stories and display their results inside storybook interface
 - [housinghq/webpack.config](https://github.com/housinghq/webpack.config) - webpack config for Housing Go
@@ -2946,7 +2947,6 @@
 - [kriskowal/q](https://github.com/kriskowal/q) - A promise library for JavaScript
 - [excellenteasy/ios-icons](https://github.com/excellenteasy/ios-icons) - Get iOS icons: files names and sizes
 - [AlexDisler/cordova-icon](https://github.com/AlexDisler/cordova-icon) - Automatic icon resizing for Cordova
-- [eaze/ng-classy](https://github.com/eaze/ng-classy) - Use Angular 1 and ES6+ with ease.
 - [Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number) - React component to apply transition effect to numeric strings, a la old Groupon timers
 - [mafintosh/srt-to-vtt](https://github.com/mafintosh/srt-to-vtt) - Transform stream that converts srt files to vtt files (html5 video subtitles)
 - [yuanyan/boron](https://github.com/yuanyan/boron) - A collection of dialog animations with React.js
@@ -3831,6 +3831,7 @@
 
 ## Others 
 
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
 - [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources
@@ -4409,7 +4410,7 @@
 - [kayagoban/shadowlands](https://github.com/kayagoban/shadowlands) - A Dapp platform and Ethereum terminal, entirely in Python.
 - [ELS-RD/anonymisation](https://github.com/ELS-RD/anonymisation) - Anonymization of legal cases (Fr) based on Flair embeddings
 - [gfairchild/pyxDamerauLevenshtein](https://github.com/gfairchild/pyxDamerauLevenshtein) - pyxDamerauLevenshtein implements the Damerau-Levenshtein (DL) edit distance algorithm for Python in Cython for high performance.
-- [tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
+- [electricityMap/electricitymap-contrib](https://github.com/electricityMap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [metapensiero/metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
