@@ -1157,7 +1157,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [mimadottech/ipfs-crypt](https://github.com/mimadottech/ipfs-crypt) - Add files to IPFS with encryption
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
-- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
@@ -4206,7 +4206,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [Tazeg/dbtweets](https://github.com/Tazeg/dbtweets) - Get a lot of tweets on a specific topic.
 - [Stanislas-Poisson/French-zip-code](https://github.com/Stanislas-Poisson/French-zip-code) - List of france's regions, departments, cities and villages zip-codes
-- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Open Source Appointment Scheduler
+- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Online Appointment Scheduling
 - [Wikilex/wikilex](https://github.com/Wikilex/wikilex) - The main repository for Wikilex
 - [q2a/question2answer](https://github.com/q2a/question2answer) - Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
@@ -5131,6 +5131,7 @@
 
 ## TypeScript 
 
+- [alterx/gundb-react-hooks](https://github.com/alterx/gundb-react-hooks) - A set of React hooks that wrap around GunDB core functionality
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
