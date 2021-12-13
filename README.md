@@ -4264,6 +4264,7 @@
 
 ## Python 
 
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
 - [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to explore, label, and monitor data for NLP projects
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
@@ -5135,7 +5136,7 @@
 - [alterx/gundb-react-hooks](https://github.com/alterx/gundb-react-hooks) - A set of React hooks that wrap around GunDB core functionality
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
-- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data science oriented container launcher
