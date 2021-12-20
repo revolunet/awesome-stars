@@ -288,7 +288,6 @@
 
 ## CSS 
 
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [dravedev/manifeste-souverainete-numerique](https://github.com/dravedev/manifeste-souverainete-numerique) - Manifeste de la souveraineté numérique
 - [etalab/tchatcha](https://github.com/etalab/tchatcha) - Captchacha: solution de vérification de formulaire
 - [LINCnil/CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
@@ -961,6 +960,7 @@
 
 ## JavaScript 
 
+- [vjeux/image-recolor](https://github.com/vjeux/image-recolor) - Change the color of an image to a specific color you have in mind.
 - [BaseAdresseNationale/codes-postaux](https://github.com/BaseAdresseNationale/codes-postaux) - Générer et manipuler facilement le fichier des codes postaux
 - [jessy1092/react-github-fork-ribbon](https://github.com/jessy1092/react-github-fork-ribbon) - Pure inline style github fork ribbon on React component.
 - [bots-house/ghcr-delete-image-action](https://github.com/bots-house/ghcr-delete-image-action) - ♻️ Delete GitHub Container Registry image by tag
@@ -4935,6 +4935,7 @@
 
 ## SCSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - Système de Design de l'État
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
