@@ -1193,7 +1193,6 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Wapikoni-Technique/Natakanu](https://github.com/Wapikoni-Technique/Natakanu) - Indigenous p2p collaboration tool
 - [terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) - A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me
-- [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [dhappy/git-remote-ipfs](https://github.com/dhappy/git-remote-ipfs) - Git Remote Helper to Push/Fetch from IPFS
 - [munrocket/parallax-effect](https://github.com/munrocket/parallax-effect) - 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam.
 - [und3f/vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
@@ -5285,6 +5284,7 @@
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
+- [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [emeraldpay/hashicon](https://github.com/emeraldpay/hashicon) - Generates a beautiful representation of any hash.
 - [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
