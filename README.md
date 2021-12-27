@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [skovaka/UNCALLED](https://github.com/skovaka/UNCALLED) - Raw nanopore signal mapper that enables real-time targeted sequencing
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
@@ -487,6 +488,7 @@
 
 ## Go 
 
+- [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) - A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -575,7 +577,7 @@
 - [lbryio/chainquery](https://github.com/lbryio/chainquery) - Chainquery parses and syncs the LBRY blockchain data into structured SQL
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
-- [profclems/glab](https://github.com/profclems/glab) - An open-source GitLab command line tool bringing GitLab's cool features to your command line
+- [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
 - [octarinesec/kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
 - [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
@@ -1211,7 +1213,6 @@
 - [davidbonan/excalidraw-share-peer-link](https://github.com/davidbonan/excalidraw-share-peer-link) - Link to excalidraw from tiers application React
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [matomo-org/matomo-nodejs-tracker](https://github.com/matomo-org/matomo-nodejs-tracker) - A Node.js wrapper for the Matomo (Piwik) tracking HTTP API
-- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - XgeneCloud is now https://github.com/nocodb/nocodb
 - [vaultec81/js-pinza](https://github.com/vaultec81/js-pinza) - Pinza is an IPFS pinning system and clustering software using Ceramic as a distributed database.
 - [ipfs/js-ipfsd-ctl](https://github.com/ipfs/js-ipfsd-ctl) - Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!
 - [libp2p/js-libp2p-kad-dht](https://github.com/libp2p/js-libp2p-kad-dht) - JavaScript implementation of the DHT for libp2p
