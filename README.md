@@ -610,7 +610,7 @@
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [shyiko/kubesec](https://github.com/shyiko/kubesec) - Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 - [dtan4/k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
 - [dpetzold/kube-top](https://github.com/dpetzold/kube-top) - A top for your kubernetes cluster
@@ -1124,7 +1124,7 @@
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
-- [beyoundhorizon/keycloak-hasura-connector](https://github.com/beyoundhorizon/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
+- [atmilkyway/keycloak-hasura-connector](https://github.com/atmilkyway/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
 - [tabcat/encrypted-docstore](https://github.com/tabcat/encrypted-docstore) - create and mount encrypted orbit docstores in the browser
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [cagline/react-router-component-keycloak-example](https://github.com/cagline/react-router-component-keycloak-example) - React Routes and Components restrict with Keycloak
@@ -3002,7 +3002,7 @@
 - [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
 - [paoyong/chat-room](https://github.com/paoyong/chat-room) - Chat room built with Reactjs, backend with nodejs, socket.io, and postgresql.
 - [moll/json-stringify-safe](https://github.com/moll/json-stringify-safe) - Like JSON.stringify, but doesn't throw on circular references
-- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io) - the code behind alrt.io
 - [brianchirls/popcorn-base](https://github.com/brianchirls/popcorn-base) - Popcorn.js Base Plugin
 - [yuanyan/halogen](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js
@@ -4563,7 +4563,7 @@
 - [bbc/pydvbcss](https://github.com/bbc/pydvbcss) - Python library that implements DVB protocols for companion synchronisation
 - [marshall/logcat-color](https://github.com/marshall/logcat-color) - A colorful and highly configurable alternative to the standard "adb logcat" command from the Android SDK
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
-- [lucuma/Clay](https://github.com/lucuma/Clay) - An amazing HTML&CSS prototyping tool.
+- [lucuma/clay](https://github.com/lucuma/clay) - An amazing HTML&CSS prototyping tool.
 - [thearn/webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) - A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.
 - [lavr/python-emails](https://github.com/lavr/python-emails) - Modern python library for emails
 - [kennethreitz-archive/procs](https://github.com/kennethreitz-archive/procs) - Python, Processes, and Prana.
