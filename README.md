@@ -488,6 +488,8 @@
 
 ## Go 
 
+- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
+- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
@@ -3975,7 +3977,7 @@
 - [jlelse/Maily-Form](https://github.com/jlelse/Maily-Form) - Forms on any website
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [chartshq/muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach now powered by WebAssembly
-- [OpenInsurance/whitepaper](https://github.com/OpenInsurance/whitepaper) - The Open Insurance Initiative
+- [fouadhusseini/whitepaper](https://github.com/fouadhusseini/whitepaper) - The Open Insurance Initiative
 - [betagouv/pop-consultation](https://github.com/betagouv/pop-consultation) - Outil de consultation de la Plateforme Ouverte du Patrimoine
 - [CamioCam/rtsp](https://github.com/CamioCam/rtsp) - RTSP Url paths for cameras and NVRs
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
