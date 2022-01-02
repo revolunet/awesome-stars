@@ -968,6 +968,7 @@
 
 ## JavaScript 
 
+- [jimmywarting/native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter) - File system, based on the spec reference implementation
 - [Wozacosta/classificator](https://github.com/Wozacosta/classificator) - naive bayes classifier
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [pom421/transparencemedia](https://github.com/pom421/transparencemedia) - 
@@ -3008,7 +3009,6 @@
 - [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io) - the code behind alrt.io
 - [brianchirls/popcorn-base](https://github.com/brianchirls/popcorn-base) - Popcorn.js Base Plugin
-- [yuanyan/halogen](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js
 - [madebyform/react-parts](https://github.com/madebyform/react-parts) - An unofficial catalog of React components
 - [gaearon/flux-react-router-example](https://github.com/gaearon/flux-react-router-example) - A sample app showcasing Flux with React Router
 - [ericclemmons/react-resolver](https://github.com/ericclemmons/react-resolver) - Async rendering & data-fetching for universal React applications.
@@ -4273,6 +4273,7 @@
 
 ## Python 
 
+- [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
 - [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to label, refine, and monitor data for NLP projects
@@ -5473,7 +5474,7 @@
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [staltz/dat-installer](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A powerful toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus and more
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
@@ -5514,7 +5515,7 @@
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [handsontable/react-handsontable](https://github.com/handsontable/react-handsontable) - React Data Grid with Spreadsheet Look & Feel. Official React wrapper for Handsontable.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [mikehadlow/gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [ubilabs/react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
