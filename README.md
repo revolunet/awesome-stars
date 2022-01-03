@@ -443,6 +443,7 @@
 - [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
 - [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux
+- [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [smartive/semantic-release-image](https://github.com/smartive/semantic-release-image) - Docker image with semantic-release and plugins installed so you can just put the `releaserc` file into your repo.
 - [yeasy/docker-ipfs](https://github.com/yeasy/docker-ipfs) - Docker Image for IPFS node
 - [alexellis/cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
@@ -894,6 +895,7 @@
 
 ## Java 
 
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [KubeHelper/kubehelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface. Search, analysis, run commands, cron jobs, reports, filters, git synchronization and many more.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [cloudtrust/event-emitter](https://github.com/cloudtrust/event-emitter) - 
@@ -1007,7 +1009,6 @@
 - [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [evanshortiss/keycloak-nodejs-quickstart-tutorial](https://github.com/evanshortiss/keycloak-nodejs-quickstart-tutorial) - A strong starting point and tutorial for Keycloak secured applications 💪
 - [keycloak/keycloak-nodejs-connect](https://github.com/keycloak/keycloak-nodejs-connect) - 
-- [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - find any drugs thanks to its name or barcode
 - [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
@@ -4339,7 +4340,6 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [Kinto/kinto-emailer](https://github.com/Kinto/kinto-emailer) - Plugin to manage email notifications on records modification in a collection.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
-- [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [mozilla-services/telescope](https://github.com/mozilla-services/telescope) - A dumb auditing service
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [gw3l/richelieu](https://github.com/gw3l/richelieu) - Solution complète du challenge Richelieu de la DGSE
@@ -5175,6 +5175,7 @@
 - [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify) - 🔏 Create Keycloak themes using React
+- [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - retrouver la notice d'un médicament via son code-barre
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
 - [ftonato/vscode-password-generator](https://github.com/ftonato/vscode-password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
 - [Kinto/kinto-http.js](https://github.com/Kinto/kinto-http.js) - A JavaScript HTTP client for the Kinto API.
