@@ -239,7 +239,6 @@
 - [PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) - Detect touch or proximity by capacitve sensing
 - [bhagman/SoftPWM](https://github.com/bhagman/SoftPWM) - A Wiring (and Arduino) Library to produce PWM signals on arbitrary pins.
 - [Bhlowe/streamer](https://github.com/Bhlowe/streamer) - Low-latency WebRTC broadcasting streamer for H.264 RTSP IP cameras.
-- [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [MechaDuck/HexapodHDA](https://github.com/MechaDuck/HexapodHDA) - University Project: Design of a six-legged Hexapod with 3 DoF at each leg. Communication and control implementation on an Arduino 2560.
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
@@ -489,6 +488,7 @@
 
 ## Go 
 
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
@@ -970,6 +970,7 @@
 
 ## JavaScript 
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [jimmywarting/native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter) - File system, based on the spec reference implementation
 - [Wozacosta/classificator](https://github.com/Wozacosta/classificator) - naive bayes classifier
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
@@ -4214,6 +4215,7 @@
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [Tazeg/dbtweets](https://github.com/Tazeg/dbtweets) - Get a lot of tweets on a specific topic.
+- [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [Stanislas-Poisson/French-zip-code](https://github.com/Stanislas-Poisson/French-zip-code) - List of france's regions, departments, cities and villages zip-codes
 - [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Self Hosted Appointment Scheduler
 - [Wikilex/wikilex](https://github.com/Wikilex/wikilex) - The main repository for Wikilex
@@ -5330,7 +5332,7 @@
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - Isomorphic JavaScript client for PostgREST.
-- [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+- [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 - [hoangvvo/next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more
 - [danalloway/react-country-flag](https://github.com/danalloway/react-country-flag) - React component for emoji/svg country flags.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
@@ -5475,7 +5477,7 @@
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [staltz/dat-installer](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A powerful toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
@@ -5585,7 +5587,7 @@
 - [googleapis/nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) - Use @google-cloud/datastore as a Key/Value store.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
-- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React.
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [wordpress-clients/hybrid](https://github.com/wordpress-clients/hybrid) - [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
