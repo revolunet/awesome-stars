@@ -3620,7 +3620,6 @@
 - [nytimes/document-viewer](https://github.com/nytimes/document-viewer) - The NYTimes Document Viewer
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
 - [revolunet/Ext.ux.upload](https://github.com/revolunet/Ext.ux.upload) - SWFupload + html5 drag&drop + progressbars for ExtJs
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [subtleGradient/Sheet.js](https://github.com/subtleGradient/Sheet.js) - CommonJS & Browser JavaScript for parsing many CSS-like languages. Parse a CSS string into a JS object!
 - [remy/jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops
 - [VinylFox/ExtJS.Patterns](https://github.com/VinylFox/ExtJS.Patterns) - A sampling of common Ext JS design patterns to use as a starting point for development
@@ -4472,7 +4471,7 @@
 - [betagouv/zam](https://github.com/betagouv/zam) - Alléger la charge de préparation par le gouvernement du débat parlementaire.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [entrepreneur-interet-general/OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper) - An open source webapp for scraping: towards a public service for webscraping
 - [Legilibre/SedLex](https://github.com/Legilibre/SedLex) - SedLex is a frontend generator for French bills compiled using DuraLex.
@@ -4902,6 +4901,7 @@
 
 ## Rust 
 
+- [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
