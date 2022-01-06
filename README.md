@@ -2171,7 +2171,7 @@
 - [szymonkaliski/SDF-UI](https://github.com/szymonkaliski/SDF-UI) - WebGL node editor for Signed Distance Functions
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
-- [dat-ecosystem-archive/hypercloud](https://github.com/dat-ecosystem-archive/hypercloud) - A hosting server for Dat. [ARCHIVED - Use Hashbase instead!]
+- [dat-ecosystem-archive/hypercloud](https://github.com/dat-ecosystem-archive/hypercloud) - A hosting server for Dat.                               [ DEPRECATED - see github.com/beakerbrowser/hashbase for similar functionality. More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [vitaly-t/spex](https://github.com/vitaly-t/spex) - :bulb: Specialized Promise Extensions
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [mohebifar/konsul](https://github.com/mohebifar/konsul) - A react renderer for browser's dev console
@@ -2651,7 +2651,7 @@
 - [phil-r/react-native-looped-carousel](https://github.com/phil-r/react-native-looped-carousel) - :carousel_horse: Looped carousel for React Native
 - [atilacamurca/react-native-ebook](https://github.com/atilacamurca/react-native-ebook) - React Native E-book (.mobi, .epub)
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
 - [1602/jugglingdb](https://github.com/1602/jugglingdb) - Multi-database ORM for nodejs: redis, mongodb, mysql, sqlite3, postgresql, arango, in-memory...
 - [react-alpha-beta/alphabeta](https://github.com/react-alpha-beta/alphabeta) - Declarative split testing for React
 - [arguseyes/argus-eyes](https://github.com/arguseyes/argus-eyes) - A lightweight commandline tool for visual regression testing of UI components.
@@ -4357,7 +4357,7 @@
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [vladimarius/pyap](https://github.com/vladimarius/pyap) - Python address detector and parser
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -5458,7 +5458,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
-- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
 - [project-orion/orion](https://github.com/project-orion/orion) - 
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dequelabs/react-axe](https://github.com/dequelabs/react-axe) - [DEPRECATED] Accessibility auditing for React.js applications
