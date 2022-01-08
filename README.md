@@ -3118,7 +3118,6 @@
 - [JamieMason/karma-nested-reporter](https://github.com/JamieMason/karma-nested-reporter) - Easy to read test output with nested describe and it blocks
 - [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest JavaScript animation engine on the web
-- [TarifaTools/tarifa](https://github.com/TarifaTools/tarifa) - Your friendly toolchain for mobile app development on top of Apache Cordova
 - [alepez/omxdirector](https://github.com/alepez/omxdirector) - Nodejs module to control omxplayer
 - [luster-io/impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 - [douglasduteil/node-git-deployor](https://github.com/douglasduteil/node-git-deployor) - A git pusher helper in node.
@@ -4157,7 +4156,6 @@
 - [cyrilreal/AVD_Skins](https://github.com/cyrilreal/AVD_Skins) - Realistic skins for Android Virtual Device (aka Android Emulator)
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [vimeo/player-api](https://github.com/vimeo/player-api) - Examples for our JavaScript and ActionScript player APIs.
-- [TarifaTools/tarifa-book](https://github.com/TarifaTools/tarifa-book) - tarifa documentation
 - [brianleroux/phonegap-build-barcode-example](https://github.com/brianleroux/phonegap-build-barcode-example) - 
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
