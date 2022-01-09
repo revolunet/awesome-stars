@@ -3068,7 +3068,7 @@
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [pieterv/react-googlemaps](https://github.com/pieterv/react-googlemaps) - A declarative React interface to Google Maps
 - [Pomax/react-onclickoutside](https://github.com/Pomax/react-onclickoutside) - An onClickOutside wrapper for React components
-- [Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing animation mimicking human behavior.
+- [zhouzi/TheaterJS](https://github.com/zhouzi/TheaterJS) - Typing animation mimicking human behavior.
 - [marmelab/tree.js](https://github.com/marmelab/tree.js) - Tree.js is a JavaScript library to build and manipulate hookable trees.
 - [topheman/twitter-stream-channels](https://github.com/topheman/twitter-stream-channels) - Lets you manage multiple channels of keywords on the same twitter stream
 - [ggoodman/angular-drag-drop](https://github.com/ggoodman/angular-drag-drop) - Declarative drag and drop in Angular.js without any external dependencies
