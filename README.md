@@ -493,7 +493,7 @@
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) - A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
@@ -1443,7 +1443,6 @@
 - [Planeshifter/text-miner](https://github.com/Planeshifter/text-miner) - text mining utilities for node.js
 - [SocialGouv/code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [hobbyquaker/waldorf](https://github.com/hobbyquaker/waldorf) - Simple Mattermost Bot 🤡🤠
-- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [use-global-hook/use-global-hook](https://github.com/use-global-hook/use-global-hook) - 
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
@@ -4900,6 +4899,7 @@
 
 ## Rust 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - vector similarity search  engine with extended filtering support
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -5161,7 +5161,7 @@
 - [jasonkuhrt/template-typescript-lib](https://github.com/jasonkuhrt/template-typescript-lib) - Project template for TypeScript libraries
 - [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
 - [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
-- [Azure/vscode-kubernetes-tools](https://github.com/Azure/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
+- [vscode-kubernetes-tools/vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
@@ -5188,7 +5188,7 @@
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [application-research/next-bucket](https://github.com/application-research/next-bucket) - A template to start a project easily with NextJS and Textile Buckets
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
 - [coldi/r3f-game-demo](https://github.com/coldi/r3f-game-demo) - A demo on how to do a simple tile-based game with React and react-three-fiber
 - [InseeFrLab/onyxia-ui](https://github.com/InseeFrLab/onyxia-ui) - 🌓 A modern UI toolkit with excellent typing.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
@@ -5246,7 +5246,7 @@
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [sergiodxa/swr-sync-storage](https://github.com/sergiodxa/swr-sync-storage) - Synchronize SWR cache with localStorage or sessionStorage to get offline cache
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - A modern, lightweight, performant, accessible and  extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [cberthou/aes-gcm-rsa-oaep](https://github.com/cberthou/aes-gcm-rsa-oaep) - 
 - [PaulieScanlon/mdx-embed](https://github.com/PaulieScanlon/mdx-embed) - Embed 3rd party media content in MDX - no import required 🧽
 - [duniter/duniter-currency-monit](https://github.com/duniter/duniter-currency-monit) - This specialize duniter node monitoring the state of currency and web of trust
@@ -5383,6 +5383,7 @@
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
 - [South-Paw/react-vector-maps](https://github.com/South-Paw/react-vector-maps) - 🗺 A React component for interactive vector maps of the world and 100+ countries
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [vega/react-vega](https://github.com/vega/react-vega) - Convert Vega spec into React class conveniently
 - [mathiassoeholm/use-anim](https://github.com/mathiassoeholm/use-anim) - A super small hook-based animation library for React
 - [ajv-validator/json-schema-migrate](https://github.com/ajv-validator/json-schema-migrate) - Migrate JSON-Schema draft-04 to draft-07, draft-2019-09 or draft-2020-12
