@@ -5174,7 +5174,7 @@
 - [MyUnisoft/httpie](https://github.com/MyUnisoft/httpie) - A modern and light Node.js http client 🐢🚀 (built with undici under the hood).
 - [ChainSafe/js-libp2p-noise](https://github.com/ChainSafe/js-libp2p-noise) - Noise libp2p handshake for js-libp2p
 - [moodysalem/jointz](https://github.com/moodysalem/jointz) - ✅ Zero dependency universal TypeScript validation library
-- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
+- [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify) - 🔏 Create Keycloak themes using React
 - [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - retrouver la notice d'un médicament via son code-barre
@@ -5257,7 +5257,7 @@
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [vv13/mermaid-react](https://github.com/vv13/mermaid-react) - display mermaid diagrams in modern React component.
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
-- [toomuchdesign/next-page-tester](https://github.com/toomuchdesign/next-page-tester) - DOM integration testing for Next.js
+- [next-page-tester/next-page-tester](https://github.com/next-page-tester/next-page-tester) - DOM integration testing for Next.js
 - [pixano/pixano-elements](https://github.com/pixano/pixano-elements) - Pixano Elements - Re-usable web components dedicated to data annotation tasks.
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
