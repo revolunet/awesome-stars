@@ -921,7 +921,7 @@
 - [tsegismont/graphql-api-gateway-workshop](https://github.com/tsegismont/graphql-api-gateway-workshop) - How-to implement the API Gateway pattern with GraphQL
 - [inception-project/inception](https://github.com/inception-project/inception) - INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.
 - [pranab/avenir](https://github.com/pranab/avenir) - Set of Machine Learning and Stochastic Optimazion  tools based on Hadoop, Spark and Storm  https://pkghosh.wordpress.com/
-- [tchapgouv/tchap-android](https://github.com/tchapgouv/tchap-android) - A glossy Matrix collaboration client for Android
+- [tchapgouv/tchap-android](https://github.com/tchapgouv/tchap-android) - A matrix client for Android
 - [ICIJ/datashare](https://github.com/ICIJ/datashare) - Better analyze information, in all its forms
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
@@ -1567,7 +1567,7 @@
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [styled-icons/styled-icons](https://github.com/styled-icons/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components
-- [tchapgouv/tchap-web](https://github.com/tchapgouv/tchap-web) - A glossy Matrix collaboration client for the web.
+- [tchapgouv/tchap-web](https://github.com/tchapgouv/tchap-web) - A Matrix client for the web.
 - [topheman/docker-experiments](https://github.com/topheman/docker-experiments) - Discover docker with a simple use case in development, production (local kubernetes) and CI
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -2377,7 +2377,6 @@
 - [pnachum/Functional-Asteroids](https://github.com/pnachum/Functional-Asteroids) - Rebuilt Asteroids with functional programming and Redux
 - [react-theming/storybook-addon-material-ui](https://github.com/react-theming/storybook-addon-material-ui) - Addon for storybook wich wrap material-ui components into MuiThemeProvider. :page_with_curl: This helps and simplifies development of material-ui based components.
 - [magicismight/react-native-root-modal](https://github.com/magicismight/react-native-root-modal) - A pure JavaScript solution for react native`s modal component
-- [vercel/async-throttle](https://github.com/vercel/async-throttle) - Throttling made simple, easy, async.
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -3985,7 +3984,6 @@
 - [niderhoff/nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
-- [vercel/now-examples](https://github.com/vercel/now-examples) - Old examples of Vercel projects you can deploy yourself
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [jmreicha/awesome-rancher](https://github.com/jmreicha/awesome-rancher) - Curated list of Rancher resources
 - [fendouai/Awesome-Text-Classification](https://github.com/fendouai/Awesome-Text-Classification) - Awesome-Text-Classification Projects,Papers,Tutorial .
@@ -4034,7 +4032,6 @@
 - [juliangruber/async-stream](https://github.com/juliangruber/async-stream) - The async stream spec
 - [timneutkens/micro-graphql](https://github.com/timneutkens/micro-graphql) - Example usage of GraphQL with ZEIT's micro
 - [membership/membership.db](https://github.com/membership/membership.db) - SQL database schema boilerplate for user accounts, roles and authentication tokens for use in web apps (PostgreSQL, Microsoft SQL Server, Azure SQL Database, LocalDb, SQLite)
-- [vercel/awesome-zeit](https://github.com/vercel/awesome-zeit) - The best resources related to ZEIT
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -5371,7 +5368,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [frontier-forms/frontier-forms](https://github.com/frontier-forms/frontier-forms) - The smartest web-forms.
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [netzwerg/react-svg-timeline](https://github.com/netzwerg/react-svg-timeline) - React event timeline component based on SVG
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
