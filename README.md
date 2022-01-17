@@ -487,6 +487,7 @@
 
 ## Go 
 
+- [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
@@ -504,7 +505,7 @@
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
@@ -1826,7 +1827,7 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
 - [KevinGrandon/ghostjs](https://github.com/KevinGrandon/ghostjs) - ghostjs provides modern UI testing with async functions
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
@@ -4459,6 +4460,7 @@
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [kiwicom/crane](https://github.com/kiwicom/crane) - ⬆ A GitLab CI ready image to upgrade services in Rancher
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader) - A tool for batch loading data files (json, parquet, csv, tsv) into ElasticSearch
 - [Anaphory/open20q](https://github.com/Anaphory/open20q) - Bayes network for Twenty-Questions, Identification Key and similar games/utilities
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode + Novation Launchpad + Raspberry Pi = a music instrument!
@@ -5046,7 +5048,6 @@
 - [a2f0/PiShrink](https://github.com/a2f0/PiShrink) - Make your pi images smaller!
 - [bsycorp/kind](https://github.com/bsycorp/kind) - Kubernetes-in-Docker - A single node cluster to run your CI tests against thats ready in 30 seconds
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [ruphy/publiccode.yml](https://github.com/ruphy/publiccode.yml) - A metadata description standard for public software and policy repositories
 - [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script) - Test and demo repo for a script to deploy ghpages on a successful CircleCI build
