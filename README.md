@@ -112,6 +112,7 @@
 
 ## C 
 
+- [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -5278,7 +5279,7 @@
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
-- [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library.
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [ceramicnetwork/js-dag-jose](https://github.com/ceramicnetwork/js-dag-jose) - 
 - [nbudin/react-blockly](https://github.com/nbudin/react-blockly) - A React component that embeds a Blockly visual programming editor.
