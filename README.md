@@ -732,6 +732,7 @@
 
 ## HTML 
 
+- [YannisDelmas/beau-code-web](https://github.com/YannisDelmas/beau-code-web) - Le beau code web
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [DISIC/frago](https://github.com/DISIC/frago) - Thème goHugo - génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité.
 - [Cour-de-cassation/judilibre-search](https://github.com/Cour-de-cassation/judilibre-search) - API de recherche et de consultation de la plateforme JUDILIBRE.
@@ -1598,6 +1599,7 @@
 - [rse/tika-server](https://github.com/rse/tika-server) - Apache Tika Server as a Background Service in Node.js
 - [OpenNewsLabs/autoEdit_2](https://github.com/OpenNewsLabs/autoEdit_2) - Fast text based video editing, node Electron Os X desktop app, with Backbone front end.
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [alidcastano/rogue.js](https://github.com/alidcastano/rogue.js) - The "nearly invisible" way to server-render React applications
 - [tomasreimers/tensorjs](https://github.com/tomasreimers/tensorjs) - Read and write tensor protos from multidimensional arrays in Javascript.
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
@@ -4461,7 +4463,6 @@
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [kiwicom/crane](https://github.com/kiwicom/crane) - ⬆ A GitLab CI ready image to upgrade services in Rancher
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader) - A tool for batch loading data files (json, parquet, csv, tsv) into ElasticSearch
 - [Anaphory/open20q](https://github.com/Anaphory/open20q) - Bayes network for Twenty-Questions, Identification Key and similar games/utilities
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode + Novation Launchpad + Raspberry Pi = a music instrument!
@@ -5145,6 +5146,8 @@
 
 ## TypeScript 
 
+- [laurci/kubernate](https://github.com/laurci/kubernate) - Kubernetes+Generate = Kubernate❤️
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team
