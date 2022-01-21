@@ -1928,7 +1928,7 @@
 - [busterjs/bane](https://github.com/busterjs/bane) - Browser, AMD and Node Events. Yes, yet another event emitter library.
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [maxogden/art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
-- [seanjameshan/blockchain-cli](https://github.com/seanjameshan/blockchain-cli) - ⛓️ A minimal blockchain command-line interface.
+- [0xs34n/blockchain-cli](https://github.com/0xs34n/blockchain-cli) - ⛓️ A minimal blockchain command-line interface.
 - [TooTallNate/node-spotify-web](https://github.com/TooTallNate/node-spotify-web) - Node.js implementation of the Spotify Web protocol
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
 - [mopidy/mopidy.js](https://github.com/mopidy/mopidy.js) - JavaScript library for controlling a Mopidy music server over a WebSocket from browsers or Node.js. This is the foundation of Mopidy web clients.
