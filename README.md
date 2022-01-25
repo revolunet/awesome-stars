@@ -973,6 +973,7 @@
 
 ## JavaScript 
 
+- [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [krawaller/swordle](https://github.com/krawaller/swordle) - Very smol Swedish Wordle clone
 - [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
@@ -3842,6 +3843,7 @@
 
 ## Others 
 
+- [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [logux/logux](https://github.com/logux/logux) - Issues and roadmap
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -4277,7 +4279,7 @@
 - [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
-- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to label, refine, and monitor data for NLP projects
+- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨ Python framework for data-centric NLP
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
@@ -4864,6 +4866,7 @@
 
 ## Ruby 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [doctolib/safe-pg-migrations](https://github.com/doctolib/safe-pg-migrations) - Make your PostgreSQL migrations safe
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
@@ -4900,6 +4903,7 @@
 
 ## Rust 
 
+- [biscuit-auth/biscuit-wasm](https://github.com/biscuit-auth/biscuit-wasm) - WebAssembly wrapper for Biscuit authorization tokens
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - vector similarity search  engine with extended filtering support
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
@@ -5147,6 +5151,7 @@
 
 ## TypeScript 
 
+- [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
 - [laurci/kubernate](https://github.com/laurci/kubernate) - Kubernetes+Generate = Kubernate❤️
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
