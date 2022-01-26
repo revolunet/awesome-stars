@@ -2312,7 +2312,6 @@
 - [mafintosh/chromecasts](https://github.com/mafintosh/chromecasts) - Query your local network for Chromecasts and have them play media
 - [mafintosh/hyperpipe](https://github.com/mafintosh/hyperpipe) - Distributed input/output pipe.
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
-- [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [sprmn/react-firebase-storage-connector](https://github.com/sprmn/react-firebase-storage-connector) - Connect any component to give it a firebase download url as prop
 - [clari/react-tween](https://github.com/clari/react-tween) - DEPRECATED - Recommend https://github.com/tannerlinsley/react-move instead!
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -5555,6 +5554,7 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [sekoyo/react-image-crop](https://github.com/sekoyo/react-image-crop) - A responsive image cropping tool for React
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
