@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
@@ -973,6 +974,7 @@
 
 ## JavaScript 
 
+- [rod4n4m1/hashi-vault-js](https://github.com/rod4n4m1/hashi-vault-js) - A node.js module to interact with the Hashicorp Vault API.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [krawaller/swordle](https://github.com/krawaller/swordle) - Very smol Swedish Wordle clone
 - [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
@@ -1068,7 +1070,6 @@
 - [ndimatteo/HULL](https://github.com/ndimatteo/HULL) - 💀 Headless Shopify Starter – powered by Next.js + Sanity.io
 - [styfle/tls-check](https://github.com/styfle/tls-check) - ✅ Check the TLS protocol support of one or more web servers
 - [nav-een/get-domain-certificate](https://github.com/nav-een/get-domain-certificate) - Simple module to get a website's SSL certificate from domain name
-- [GitSquared/node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 databases as an npm lib
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [arnthor3/react-solidgauge](https://github.com/arnthor3/react-solidgauge) - A React-d3 solid gauge chart
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -4913,7 +4914,7 @@
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
-- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
@@ -5230,6 +5231,7 @@
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [fission-suite/ipfs-photo-gallery](https://github.com/fission-suite/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [GitSquared/node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 GeoIP databases as an npm library
 - [italia/design-react-kit](https://github.com/italia/design-react-kit) - A React toolkit that implements the Italia design system
 - [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
