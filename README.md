@@ -5224,7 +5224,7 @@
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [simonireilly/observatory-github-action](https://github.com/simonireilly/observatory-github-action) - Run https://observatory.mozilla.org/ against pull requests and preview URLs
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [opengovsg/formsg-javascript-sdk](https://github.com/opengovsg/formsg-javascript-sdk) - JavaScript SDK for integrating with FormSG
 - [ceramicstudio/js-glaze](https://github.com/ceramicstudio/js-glaze) - Developer suite for building Ceramic applications
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
