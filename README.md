@@ -915,6 +915,7 @@
 - [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions) - Keycloak extensions
 - [groupe-sii/keycloak-json-remote-claim](https://github.com/groupe-sii/keycloak-json-remote-claim) - Keycloak module for mapping remote claims
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+- [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [EugenMayer/officeconverter](https://github.com/EugenMayer/officeconverter) - Convert file formats like docx, xlx to other formats like pdf, png - based on jodconverter and libreoffice
 - [InseeFr/Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) - Extension Keycloak facilitant l'utilisation de FranceConnect
@@ -4276,6 +4277,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
@@ -4999,7 +5001,6 @@
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
-- [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
 - [frigi83/traefik-examples](https://github.com/frigi83/traefik-examples) - docker-compose configurations examples for traefik
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
@@ -5559,7 +5560,7 @@
 - [nebrius/raspi](https://github.com/nebrius/raspi) - Base functionality for working with a Raspberry Pi from Node.js
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [sekoyo/react-image-crop](https://github.com/sekoyo/react-image-crop) - A responsive image cropping tool for React
+- [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
 - [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
