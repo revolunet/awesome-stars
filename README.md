@@ -2160,7 +2160,7 @@
 - [linkmesrl/react-redux-dashboard](https://github.com/linkmesrl/react-redux-dashboard) - React Redux Dashboard with redux-saga and local-storage support
 - [AdamPflug/express-brute](https://github.com/AdamPflug/express-brute) - Brute-force protection middleware for express routes by rate limiting incoming requests
 - [elierotenberg/react-prepare](https://github.com/elierotenberg/react-prepare) - Prepare you app state for async server-side rendering and more!
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [cvan/webvr360](https://github.com/cvan/webvr360) - It's like Tim Berners-Lee meets Oculus meets YouTube.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
