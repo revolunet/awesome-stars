@@ -497,8 +497,6 @@
 - [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) - A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
@@ -979,7 +977,6 @@
 - [rod4n4m1/hashi-vault-js](https://github.com/rod4n4m1/hashi-vault-js) - A node.js module to interact with the Hashicorp Vault API.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [krawaller/swordle](https://github.com/krawaller/swordle) - Very smol Swedish Wordle clone
-- [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [jimmywarting/native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter) - File system, based on the spec reference implementation
@@ -1001,7 +998,7 @@
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [jfrancos/oggmented](https://github.com/jfrancos/oggmented) - decodeAudioData(oggVorbisBuffer) in any browser
-- [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - :sparkles: ⚛️ React Speedometer component using d3.js :rainbow:  :art:
+- [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - React Speedometer component using d3.js ⚛️
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
@@ -3101,7 +3098,7 @@
 - [naholyr/github-todos](https://github.com/naholyr/github-todos) - Git hook to convert your TODOs into Github issues
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [domenic/count-to-6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops.
 - [dpellier/bem-comment](https://github.com/dpellier/bem-comment) - Automatically comment your BEM compliant SASS files to add class name comments
@@ -4200,7 +4197,6 @@
 
 ## PHP 
 
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [RaspbianFrance/raspisms](https://github.com/RaspbianFrance/raspisms) - RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -4282,7 +4278,6 @@
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
 - [recognai/rubrix](https://github.com/recognai/rubrix) - ✨ Python framework for data-centric NLP
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
 - [karmab/autolabeller](https://github.com/karmab/autolabeller) - 
@@ -4664,7 +4659,6 @@
 - [magopian/mailbot](https://github.com/magopian/mailbot) - MailBot: register callbacks to be executed on mail reception.
 - [insynchq/flask-googlelogin](https://github.com/insynchq/flask-googlelogin) - Flask-GoogleLogin extends Flask-Login to use Google's OAuth2 authorization
 - [samwize/python-email-crawler](https://github.com/samwize/python-email-crawler) - Search on Google, and crawls for emails related to the result
-- [agiliq/merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors via Pluggable backends.
 - [dobarkod/django-casper](https://github.com/dobarkod/django-casper) - CasperJS integration for Django tests
 - [omab/python-social-auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - [jsocol/django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
@@ -4691,6 +4685,7 @@
 - [askedrelic/django-book](https://github.com/askedrelic/django-book) - A revival of Django Book, the comprehensive guide to Django, overhauling it for Django 1.4 compatibility
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [gornostal/Modific](https://github.com/gornostal/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin
+- [revolunet/requests](https://github.com/revolunet/requests) - moved to https://github.com/requests/requests-docs-fr
 - [revolunet/requests](https://github.com/revolunet/requests) - moved to https://github.com/requests/requests-docs-fr
 - [revolunet/django-flatblocks](https://github.com/revolunet/django-flatblocks) - django-chunks + headerfield + variable chunknames + "inclusion tag" == django-flatblocks
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
@@ -5157,16 +5152,15 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [datreeio/yaml-schema-validator](https://github.com/datreeio/yaml-schema-validator) - An open source yaml schema validator. just like json schema - only better
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
+- [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
 - [laurci/kubernate](https://github.com/laurci/kubernate) - Kubernetes+Generate = Kubernate❤️
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
-- [alterx/gundb-react-hooks](https://github.com/alterx/gundb-react-hooks) - A set of React hooks that wrap around GunDB core functionality
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
-- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data science oriented container launcher
@@ -5178,7 +5172,7 @@
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🦕 Deno + React: No build, no bundle, all streaming
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
