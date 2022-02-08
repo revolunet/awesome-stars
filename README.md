@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
@@ -502,13 +503,11 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - A context discovery tool for Kubernetes penetration testing.
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
-- [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [appscode/osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
 - [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
@@ -1009,7 +1008,6 @@
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Master the art of the most powerful testing technique for Node.js: Component tests. Including super-comprehensive best practices list and an example app (November 2021)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
-- [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [dabit3/polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) - A full stack digital marketplace running on Ethereum with Polygon & Next.js
 - [danfinlay/jazzicon](https://github.com/danfinlay/jazzicon) - Jazzy deterministic identicons for a more entertaining future.
 - [marmelab/ArcheoloGit](https://github.com/marmelab/ArcheoloGit) - Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.
@@ -4443,7 +4441,7 @@
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
-- [zalando/connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+- [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -4659,6 +4657,7 @@
 - [magopian/mailbot](https://github.com/magopian/mailbot) - MailBot: register callbacks to be executed on mail reception.
 - [insynchq/flask-googlelogin](https://github.com/insynchq/flask-googlelogin) - Flask-GoogleLogin extends Flask-Login to use Google's OAuth2 authorization
 - [samwize/python-email-crawler](https://github.com/samwize/python-email-crawler) - Search on Google, and crawls for emails related to the result
+- [agiliq/merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors via Pluggable backends.
 - [dobarkod/django-casper](https://github.com/dobarkod/django-casper) - CasperJS integration for Django tests
 - [omab/python-social-auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - [jsocol/django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
@@ -4685,7 +4684,6 @@
 - [askedrelic/django-book](https://github.com/askedrelic/django-book) - A revival of Django Book, the comprehensive guide to Django, overhauling it for Django 1.4 compatibility
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [gornostal/Modific](https://github.com/gornostal/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin
-- [revolunet/requests](https://github.com/revolunet/requests) - moved to https://github.com/requests/requests-docs-fr
 - [revolunet/requests](https://github.com/revolunet/requests) - moved to https://github.com/requests/requests-docs-fr
 - [revolunet/django-flatblocks](https://github.com/revolunet/django-flatblocks) - django-chunks + headerfield + variable chunknames + "inclusion tag" == django-flatblocks
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
