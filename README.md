@@ -2833,7 +2833,6 @@
 - [extrabacon/google-oauth-jwt](https://github.com/extrabacon/google-oauth-jwt) - Node.js implementation of Google OAuth 2.0 for server-to-server interactions, allowing secure use of Google APIs without URL redirects and authorization prompts.
 - [danthareja/node-google-apps-script](https://github.com/danthareja/node-google-apps-script) - The easiest way to develop Google Apps Script projects
 - [borismus/webvr-boilerplate](https://github.com/borismus/webvr-boilerplate) - A starting point for web-based VR experiences that work on all VR headsets.
-- [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [jide/react-imageblurloader](https://github.com/jide/react-imageblurloader) - Image loader using blur.
 - [dutzi/tamper](https://github.com/dutzi/tamper) - Devtools extension, lets you locally edit files served from the web (based on mitmproxy).
 - [chaijs/chai-fs](https://github.com/chaijs/chai-fs) - Chai assertions for Node.js filesystem
@@ -5593,6 +5592,7 @@
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
+- [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [googleapis/nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) - Use @google-cloud/datastore as a Key/Value store.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
