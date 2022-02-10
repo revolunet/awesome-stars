@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [mattermost/chimera](https://github.com/mattermost/chimera) - 
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
@@ -3838,6 +3839,7 @@
 
 ## Others 
 
+- [cmuriukin/awesome-argo](https://github.com/cmuriukin/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [logux/logux](https://github.com/logux/logux) - Issues and roadmap
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
