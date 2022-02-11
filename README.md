@@ -733,7 +733,7 @@
 
 - [YannisDelmas/beau-code-web](https://github.com/YannisDelmas/beau-code-web) - Le beau code web
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-- [DISIC/frago](https://github.com/DISIC/frago) - Thème goHugo - génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité.
+- [DISIC/frago](https://github.com/DISIC/frago) - Génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité (audits et recommandations)
 - [Cour-de-cassation/judilibre-search](https://github.com/Cour-de-cassation/judilibre-search) - API de recherche et de consultation de la plateforme JUDILIBRE.
 - [alphagov/accessibility-tool-audit](https://github.com/alphagov/accessibility-tool-audit) - Automated accessibility tools audit
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
@@ -1238,7 +1238,6 @@
 - [WebReflection/heresy](https://github.com/WebReflection/heresy) - React-like Custom Elements via V1 API builtin extends.
 - [orbitdb/orbit-db-control-center](https://github.com/orbitdb/orbit-db-control-center) - UI for managing OrbitDB databases
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
-- [libp2p/js-libp2p-webrtc-star](https://github.com/libp2p/js-libp2p-webrtc-star) - libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
 - [orbitdb/orbit-db-pinner](https://github.com/orbitdb/orbit-db-pinner) - A pinning service for Orbitdb, a decentralized database based on IPFS.
 - [geut/sodium-javascript-plus](https://github.com/geut/sodium-javascript-plus) - sodium-javascript with experimental support for xchacha20 and kx
 - [teddycode/js-ipfs-pnet](https://github.com/teddycode/js-ipfs-pnet) - 
@@ -3839,6 +3838,7 @@
 
 ## Others 
 
+- [betagouv/awesome-betagouv](https://github.com/betagouv/awesome-betagouv) - Référencer les outils et ressources de la communauté beta.gouv.fr ouverts à la contribution :sparkles:
 - [cmuriukin/awesome-argo](https://github.com/cmuriukin/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [logux/logux](https://github.com/logux/logux) - Issues and roadmap
@@ -5147,6 +5147,7 @@
 
 ## TypeScript 
 
+- [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [datreeio/yaml-schema-validator](https://github.com/datreeio/yaml-schema-validator) - An open source yaml schema validator. just like json schema - only better
@@ -5320,6 +5321,7 @@
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [medialab/tesselle](https://github.com/medialab/tesselle) - an image annotation and publication tool
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [libp2p/js-libp2p-webrtc-star](https://github.com/libp2p/js-libp2p-webrtc-star) - libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [RenoFi/react-tooltip](https://github.com/RenoFi/react-tooltip) - React tooltip component
@@ -5437,7 +5439,7 @@
 - [wessberg/color](https://github.com/wessberg/color) - A library of well-tested helper methods for working with colors.
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
-- [reakit/reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
+- [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
