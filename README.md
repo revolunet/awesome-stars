@@ -1026,7 +1026,7 @@
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
 - [erdtman/cose-js](https://github.com/erdtman/cose-js) - JavaScript implementation of COSE
 - [lovasoa/aes-cbc-mac](https://github.com/lovasoa/aes-cbc-mac) - Node implementation for aes cbc mac
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
@@ -2883,7 +2883,7 @@
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [acdlite/redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router – keep your router state inside your Redux store
 - [MattiSG/Watai](https://github.com/MattiSG/Watai) - Integration testing for the web of components
-- [lorenwest/node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
+- [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [sramam/gcloud-promise](https://github.com/sramam/gcloud-promise) - A promises based node interface to Google cloud services.
 - [gyzerok/adrenaline](https://github.com/gyzerok/adrenaline) - Simple Relay alternative
 - [j3k0/cordova-plugin-purchase](https://github.com/j3k0/cordova-plugin-purchase) - In-App Purchase for Cordova on iOS, Android and Windows
@@ -4272,6 +4272,7 @@
 
 ## Python 
 
+- [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) - Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
