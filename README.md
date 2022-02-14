@@ -1628,7 +1628,7 @@
 - [deseretdigital/dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
 - [vega/react-vega-lite](https://github.com/vega/react-vega-lite) - react + vega-lite
-- [oncletom/nodebook](https://github.com/oncletom/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
+- [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
 - [wwayne/react-tooltip](https://github.com/wwayne/react-tooltip) - react tooltip component
 - [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
 - [raphamorim/react-ape](https://github.com/raphamorim/react-ape) - 🦍• [Work in Progress] React Renderer to build UI interfaces using canvas/WebGL
@@ -2384,7 +2384,7 @@
 - [maryrosecook/coquette](https://github.com/maryrosecook/coquette) - A micro framework for JavaScript games
 - [jhen0409/react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project
 - [googlearchive/devtools-extension-boilerplate](https://github.com/googlearchive/devtools-extension-boilerplate) - (WIP) A boilerplate project for Chrome DevTools extensions
-- [oncletom/crx](https://github.com/oncletom/crx) - A node.js command line app for packing Google Chrome extensions.
+- [thom4parisot/crx](https://github.com/thom4parisot/crx) - A node.js command line app for packing Google Chrome extensions.
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
 - [Mikhus/canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [MikeBild/graphql-pouch](https://github.com/MikeBild/graphql-pouch) - GraphQL runtime using PouchDB
@@ -5289,7 +5289,7 @@
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
-- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [ceramicnetwork/js-dag-jose](https://github.com/ceramicnetwork/js-dag-jose) - 
 - [nbudin/react-blockly](https://github.com/nbudin/react-blockly) - A React component that embeds a Blockly visual programming editor.
