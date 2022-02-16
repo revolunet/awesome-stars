@@ -2064,7 +2064,6 @@
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [ilkkao/capture-video-frame](https://github.com/ilkkao/capture-video-frame) - Take screenshots from a &lt;video&gt; element
 - [choojs/nanotask](https://github.com/choojs/nanotask) - Microtask queue scheduler for the browser
-- [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
 - [PlasmaPower/phash-image](https://github.com/PlasmaPower/phash-image) - phash for images
 - [artheus/media-file-probe](https://github.com/artheus/media-file-probe) - node module using ffprobe to get metadata
 - [philbot9/youtube-info](https://github.com/philbot9/youtube-info) - Fetch meta information about YouTube videos
@@ -5532,6 +5531,7 @@
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [handsontable/react-handsontable](https://github.com/handsontable/react-handsontable) - React Data Grid with Spreadsheet Look & Feel. Official React wrapper for Handsontable.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
 - [mikehadlow/gtr-cof](https://github.com/mikehadlow/gtr-cof) - Interactive music theory dashboard for guitarists. http://guitardashboard.com/
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [ubilabs/react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
