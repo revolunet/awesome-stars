@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 - [mattermost/chimera](https://github.com/mattermost/chimera) - 
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -5147,6 +5148,7 @@
 
 ## TypeScript 
 
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
