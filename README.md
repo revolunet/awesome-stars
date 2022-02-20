@@ -1831,7 +1831,7 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
 - [KevinGrandon/ghostjs](https://github.com/KevinGrandon/ghostjs) - ghostjs provides modern UI testing with async functions
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
@@ -2863,7 +2863,7 @@
 - [andreypopp/memoize-decorator](https://github.com/andreypopp/memoize-decorator) - Memoize getters and methods to compute only once
 - [andreypopp/sitegen](https://github.com/andreypopp/sitegen) - Generate websites by composing React components
 - [dataarts/webgl-globe](https://github.com/dataarts/webgl-globe) - WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.
-- [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - dat.gui is a lightweight controller library for JavaScript.
+- [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [parshap/node-fpcalc](https://github.com/parshap/node-fpcalc) - Calculate AcoustID audio fingerprint
