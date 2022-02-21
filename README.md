@@ -99,6 +99,7 @@
 
 ## Arduino 
 
+- [mic159/NeoFire](https://github.com/mic159/NeoFire) - A fire animation using NeoMatrix on some WS2812 NeoPixels.
 - [dwyl/iot-decibel-meter](https://github.com/dwyl/iot-decibel-meter) - A decibel meter built with an arduino
 - [BobSandberg/LEDColorStrip](https://github.com/BobSandberg/LEDColorStrip) - Controls WS8212B RGB LED Strip Lights from web server
 
@@ -112,6 +113,7 @@
 
 ## C 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
@@ -199,6 +201,7 @@
 
 ## C++ 
 
+- [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 - [skovaka/UNCALLED](https://github.com/skovaka/UNCALLED) - Raw nanopore signal mapper that enables real-time targeted sequencing
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
@@ -579,7 +582,7 @@
 - [criticalstack/quake-kube](https://github.com/criticalstack/quake-kube) - Quake 3 on Kubernetes
 - [ContainerSolutions/helm-convert](https://github.com/ContainerSolutions/helm-convert) - Convert Helm charts into Kustomize compatible package
 - [alash3al/scraply](https://github.com/alash3al/scraply) - Scraply a simple dom scraper to fetch information from any html based website and convert that info to JSON APIs
-- [mcorbin/cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
+- [mcorbin/cabourotte](https://github.com/mcorbin/cabourotte) - A monitoring tool to execute healthchecks on your infrastructure
 - [OdyseeTeam/chainquery](https://github.com/OdyseeTeam/chainquery) - Chainquery parses and syncs the LBRY blockchain data into structured SQL
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
@@ -991,7 +994,7 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [Yomguithereal/pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript and TypeScript.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
 - [JamesRyanATX/Harmonicon](https://github.com/JamesRyanATX/Harmonicon) - An experimental DAW for music as code.
@@ -1027,7 +1030,7 @@
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [erdtman/cose-js](https://github.com/erdtman/cose-js) - JavaScript implementation of COSE
 - [lovasoa/aes-cbc-mac](https://github.com/lovasoa/aes-cbc-mac) - Node implementation for aes cbc mac
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
@@ -3838,6 +3841,7 @@
 
 ## Others 
 
+- [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - A compilation of resources in the software supply chain security domain, with emphasis on open source
 - [betagouv/awesome-betagouv](https://github.com/betagouv/awesome-betagouv) - Référencer les outils et ressources de la communauté beta.gouv.fr ouverts à la contribution :sparkles:
 - [cmuriukin/awesome-argo](https://github.com/cmuriukin/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
@@ -4311,7 +4315,7 @@
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [IV2FI/DrawBot](https://github.com/IV2FI/DrawBot) - DrawBot lets you draw images taken from the internet on Skribbl.io, Gartic Phone and Paint
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
 - [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
@@ -5149,6 +5153,7 @@
 
 ## TypeScript 
 
+- [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
