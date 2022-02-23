@@ -735,6 +735,7 @@
 
 ## HTML 
 
+- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2 and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
 - [YannisDelmas/beau-code-web](https://github.com/YannisDelmas/beau-code-web) - Le beau code web
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [DISIC/frago](https://github.com/DISIC/frago) - Génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité (audits et recommandations)
@@ -1048,7 +1049,7 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
 - [emnbdx/annuaire-sante-as-api](https://github.com/emnbdx/annuaire-sante-as-api) - Import data from https://annuaire.sante.fr/ to mysql database and provide api to query data
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [babykarte/babykarte](https://github.com/babykarte/babykarte) - OpenStreetMap project showing relevant POIs and information for parents of infants and toddlers (0-3 years of age)
 - [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
 - [MTES-MCT/dataroom](https://github.com/MTES-MCT/dataroom) - Inventaire des données détenues par le MTES & MCTCRT
@@ -2766,7 +2767,7 @@
 - [tomchentw-deprecated/redux-component](https://github.com/tomchentw-deprecated/redux-component) - Create a React component with local state hosted by a local redux store
 - [benjipott/video.js-dailymotion](https://github.com/benjipott/video.js-dailymotion) - Allows you to use DailyMotion URL as source with Video.js.
 - [almende/vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
-- [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
+- [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [erikras/multireducer](https://github.com/erikras/multireducer) - A utility to wrap many copies of a single Redux reducer into a single key-based reducer.
@@ -2930,7 +2931,6 @@
 - [samsonjs/strftime](https://github.com/samsonjs/strftime) - strftime for JavaScript
 - [acdlite/redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
 - [markmarijnissen/cordova-app-loader](https://github.com/markmarijnissen/cordova-app-loader) - Remote update your Cordova app
-- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [reactjs/react-art](https://github.com/reactjs/react-art) - React Bridge to the ART Drawing Library
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
@@ -5610,6 +5610,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [googleapis/nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) - Use @google-cloud/datastore as a Key/Value store.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React.
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
