@@ -978,6 +978,7 @@
 
 ## JavaScript 
 
+- [devthejo/nctx](https://github.com/devthejo/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [rod4n4m1/hashi-vault-js](https://github.com/rod4n4m1/hashi-vault-js) - A node.js module to interact with the Hashicorp Vault API.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
@@ -1142,7 +1143,7 @@
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
-- [atmilkyway/keycloak-hasura-connector](https://github.com/atmilkyway/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
+- [0xHexE/keycloak-hasura-connector](https://github.com/0xHexE/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
 - [tabcat/encrypted-docstore](https://github.com/tabcat/encrypted-docstore) - create and mount encrypted orbit docstores in the browser
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [cagline/react-router-component-keycloak-example](https://github.com/cagline/react-router-component-keycloak-example) - React Routes and Components restrict with Keycloak
@@ -2749,7 +2750,7 @@
 - [raisemarketplace/ground-control](https://github.com/raisemarketplace/ground-control) - Scalable reducer management & powerful data fetching for React Router & Redux.
 - [dchester/epilogue](https://github.com/dchester/epilogue) - Create flexible REST endpoints and controllers from Sequelize models in your Express app
 - [iTowns/itowns-legacy](https://github.com/iTowns/itowns-legacy) - iTowns is a JS/WebGL framework for 3D geospatial data visualization
-- [sbstnmsch/window-mock](https://github.com/sbstnmsch/window-mock) - A light-weight window-mock for node/ io.js unit-testing written in ES6
+- [sbstnmsch-zz/window-mock](https://github.com/sbstnmsch-zz/window-mock) - A light-weight window-mock for node/ io.js unit-testing written in ES6
 - [assaf/zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js
 - [davidtheclark/react-aria-tabpanel](https://github.com/davidtheclark/react-aria-tabpanel) - A fully accessible, extravagantly flexible, React-powered Tab Panel component
 - [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
@@ -5158,6 +5159,8 @@
 
 ## TypeScript 
 
+- [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+- [etalab/cra-envs](https://github.com/etalab/cra-envs) - ⚙️  Bundle env var in CRA at launch time!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
