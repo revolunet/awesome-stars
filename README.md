@@ -455,7 +455,6 @@
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [LogicalSpark/docker-tikaserver](https://github.com/LogicalSpark/docker-tikaserver) - Apache Tika Server as a Docker Image
-- [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
 - [MicheleBertoli/react-count-to](https://github.com/MicheleBertoli/react-count-to) - Animated counter component for React.js
 
 ## EJS 
@@ -5071,6 +5070,7 @@
 - [FGRibreau/sync-to-gitlab](https://github.com/FGRibreau/sync-to-gitlab) - 👨‍🚒 Sync/backup entire directories to personal Gitlab projects
 - [praekeltfoundation/docker-py-base](https://github.com/praekeltfoundation/docker-py-base) - Dockerfiles for base images that make creating correct, minimal images for Python applications easier
 - [Scalingo/docker-munin-server](https://github.com/Scalingo/docker-munin-server) - Dockerization of a munin server behind nginx
+- [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
 - [opensemanticsearch/spacy-services.deb](https://github.com/opensemanticsearch/spacy-services.deb) - Debian & Ubuntu package for REST microservices for spaCy natural language processing and machine learning framework for named entity recognition
 - [tophfr/docker-pgbouncer](https://github.com/tophfr/docker-pgbouncer) - PgBouncer in a highly configurable and very small docker image
 - [n-johnson/docker-forward](https://github.com/n-johnson/docker-forward) - Docker image to expose a port of an already running container to the host machine
@@ -5189,7 +5189,7 @@
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
