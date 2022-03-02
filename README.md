@@ -1307,7 +1307,7 @@
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
 - [etalab/covid19-orientation](https://github.com/etalab/covid19-orientation) - Implémentation du questionnaire d'orientation Covid-19
 - [temando/open-api-renderer](https://github.com/temando/open-api-renderer) - 🎩 A React renderer for OpenAPI v3.
-- [byu-oit/openapi-enforcer](https://github.com/byu-oit/openapi-enforcer) - 
+- [Gi60s/openapi-enforcer](https://github.com/Gi60s/openapi-enforcer) - 
 - [Redocly/openapi-sampler](https://github.com/Redocly/openapi-sampler) - :capital_abcd: Tool for generation samples based on OpenAPI(fka Swagger) payload/response schema
 - [streamxorg/streamx](https://github.com/streamxorg/streamx) - An iteration of the Node.js core streams with a series of improvements.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -4353,7 +4353,7 @@
 - [gw3l/richelieu](https://github.com/gw3l/richelieu) - Solution complète du challenge Richelieu de la DGSE
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [LonnyGomes/CountryGeoJSONCollection](https://github.com/LonnyGomes/CountryGeoJSONCollection) - A collection GeoJSON files of all first admin boundaries generated from the natural earth dataset
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [mdamien/jeu-de-donnees-application-des-amendements](https://github.com/mdamien/jeu-de-donnees-application-des-amendements) - Jeu de données afin de faire un logiciel qui applique automatiquement les amendements
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -5160,6 +5160,7 @@
 
 ## TypeScript 
 
+- [Cour-de-cassation/label](https://github.com/Cour-de-cassation/label) - Open source text annotation software created by the french supreme court 'Cour de cassation'
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [etalab/cra-envs](https://github.com/etalab/cra-envs) - ⚙️  Bundle env var in CRA at launch time!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
