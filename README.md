@@ -489,6 +489,7 @@
 
 ## Go 
 
+- [orgrim/pg_back](https://github.com/orgrim/pg_back) - Simple backup tool for PostgreSQL
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 - [mattermost/chimera](https://github.com/mattermost/chimera) - 
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -1313,7 +1314,6 @@
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
 - [caresteouvert/Covid_enseignes](https://github.com/caresteouvert/Covid_enseignes) - Chain stores and services open during Covid-19 lockdown
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
 - [opencovid19-fr/data](https://github.com/opencovid19-fr/data) - Consolidation des données de sources officielles concernant l'épidémie de COVID19
 - [javieraviles/covidAPI](https://github.com/javieraviles/covidAPI) - Coronavirus API for Current cases by country COVID-19
@@ -3737,6 +3737,7 @@
 ## Lua 
 
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [hypebeast/micro-auth](https://github.com/hypebeast/micro-auth) - A microservice that makes adding authentication with Google and Github to your application easy.
