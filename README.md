@@ -291,7 +291,6 @@
 
 ## CSS 
 
-- [dnum-mi/vue-dsfr](https://github.com/dnum-mi/vue-dsfr) - Portage en Vue du DSFR
 - [dravedev/manifeste-souverainete-numerique](https://github.com/dravedev/manifeste-souverainete-numerique) - Manifeste de la souveraineté numérique
 - [etalab/tchatcha](https://github.com/etalab/tchatcha) - Captchacha: solution de vérification de formulaire
 - [LINCnil/CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
@@ -507,7 +506,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - A context discovery tool for Kubernetes penetration testing.
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
@@ -1011,6 +1010,7 @@
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
+- [dnum-mi/vue-dsfr](https://github.com/dnum-mi/vue-dsfr) - Portage en Vue du DSFR
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
@@ -2364,7 +2364,7 @@
 - [cjb/serverless-webrtc](https://github.com/cjb/serverless-webrtc) - A demo of using WebRTC with no signaling server.
 - [transcranial/keras-js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support using WebGL
 - [davidkpiano/RxCSS](https://github.com/davidkpiano/RxCSS) - 
-- [500tech/mimic](https://github.com/500tech/mimic) - Seamless client side mocking
+- [morsdyce/mimic](https://github.com/morsdyce/mimic) - Seamless client side mocking
 - [vadimdemedes/google-images](https://github.com/vadimdemedes/google-images) - Search for images using Google Images
 - [wilson428/node-wikipedia](https://github.com/wilson428/node-wikipedia) - Node.js wrapper for Wikipedia API
 - [amio/re-carousel](https://github.com/amio/re-carousel) - Minimal carousel component for React.
@@ -2408,7 +2408,7 @@
 - [ldn0x7dc/react-native-gallery](https://github.com/ldn0x7dc/react-native-gallery) - A pure JavaScript image gallery component for react-native apps with common gestures like pan, pinch and doubleTap, supporting both iOS and Android.
 - [lasso-js/lasso](https://github.com/lasso-js/lasso) - Advanced JavaScript module bundler, asset pipeline and optimizer
 - [kiki-le-singe/react-router-animation-examples](https://github.com/kiki-le-singe/react-router-animation-examples) - An example using React Router and React's Animations
-- [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 - [mgcrea/redux-local-scope](https://github.com/mgcrea/redux-local-scope) - Locally scope your redux store modules (eg. types, actions, reducers) to easily reuse them.
 - [camwiegert/in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport. :eyes:
@@ -4959,7 +4959,7 @@
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - Système de Design de l'État
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
-- [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [codebar/manual](https://github.com/codebar/manual) - 📖 The manual
 - [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
