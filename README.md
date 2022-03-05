@@ -976,6 +976,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
 - [devthejo/nctx](https://github.com/devthejo/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
@@ -1235,7 +1236,6 @@
 - [matomo-org/matomo-nodejs-tracker](https://github.com/matomo-org/matomo-nodejs-tracker) - A Node.js wrapper for the Matomo (Piwik) tracking HTTP API
 - [vaultec81/js-pinza](https://github.com/vaultec81/js-pinza) - Pinza is an IPFS pinning system and clustering software using Ceramic as a distributed database.
 - [ipfs/js-ipfsd-ctl](https://github.com/ipfs/js-ipfsd-ctl) - Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!
-- [libp2p/js-libp2p-kad-dht](https://github.com/libp2p/js-libp2p-kad-dht) - JavaScript implementation of the DHT for libp2p
 - [libp2p/js-libp2p-examples](https://github.com/libp2p/js-libp2p-examples) - Examples for the JS implementation of libp2p
 - [rtymchyk/babel-plugin-extract-text](https://github.com/rtymchyk/babel-plugin-extract-text) - Babel plugin to extract strings from React components and gettext-like functions into a gettext PO file.
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
@@ -1693,7 +1693,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [ajoslin/react-form-lifecycle](https://github.com/ajoslin/react-form-lifecycle) - Effortless forms, no payload. Render-prop wrapper for npm.im/form-lifecycle
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
-- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
+- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - [MINIMUM MAINTAINANCE] A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
 - [voxpelli/node-connect-pg-simple](https://github.com/voxpelli/node-connect-pg-simple) - A simple, minimal PostgreSQL session store for Connect/Express
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
@@ -5340,6 +5340,7 @@
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [medialab/tesselle](https://github.com/medialab/tesselle) - an image annotation and publication tool
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [libp2p/js-libp2p-kad-dht](https://github.com/libp2p/js-libp2p-kad-dht) - JavaScript implementation of the DHT for libp2p
 - [libp2p/js-libp2p-webrtc-star](https://github.com/libp2p/js-libp2p-webrtc-star) - libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
