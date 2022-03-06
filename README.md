@@ -733,6 +733,8 @@
 
 ## HTML 
 
+- [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
+- [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support
 - [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2 and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
 - [YannisDelmas/beau-code-web](https://github.com/YannisDelmas/beau-code-web) - Le beau code web
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -976,6 +978,7 @@
 
 ## JavaScript 
 
+- [ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) - JavaScript implementation of Gossipsub
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
 - [devthejo/nctx](https://github.com/devthejo/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
@@ -1693,7 +1696,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [ajoslin/react-form-lifecycle](https://github.com/ajoslin/react-form-lifecycle) - Effortless forms, no payload. Render-prop wrapper for npm.im/form-lifecycle
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
-- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - [MINIMUM MAINTAINANCE] A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
+- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - [MAINTAINANCE ONLY] A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
 - [voxpelli/node-connect-pg-simple](https://github.com/voxpelli/node-connect-pg-simple) - A simple, minimal PostgreSQL session store for Connect/Express
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
