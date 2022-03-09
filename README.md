@@ -1012,7 +1012,6 @@
 - [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
-- [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [dnum-mi/vue-dsfr](https://github.com/dnum-mi/vue-dsfr) - Portage en Vue du DSFR
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
@@ -1034,7 +1033,6 @@
 - [betagouv/annuaire-api](https://github.com/betagouv/annuaire-api) - Une API pour les données de l'annuaire de service-public.fr
 - [dabit3/decentralized-identity-example](https://github.com/dabit3/decentralized-identity-example) - An authentication system built with Ceramic & self.id
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
@@ -1247,7 +1245,6 @@
 - [WebReflection/uce](https://github.com/WebReflection/uce) - µhtml based Custom Elements
 - [WebReflection/heresy](https://github.com/WebReflection/heresy) - React-like Custom Elements via V1 API builtin extends.
 - [orbitdb/orbit-db-control-center](https://github.com/orbitdb/orbit-db-control-center) - UI for managing OrbitDB databases
-- [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [orbitdb/orbit-db-pinner](https://github.com/orbitdb/orbit-db-pinner) - A pinning service for Orbitdb, a decentralized database based on IPFS.
 - [geut/sodium-javascript-plus](https://github.com/geut/sodium-javascript-plus) - sodium-javascript with experimental support for xchacha20 and kx
 - [teddycode/js-ipfs-pnet](https://github.com/teddycode/js-ipfs-pnet) - 
@@ -5164,6 +5161,7 @@
 
 ## TypeScript 
 
+- [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [Cour-de-cassation/label](https://github.com/Cour-de-cassation/label) - Open source text annotation software created by the french supreme court 'Cour de cassation'
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [etalab/cra-envs](https://github.com/etalab/cra-envs) - ⚙️  Bundle env var in CRA at launch time!
@@ -5197,6 +5195,7 @@
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
+- [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - 🔑 NodeJS keycloak admin client
 - [danomatic/react-pdf-html](https://github.com/danomatic/react-pdf-html) - Render HTML in react-pdf
@@ -5218,6 +5217,7 @@
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [application-research/next-bucket](https://github.com/application-research/next-bucket) - A template to start a project easily with NextJS and Textile Buckets
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [coldi/r3f-game-demo](https://github.com/coldi/r3f-game-demo) - A demo on how to do a simple tile-based game with React and react-three-fiber
 - [InseeFrLab/onyxia-ui](https://github.com/InseeFrLab/onyxia-ui) - 🌓 A modern UI toolkit with excellent typing.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
@@ -5344,6 +5344,7 @@
 - [medialab/tesselle](https://github.com/medialab/tesselle) - an image annotation and publication tool
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [libp2p/js-libp2p-kad-dht](https://github.com/libp2p/js-libp2p-kad-dht) - JavaScript implementation of the DHT for libp2p
+- [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [libp2p/js-libp2p-webrtc-star](https://github.com/libp2p/js-libp2p-webrtc-star) - libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
