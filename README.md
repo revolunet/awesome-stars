@@ -3843,6 +3843,7 @@
 
 ## Others 
 
+- [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - A compilation of resources in the software supply chain security domain, with emphasis on open source
 - [betagouv/awesome-betagouv](https://github.com/betagouv/awesome-betagouv) - Référencer les outils et ressources de la communauté beta.gouv.fr ouverts à la contribution :sparkles:
 - [cmuriukin/awesome-argo](https://github.com/cmuriukin/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
