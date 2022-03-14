@@ -922,7 +922,6 @@
 - [EugenMayer/officeconverter](https://github.com/EugenMayer/officeconverter) - Convert file formats like docx, xlx to other formats like pdf, png - based on jodconverter and libreoffice
 - [InseeFr/Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) - Extension Keycloak facilitant l'utilisation de FranceConnect
 - [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) - ShinyProxy - Open Source Enterprise Deployment for Shiny
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [tsegismont/graphql-api-gateway-workshop](https://github.com/tsegismont/graphql-api-gateway-workshop) - How-to implement the API Gateway pattern with GraphQL
 - [inception-project/inception](https://github.com/inception-project/inception) - INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.
@@ -1312,6 +1311,7 @@
 - [Redocly/openapi-sampler](https://github.com/Redocly/openapi-sampler) - :capital_abcd: Tool for generation samples based on OpenAPI(fka Swagger) payload/response schema
 - [streamxorg/streamx](https://github.com/streamxorg/streamx) - An iteration of the Node.js core streams with a series of improvements.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
 - [caresteouvert/Covid_enseignes](https://github.com/caresteouvert/Covid_enseignes) - Chain stores and services open during Covid-19 lockdown
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
@@ -2019,7 +2019,6 @@
 - [flatiron/director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [kevva/screenshot-stream](https://github.com/kevva/screenshot-stream) - Capture screenshot of a website and return it as a stream
 - [alisd23/mobx-react-router](https://github.com/alisd23/mobx-react-router) - Keep your MobX state in sync with react-router
-- [foxhound87/mobx-react-form](https://github.com/foxhound87/mobx-react-form) - Reactive MobX Form State Management
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
@@ -2384,7 +2383,6 @@
 - [react-theming/storybook-addon-material-ui](https://github.com/react-theming/storybook-addon-material-ui) - Addon for storybook wich wrap material-ui components into MuiThemeProvider. :page_with_curl: This helps and simplifies development of material-ui based components.
 - [magicismight/react-native-root-modal](https://github.com/magicismight/react-native-root-modal) - A pure JavaScript solution for react native`s modal component
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
-- [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [maryrosecook/coquette](https://github.com/maryrosecook/coquette) - A micro framework for JavaScript games
 - [jhen0409/react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project
@@ -5545,6 +5543,7 @@
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [argonjs/argon](https://github.com/argonjs/argon) - An open-standards augmented reality platform for the web
 - [takahirox/argon](https://github.com/takahirox/argon) - An open-standards augmented reality platform for the web
+- [foxhound87/mobx-react-form](https://github.com/foxhound87/mobx-react-form) - Reactive MobX Form State Management
 - [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Full-featured reactive state management without the boilerplate
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
@@ -5591,6 +5590,7 @@
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
+- [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [piotrwitek/jspm-hmr](https://github.com/piotrwitek/jspm-hmr) - NodeJS Dev-Server with Hot-Reload for JSPM / SystemJS Loader
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
