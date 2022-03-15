@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [orgrim/pg_back](https://github.com/orgrim/pg_back) - Simple backup tool for PostgreSQL
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 - [mattermost/chimera](https://github.com/mattermost/chimera) - 
@@ -1052,7 +1053,7 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
 - [emnbdx/annuaire-sante-as-api](https://github.com/emnbdx/annuaire-sante-as-api) - Import data from https://annuaire.sante.fr/ to mysql database and provide api to query data
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [babykarte/babykarte](https://github.com/babykarte/babykarte) - OpenStreetMap project showing relevant POIs and information for parents of infants and toddlers (0-3 years of age)
 - [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
 - [MTES-MCT/dataroom](https://github.com/MTES-MCT/dataroom) - Inventaire des données détenues par le MTES & MCTCRT
@@ -4248,6 +4249,7 @@
 
 ## Perl 
 
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [SpiderLabs/ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity v3 Nginx Connector
@@ -5160,6 +5162,7 @@
 
 ## TypeScript 
 
+- [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [Cour-de-cassation/label](https://github.com/Cour-de-cassation/label) - Open source text annotation software created by the french supreme court 'Cour de cassation'
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
