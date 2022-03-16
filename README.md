@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [orgrim/pg_back](https://github.com/orgrim/pg_back) - Simple backup tool for PostgreSQL
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
@@ -977,7 +978,6 @@
 
 ## JavaScript 
 
-- [ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) - JavaScript implementation of Gossipsub
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
 - [devthejo/nctx](https://github.com/devthejo/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
@@ -1053,7 +1053,7 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
 - [emnbdx/annuaire-sante-as-api](https://github.com/emnbdx/annuaire-sante-as-api) - Import data from https://annuaire.sante.fr/ to mysql database and provide api to query data
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
 - [babykarte/babykarte](https://github.com/babykarte/babykarte) - OpenStreetMap project showing relevant POIs and information for parents of infants and toddlers (0-3 years of age)
 - [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
 - [MTES-MCT/dataroom](https://github.com/MTES-MCT/dataroom) - Inventaire des données détenues par le MTES & MCTCRT
@@ -2223,7 +2223,6 @@
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [berzniz/now-logs](https://github.com/berzniz/now-logs) - realtime logging for now - https://logs.now.sh
 - [trufflesuite/truffle-artifactor](https://github.com/trufflesuite/truffle-artifactor) - A contract packager for Ethereum and Javascript (formerly ether-pudding)
-- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [asbjornenge/gimmedat](https://github.com/asbjornenge/gimmedat) - Http to Dat proxy
 - [KtorZPersonal/elm-react-component](https://github.com/KtorZPersonal/elm-react-component) - (deprecated) A React component which wraps an Elm module to be used in a React application.
 - [jide/react-css-variables](https://github.com/jide/react-css-variables) - A React component to set CSS variables.
@@ -5164,6 +5163,7 @@
 
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
+- [ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) - JavaScript implementation of Gossipsub
 - [Cour-de-cassation/label](https://github.com/Cour-de-cassation/label) - Open source text annotation software created by the french supreme court 'Cour de cassation'
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [etalab/cra-envs](https://github.com/etalab/cra-envs) - ⚙️  Bundle env var in CRA at launch time!
@@ -5574,6 +5574,7 @@
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [planttheidea/selectorator](https://github.com/planttheidea/selectorator) - Simple generator of reselect selectors
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
+- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [callstack/component-docs](https://github.com/callstack/component-docs) - 📝  Simple documentation for your React components
