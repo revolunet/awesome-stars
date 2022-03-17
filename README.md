@@ -1966,6 +1966,7 @@
 - [rthor/cra-generate](https://github.com/rthor/cra-generate) - Scaffold a React component.
 - [Tastenkunst/brfv4_javascript_examples](https://github.com/Tastenkunst/brfv4_javascript_examples) - BRFv4 - HTML5/Javascript - examples project. Reference implementation for all other platform example packages.
 - [jxnblk/refunk](https://github.com/jxnblk/refunk) - :headphones: Simple React functional setState
+- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [brion/ogv.js](https://github.com/brion/ogv.js) - JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
 - [argos-ci/image-difference](https://github.com/argos-ci/image-difference) - Create image differential between two images
 - [mtschirs/js-objectdetect](https://github.com/mtschirs/js-objectdetect) - computer vision in your browser - javascript real-time object detection
@@ -5538,7 +5539,6 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [davideast/hnpwa-firebase](https://github.com/davideast/hnpwa-firebase) - A super fast HNPWA built on Firebase Dynamic Hosting
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
