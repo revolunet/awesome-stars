@@ -980,6 +980,7 @@
 
 ## JavaScript 
 
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
 - [devthejo/nctx](https://github.com/devthejo/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
@@ -1213,7 +1214,7 @@
 - [flrs/visavail](https://github.com/flrs/visavail) - A D3.js Time Data Availability Visualization
 - [zzish/react-latex](https://github.com/zzish/react-latex) - React component to render Latex strings
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
-- [DemocracyEarth/dapp](https://github.com/DemocracyEarth/dapp) - Censorship resistant democracies.
+- [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 - [Gerhut/visitors.vercel.app](https://github.com/Gerhut/visitors.vercel.app) - Visitors badge on Vercel and FaunaDB.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Wapikoni-Technique/Natakanu](https://github.com/Wapikoni-Technique/Natakanu) - Indigenous p2p collaboration tool
@@ -5163,6 +5164,8 @@
 
 ## TypeScript 
 
+- [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
+- [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
