@@ -79,7 +79,6 @@
   - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [VCL](#vcl)
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
@@ -205,7 +204,7 @@
 - [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 - [skovaka/UNCALLED](https://github.com/skovaka/UNCALLED) - Raw nanopore signal mapper that enables real-time targeted sequencing
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for manipulating audio.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [xjorma/LaserCube](https://github.com/xjorma/LaserCube) - Experiment with Laser Cube
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
@@ -495,6 +494,7 @@
 
 ## Go 
 
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -578,7 +578,7 @@
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kpym/marianne](https://github.com/kpym/marianne) - Logiciel qui génère les logos des administrations en respectant la charte graphique de l'état de 2020.
-- [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is tool for detection and management of Software Bill Of Material and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD Pipelines for enhanced software supply chain security.
+- [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes to provide an accurate vulnerability assessment.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [appvia/kev](https://github.com/appvia/kev) - Develop Kubernetes apps iteratively with Docker-Compose
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -598,7 +598,7 @@
 - [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
 - [octarinesec/kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
-- [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
+- [vmware-archive/kubewatch](https://github.com/vmware-archive/kubewatch) - Watch k8s events and trigger Handlers
 - [andreazorzetto/yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours to kubectl output
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [negasus/traefik-plugin-geoip2](https://github.com/negasus/traefik-plugin-geoip2) - Traefik2 Plugin GeoIP2
@@ -1483,6 +1483,7 @@
 - [wagenaartje/neataptic](https://github.com/wagenaartje/neataptic) - :rocket: Blazing fast neuro-evolution & backpropagation for the browser and Node.js
 - [boyney123/mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
+- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
 - [techfort/classify-text](https://github.com/techfort/classify-text) - proof of concept of text classification with mimir and brain
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Framework for effortlessly building Ink apps
@@ -4299,7 +4300,7 @@
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
 - [karmab/autolabeller](https://github.com/karmab/autolabeller) - 
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embedding image and sentence into fixed-length vectors via CLIP
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - A package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models
@@ -5170,6 +5171,7 @@
 
 ## TypeScript 
 
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
@@ -5661,10 +5663,6 @@
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
-
-## VCL 
-
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
 
 ## Vim script 
 
