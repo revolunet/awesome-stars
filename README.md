@@ -212,7 +212,7 @@
 - [collectif-pow/wifi-artnet](https://github.com/collectif-pow/wifi-artnet) - 
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
-- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -835,6 +835,7 @@
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [asciimike/flaming-specs](https://github.com/asciimike/flaming-specs) - Firebase Storage + Google Cloud Vision API
 - [superlogout/superlogout.github.io](https://github.com/superlogout/superlogout.github.io) - Most likely the most secured page in the world
+- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [bahmutov/draw-cycle](https://github.com/bahmutov/draw-cycle) - Simple Cycle.js application visualized: streams, events, DOM
 - [apache/cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) - Apache Cordova
 - [e-books/backbone.en.douceur](https://github.com/e-books/backbone.en.douceur) - le gros tuto pour apprendre Backbone.js
@@ -987,6 +988,7 @@
 
 ## JavaScript 
 
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
@@ -1540,7 +1542,6 @@
 - [Sharlaan/material-ui-superselectfield](https://github.com/Sharlaan/material-ui-superselectfield) - multiselection autocomplete dropdown component for Material-UI
 - [cypress-io/cypress-example-docker-compose](https://github.com/cypress-io/cypress-example-docker-compose) - Example running Cypress tests against Apache server via docker-compose
 - [madewithlove/music-fns](https://github.com/madewithlove/music-fns) - a JavaScript music utility library that contains small music notation related functions.
-- [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - Package containing a few microinteractions you can use to reward your users for little things and make them smile!
 - [tellform/tellform](https://github.com/tellform/tellform) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
 - [Varal7/ieturk](https://github.com/Varal7/ieturk) - Intuitive Annotation Tool for Information Extraction / Named Entity Recognition using localturk / Amazon Mechanical Turk
 - [use-hooks/create-react-hooks](https://github.com/use-hooks/create-react-hooks) - Create Scaffold for React Hooks
@@ -2629,7 +2630,6 @@
 - [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
 - [stackgl/headless-gl](https://github.com/stackgl/headless-gl) - 🎃 Windowless WebGL for node.js
 - [GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
-- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
@@ -5453,6 +5453,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [FotonTech/gigatron](https://github.com/FotonTech/gigatron) - https://gigatron.now.sh/signin
+- [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
 - [rodrigopivi/Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
