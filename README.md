@@ -188,6 +188,7 @@
 
 ## C# # 
 
+- [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
 - [msub2/silk-brush](https://github.com/msub2/silk-brush) - An effort to port Tilt Brush to WebXR.
 - [googlevr/tilt-brush](https://github.com/googlevr/tilt-brush) - 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
@@ -1846,7 +1847,7 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node
 - [apache/couchdb-fauxton](https://github.com/apache/couchdb-fauxton) - Apache CouchDB
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
 - [KevinGrandon/ghostjs](https://github.com/KevinGrandon/ghostjs) - ghostjs provides modern UI testing with async functions
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
@@ -4287,6 +4288,7 @@
 
 ## Python 
 
+- [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
 - [ossf/osv-schema](https://github.com/ossf/osv-schema) - Open Source Vulnerability schema.
@@ -4927,7 +4929,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage,  an open-source alternative to Snowflake ❤️
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your object storage for big data analytics.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
