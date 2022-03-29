@@ -318,7 +318,6 @@
 - [juba/tidyverse](https://github.com/juba/tidyverse) - Introduction à R et au tidyverse
 - [clementoriol/MetroDNA](https://github.com/clementoriol/MetroDNA) - MetroDNA est une librairie de symboles de Transports en Commun Parisiens (RATP - SNCF) faciles à intégrer à vos sites. Metro, RER, Tram, Transilien. Versions CSS ou SASS Disponibles.
 - [MTES-MCT/numerique](https://github.com/MTES-MCT/numerique) - 
-- [amaroteam/react-credit-cards](https://github.com/amaroteam/react-credit-cards) - Beautiful credit cards for your payment forms
 - [elefevre/opendatadiversite](https://github.com/elefevre/opendatadiversite) - 
 - [fnky/css3-uiswitch](https://github.com/fnky/css3-uiswitch) - A pretty sweet and pure CSS3 iOS 7 UISwitch
 - [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
@@ -989,6 +988,7 @@
 
 ## JavaScript 
 
+- [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
@@ -1139,7 +1139,6 @@
 - [3DStreet/3dstreet](https://github.com/3DStreet/3dstreet) - 🚲🚶🚌 Web-based 3D visualization of streets using A-Frame
 - [mafintosh/hyperphone](https://github.com/mafintosh/hyperphone) - A telephone over Hyperbeam
 - [ankane/react-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
-- [libp2p/js-libp2p-webrtc-direct](https://github.com/libp2p/js-libp2p-webrtc-direct) - Dial using WebRTC without the need to set up any Signalling Rendezvous Point!
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [anotherjesse/hello-hyper-github-publish](https://github.com/anotherjesse/hello-hyper-github-publish) - 
 - [topheman/webrtc-experiments](https://github.com/topheman/webrtc-experiments) - An example of how you could use WebRTC on the web, based on the PeerJS library
@@ -1359,7 +1358,6 @@
 - [dappuniversity/social-network](https://github.com/dappuniversity/social-network) - Blockchain social network powered by Ethereum smart contracts
 - [orbitdb/example-orbitdb-todomvc](https://github.com/orbitdb/example-orbitdb-todomvc) - TodoMVC with OrbitDB
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
-- [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [libp2p/js-libp2p-websocket-star](https://github.com/libp2p/js-libp2p-websocket-star) - libp2p-webrtc-star without webrtc. Just plain socket.io.
 - [libp2p/js-libp2p-websocket-star-rendezvous](https://github.com/libp2p/js-libp2p-websocket-star-rendezvous) - The rendezvous service for libp2p-websocket-star enabled nodes meet and talk with each other
 - [dappuniversity/election](https://github.com/dappuniversity/election) - A Decentralized Ethereum Voting Application Tutorial
@@ -1747,7 +1745,7 @@
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [kubernetes-ui/graph](https://github.com/kubernetes-ui/graph) - Graph Component for Kubernetes WebUI
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [mourner/flatbush](https://github.com/mourner/flatbush) - A very fast static spatial index for 2D points and rectangles in JavaScript
+- [mourner/flatbush](https://github.com/mourner/flatbush) - A very fast static spatial index for 2D points and rectangles in JavaScript 🌱
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [idevelop/treeql](https://github.com/idevelop/treeql) - JSON query and mutation library. It traverses a tree structure in post-order (leaves first, root last), across objects and arrays, returning the nodes which match the partial structure passed in the query, as well as allowing you to mutate or replace matched nodes.
 - [idevelop/ascii-camera](https://github.com/idevelop/ascii-camera) - Real-time ASCII representation of your webcam video stream, using the getUserMedia API.
@@ -4929,7 +4927,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your object storage for big data analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your Object Storage for sub-second analytics.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -4972,6 +4970,7 @@
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [amaroteam/react-credit-cards](https://github.com/amaroteam/react-credit-cards) - Beautiful credit cards for your payment forms
 - [codebar/manual](https://github.com/codebar/manual) - 📖 The manual
 - [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -5304,6 +5303,7 @@
 - [joe223/tiny-swiper](https://github.com/joe223/tiny-swiper) - Ingenious JavaScript Carousel powered by wonderful plugins. Lightweight yet extensible. Import plugins as needed, No more, no less.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [vv13/mermaid-react](https://github.com/vv13/mermaid-react) - display mermaid diagrams in modern React component.
+- [libp2p/js-libp2p-webrtc-direct](https://github.com/libp2p/js-libp2p-webrtc-direct) - Dial using WebRTC without the need to set up any Signalling Rendezvous Point!
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
 - [next-page-tester/next-page-tester](https://github.com/next-page-tester/next-page-tester) - DOM integration testing for Next.js
 - [pixano/pixano-elements](https://github.com/pixano/pixano-elements) - Pixano Elements - Re-usable web components dedicated to data annotation tasks.
@@ -5405,6 +5405,7 @@
 - [huggingface/node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering in Node.js
 - [ipfs/js-dag-service](https://github.com/ipfs/js-dag-service) - Library for storing and replicating hash-linked data over the IPFS network.
 - [textileio/js-foldersync](https://github.com/textileio/js-foldersync) - Demo: Shared folder synchronization based on Textile Threads
+- [libp2p/js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [ivangabriele/postgrester](https://github.com/ivangabriele/postgrester) - Isomorphic PostgREST API Client for Javascript and Typescript.
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
@@ -5532,7 +5533,7 @@
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [staltz/dat-installer](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
