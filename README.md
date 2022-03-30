@@ -494,6 +494,7 @@
 
 ## Go 
 
+- [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -937,7 +938,6 @@
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [tsegismont/graphql-api-gateway-workshop](https://github.com/tsegismont/graphql-api-gateway-workshop) - How-to implement the API Gateway pattern with GraphQL
 - [inception-project/inception](https://github.com/inception-project/inception) - INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.
-- [pranab/avenir](https://github.com/pranab/avenir) - Set of Machine Learning and Stochastic Optimazion  tools based on Hadoop, Spark and Storm  https://pkghosh.wordpress.com/
 - [tchapgouv/tchap-android](https://github.com/tchapgouv/tchap-android) - A matrix client for Android
 - [ICIJ/datashare](https://github.com/ICIJ/datashare) - Better analyze information, in all its forms
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
@@ -2322,6 +2322,7 @@
 - [mafintosh/chromecasts](https://github.com/mafintosh/chromecasts) - Query your local network for Chromecasts and have them play media
 - [mafintosh/hyperpipe](https://github.com/mafintosh/hyperpipe) - Distributed input/output pipe.
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [sprmn/react-firebase-storage-connector](https://github.com/sprmn/react-firebase-storage-connector) - Connect any component to give it a firebase download url as prop
 - [clari/react-tween](https://github.com/clari/react-tween) - DEPRECATED - Recommend https://github.com/tannerlinsley/react-move instead!
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -4440,6 +4441,7 @@
 - [kayagoban/shadowlands](https://github.com/kayagoban/shadowlands) - A Dapp platform and Ethereum terminal, entirely in Python.
 - [ELS-RD/anonymisation](https://github.com/ELS-RD/anonymisation) - Anonymization of legal cases (Fr) based on Flair embeddings
 - [gfairchild/pyxDamerauLevenshtein](https://github.com/gfairchild/pyxDamerauLevenshtein) - pyxDamerauLevenshtein implements the Damerau-Levenshtein (DL) edit distance algorithm for Python in Cython for high performance.
+- [pranab/avenir](https://github.com/pranab/avenir) - Set of Machine Learning and Stochastic Optimazion  tools based on Hadoop, Spark and Storm  https://pkghosh.wordpress.com/
 - [electricitymap/electricitymap-contrib](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [metapensiero/metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU)
@@ -4927,7 +4929,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your Object Storage for sub-second analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -5603,7 +5605,6 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
