@@ -495,6 +495,7 @@
 
 ## Go 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.
 - [atombender/ktail](https://github.com/atombender/ktail) - ktail is a tool to easily tail Kubernetes logs.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0 / OIDC and SAML authentication, QQ group: 645200447
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
@@ -1235,7 +1236,6 @@
 - [terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) - A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me
 - [dhappy/git-remote-ipfs](https://github.com/dhappy/git-remote-ipfs) - Git Remote Helper to Push/Fetch from IPFS
 - [munrocket/parallax-effect](https://github.com/munrocket/parallax-effect) - 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam.
-- [und3f/vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
 - [MieuxVoter/mieuxvoter.fr](https://github.com/MieuxVoter/mieuxvoter.fr) - Site web de MieuxVoter
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [hugozanini/realtime-semantic-segmentation](https://github.com/hugozanini/realtime-semantic-segmentation) - Implementation of RefineNet to perform real time instance segmentation in the browser using TensorFlow.js
@@ -3905,7 +3905,7 @@
 - [aaronhayes/awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - A curated list of awesome things relating to the hasura ecosystem.
 - [misato/pico8-game-template](https://github.com/misato/pico8-game-template) - A PICO-8 game template
 - [Fonds-de-Dotation-du-Libre/awesome-free-software](https://github.com/Fonds-de-Dotation-du-Libre/awesome-free-software) - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [citp/privacy-policy-historical](https://github.com/citp/privacy-policy-historical) - Historical website privacy policies spanning over two decades.
 - [abulte/schema-donnees-hospitalieres-covid19](https://github.com/abulte/schema-donnees-hospitalieres-covid19) - 
 - [msurguy/awesome-webxr](https://github.com/msurguy/awesome-webxr) - Compilation of links for WebXR
@@ -5185,6 +5185,7 @@
 
 ## TypeScript 
 
+- [betagouv/publicodes](https://github.com/betagouv/publicodes) - Le langage pour les algorithmes d'intérêt public
 - [StoneCypher/jssm](https://github.com/StoneCypher/jssm) - Fast, easy Javascript finite state machines with visualizations; enjoy a one liner FSM instead of pages.  MIT; Typescripted; 100% test coverage.  Implements the FSL language.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
@@ -5366,6 +5367,7 @@
 - [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
+- [und3f/vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) - Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
@@ -5690,7 +5692,7 @@
 ## Vue 
 
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
@@ -5699,7 +5701,7 @@
 - [aleph-im/myaleph](https://github.com/aleph-im/myaleph) - aleph.im account and personal data management dApp
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [etalab/playlists](https://github.com/etalab/playlists) - 🎧 😌 📊 créer et partager simplement des listes de jeux de données
-- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [pierrechls/tweetscape](https://github.com/pierrechls/tweetscape) - A WebVR experience displaying tweets in real-time along a 3D timeline
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
