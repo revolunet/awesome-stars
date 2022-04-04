@@ -495,6 +495,8 @@
 
 ## Go 
 
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.
 - [atombender/ktail](https://github.com/atombender/ktail) - ktail is a tool to easily tail Kubernetes logs.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0 / OIDC and SAML authentication, QQ group: 645200447
@@ -1202,7 +1204,6 @@
 - [Ovilia/ThreeExample.js](https://github.com/Ovilia/ThreeExample.js) - 《Three.js 入门指南》书例代码
 - [cypsela/sailplane-web](https://github.com/cypsela/sailplane-web) - Collaborative p2p file sharing in the browser
 - [breejs/later](https://github.com/breejs/later) - *Maintained fork of Later.* A javascript library for defining recurring schedules and calculating future (or past) occurrences for them. Includes support for using English phrases and Cron schedules. Works in Node and in the browser.
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.36.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [mimadottech/ipfs-crypt](https://github.com/mimadottech/ipfs-crypt) - Add files to IPFS with encryption
 - [kikoano/web2vr](https://github.com/kikoano/web2vr) - Dynamically translate HTML and CSS to A-Frame 3D world for virtual reality.
@@ -5029,6 +5030,7 @@
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.36.1) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨
 - [frigi83/traefik-examples](https://github.com/frigi83/traefik-examples) - docker-compose configurations examples for traefik
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
@@ -5185,6 +5187,7 @@
 
 ## TypeScript 
 
+- [mbalabash/sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list
 - [betagouv/publicodes](https://github.com/betagouv/publicodes) - Le langage pour les algorithmes d'intérêt public
 - [StoneCypher/jssm](https://github.com/StoneCypher/jssm) - Fast, easy Javascript finite state machines with visualizations; enjoy a one liner FSM instead of pages.  MIT; Typescripted; 100% test coverage.  Implements the FSL language.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
