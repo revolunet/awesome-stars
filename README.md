@@ -996,6 +996,8 @@
 
 ## JavaScript 
 
+- [juhoen/hybrid-crypto-js](https://github.com/juhoen/hybrid-crypto-js) - RSA+AES hybrid encryption implementation for JavaScript. Works with Node.js, React Native and modern browsers.
+- [geneseframework/cli](https://github.com/geneseframework/cli) - @genese CLI
 - [lukeed/ley](https://github.com/lukeed/ley) - (WIP) Driver-agnostic database migrations
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
@@ -1193,7 +1195,7 @@
 - [orbitdb/orbit-db-powergate-io](https://github.com/orbitdb/orbit-db-powergate-io) - A bridge between OrbitDB and Powergate, which is itself a bridge between Filecoin and IPFS.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [msztolcman/mailtrap](https://github.com/msztolcman/mailtrap) - MailTrap has been renamed to Sendria. Please use Sendria now, MailTrap is abandoned. MailTrap is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface instead of sending to real world.
 - [lbryio/spee.ch](https://github.com/lbryio/spee.ch) - An image hosting service on top of the LBRY protocol.
@@ -2670,7 +2672,7 @@
 - [phil-r/react-native-looped-carousel](https://github.com/phil-r/react-native-looped-carousel) - :carousel_horse: Looped carousel for React Native
 - [atilacamurca/react-native-ebook](https://github.com/atilacamurca/react-native-ebook) - React Native E-book (.mobi, .epub)
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [1602/jugglingdb](https://github.com/1602/jugglingdb) - Multi-database ORM for nodejs: redis, mongodb, mysql, sqlite3, postgresql, arango, in-memory...
 - [react-alpha-beta/alphabeta](https://github.com/react-alpha-beta/alphabeta) - Declarative split testing for React
 - [arguseyes/argus-eyes](https://github.com/arguseyes/argus-eyes) - A lightweight commandline tool for visual regression testing of UI components.
