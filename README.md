@@ -996,6 +996,7 @@
 
 ## JavaScript 
 
+- [etalab/decoupage-administratif](https://github.com/etalab/decoupage-administratif) - Données concernant le découpage administratif français, au format JSON
 - [juhoen/hybrid-crypto-js](https://github.com/juhoen/hybrid-crypto-js) - RSA+AES hybrid encryption implementation for JavaScript. Works with Node.js, React Native and modern browsers.
 - [geneseframework/cli](https://github.com/geneseframework/cli) - @genese CLI
 - [lukeed/ley](https://github.com/lukeed/ley) - (WIP) Driver-agnostic database migrations
@@ -5189,6 +5190,7 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
 - [mbalabash/sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list
 - [betagouv/publicodes](https://github.com/betagouv/publicodes) - Le langage pour les algorithmes d'intérêt public
 - [StoneCypher/jssm](https://github.com/StoneCypher/jssm) - Fast, easy Javascript finite state machines with visualizations; enjoy a one liner FSM instead of pages.  MIT; Typescripted; 100% test coverage.  Implements the FSL language.
