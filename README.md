@@ -996,6 +996,7 @@
 
 ## JavaScript 
 
+- [SocketDev/readable-stream-node-to-web](https://github.com/SocketDev/readable-stream-node-to-web) - Convert a nodejs Readable stream to a web ReadableStream
 - [etalab/decoupage-administratif](https://github.com/etalab/decoupage-administratif) - Données concernant le découpage administratif français, au format JSON
 - [juhoen/hybrid-crypto-js](https://github.com/juhoen/hybrid-crypto-js) - RSA+AES hybrid encryption implementation for JavaScript. Works with Node.js, React Native and modern browsers.
 - [geneseframework/cli](https://github.com/geneseframework/cli) - @genese CLI
@@ -1023,7 +1024,7 @@
 - [bots-house/ghcr-delete-image-action](https://github.com/bots-house/ghcr-delete-image-action) - ♻️ Delete GitHub Container Registry image by tag
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [Yomguithereal/pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript and TypeScript.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
 - [JamesRyanATX/Harmonicon](https://github.com/JamesRyanATX/Harmonicon) - An experimental DAW for music as code.
@@ -4753,7 +4754,7 @@
 - [unk2k/Flask-memcache-session](https://github.com/unk2k/Flask-memcache-session) - Adds the ability to use as a storage memcache
 - [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files
-- [pyusb/pyusb](https://github.com/pyusb/pyusb) - USB access for Python
+- [pyusb/pyusb](https://github.com/pyusb/pyusb) - Easy USB access for Python
 - [dsc/pyquery](https://github.com/dsc/pyquery) - A jQuery-like library for Python (fork of https://bitbucket.org/olauzanne/pyquery/)
 - [earle/django-bootstrap](https://github.com/earle/django-bootstrap) - Django Form Implementation of the Twitter-Bootstrap UI
 - [not-kennethreitz/envoy](https://github.com/not-kennethreitz/envoy) - Python Subprocesses for Humans™.
