@@ -830,6 +830,7 @@
 - [konsav/email-templates](https://github.com/konsav/email-templates) - Responsive HTML email templates
 - [remy/inline-log](https://github.com/remy/inline-log) - Tiny module for capturing stdout/err in the browser.
 - [mobxjs/mobx-examples](https://github.com/mobxjs/mobx-examples) - A collection of simple mobx examples
+- [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.
 - [mafintosh/p2p-file-sharing-workshop](https://github.com/mafintosh/p2p-file-sharing-workshop) - A workshop where you learn about distributed file sharing
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [ryanbetts/dayframe](https://github.com/ryanbetts/dayframe) - A boilerplate project to emulate the Daydream remote in aframe projects, using websockets.
@@ -2278,7 +2279,6 @@
 - [Synchronized-TV/react-async-child](https://github.com/Synchronized-TV/react-async-child) - Async render child.
 - [FastIT/health-check](https://github.com/FastIT/health-check) - An health check module for express and loopback
 - [djipco/webmidi](https://github.com/djipco/webmidi) - Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.).
-- [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.
 - [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [sallar/led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - :crystal_ball: A simple HTML5 LED Matrix Simulator for fun
@@ -4741,7 +4741,7 @@
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [pypxe/PyPXE](https://github.com/pypxe/PyPXE) - Pure Python PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
-- [mstamy2/PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python
+- [MartinThoma/PyPDF2](https://github.com/MartinThoma/PyPDF2) - A utility to read and write PDFs with Python
 - [revolunet/premailer](https://github.com/revolunet/premailer) - Turns CSS blocks into style attributes
 - [kivy/kivy-ios](https://github.com/kivy/kivy-ios) - Toolchain for compiling Python / Kivy / other libraries for iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -5261,6 +5261,7 @@
 - [coldi/r3f-game-demo](https://github.com/coldi/r3f-game-demo) - A demo on how to do a simple tile-based game with React and react-three-fiber
 - [InseeFrLab/onyxia-ui](https://github.com/InseeFrLab/onyxia-ui) - 🌓 A modern UI toolkit with excellent typing.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
@@ -5700,7 +5701,6 @@
 ## Vue 
 
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
