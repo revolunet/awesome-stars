@@ -501,7 +501,7 @@
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.
 - [atombender/ktail](https://github.com/atombender/ktail) - ktail is a tool to easily tail Kubernetes logs.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
+- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -948,7 +948,7 @@
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [tsegismont/graphql-api-gateway-workshop](https://github.com/tsegismont/graphql-api-gateway-workshop) - How-to implement the API Gateway pattern with GraphQL
 - [inception-project/inception](https://github.com/inception-project/inception) - INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.
-- [tchapgouv/tchap-android](https://github.com/tchapgouv/tchap-android) - A matrix client for Android
+- [tchapgouv/tchap-android-legacy](https://github.com/tchapgouv/tchap-android-legacy) - A matrix client for Android
 - [ICIJ/datashare](https://github.com/ICIJ/datashare) - Better analyze information, in all its forms
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
@@ -1987,7 +1987,6 @@
 - [rthor/cra-generate](https://github.com/rthor/cra-generate) - Scaffold a React component.
 - [Tastenkunst/brfv4_javascript_examples](https://github.com/Tastenkunst/brfv4_javascript_examples) - BRFv4 - HTML5/Javascript - examples project. Reference implementation for all other platform example packages.
 - [jxnblk/refunk](https://github.com/jxnblk/refunk) - :headphones: Simple React functional setState
-- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [brion/ogv.js](https://github.com/brion/ogv.js) - JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
 - [argos-ci/image-difference](https://github.com/argos-ci/image-difference) - Create image differential between two images
 - [mtschirs/js-objectdetect](https://github.com/mtschirs/js-objectdetect) - computer vision in your browser - javascript real-time object detection
@@ -5235,7 +5234,7 @@
 - [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
 - [vscode-kubernetes-tools/vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
-- [authzed/authzed-node](https://github.com/authzed/authzed-node) - An authzed client library for NodeJS
+- [authzed/authzed-node](https://github.com/authzed/authzed-node) - Official SpiceDB client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
@@ -5585,6 +5584,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [davideast/hnpwa-firebase](https://github.com/davideast/hnpwa-firebase) - A super fast HNPWA built on Firebase Dynamic Hosting
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
