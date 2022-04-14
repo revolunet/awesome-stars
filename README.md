@@ -1164,7 +1164,7 @@
 - [LLK/scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
 - [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [serverless/forms-service](https://github.com/serverless/forms-service) - Serverless Forms Service to collect form data with Admin UI
-- [solid/react-components](https://github.com/solid/react-components) - Core React components for building your own Solid components and apps
+- [RubenVerborgh/react-components](https://github.com/RubenVerborgh/react-components) - Core React components for building your own Solid components and apps
 - [graphery/graphery](https://github.com/graphery/graphery) - 
 - [surveyjs/surveyjs-nodejs](https://github.com/surveyjs/surveyjs-nodejs) - Sample NodeJS backend for SurveyJS: Survey Library and Survey Creator
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
@@ -1473,7 +1473,6 @@
 - [mimno/jsLDA](https://github.com/mimno/jsLDA) - An implementation of latent Dirichlet allocation in javascript
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [Planeshifter/text-miner](https://github.com/Planeshifter/text-miner) - text mining utilities for node.js
-- [SocialGouv/code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [hobbyquaker/waldorf](https://github.com/hobbyquaker/waldorf) - Simple Mattermost Bot 🤡🤠
 - [use-global-hook/use-global-hook](https://github.com/use-global-hook/use-global-hook) - 
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -4943,7 +4942,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time insights.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -5008,6 +5007,7 @@
 
 ## Shell 
 
+- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for) - A simple script that allows to wait for a k8s service, job or pods to enter a desired state
 - [kvaps/kubefarm](https://github.com/kvaps/kubefarm) - Automated Kubernetes deployment and the PXE-bootable servers farm
@@ -5464,6 +5464,7 @@
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
 - [South-Paw/react-vector-maps](https://github.com/South-Paw/react-vector-maps) - 🗺 A React component for interactive vector maps of the world and 100+ countries
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [SocialGouv/code-du-travail-numerique](https://github.com/SocialGouv/code-du-travail-numerique) - Code du Travail Numérique
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [vega/react-vega](https://github.com/vega/react-vega) - Convert Vega spec into React class conveniently
 - [mathiassoeholm/use-anim](https://github.com/mathiassoeholm/use-anim) - A super small hook-based animation library for React
@@ -5578,7 +5579,7 @@
 - [chrisguttandin/web-audio-conference-2017](https://github.com/chrisguttandin/web-audio-conference-2017) - My talk at the Web Audio Conference 2017.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [vitaly-t/pg-promise-demo](https://github.com/vitaly-t/pg-promise-demo) - :eyeglasses: Advanced example of using pg-promise
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
