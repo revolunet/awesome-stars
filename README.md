@@ -3766,6 +3766,7 @@
 
 ## Makefile 
 
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [topheman/webassembly-wasi-experiments](https://github.com/topheman/webassembly-wasi-experiments) - Discover WebAssembly System Interface (WASI) with C/Rust use cases
 - [scriptype/Makefile-for-the-Front-End](https://github.com/scriptype/Makefile-for-the-Front-End) - A decent Makefile for fast prototyping and a good development experience.
 
@@ -4300,7 +4301,7 @@
 
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secrets in source code, scan your repositories for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
 - [ossf/osv-schema](https://github.com/ossf/osv-schema) - Open Source Vulnerability schema.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
@@ -4742,7 +4743,7 @@
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [pypxe/PyPXE](https://github.com/pypxe/PyPXE) - Pure Python PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
-- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A utility to read and write PDFs with Python
+- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [revolunet/premailer](https://github.com/revolunet/premailer) - Turns CSS blocks into style attributes
 - [kivy/kivy-ios](https://github.com/kivy/kivy-ios) - Toolchain for compiling Python / Kivy / other libraries for iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
