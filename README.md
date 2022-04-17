@@ -663,6 +663,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
@@ -1471,7 +1472,6 @@
 - [koczkatamas/gctf19](https://github.com/koczkatamas/gctf19) - 
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 - [mimno/jsLDA](https://github.com/mimno/jsLDA) - An implementation of latent Dirichlet allocation in javascript
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [Planeshifter/text-miner](https://github.com/Planeshifter/text-miner) - text mining utilities for node.js
 - [hobbyquaker/waldorf](https://github.com/hobbyquaker/waldorf) - Simple Mattermost Bot 🤡🤠
 - [use-global-hook/use-global-hook](https://github.com/use-global-hook/use-global-hook) - 
@@ -5194,6 +5194,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [fossas/fossa-action](https://github.com/fossas/fossa-action) - Find license compliance and security issues in your applications with FOSSA and Github Actions
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
 - [mbalabash/sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list
