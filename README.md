@@ -999,6 +999,7 @@
 
 ## JavaScript 
 
+- [orbitdb/orbit-db-identity-provider](https://github.com/orbitdb/orbit-db-identity-provider) - Default identity provider for OrbitDB
 - [SocketDev/readable-stream-node-to-web](https://github.com/SocketDev/readable-stream-node-to-web) - Convert a nodejs Readable stream to a web ReadableStream
 - [etalab/decoupage-administratif](https://github.com/etalab/decoupage-administratif) - Données concernant le découpage administratif français, au format JSON
 - [juhoen/hybrid-crypto-js](https://github.com/juhoen/hybrid-crypto-js) - RSA+AES hybrid encryption implementation for JavaScript. Works with Node.js, React Native and modern browsers.
@@ -1007,7 +1008,7 @@
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
 - [devthejo/nctx](https://github.com/devthejo/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
