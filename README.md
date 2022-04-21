@@ -548,7 +548,7 @@
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
-- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
@@ -1911,7 +1911,6 @@
 - [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [monteslu/pagenodes](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform
 - [monteslu/remotepi](https://github.com/monteslu/remotepi) - A raspberry Pi web app in node to remote control GPIOs in a browser with johnny-five
-- [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [mathiasbynens/CSS.escape](https://github.com/mathiasbynens/CSS.escape) - A robust polyfill for the CSS.escape utility method as defined in CSSOM.
 - [nitin42/react-imgpro](https://github.com/nitin42/react-imgpro) - 📷  Image Processing Component for React
@@ -2028,7 +2027,6 @@
 - [tcoopman/image-webpack-loader](https://github.com/tcoopman/image-webpack-loader) - Image loader module for webpack
 - [jsGiven/jsGiven](https://github.com/jsGiven/jsGiven) - A developer-friendly and pragmatic BDD tool for JavaScript.
 - [takahirox/a-mmd](https://github.com/takahirox/a-mmd) - A-Frame MMD component
-- [tulios/mappersmith](https://github.com/tulios/mappersmith) - is a lightweight rest client for node.js and the browser
 - [aacerox/node-rest-client](https://github.com/aacerox/node-rest-client) - REST API client from node.js
 - [cezarsmpio/rest-mapper](https://github.com/cezarsmpio/rest-mapper) - An easy rest mapper for browsers and nodejs. Works on IE8+ and modern browsers.
 - [lelandrichardson/react-primitives](https://github.com/lelandrichardson/react-primitives) - Primitive React Interfaces Across Targets
@@ -2334,7 +2332,6 @@
 - [mafintosh/chromecasts](https://github.com/mafintosh/chromecasts) - Query your local network for Chromecasts and have them play media
 - [mafintosh/hyperpipe](https://github.com/mafintosh/hyperpipe) - Distributed input/output pipe.
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [sprmn/react-firebase-storage-connector](https://github.com/sprmn/react-firebase-storage-connector) - Connect any component to give it a firebase download url as prop
 - [clari/react-tween](https://github.com/clari/react-tween) - DEPRECATED - Recommend https://github.com/tannerlinsley/react-move instead!
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -5009,6 +5006,7 @@
 
 ## Shell 
 
+- [w3f/ipfs-cluster-chart](https://github.com/w3f/ipfs-cluster-chart) - Helm Chart for: https://cluster.ipfs.io/documentation/guides/k8s/
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for) - A simple script that allows to wait for a k8s service, job or pods to enter a desired state
@@ -5576,6 +5574,7 @@
 - [jaystack/repatch](https://github.com/jaystack/repatch) - Dispatch reducers
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
@@ -5596,6 +5595,7 @@
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [argonjs/argon](https://github.com/argonjs/argon) - An open-standards augmented reality platform for the web
 - [takahirox/argon](https://github.com/takahirox/argon) - An open-standards augmented reality platform for the web
+- [tulios/mappersmith](https://github.com/tulios/mappersmith) - is a lightweight rest client for node.js and the browser
 - [foxhound87/mobx-react-form](https://github.com/foxhound87/mobx-react-form) - Reactive MobX Form State Management
 - [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Full-featured reactive state management without the boilerplate
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
@@ -5636,6 +5636,7 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for TS/JS, React, Vue, Solid
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
