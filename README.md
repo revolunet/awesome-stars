@@ -494,6 +494,7 @@
 
 ## Go 
 
+- [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -999,6 +1000,7 @@
 
 ## JavaScript 
 
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [orbitdb/orbit-db-identity-provider](https://github.com/orbitdb/orbit-db-identity-provider) - Default identity provider for OrbitDB
 - [SocketDev/readable-stream-node-to-web](https://github.com/SocketDev/readable-stream-node-to-web) - Convert a nodejs Readable stream to a web ReadableStream
 - [etalab/decoupage-administratif](https://github.com/etalab/decoupage-administratif) - Données concernant le découpage administratif français, au format JSON
