@@ -5239,7 +5239,7 @@
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
 - [authzed/authzed-node](https://github.com/authzed/authzed-node) - Official SpiceDB client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming SSR React Framework in Deno
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [hasura/ra-data-hasura](https://github.com/hasura/ra-data-hasura) - react-admin data provider for Hasura GraphQL Engine
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - The open source authentication service for Hasura.
