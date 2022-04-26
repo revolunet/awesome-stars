@@ -5479,7 +5479,7 @@
 - [rmarganti/re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
 - [theKashey/react-focus-on](https://github.com/theKashey/react-focus-on) - 🎯 Solution for WAI ARIA compatible modal dialogs or full-screen tasks, you were looking for
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [anthonyshort/use-next-route](https://github.com/anthonyshort/use-next-route) - React hook for easy routing within a Next.js app
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
