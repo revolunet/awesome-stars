@@ -1045,7 +1045,7 @@
 - [dnum-mi/vue-dsfr](https://github.com/dnum-mi/vue-dsfr) - Portage en Vue du DSFR
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [missive/emoji-mart](https://github.com/missive/emoji-mart) - One component to pick them all 👊🏼
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [dabit3/polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) - A full stack digital marketplace running on Ethereum with Polygon & Next.js
@@ -1059,7 +1059,7 @@
 - [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-- [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
+- [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [betagouv/annuaire-api](https://github.com/betagouv/annuaire-api) - Une API pour les données de l'annuaire de service-public.fr
 - [dabit3/decentralized-identity-example](https://github.com/dabit3/decentralized-identity-example) - An authentication system built with Ceramic & self.id
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
@@ -1359,7 +1359,7 @@
 - [TomPrograms/stormdb](https://github.com/TomPrograms/stormdb) - 🌩️ StormDB is a tiny, lightweight, 0 dependency, easy-to-use JSON-based database for NodeJS, the browser or Electron.
 - [wgpsutherland/gistory](https://github.com/wgpsutherland/gistory) - Returns history data from GitHub for a given user.
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
-- [solid/solid-auth-client](https://github.com/solid/solid-auth-client) - A browser library for performing authenticated requests to Solid pods
+- [nodeSolidServer/solid-auth-client](https://github.com/nodeSolidServer/solid-auth-client) - A browser library for performing authenticated requests to Solid pods
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [davlgd/kimetrak](https://github.com/davlgd/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
@@ -3639,6 +3639,7 @@
 - [nytimes/document-viewer](https://github.com/nytimes/document-viewer) - The NYTimes Document Viewer
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
 - [revolunet/Ext.ux.upload](https://github.com/revolunet/Ext.ux.upload) - SWFupload + html5 drag&drop + progressbars for ExtJs
+- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [subtleGradient/Sheet.js](https://github.com/subtleGradient/Sheet.js) - CommonJS & Browser JavaScript for parsing many CSS-like languages. Parse a CSS string into a JS object!
 - [remy/jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops
 - [VinylFox/ExtJS.Patterns](https://github.com/VinylFox/ExtJS.Patterns) - A sampling of common Ext JS design patterns to use as a starting point for development
