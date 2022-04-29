@@ -5449,7 +5449,7 @@
 - [nhost/hasura-backend-plus](https://github.com/nhost/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
 - [RodolfoSilva/hasura-auth](https://github.com/RodolfoSilva/hasura-auth) - 🔐 Hasura Auth 🔐
 - [jjwtay/client-directives](https://github.com/jjwtay/client-directives) - GraphQL client directives for transforming data and inputs.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [stanlemon/react-couchdb-authentication](https://github.com/stanlemon/react-couchdb-authentication) - React component for authenticating against a CouchDB user db and syncing it locally with PouchDB.
 - [assurance-maladie-digital/design-system](https://github.com/assurance-maladie-digital/design-system) - 👾 A Design System for the French Health Insurance
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
