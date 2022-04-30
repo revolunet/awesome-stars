@@ -526,7 +526,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - A context discovery tool for Kubernetes penetration testing.
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open source database system for managing security-critical application permissions inspired by Google's Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - SpiceDB: Open source permissions database inspired by Google Zanzibar
 - [featureform/embeddinghub](https://github.com/featureform/embeddinghub) - A vector database for machine learning embeddings.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
@@ -755,6 +755,7 @@
 
 ## HTML 
 
+- [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs) - The code for the book Learning TensorFlow.js by Gant Laborde - Published by O'Reilly Media
 - [kigiri/fetch](https://github.com/kigiri/fetch) - Convert CURL to javascript fetch api
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support
@@ -4668,7 +4669,7 @@
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 - [morepath/morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
-- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Elegant WebSockets for your Flask apps.
+- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Alternative: https://github.com/miguelgrinberg/flask-sock
 - [MobileChromeApps/mobile-chrome-apps](https://github.com/MobileChromeApps/mobile-chrome-apps) - Chrome apps on Android and iOS
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [rDr4g0n/JsDebuggr](https://github.com/rDr4g0n/JsDebuggr) - Add, remove, enable, and disable breakpoints in javascript from the comfort of Sublime Text :D
