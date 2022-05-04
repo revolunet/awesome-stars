@@ -494,6 +494,7 @@
 
 ## Go 
 
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -3952,7 +3953,7 @@
 - [lionelB/hasura-backend-plus](https://github.com/lionelB/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
 - [hackergrrl/p2p-faq](https://github.com/hackergrrl/p2p-faq) - :question: Commonly asked questions about peer-to-peer networks & programs.
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
-- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [CSML-by-Clevy/covidbot-autodiagnostic](https://github.com/CSML-by-Clevy/covidbot-autodiagnostic) - Chatbot d'auto diagnostic basé sur l'algorithme élaboré en lien avec l’Institut Pasteur et l’Assistance publique des Hôpitaux de Paris
 - [nbald/StartupNation](https://github.com/nbald/StartupNation) - Compilation des punitions auxquelles sont soumis les entrepreuneurs en France
 - [dair-ai/nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
@@ -5199,7 +5200,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [fossas/fossa-action](https://github.com/fossas/fossa-action) - Find license compliance and security issues in your applications with FOSSA and Github Actions
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
-- [mbalabash/sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list
+- [mbalabash/sdc-check](https://github.com/mbalabash/sdc-check) - Small tool to inform you about potential risks in your project dependencies list
 - [betagouv/publicodes](https://github.com/betagouv/publicodes) - Le langage pour les algorithmes d'intérêt public
 - [StoneCypher/jssm](https://github.com/StoneCypher/jssm) - Fast, easy Javascript finite state machines with visualizations; enjoy a one liner FSM instead of pages.  MIT; Typescripted; 100% test coverage.  Implements the FSL language.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
