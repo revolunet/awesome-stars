@@ -230,6 +230,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [Makuna/Task](https://github.com/Makuna/Task) - Arduino Nonpreemptive multitasking library.  Please refer to the Wiki for more details.  Please use the gitter channel to ask questions as the GitHub Issues feature is used for bug tracking.
 - [barn53/esp8266-PushButton](https://github.com/barn53/esp8266-PushButton) - Arduino library that provides debounced push button functionality on GPIO pins
@@ -3870,7 +3871,6 @@
 - [cmuriukin/awesome-argo](https://github.com/cmuriukin/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [logux/logux](https://github.com/logux/logux) - Issues and roadmap
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
 - [meilisearch/awesome-meilisearch](https://github.com/meilisearch/awesome-meilisearch) - A curated list of awesome MeiliSearch resources
@@ -4454,7 +4454,6 @@
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [TryCatchHCF/Cloakify](https://github.com/TryCatchHCF/Cloakify) - CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engineering of Analysts, Evade AV Detection
 - [kayagoban/shadowlands](https://github.com/kayagoban/shadowlands) - A Dapp platform and Ethereum terminal, entirely in Python.
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [ELS-RD/anonymisation](https://github.com/ELS-RD/anonymisation) - Anonymization of legal cases (Fr) based on Flair embeddings
 - [gfairchild/pyxDamerauLevenshtein](https://github.com/gfairchild/pyxDamerauLevenshtein) - pyxDamerauLevenshtein implements the Damerau-Levenshtein (DL) edit distance algorithm for Python in Cython for high performance.
 - [pranab/avenir](https://github.com/pranab/avenir) - Set of Machine Learning and Stochastic Optimazion  tools based on Hadoop, Spark and Storm  https://pkghosh.wordpress.com/
@@ -5641,7 +5640,7 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for TS/JS, React, Vue, Solid
+- [TanStack/react-table](https://github.com/TanStack/react-table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
