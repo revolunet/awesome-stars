@@ -775,6 +775,7 @@
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
 - [18F/ux-guide](https://github.com/18F/ux-guide) - Resources, norms, and practices for doing user experience research and design work at 18F.
+- [govmeeting/govmeeting](https://github.com/govmeeting/govmeeting) - Software to increase citizen involvement in democracy at the local level
 - [LINCnil/GDPR-Developer-Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - The CNIL publishes a GDPR guide for developers
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [mikewest/http-state-tokens](https://github.com/mikewest/http-state-tokens) - Incrementally better HTTP state management.
@@ -1002,6 +1003,7 @@
 
 ## JavaScript 
 
+- [pubkey/eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [orbitdb/orbit-db-identity-provider](https://github.com/orbitdb/orbit-db-identity-provider) - Default identity provider for OrbitDB
 - [SocketDev/readable-stream-node-to-web](https://github.com/SocketDev/readable-stream-node-to-web) - Convert a nodejs Readable stream to a web ReadableStream
@@ -3863,6 +3865,7 @@
 
 ## Others 
 
+- [ucan-wg/spec](https://github.com/ucan-wg/spec) - User Controlled Authorization Network (UCAN) Specification
 - [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
@@ -5382,7 +5385,6 @@
 - [emeraldpay/hashicon](https://github.com/emeraldpay/hashicon) - Generates a beautiful representation of any hash.
 - [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
-- [govmeeting/govmeeting](https://github.com/govmeeting/govmeeting) - Software to increase citizen involvement in democracy at the local level
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [und3f/vectorize-pixelart](https://github.com/und3f/vectorize-pixelart) - Convert raster pixel art graphics to vector
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) - Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
