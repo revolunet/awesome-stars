@@ -69,6 +69,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SWIG](#swig)
+- [Sage](#sage)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -991,6 +992,9 @@
 
 ## JavaScript 
 
+- [ipld/explore.ipld.io](https://github.com/ipld/explore.ipld.io) - Explore the Merkle Forest from the comfort of your browser
+- [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor) - dag-cbor codec for IPLD
+- [orbitdb/orbit-db-store](https://github.com/orbitdb/orbit-db-store) - Base class for orbit-db data stores
 - [pubkey/eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [orbitdb/orbit-db-identity-provider](https://github.com/orbitdb/orbit-db-identity-provider) - Default identity provider for OrbitDB
@@ -4993,6 +4997,10 @@
 ## SWIG 
 
 - [jim-easterbrook/python-gphoto2](https://github.com/jim-easterbrook/python-gphoto2) - Python interface to libgphoto2
+
+## Sage 
+
+- [sipa/writeups](https://github.com/sipa/writeups) - A collection of various writeups on research topics
 
 ## Scala 
 
