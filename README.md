@@ -307,7 +307,6 @@
 - [AshKyd/geojson-regions](https://github.com/AshKyd/geojson-regions) - 🌏 A repo to create simplified GeoJSON regions so we can display map-based visualisations without having to load tiles all over the place.
 - [craigkerstiens/postgresguide.com](https://github.com/craigkerstiens/postgresguide.com) - 
 - [longsien/BareCSS](https://github.com/longsien/BareCSS) - A classless CSS framework
-- [nib-edit/nib](https://github.com/nib-edit/nib) - Wysiwyg / Text editor components built using React and Prosemirror
 - [victorqribeiro/oldTerminal](https://github.com/victorqribeiro/oldTerminal) - an old terminal template for html pages
 - [stephane-monnot/react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
@@ -518,7 +517,7 @@
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. Se
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s configs follow stability & security best practices as well as your organization’s policies.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - A context discovery tool for Kubernetes penetration testing.
@@ -994,6 +993,7 @@
 
 ## JavaScript 
 
+- [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript
 - [nemtsov/json-mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [samuelpath/resultats-sondage-salaires](https://github.com/samuelpath/resultats-sondage-salaires) - Les résultats d'un sondage sur les postes full-remote depuis la France avec brut &gt; 50k€.
@@ -1465,6 +1465,7 @@
 - [feross/play.cash](https://github.com/feross/play.cash) - 🎶 Music lovers, rejoice.
 - [mazko/jssnowball](https://github.com/mazko/jssnowball) - JavaScript Snowball Stemmers
 - [kerryrodden/tiny-tfidf](https://github.com/kerryrodden/tiny-tfidf) - Minimal implementations of a couple of classic text analysis tools (TF-IDF and cosine similarity)
+- [nib-edit/nib](https://github.com/nib-edit/nib) - Wysiwyg / Text editor components built using React and Prosemirror
 - [vercel/schemas](https://github.com/vercel/schemas) - All schemas used for validation that are shared between our projects
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
