@@ -2124,7 +2124,7 @@
 - [nkolban/node-neopixel-utils](https://github.com/nkolban/node-neopixel-utils) - NeoPixel utilities for Node.js
 - [kjkjava/Sketchy.js](https://github.com/kjkjava/Sketchy.js) - Shape matching for mere mortals.
 - [networked-aframe/networked-aframe](https://github.com/networked-aframe/networked-aframe) - A web framework for building multi-user virtual reality experiences.
-- [zeke/all-the-cities](https://github.com/zeke/all-the-cities) - All the 138,398 cities of the world with a population of at least 1000 inhabitants, in a big JSON array.
+- [zeke/all-the-cities](https://github.com/zeke/all-the-cities) - 🌆 All the 138,398 cities of the world with a population of at least 1000 inhabitants, in a big JSON array.
 - [Jam3/audiobuffer-to-wav](https://github.com/Jam3/audiobuffer-to-wav) - convert an AudioBuffer to .wav format
 - [garetmckinley/uigradients](https://github.com/garetmckinley/uigradients) - Gradients-as-a-react-component™
 - [LoicMahieu/react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on styled-components and flexbox for React
@@ -5076,7 +5076,7 @@
 - [aristarkh87/docker-knockd](https://github.com/aristarkh87/docker-knockd) - 
 - [SocialGouv/cdtn-elk](https://github.com/SocialGouv/cdtn-elk) - ELK : Elastic / Logstash / Kibana - Elastic stack to manage CDTN search and suggest logs at scale
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 - [pirxpilot/postal-api](https://github.com/pirxpilot/postal-api) - REST API server for libpostal
 - [pachevalier/organisations-data-gouv](https://github.com/pachevalier/organisations-data-gouv) - Binding datagouv organizations with Wikidata
