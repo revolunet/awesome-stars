@@ -691,7 +691,7 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [openfaas/openfaas-cloud](https://github.com/openfaas/openfaas-cloud) - The Multi-user OpenFaaS Platform
@@ -848,7 +848,6 @@
 - [bahmutov/draw-cycle](https://github.com/bahmutov/draw-cycle) - Simple Cycle.js application visualized: streams, events, DOM
 - [apache/cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) - Apache Cordova
 - [e-books/backbone.en.douceur](https://github.com/e-books/backbone.en.douceur) - le gros tuto pour apprendre Backbone.js
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -870,7 +869,6 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
-- [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
 - [ariya/kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript
 - [metaware/angular-invoicing](https://github.com/metaware/angular-invoicing) - Create free and unlimited one off invoices using this little Invoicing app made with Angular JS
@@ -1358,7 +1356,6 @@
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [arj03/ssb-browser-core](https://github.com/arj03/ssb-browser-core) - ssb-server in a browser
 - [arj03/ssb-browser-demo](https://github.com/arj03/ssb-browser-demo) - A secure scuttlebutt client interface running in the browser
-- [TomPrograms/stormdb](https://github.com/TomPrograms/stormdb) - 🌩️ StormDB is a tiny, lightweight, 0 dependency, easy-to-use JSON-based database for NodeJS, the browser or Electron.
 - [wgpsutherland/gistory](https://github.com/wgpsutherland/gistory) - Returns history data from GitHub for a given user.
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [nodeSolidServer/solid-auth-client](https://github.com/nodeSolidServer/solid-auth-client) - A browser library for performing authenticated requests to Solid pods
@@ -2814,6 +2811,7 @@
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [tj/frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate (unmaintained, I don't use it anymore)
 - [ryanflorence/example-react-router-server-rendering-lazy-routes](https://github.com/ryanflorence/example-react-router-server-rendering-lazy-routes) - 
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
 - [arunoda/react-komposer](https://github.com/arunoda/react-komposer) - Feed data into React components by composing containers.
 - [preboot/angular-webpack](https://github.com/preboot/angular-webpack) - A complete, yet simple, starter for Angular v2+ using webpack
@@ -4949,7 +4947,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p) - peer-to-peer communications library for Rust based on QUIC protocol
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -4998,6 +4996,7 @@
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
+- [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 
 ## SWIG 
@@ -5652,7 +5651,7 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [wix-playground/vidi](https://github.com/wix-playground/vidi) - &lt;video&gt; playback simplified
-- [TanStack/react-table](https://github.com/TanStack/react-table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) - 🚲 A Cycle.js Driver for Telegram Bot API
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
