@@ -810,7 +810,7 @@
 - [DISIC/guide-contribuer_accessible](https://github.com/DISIC/guide-contribuer_accessible) - Guide "Contribuer sur le Web de manière accessible"
 - [DISIC/rgaa_referentiel](https://github.com/DISIC/rgaa_referentiel) - Référentiel Général d'Accessibilité pour les Administrations
 - [entrepreneur-interet-general/api-ccomptes](https://github.com/entrepreneur-interet-general/api-ccomptes) - 
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [Sigfried/supergroup](https://github.com/Sigfried/supergroup) - Supergroup brings extreme convenience and understandability to the manipulation of Javascript data collections, especially in the context of D3.js visualization programming.
 - [kentcdodds/advanced-react-patterns-v1](https://github.com/kentcdodds/advanced-react-patterns-v1) - The course material for my advanced react patterns course on Egghead.io
 - [betagouv/beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr) - Le site public de l'Incubateur de Services Numériques de l'État
@@ -1084,6 +1084,7 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [derjasper/simple-geojson-server](https://github.com/derjasper/simple-geojson-server) - Transform GeoJSON files into a REST API
 - [emnbdx/annuaire-sante-as-api](https://github.com/emnbdx/annuaire-sante-as-api) - Import data from https://annuaire.sante.fr/ to mysql database and provide api to query data
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [babykarte/babykarte](https://github.com/babykarte/babykarte) - OpenStreetMap project showing relevant POIs and information for parents of infants and toddlers (0-3 years of age)
 - [gftruj/aframe-hand-tracking-controls-extras](https://github.com/gftruj/aframe-hand-tracking-controls-extras) - a-frame hand tracking extras
 - [MTES-MCT/dataroom](https://github.com/MTES-MCT/dataroom) - Inventaire des données détenues par le MTES & MCTCRT
@@ -4342,7 +4343,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
-- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) - Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
 - [GIScience/openpoiservice](https://github.com/GIScience/openpoiservice) - :round_pushpin: Openpoiservice is a flask application which hosts a highly customizable points of interest database derived from OpenStreetMap data.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
@@ -5205,6 +5206,7 @@
 
 ## TypeScript 
 
+- [seald/sscrypto](https://github.com/seald/sscrypto) - Super Simple Cryptography
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [maxgfr/typescript-swc-starter](https://github.com/maxgfr/typescript-swc-starter) - A minimalist typescript swc starter
 - [openfun/verna](https://github.com/openfun/verna) - An extensible form builder based on React JSON Schema Form.
@@ -5294,7 +5296,6 @@
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [UnlyEd/simple-logger](https://github.com/UnlyEd/simple-logger) - Simple universal and extra-light (1kB) logger for node/browser, with prefix, time and colours.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [codecoolture/next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi
