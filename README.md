@@ -722,7 +722,7 @@
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [flike/kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
@@ -998,6 +998,7 @@
 
 ## JavaScript 
 
+- [curiousily/todo-list-icon-classification-with-tensorflow-js](https://github.com/curiousily/todo-list-icon-classification-with-tensorflow-js) - Use ReactJS and TensorFlow to suggest icons based on text in a ToDo list app
 - [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 - [hypothesis/pdf.js-hypothes.is](https://github.com/hypothesis/pdf.js-hypothes.is) - PDF.js + Hypothesis viewer / annotator
 - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript
