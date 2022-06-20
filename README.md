@@ -996,6 +996,7 @@
 
 ## JavaScript 
 
+- [tchapgouv/matrix-react-sdk](https://github.com/tchapgouv/matrix-react-sdk) - Matrix SDK for React Javascript
 - [offerpool/offerpool](https://github.com/offerpool/offerpool) - Distributed database of chia offers with a simple API and basic Web UI
 - [Codypinto23/Postgres-Encrypted-DB](https://github.com/Codypinto23/Postgres-Encrypted-DB) - Testing out encrypting data in a postgres db
 - [sakthivelsubbarayan/postgres-encryption](https://github.com/sakthivelsubbarayan/postgres-encryption) - Example postgres field level encryption  with sequalize
@@ -1291,7 +1292,6 @@
 - [wix-incubator/mjml-react](https://github.com/wix-incubator/mjml-react) - React component library to generate the HTML emails on the fly
 - [nihgwu/react-texty](https://github.com/nihgwu/react-texty) - A straight forward text component with tooltip support when it's truncated
 - [dappkit/aviondb-p2p-sync](https://github.com/dappkit/aviondb-p2p-sync) - A Todo App that can be synced p2p with multiple devices via QR Code
-- [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [shlemph/ipfsecret](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
 - [mrsaeeddev/react-covid-hooks](https://github.com/mrsaeeddev/react-covid-hooks) - 📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks
 - [wrannaman/IPFS-Demo](https://github.com/wrannaman/IPFS-Demo) - IPFS demo using IPFS, React, MobX, Material-UI
@@ -1593,7 +1593,6 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
-- [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 - [lulop-k/kurento-rtsp2webrtc](https://github.com/lulop-k/kurento-rtsp2webrtc) - This example shows how to transform a RTSP feed or an HTTP feed into a low latency WebRTC stream in a simple and seamless manner.
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -4008,6 +4007,7 @@
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [rehooks/ideas](https://github.com/rehooks/ideas) - Got an idea for a new React Hook for this org, start here
+- [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 - [jlelse/Maily-Form](https://github.com/jlelse/Maily-Form) - Forms on any website
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [chartshq/muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach now powered by WebAssembly
@@ -5441,6 +5441,7 @@
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [bluebill1049/little-state-machine](https://github.com/bluebill1049/little-state-machine) - 📠 React custom hook for persist state management
 - [dappkit/aviondb](https://github.com/dappkit/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
+- [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [egoist/docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [FireBlinkLTD/keycloak-security-gateway](https://github.com/FireBlinkLTD/keycloak-security-gateway) - Node.js based proxy service to secure applications and integrate with Keycloak SSO flow.
 - [file2html/file2html](https://github.com/file2html/file2html) - JS convertor of files to HTML and CSS code
