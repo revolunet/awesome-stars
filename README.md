@@ -524,7 +524,7 @@
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s configs follow stability & security best practices as well as your organization’s policies.
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See o
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment tool for penetration testing
@@ -1188,6 +1188,7 @@
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [0xHexE/keycloak-hasura-connector](https://github.com/0xHexE/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
 - [tabcat/encrypted-docstore](https://github.com/tabcat/encrypted-docstore) - create and mount encrypted orbit docstores in the browser
+- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [cagline/react-router-component-keycloak-example](https://github.com/cagline/react-router-component-keycloak-example) - React Routes and Components restrict with Keycloak
 - [msztolcman/sendria](https://github.com/msztolcman/sendria) - Sendria (formerly MailTrap) is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface ins
 - [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same `fetch()` API browsers provide for HTTP, but for IPFS
@@ -2339,7 +2340,7 @@
 - [gohypergiant/react-component-hierarchy](https://github.com/gohypergiant/react-component-hierarchy) - A CLI app for visualizing how React components are structured in a project.
 - [brianleroux/tiny-json-http](https://github.com/brianleroux/tiny-json-http) - :anchor: Minimalist HTTP client for JSON payloads.
 - [tommikaikkonen/redux-orm-primer](https://github.com/tommikaikkonen/redux-orm-primer) - A guide to creating a simple todo app with Redux-ORM
-- [bekatomash/react-redux-firebase-boilerplate](https://github.com/bekatomash/react-redux-firebase-boilerplate) - :fire: :rocket: React, Redux, Firebase Boilerplate
+- [bekatom/react-redux-firebase-boilerplate](https://github.com/bekatom/react-redux-firebase-boilerplate) - :fire: :rocket: React, Redux, Firebase Boilerplate
 - [mafintosh/chromecasts](https://github.com/mafintosh/chromecasts) - Query your local network for Chromecasts and have them play media
 - [mafintosh/hyperpipe](https://github.com/mafintosh/hyperpipe) - Distributed input/output pipe.
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -5388,7 +5389,6 @@
 - [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Online Survey Creator / Form Builder. See it in action:
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [opengovsg/FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government
-- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
 - [livepeer/file-video](https://github.com/livepeer/file-video) - 
 - [zakjan/pixi-graph](https://github.com/zakjan/pixi-graph) - Graph visualization library using PIXI.js and Graphology
