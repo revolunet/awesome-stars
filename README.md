@@ -1042,7 +1042,7 @@
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [Yomguithereal/pandemonium](https://github.com/Yomguithereal/pandemonium) - Typical random-related functions for JavaScript and TypeScript.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
 - [JamesRyanATX/Harmonicon](https://github.com/JamesRyanATX/Harmonicon) - An experimental DAW for music as code.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
@@ -5270,7 +5270,7 @@
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
-- [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data science oriented container launcher
+- [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web) - 🥼 A data oriented cloud platform
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for js/ts/jsx library
 - [jasonkuhrt/template-typescript-lib](https://github.com/jasonkuhrt/template-typescript-lib) - Project template for TypeScript libraries
 - [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
