@@ -996,6 +996,8 @@
 
 ## JavaScript 
 
+- [Visma-Consulting/formula](https://github.com/Visma-Consulting/formula) - 
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [tchapgouv/matrix-react-sdk](https://github.com/tchapgouv/matrix-react-sdk) - Matrix SDK for React Javascript
 - [offerpool/offerpool](https://github.com/offerpool/offerpool) - Distributed database of chia offers with a simple API and basic Web UI
 - [Codypinto23/Postgres-Encrypted-DB](https://github.com/Codypinto23/Postgres-Encrypted-DB) - Testing out encrypting data in a postgres db
@@ -3863,6 +3865,7 @@
 
 ## Others 
 
+- [sqlsite/awesome-sqlite](https://github.com/sqlsite/awesome-sqlite) - A curated list of awesome things related to SQLite
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [ucan-wg/spec](https://github.com/ucan-wg/spec) - User Controlled Authorization Network (UCAN) Specification
 - [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
@@ -4958,6 +4961,7 @@
 
 ## Rust 
 
+- [alexjg/automerge-todomvc-http](https://github.com/alexjg/automerge-todomvc-http) - Demo of multiple platform Todo MVC using automerge to sync data over HTTP
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [shosti/wraft](https://github.com/shosti/wraft) - Raft distributed consensus for WebAssembly in Rust
 - [biscuit-auth/biscuit-wasm](https://github.com/biscuit-auth/biscuit-wasm) - WebAssembly wrapper for Biscuit authorization tokens
@@ -5223,6 +5227,12 @@
 
 ## TypeScript 
 
+- [Terreii/use-pouchdb](https://github.com/Terreii/use-pouchdb) - React Hooks for PouchDB
+- [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
+- [okdistribute/automerge-chat-demo](https://github.com/okdistribute/automerge-chat-demo) - A demo of using automerge to build a chat client.
+- [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
+- [automerge/hypermerge](https://github.com/automerge/hypermerge) - Build p2p collaborative applications without any server infrastructure in Node.js
+- [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [SocialGouv/template](https://github.com/SocialGouv/template) - NextJS template de la Fabrique des ministères sociaux
 - [matrix-org/matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) - JavaScript/TypeScript API for widgets & web clients to communicate
