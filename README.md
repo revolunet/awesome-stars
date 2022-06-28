@@ -527,7 +527,7 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See o
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment tool for penetration testing
+- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
@@ -1190,7 +1190,6 @@
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [0xHexE/keycloak-hasura-connector](https://github.com/0xHexE/keycloak-hasura-connector) - Connect hasura with the keycloak. Authentication for hasura
 - [tabcat/encrypted-docstore](https://github.com/tabcat/encrypted-docstore) - create and mount encrypted orbit docstores in the browser
-- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [cagline/react-router-component-keycloak-example](https://github.com/cagline/react-router-component-keycloak-example) - React Routes and Components restrict with Keycloak
 - [msztolcman/sendria](https://github.com/msztolcman/sendria) - Sendria (formerly MailTrap) is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or your application is sending, and display it in a web interface ins
 - [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same `fetch()` API browsers provide for HTTP, but for IPFS
@@ -4319,6 +4318,7 @@
 
 ## Python 
 
+- [regardscitoyens/twitter-parlementaires](https://github.com/regardscitoyens/twitter-parlementaires) - Annuaire des comptes Twitter des parlementaires
 - [josephernest/SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [rheinwerk-verlag/pganonymize](https://github.com/rheinwerk-verlag/pganonymize) - A commandline tool for anonymizing PostgreSQL databases
@@ -4961,6 +4961,7 @@
 
 ## Rust 
 
+- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [alexjg/automerge-todomvc-http](https://github.com/alexjg/automerge-todomvc-http) - Demo of multiple platform Todo MVC using automerge to sync data over HTTP
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [shosti/wraft](https://github.com/shosti/wraft) - Raft distributed consensus for WebAssembly in Rust
@@ -5400,6 +5401,7 @@
 - [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Online Survey Creator / Form Builder. See it in action:
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [opengovsg/FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government
+- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [hubtype/botonic](https://github.com/hubtype/botonic) - Build chatbots and conversational experiences using React
 - [livepeer/file-video](https://github.com/livepeer/file-video) - 
 - [zakjan/pixi-graph](https://github.com/zakjan/pixi-graph) - Graph visualization library using PIXI.js and Graphology
