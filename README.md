@@ -1216,7 +1216,7 @@
 - [orbitdb/orbit-db-powergate-io](https://github.com/orbitdb/orbit-db-powergate-io) - A bridge between OrbitDB and Powergate, which is itself a bridge between Filecoin and IPFS.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [betagouv/datapass](https://github.com/betagouv/datapass) - L'outil de gestion des habilitations juridiques pour les données à accès restreint.
 - [msztolcman/mailtrap](https://github.com/msztolcman/mailtrap) - MailTrap has been renamed to Sendria. Please use Sendria now, MailTrap is abandoned. MailTrap is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or 
 - [lbryio/spee.ch](https://github.com/lbryio/spee.ch) - An image hosting service on top of the LBRY protocol.
@@ -2265,7 +2265,7 @@
 - [lukeed/colors-app](https://github.com/lukeed/colors-app) - :art: A PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [dataarts/dat.guiVR](https://github.com/dataarts/dat.guiVR) - A flexible graphical user interface for changing variables within WebVR.
 - [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - DN2A - Digital Neural Networks Architecture in JavaScript
+- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - DN2A - Digital Neural Networks Architecture
 - [microsoft/HoloJS](https://github.com/microsoft/HoloJS) - Provides a framework for creating holographic apps using JavaScript and WebGL.
 - [remy/now-no-alias](https://github.com/remy/now-no-alias) - CLI tool for now to list idle deploys (with no active aliases)
 - [fdidron/mobx-next-example](https://github.com/fdidron/mobx-next-example) - An example to get started with Mobx and Next.JS
@@ -5228,6 +5228,7 @@
 
 ## TypeScript 
 
+- [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
 - [Terreii/use-pouchdb](https://github.com/Terreii/use-pouchdb) - React Hooks for PouchDB
 - [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
 - [okdistribute/automerge-chat-demo](https://github.com/okdistribute/automerge-chat-demo) - A demo of using automerge to build a chat client.
