@@ -5235,6 +5235,7 @@
 
 ## TypeScript 
 
+- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [englercj/tsd-jsdoc](https://github.com/englercj/tsd-jsdoc) - Compiles JSDoc annotated JavaScript into a Typescript Definition file (.d.ts)
 - [etesync/etebase-js](https://github.com/etesync/etebase-js) - Etebase TypeScript API for the web, node and react-native!
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for Postgresql
