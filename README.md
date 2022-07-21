@@ -765,7 +765,7 @@
 - [kigiri/fetch](https://github.com/kigiri/fetch) - Convert CURL to javascript fetch api
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing,
-- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2, France 3, and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
+- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap french TV news to analyse humanity's biggest challenge : fossil energies and climate change.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [DISIC/frago](https://github.com/DISIC/frago) - Génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité (audits et recommandations)
 - [Cour-de-cassation/judilibre-search](https://github.com/Cour-de-cassation/judilibre-search) - API de recherche et de consultation de la plateforme JUDILIBRE.
@@ -4970,6 +4970,7 @@
 
 ## Rust 
 
+- [kindly/flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX converter.  Makes JSON flatterer.
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [alexjg/automerge-todomvc-http](https://github.com/alexjg/automerge-todomvc-http) - Demo of multiple platform Todo MVC using automerge to sync data over HTTP
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
