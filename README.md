@@ -297,6 +297,7 @@
 
 ## CSS 
 
+- [DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr) - Version bêta du nouveau site dédié au référentiel général d’amélioration de l’accessibilité (RGAA).
 - [oklmdev/starter-betagouv](https://github.com/oklmdev/starter-betagouv) - Mutualisons nos savoir-faire !
 - [dravedev/manifeste-souverainete-numerique](https://github.com/dravedev/manifeste-souverainete-numerique) - Manifeste de la souveraineté numérique
 - [etalab/tchatcha](https://github.com/etalab/tchatcha) - Captchacha: solution de vérification de formulaire
@@ -1000,6 +1001,8 @@
 
 ## JavaScript 
 
+- [porsager/postgres-benchmarks](https://github.com/porsager/postgres-benchmarks) - A set of benchmarks focusing on the performance of Postgres client libraries for Node.js
+- [NodeSecure/vulnera](https://github.com/NodeSecure/vulnera) - Programmatically fetch security vulnerabilities with one or many strategies (NPM Audit, Sonatype, Snyk, Node.js DB).
 - [Visma-Consulting/formula](https://github.com/Visma-Consulting/formula) - 
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [tchapgouv/matrix-react-sdk](https://github.com/tchapgouv/matrix-react-sdk) - Matrix SDK for React Javascript
@@ -1149,7 +1152,7 @@
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [paolomainardi/additronk8s-retrogames-kubernetes-controller](https://github.com/paolomainardi/additronk8s-retrogames-kubernetes-controller) - A retrogames kubernetes controller built in Javascript
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
@@ -3696,6 +3699,7 @@
 
 ## Jupyter Notebook 
 
+- [etalab/annuaire-entreprises-search-api](https://github.com/etalab/annuaire-entreprises-search-api) - 
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
@@ -5239,6 +5243,7 @@
 
 ## TypeScript 
 
+- [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [englercj/tsd-jsdoc](https://github.com/englercj/tsd-jsdoc) - Compiles JSDoc annotated JavaScript into a Typescript Definition file (.d.ts)
 - [etesync/etebase-js](https://github.com/etesync/etebase-js) - Etebase TypeScript API for the web, node and react-native!
