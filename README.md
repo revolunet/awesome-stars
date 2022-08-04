@@ -498,6 +498,7 @@
 
 ## Go 
 
+- [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1326,7 +1327,7 @@
 - [lionelB/hasura-backend-plus](https://github.com/lionelB/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
 - [GoodDollar/gun-appendOnly](https://github.com/GoodDollar/gun-appendOnly) - Append only nodes for gundb
-- [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
+- [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [blockades/scuttle-dark-crystal](https://github.com/blockades/scuttle-dark-crystal) - API for validating, building, publishing and reading Dark Crystal records
 - [bluzi/jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects | Inactive
 - [zrrrzzt/gun-sea-next-example](https://github.com/zrrrzzt/gun-sea-next-example) - Example app with GUN/SEA and Next.js
@@ -4344,6 +4345,7 @@
 
 ## Python 
 
+- [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [hyperhyperspace/hyperhyperspace-signalling](https://github.com/hyperhyperspace/hyperhyperspace-signalling) - Tiny signalling solution for Hyper Hyper Space webrtc networking.
 - [qweeze/pg_diagram](https://github.com/qweeze/pg_diagram) - A tool to convert postgresql schema to ER diagram
 - [regardscitoyens/twitter-parlementaires](https://github.com/regardscitoyens/twitter-parlementaires) - Annuaire des comptes Twitter des parlementaires
@@ -5014,7 +5016,7 @@
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
-- [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
+- [fluencelabs/rust-peer](https://github.com/fluencelabs/rust-peer) - Peer-to-peer computing protocol and licensing system
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -5258,6 +5260,8 @@
 
 ## TypeScript 
 
+- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [sigstore/sigstore-js](https://github.com/sigstore/sigstore-js) - Code-signing for npm packages
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
 - [garronej/keycloakify-demo-app-css-only](https://github.com/garronej/keycloakify-demo-app-css-only) - 
 - [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm) - HPCC-Systems Web-Assembly (JavaScript)
