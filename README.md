@@ -4373,6 +4373,7 @@
 
 ## Python 
 
+- [google/rax](https://github.com/google/rax) - Rax is a Learning-to-Rank library written in JAX.
 - [meltano/meltano](https://github.com/meltano/meltano) - Your open source DataOps Platform Infrastructure to let you manage all the data tools in your stack in one place, and turn them into your ideal end-to-end data platform
 - [mrusme/lemon](https://github.com/mrusme/lemon) - Lemon – LED Monitor – is a $79.43 opensource alternative to LaMetric that supports GitHub-, IFTTT- and Zapier-webhooks and even integrates with Pushover!
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
@@ -4597,7 +4598,7 @@
 - [betagouv/zam](https://github.com/betagouv/zam) - Alléger la charge de préparation par le gouvernement du débat parlementaire.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [entrepreneur-interet-general/OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper) - An open source webapp for scraping: towards a public service for webscraping
 - [Legilibre/SedLex](https://github.com/Legilibre/SedLex) - SedLex is a frontend generator for French bills compiled using DuraLex.
@@ -5297,6 +5298,7 @@
 
 ## TypeScript 
 
+- [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
 - [aguinet/secsend](https://github.com/aguinet/secsend) - A file-sharing app providing end-to-end encryption of data.
 - [axa-group/bauta.js](https://github.com/axa-group/bauta.js) - Bauta.js is an add-on for your Node.js applications such as Express.js or Fastify.
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
