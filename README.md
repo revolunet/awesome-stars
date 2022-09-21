@@ -1,1 +1,1 @@
-Error: {'message': 'Something went wrong while executing your query. This may be the result of a timeout, or it could be a GitHub bug. Please include `0799:0CB1:595077D:B7A04AA:63290876` when reporting this issue.'}
+Error: 403, message='Forbidden', url=URL('https://api.github.com/graphql')
