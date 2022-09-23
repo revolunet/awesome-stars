@@ -1030,6 +1030,7 @@
 
 ## JavaScript 
 
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) - 
 - [mwenge/dirtylittlesql.com](https://github.com/mwenge/dirtylittlesql.com) - Dirty Little SQL Notebook
 - [maxlath/wikibase-sdk](https://github.com/maxlath/wikibase-sdk) - JS utils functions to query a Wikibase instance and simplify its results
 - [maxlath/wikibase-cli](https://github.com/maxlath/wikibase-cli) - read and edit a Wikibase instance from the command line
@@ -5311,6 +5312,7 @@
 
 ## TypeScript 
 
+- [codegouvfr/react_dsfr](https://github.com/codegouvfr/react_dsfr) - 
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [libp2p/js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - WebSockets module that libp2p uses and that implements the interface-transport spec
 - [snyk-labs/modern-npm-package](https://github.com/snyk-labs/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser appl
