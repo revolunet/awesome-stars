@@ -4388,6 +4388,7 @@
 
 ## Python 
 
+- [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 - [Wikidata/soweego](https://github.com/Wikidata/soweego) - Link Wikidata items to large catalogs
 - [wetneb/openrefine-wikibase](https://github.com/wetneb/openrefine-wikibase) - Exposes a reconciliation service for OpenRefine for a Wikibase instance
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
