@@ -1596,7 +1596,7 @@
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
 - [storybook-eol/react-cdk](https://github.com/storybook-eol/react-cdk) - under development - React Component Development Kit with Storybook
 - [johncmunson/react-taggy](https://github.com/johncmunson/react-taggy) - A simple zero-dependency React component for tagging user-defined entities within a block of text.
-- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for simulating reflection, refraction, and other geometric optical phenomena.
+- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [geut/caracara](https://github.com/geut/caracara) - GEUT LABS. An experimental Dat based collaborative editor.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
@@ -4003,6 +4003,7 @@
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cloudogu/k8s-diagrams](https://github.com/cloudogu/k8s-diagrams) - A collection of kubernetes-related diagrams
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [adam-golab/flux-demo](https://github.com/adam-golab/flux-demo) - Demo of the GitOps with Flux
 - [YannHY/cours](https://github.com/YannHY/cours) - Des cours de français écrits en Markdown afin d'en favoriser la diffusion et la collaboration
@@ -5915,7 +5916,6 @@
 
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [etalab/csvapi-front](https://github.com/etalab/csvapi-front) - A simple frontend for https://github.com/etalab/csvapi
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ColinMaudry/dictionnaire-sigles](https://github.com/ColinMaudry/dictionnaire-sigles) - Interface de recherche pour le dictionnaire des sigles de l'administration
 - [etalab/csv-gg](https://github.com/etalab/csv-gg) - Create forms from Table Schemas and let users create valid CSV rows
 - [entrepreneur-interet-general/solidata_frontend](https://github.com/entrepreneur-interet-general/solidata_frontend) - first draft for solidata_frontend : vue+nuxt+vuetify+i18n+axios
