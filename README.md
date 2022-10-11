@@ -1030,6 +1030,7 @@
 
 ## JavaScript 
 
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [LavaMoat/LavaMoat](https://github.com/LavaMoat/LavaMoat) - tools for sandboxing your dependency graph
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
@@ -1220,7 +1221,6 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [NodeSecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) - JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
 - [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
@@ -2742,7 +2742,7 @@
 - [phil-r/react-native-looped-carousel](https://github.com/phil-r/react-native-looped-carousel) - :carousel_horse: Looped carousel for React Native
 - [atilacamurca/react-native-ebook](https://github.com/atilacamurca/react-native-ebook) - React Native E-book (.mobi, .epub)
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [1602/jugglingdb](https://github.com/1602/jugglingdb) - Multi-database ORM for nodejs: redis, mongodb, mysql, sqlite3, postgresql, arango, in-memory...
 - [react-alpha-beta/alphabeta](https://github.com/react-alpha-beta/alphabeta) - Declarative split testing for React
 - [arguseyes/argus-eyes](https://github.com/arguseyes/argus-eyes) - A lightweight commandline tool for visual regression testing of UI components.
@@ -3919,7 +3919,7 @@
 
 ## Others 
 
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [shigapov/wikibase-knowledge-graphs](https://github.com/shigapov/wikibase-knowledge-graphs) - A collection of open source tools and resources related to Wikibase knowledge graphs
 - [emijrp/awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
@@ -4399,7 +4399,7 @@
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [MaartenGr/BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 - [google/rax](https://github.com/google/rax) - Rax is a Learning-to-Rank library written in JAX.
-- [meltano/meltano](https://github.com/meltano/meltano) - Your open source DataOps Platform Infrastructure to let you manage all the data tools in your stack in one place, and turn them into your ideal end-to-end data platform
+- [meltano/meltano](https://github.com/meltano/meltano) - Your CLI for ELT+. It's open source, flexible, scales to your needs. Confidently move, transform, and test your data using tools you know with a data engineering workflow you’ll love.
 - [mrusme/lemon](https://github.com/mrusme/lemon) - Lemon – LED Monitor – is a $79.43 opensource alternative to LaMetric that supports GitHub-, IFTTT- and Zapier-webhooks and even integrates with Pushover!
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
@@ -5055,6 +5055,7 @@
 
 ## Rust 
 
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [magnusmanske/petscan_rs](https://github.com/magnusmanske/petscan_rs) - The repo for the PetScan tool
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -5145,6 +5146,7 @@
 
 ## Shell 
 
+- [go-tk/vk8s](https://github.com/go-tk/vk8s) - Setting up a virtual Kubernetes cluster inside a Docker container for integration testing
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [w3f/ipfs-cluster-chart](https://github.com/w3f/ipfs-cluster-chart) - Helm Chart for: https://cluster.ipfs.io/documentation/guides/k8s/
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -5520,6 +5522,7 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [cberthou/aes-gcm-rsa-oaep](https://github.com/cberthou/aes-gcm-rsa-oaep) - 
 - [PaulieScanlon/mdx-embed](https://github.com/PaulieScanlon/mdx-embed) - Embed 3rd party media content in MDX - no import required 🧽
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
 - [duniter/duniter-currency-monit](https://github.com/duniter/duniter-currency-monit) - This specialize duniter node monitoring the state of currency and web of trust
 - [duniter/duniter](https://github.com/duniter/duniter) - Crypto-currency software to manage libre currency such as Ğ1. Mirror of:
 - [j0lv3r4/next-csrf](https://github.com/j0lv3r4/next-csrf) - CSRF mitigation for Next.js
