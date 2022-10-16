@@ -4554,7 +4554,6 @@
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
 - [suryasundarraj/rpi-mcp3008-analogData-thingspeak](https://github.com/suryasundarraj/rpi-mcp3008-analogData-thingspeak) - This Project has a basic demo with analog sensor, where the data from the analog sensor are visualized in the thingspeak api
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [reconSF/python](https://github.com/reconSF/python) - 
 - [idealo/imageatm](https://github.com/idealo/imageatm) - Image classification for everyone.
@@ -5206,6 +5205,7 @@
 - [aristarkh87/docker-knockd](https://github.com/aristarkh87/docker-knockd) - 
 - [SocialGouv/cdtn-elk](https://github.com/SocialGouv/cdtn-elk) - ELK : Elastic / Logstash / Kibana - Elastic stack to manage CDTN search and suggest logs at scale
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 - [pirxpilot/postal-api](https://github.com/pirxpilot/postal-api) - REST API server for libpostal
 - [pachevalier/organisations-data-gouv](https://github.com/pachevalier/organisations-data-gouv) - Binding datagouv organizations with Wikidata
