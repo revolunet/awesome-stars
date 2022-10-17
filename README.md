@@ -511,6 +511,8 @@
 
 ## Go 
 
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - Cleanly list all containers in kubernetes pods including init containers and view running kubernetes information about those multi-container pods to assist in troubleshooting and information gathering
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps OSS
