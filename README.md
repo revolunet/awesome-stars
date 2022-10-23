@@ -1034,6 +1034,7 @@
 
 ## JavaScript 
 
+- [WDscholia/scholia](https://github.com/WDscholia/scholia) - Wikidata-based scholarly profiles
 - [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (icon avatar) generator
 - [ginkgobioworks/react-json-schema-form-builder](https://github.com/ginkgobioworks/react-json-schema-form-builder) - Visual editor for forms based on json schema, built in React JS
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -2262,7 +2263,7 @@
 - [linkmesrl/react-redux-dashboard](https://github.com/linkmesrl/react-redux-dashboard) - React Redux Dashboard with redux-saga and local-storage support
 - [AdamPflug/express-brute](https://github.com/AdamPflug/express-brute) - Brute-force protection middleware for express routes by rate limiting incoming requests
 - [elierotenberg/react-prepare](https://github.com/elierotenberg/react-prepare) - Prepare you app state for async server-side rendering and more!
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [cvan/webvr360](https://github.com/cvan/webvr360) - It's like Tim Berners-Lee meets Oculus meets YouTube.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
@@ -5070,7 +5071,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
-- [kindly/flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX converter.  Makes JSON flatterer.
+- [kindly/flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX/SQLITE/PARQUET converter.  Flattens JSON fast.
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [alexjg/automerge-todomvc-http](https://github.com/alexjg/automerge-todomvc-http) - Demo of multiple platform Todo MVC using automerge to sync data over HTTP
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -5390,7 +5391,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [SocialGouv/template](https://github.com/SocialGouv/template) - NextJS template de la Fabrique des ministères sociaux
 - [matrix-org/matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) - JavaScript/TypeScript API for widgets & web clients to communicate
-- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - 
+- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [etalab/i18nifty](https://github.com/etalab/i18nifty) - 🌎 Type safe React i18n library
 - [jeliasson/npm-husky-hooks](https://github.com/jeliasson/npm-husky-hooks) - A npm package to increase the developer experience and consistency by providing a set of hooks that can be opted-in the development lifecycle.
 - [libp2p/js-libp2p-mplex](https://github.com/libp2p/js-libp2p-mplex) - JavaScript implementation of https://github.com/libp2p/mplex
