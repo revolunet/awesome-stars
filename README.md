@@ -960,7 +960,7 @@
 - [dadoonet/fscrawler](https://github.com/dadoonet/fscrawler) - Elasticsearch File System Crawler (FS Crawler)
 - [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 - [softwarefactory-project/keycloak-github-ssh-key-attribute-mapper](https://github.com/softwarefactory-project/keycloak-github-ssh-key-attribute-mapper) - A custom Keycloak attribute mapper that fetches a user's SSH keys from the github REST API.
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [KubeHelper/kubehelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface. Search, analysis, run commands, cron jobs, reports, filters, git synchronization and many more.
@@ -4047,7 +4047,7 @@
 - [alanshaw/it-awesome](https://github.com/alanshaw/it-awesome) - 🦄 List of useful modules for working with async iterables
 - [orbitdb/awesome-orbitdb](https://github.com/orbitdb/awesome-orbitdb) - Useful resources for using OrbitDB and building projects on it
 - [3box/3box](https://github.com/3box/3box) - The easiest way for Ethereum apps to manage user data.
-- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS.
+- [ipfs/in-web-browsers](https://github.com/ipfs/in-web-browsers) - Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
 - [learnk8s/kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices) - A checklist of Kubernetes best practices to help you release to production
@@ -5343,6 +5343,7 @@
 
 ## TypeScript 
 
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [nfroidure/openapi-ts-sdk-builder](https://github.com/nfroidure/openapi-ts-sdk-builder) - Create a TypeScript SDK from an OpenAPI 3 definition
 - [paulsouche/open-api-nest-experiment](https://github.com/paulsouche/open-api-nest-experiment) - Experiment on open api
