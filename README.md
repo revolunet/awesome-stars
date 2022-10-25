@@ -4440,7 +4440,7 @@
 - [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [jiupinjia/neural-magic-eye](https://github.com/jiupinjia/neural-magic-eye) - Neural Magic Eye: Learning to See and Understand the Scene Behind an Autostereogram, arXiv:2012.15692.
-- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨ Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨ Open-source tool for data-centric NLP. Argilla helps domain experts and data teams to build better NLP datasets in less time.
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [jeanmidevacc/french-presidential-election-2022-data-collecter](https://github.com/jeanmidevacc/french-presidential-election-2022-data-collecter) - In this repository, there will be all the code tor a data pipeline related to the 2022 French presidential election
 - [karmab/autolabeller](https://github.com/karmab/autolabeller) - 
