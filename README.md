@@ -331,7 +331,6 @@
 - [essuraj/swagger-toolbox](https://github.com/essuraj/swagger-toolbox) - 💡 Swagger schema model (in yaml, json) generator from json data
 - [Charlynux/fp-the-right-way](https://github.com/Charlynux/fp-the-right-way) - Repo de la présentation "La programmation fonctionnelle par le bon bout"
 - [amiechen/pretzel](https://github.com/amiechen/pretzel) - Pretzel is Mac desktop app that shows and find keyboard shortcuts based on your current app.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [juba/tidyverse](https://github.com/juba/tidyverse) - Introduction à R et au tidyverse
 - [clementoriol/MetroDNA](https://github.com/clementoriol/MetroDNA) - MetroDNA est une librairie de symboles de Transports en Commun Parisiens (RATP - SNCF) faciles à intégrer à vos sites. Metro, RER, Tram, Transilien. Versions CSS ou SASS Disponibles.
 - [MTES-MCT/numerique](https://github.com/MTES-MCT/numerique) - 
@@ -1772,6 +1771,7 @@
 - [erikdahlstrand/redraw](https://github.com/erikdahlstrand/redraw) - Redraw is a JavaScript library which provides basic image annotation tools in your browser
 - [Secretmapper/react-image-annotation](https://github.com/Secretmapper/react-image-annotation) - An infinitely customizable image annotation library built on React
 - [GoogleChromeLabs/prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader) - 📰 Painless universal pre-rendering for Webpack.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [serendipious/nodejs-decision-tree](https://github.com/serendipious/nodejs-decision-tree) - NodeJS Implementation of Decision Tree using ID3 Algorithm
 - [clubifaximatic/node-decision-tree](https://github.com/clubifaximatic/node-decision-tree) - Machine Learning. Decision tree implementation
 - [illinois/next-page-transitions](https://github.com/illinois/next-page-transitions) - Simple and customizable page transitions for Next.js apps
@@ -4418,6 +4418,7 @@
 
 ## Python 
 
+- [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [emnetter/codeislow](https://github.com/emnetter/codeislow) - recherche, dans un fichier texte, de références à des articles de codes de droit français, puis utilisation de l'API Légifrance
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -5376,6 +5377,7 @@
 
 ## TypeScript 
 
+- [SocialGouv/e2esdk](https://github.com/SocialGouv/e2esdk) - SDK to build end-to-end encrypted web applications
 - [maxgfr/release-notes-finder](https://github.com/maxgfr/release-notes-finder) - An utility to find versions of a npm package with their release notes on Github
 - [cenk1cenk2/listr2](https://github.com/cenk1cenk2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [marmelab/greenframe-cli](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application
