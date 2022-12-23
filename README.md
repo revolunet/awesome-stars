@@ -492,7 +492,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [open-peer-network/open-peer-network](https://github.com/open-peer-network/open-peer-network) - P2P decentralized application platform. https://sites.google.com/view/open-peer-network/home
-- [supabase/realtime](https://github.com/supabase/realtime) - Send ephemeral messages, track and synchronize shared state, and listen to Postgres changes all via WebSockets.
+- [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 
 ## Elm 
 
@@ -804,6 +804,7 @@
 
 ## HTML 
 
+- [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [OWASP/www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten) - OWASP Foundation Web Respository
 - [etalab-ia/programme10pourcent](https://github.com/etalab-ia/programme10pourcent) - Site du programme 10% d'Etalab
@@ -4915,7 +4916,7 @@
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [pypxe/PyPXE](https://github.com/pypxe/PyPXE) - Pure Python PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
-- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
+- [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [revolunet/premailer](https://github.com/revolunet/premailer) - Turns CSS blocks into style attributes
 - [kivy/kivy-ios](https://github.com/kivy/kivy-ios) - Toolchain for compiling Python / Kivy / other libraries for iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -5121,7 +5122,7 @@
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [kindly/flatterer](https://github.com/kindly/flatterer) - Opinionated JSON to CSV/XLSX/SQLITE/PARQUET converter.  Flattens JSON fast.
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [alexjg/automerge-todomvc-http](https://github.com/alexjg/automerge-todomvc-http) - Demo of multiple platform Todo MVC using automerge to sync data over HTTP
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [shosti/wraft](https://github.com/shosti/wraft) - Raft distributed consensus for WebAssembly in Rust
