@@ -447,6 +447,7 @@
 
 ## Dart 
 
+- [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [shailen/ng-darrrt-codelab](https://github.com/shailen/ng-darrrt-codelab) - This code lab has moved. Check out the new version:
 - [passy/angular-dart-todomvc](https://github.com/passy/angular-dart-todomvc) - Work in progress
@@ -525,7 +526,7 @@
 - [smartxworks/knest](https://github.com/smartxworks/knest) - Kubernetes-in-Kubernetes Made Simple
 - [redhat-cop/namespace-configuration-operator](https://github.com/redhat-cop/namespace-configuration-operator) - The namespace-configuration-operator helps keeping configurations related to Users, Groups and Namespaces aligned with one of more policies specified as a CRs
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub assets
+- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
@@ -804,6 +805,7 @@
 
 ## HTML 
 
+- [mortalis13/Metronomix](https://github.com/mortalis13/Metronomix) - 
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [OWASP/www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten) - OWASP Foundation Web Respository
@@ -5446,7 +5448,7 @@
 - [Flyrell/axios-auth-refresh](https://github.com/Flyrell/axios-auth-refresh) - Library that helps you implement automatic refresh of authorization via axios interceptors. You can easily intercept the original request when it fails, refresh the authorization and continue with the
 - [quarkslab/mattermost-plugin-e2ee](https://github.com/quarkslab/mattermost-plugin-e2ee) - End-to-end encryption plugin for Mattermost
 - [47ng/prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) - Transparent field-level encryption at rest for Prisma
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build sign-in, auth, and user identity.
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [englercj/tsd-jsdoc](https://github.com/englercj/tsd-jsdoc) - Compiles JSDoc annotated JavaScript into a Typescript Definition file (.d.ts)
