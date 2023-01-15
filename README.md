@@ -705,7 +705,7 @@
 - [mr-karan/kubekutr](https://github.com/mr-karan/kubekutr) - Cookie cutter templating tool for scaffolding K8s manifests
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -1464,7 +1464,7 @@
 - [temando/open-api-renderer](https://github.com/temando/open-api-renderer) - 🎩 A React renderer for OpenAPI v3.
 - [Gi60s/openapi-enforcer](https://github.com/Gi60s/openapi-enforcer) - 
 - [Redocly/openapi-sampler](https://github.com/Redocly/openapi-sampler) - :capital_abcd: Tool for generation samples based on OpenAPI(fka Swagger) payload/response schema
-- [streamxorg/streamx](https://github.com/streamxorg/streamx) - An iteration of the Node.js core streams with a series of improvements.
+- [mafintosh/streamx](https://github.com/mafintosh/streamx) - An iteration of the Node.js core streams with a series of improvements.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
@@ -2143,7 +2143,7 @@
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [sidorares/react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target
 - [mafintosh/httptris](https://github.com/mafintosh/httptris) - tetris in the browser using ONLY basic html
-- [oddoculus/rematrix](https://github.com/oddoculus/rematrix) - Matrix transformations made easy.
+- [jlmakes/rematrix](https://github.com/jlmakes/rematrix) - Matrix transformations made easy.
 - [akofman/cordova-plugin-add-swift-support](https://github.com/akofman/cordova-plugin-add-swift-support) - :hammer: Swiftify your Cordova app !
 - [dimensia/mailjs](https://github.com/dimensia/mailjs) - mail.js:  http://mailjs.org
 - [wizgrav/aframe-effects](https://github.com/wizgrav/aframe-effects) - A VR Ready Post processing framework for Three.js and/or A-Frame
@@ -4548,7 +4548,7 @@
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [netlify/node-template](https://github.com/netlify/node-template) - Netlify's Node.js repository template
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad
+- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [ShielderSec/webtech](https://github.com/ShielderSec/webtech) - Identify technologies used on websites.
 - [machine-learning-apps/actions-chatops](https://github.com/machine-learning-apps/actions-chatops) - Actions That Enables ChatOps In a PR Through a GitHub App
@@ -4871,7 +4871,7 @@
 - [lociii/jukebox](https://github.com/lociii/jukebox) - Democratic Jukebox - your democratic music player
 - [fusionbox/django-authtools](https://github.com/fusionbox/django-authtools) - A custom User model for everybody!
 - [blacklocus/angular-django-rest-resource](https://github.com/blacklocus/angular-django-rest-resource) - An AngularJS module that provides a resource-generation service similar to ngResource, but optimized for the Django REST Framework.
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [sametmax/Bat-belt](https://github.com/sametmax/Bat-belt) - A collection of gagdets make Python even more powerful
 - [foxmask/django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
