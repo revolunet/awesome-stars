@@ -643,7 +643,7 @@
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [banzaicloud/dast-operator](https://github.com/banzaicloud/dast-operator) - Dynamic Application and API Security Testing
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
@@ -1488,7 +1488,6 @@
 - [arj03/ssb-browser-core](https://github.com/arj03/ssb-browser-core) - ssb-server in a browser
 - [arj03/ssb-browser-demo](https://github.com/arj03/ssb-browser-demo) - A secure scuttlebutt client interface running in the browser
 - [wgpsutherland/gistory](https://github.com/wgpsutherland/gistory) - Returns history data from GitHub for a given user.
-- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [nodeSolidServer/solid-auth-client](https://github.com/nodeSolidServer/solid-auth-client) - A browser library for performing authenticated requests to Solid pods
 - [MathRobin/Never-Consent](https://github.com/MathRobin/Never-Consent) - Never consent to any GDPR consent management platform
 - [davlgd/kimetrak](https://github.com/davlgd/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
@@ -3960,6 +3959,7 @@
 
 ## Others 
 
+- [Relequestual/json-schema-fundamentals](https://github.com/Relequestual/json-schema-fundamentals) - Content related to JSON Schema Fundamentals series (and maybe later, a book!)
 - [dnum-mi/CCT-Cloud-Native](https://github.com/dnum-mi/CCT-Cloud-Native) - 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [koslib/awesome-containerized-security](https://github.com/koslib/awesome-containerized-security) - A collection of tools to improve your containerized apps security posture
@@ -5733,6 +5733,7 @@
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in JavaScript.
 - [fission-codes/get-ipfs](https://github.com/fission-codes/get-ipfs) - Utility to get a contextual js-ipfs instance, with graceful web fallbacks
+- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [pubkey/binary-decision-diagram](https://github.com/pubkey/binary-decision-diagram) - A library to create, minimize and optimize binary decision diagrams
 - [williamboman/react-typewriting](https://github.com/williamboman/react-typewriting) - React component for creating customizable typewriting visualizations
