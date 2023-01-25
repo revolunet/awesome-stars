@@ -5124,7 +5124,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic) - An in terminal youtube music client with focus on privacy, simplicity and performance
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [magnusmanske/petscan_rs](https://github.com/magnusmanske/petscan_rs) - The repo for the PetScan tool
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -5437,7 +5437,7 @@
 - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 DSFR React component library
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [libp2p/js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - WebSockets module that libp2p uses and that implements the interface-transport spec
-- [snyk-labs/modern-npm-package](https://github.com/snyk-labs/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser appl
+- [snyk-snippets/modern-npm-package](https://github.com/snyk-snippets/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser appl
 - [gremo/react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
