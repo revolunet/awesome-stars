@@ -3551,7 +3551,7 @@
 - [btford/angular-dragon-drop](https://github.com/btford/angular-dragon-drop) - Drag and Drop for AngularJS
 - [btford/grunt-conventional-changelog](https://github.com/btford/grunt-conventional-changelog) - Grunt task for generating a changelog from git metadata
 - [happyplan/happyplan](https://github.com/happyplan/happyplan) - UNMAINTAINED. I can only recommend you to checkout this brand new static website generator https://phenomic.io
-- [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
+- [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
 - [trochette/Angular-Design-Patterns-Best-Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices) - Slideshow from session done @opencodeqc and @MagmaConf, built with AngularJS using best practices expressed in the presentation.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
@@ -3787,6 +3787,7 @@
 
 ## Jupyter Notebook 
 
+- [madebyollin/dino-diffusion](https://github.com/madebyollin/dino-diffusion) - Bare-bones diffusion model code
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
