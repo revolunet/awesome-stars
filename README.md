@@ -592,7 +592,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-Inspired Fine-Grained Permissions Database
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -1093,6 +1093,7 @@
 - [fraxken/ebook_nodejs](https://github.com/fraxken/ebook_nodejs) - Ebook - Become a Node.js developer - https://fraxken.github.io/ebook_nodejs/
 - [atlassian/lerna-semantic-release](https://github.com/atlassian/lerna-semantic-release) - 📦:🛠✨💥 – fully automated package publishing
 - [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
+- [evoluhq/evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first software with end-to-end encrypted backup and sync using SQLite and CRDT
 - [trezy/next-safe](https://github.com/trezy/next-safe) - 
 - [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 A SQLite REST and realtime server
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
@@ -5131,6 +5132,7 @@
 
 ## Rust 
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
@@ -5269,7 +5271,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.39.2) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [frigi83/traefik-examples](https://github.com/frigi83/traefik-examples) - docker-compose configurations examples for traefik
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
@@ -5424,6 +5426,7 @@
 
 ## TypeScript 
 
+- [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
 - [promptable/Promptable-web-sdk](https://github.com/promptable/Promptable-web-sdk) - Web SDK for Promptable Website.
 - [libp2p/js-libp2p-webrtc](https://github.com/libp2p/js-libp2p-webrtc) - 
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast. 💪
@@ -5439,7 +5442,6 @@
 - [maxgfr/release-notes-finder](https://github.com/maxgfr/release-notes-finder) - An utility to find versions of a npm package with their release notes on Github
 - [cenk1cenk2/listr2](https://github.com/cenk1cenk2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [marmelab/greenframe-cli](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application
-- [evoluhq/evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first software with end-to-end encrypted backup and sync using SQLite and CRDT
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [regardscitoyens/NosDeputes2-front](https://github.com/regardscitoyens/NosDeputes2-front) - Interface web de NosDéputés.fr v2
