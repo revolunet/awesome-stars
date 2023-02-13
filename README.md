@@ -5239,7 +5239,7 @@
 
 ## Shell 
 
-- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
+- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jpetazzo/nsplease](https://github.com/jpetazzo/nsplease) - Tiny Kubernetes operator to create Namespaces on demand (for CI/CD, for instance)
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
