@@ -1094,7 +1094,7 @@
 - [fraxken/ebook_nodejs](https://github.com/fraxken/ebook_nodejs) - Ebook - Become a Node.js developer - https://fraxken.github.io/ebook_nodejs/
 - [atlassian/lerna-semantic-release](https://github.com/atlassian/lerna-semantic-release) - 📦:🛠✨💥 – fully automated package publishing
 - [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
-- [evoluhq/evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first software with end-to-end encrypted backup and sync using SQLite and CRDT
+- [evoluhq/evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first apps with end-to-end encrypted backup and sync using SQLite and CRDT
 - [trezy/next-safe](https://github.com/trezy/next-safe) - 
 - [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 A SQLite REST and realtime server
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
@@ -4406,7 +4406,6 @@
 
 - [michelp/pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium.
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [morenoh149/postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - Sample databases for postgres
 - [mnesarco/hasura-pg-actions](https://github.com/mnesarco/hasura-pg-actions) - Short script to enable hasura to call postgresql functions (read/write) as mutations
 - [2ndQuadrant/audit-trigger](https://github.com/2ndQuadrant/audit-trigger) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
@@ -5239,6 +5238,7 @@
 
 ## Shell 
 
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jpetazzo/nsplease](https://github.com/jpetazzo/nsplease) - Tiny Kubernetes operator to create Namespaces on demand (for CI/CD, for instance)
@@ -5265,6 +5265,7 @@
 - [hpi-schul-cloud/jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
 - [adamzammit/limesurvey-docker](https://github.com/adamzammit/limesurvey-docker) - Production ready dockerised Limesurvey
 - [djmaze/docker-caching-proxy](https://github.com/djmaze/docker-caching-proxy) - Caching proxy docker image
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [kind-ci/examples](https://github.com/kind-ci/examples) - Repository providing samples and testing for running sigs.k8s.io/kind on various CI services
 - [warnerbryce/DocumentServer](https://github.com/warnerbryce/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and en
@@ -5431,6 +5432,8 @@
 
 ## TypeScript 
 
+- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [47ng/opaque](https://github.com/47ng/opaque) - OPAQUE password-authenticated key exchange for Node.js and the browser via WebAssembly
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - Flashlight takes inspiration from Lighthouse and gives a performance score to your Android apps (including native, React Native and Flutter). Measure performance on CLI, Flipper or via E2E tests.
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
@@ -5954,7 +5957,7 @@
 - [planttheidea/selectorator](https://github.com/planttheidea/selectorator) - Simple generator of reselect selectors
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - DN2A - Dynamic Neural Networks Architecture
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
