@@ -1072,6 +1072,7 @@
 
 ## JavaScript 
 
+- [DavidWells/types-with-jsdocs](https://github.com/DavidWells/types-with-jsdocs) - Using JSDoc for Typescript Types
 - [betagouv/pad.numerique.gouv.fr](https://github.com/betagouv/pad.numerique.gouv.fr) - HedgeDoc - The best platform to write and share markdown.
 - [Permissionless-Software-Foundation/ipfs-coord](https://github.com/Permissionless-Software-Foundation/ipfs-coord) - A JS npm library for helping IPFS peers coordinate, find a common interest, and stay connected around that interest.
 - [filipesoccol/react-ipfs-components](https://github.com/filipesoccol/react-ipfs-components) - A React helper for fetch and display IPFs content using public gateways.
@@ -5434,7 +5435,7 @@
 
 ## TypeScript 
 
-- [SocialGouv/streaming-file-encryption](https://github.com/SocialGouv/streaming-file-encryption) - Streaming file encryption for Node.js using AES-256-GCM, HKDF and HMAC.
+- [SocialGouv/streaming-file-encryption](https://github.com/SocialGouv/streaming-file-encryption) - Streaming file encryption for Node.js using AES-256-GCM or ChaCha20-Poly1305, HKDF and HMAC.
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [47ng/opaque](https://github.com/47ng/opaque) - OPAQUE password-authenticated key exchange for Node.js and the browser via WebAssembly
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - Flashlight takes inspiration from Lighthouse and gives a performance score to your Android apps (including native, React Native and Flutter). Measure performance on CLI, Flipper or via E2E tests.
