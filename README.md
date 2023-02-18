@@ -659,7 +659,6 @@
 - [appvia/tako](https://github.com/appvia/tako) - Develop Kubernetes apps iteratively with Docker-Compose
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [buidl-labs/Demux](https://github.com/buidl-labs/Demux) - A gateway to facilitate decentralised streaming ecosystem.
-- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [tj/staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
@@ -3793,6 +3792,7 @@
 ## Jupyter Notebook 
 
 - [madebyollin/dino-diffusion](https://github.com/madebyollin/dino-diffusion) - Bare-bones diffusion model code
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, and resources for prompt engineering
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -3973,7 +3973,6 @@
 ## Others 
 
 - [zoom/zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) - Zoom Cryptography Whitepaper
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, and resources for prompt engineering
 - [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema) - Schemas for every version of every object in every version of Kubernetes
 - [Relequestual/json-schema-fundamentals](https://github.com/Relequestual/json-schema-fundamentals) - Content related to JSON Schema Fundamentals series (and maybe later, a book!)
 - [dnum-mi/CCT-Cloud-Native](https://github.com/dnum-mi/CCT-Cloud-Native) - 
@@ -5276,6 +5275,7 @@
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
 - [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - Load testing as a service (LTaaS) with Apache Jmeter on kubernetes
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
+- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
