@@ -819,6 +819,7 @@
 
 ## HTML 
 
+- [localfirstweb/localfirstweb.dev](https://github.com/localfirstweb/localfirstweb.dev) - A list of various resources for local-first web development
 - [projectcsv/projectcsv.github.io](https://github.com/projectcsv/projectcsv.github.io) - Project CSV - Website / Web App for opening, viewing, and editing .csv files online or offline.
 - [mortalis13/Metronomix](https://github.com/mortalis13/Metronomix) - 
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
