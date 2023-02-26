@@ -523,6 +523,8 @@
 
 ## Go 
 
+- [controlplaneio/badrobot](https://github.com/controlplaneio/badrobot) - BadRobot - Operator Security Audit Tool
+- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable
 - [alexellis/run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done 🏃‍♂️
 - [inqueryio/inquery](https://github.com/inqueryio/inquery) - Real-time events platform for Postgres
@@ -5446,6 +5448,8 @@
 
 ## TypeScript 
 
+- [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Y.js WebSocket backend
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
 - [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node.
