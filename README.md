@@ -523,6 +523,7 @@
 
 ## Go 
 
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
 - [controlplaneio/badrobot](https://github.com/controlplaneio/badrobot) - BadRobot - Operator Security Audit Tool
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple
@@ -556,7 +557,7 @@
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - Cleanly list all containers in kubernetes pods including init containers and view running kubernetes information about those multi-container pods to assist in troubleshooting and information gathering
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps OSS
 - [l7mp/stunner](https://github.com/l7mp/stunner) - A Kubernetes media gateway for WebRTC. Contact: info@l7mp.io
 - [padok-team/dojo-kubernetes-prometheus](https://github.com/padok-team/dojo-kubernetes-prometheus) - Hands-on guide to scaling Kubernetes services based on custom Prometheus metrics
@@ -1080,6 +1081,7 @@
 
 ## JavaScript 
 
+- [1uphealth/fhir-react](https://github.com/1uphealth/fhir-react) - FHIR React Component Library
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Experimental port of tidalcycles to Javascript
 - [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
 - [meta-quest/ProjectFlowerbed](https://github.com/meta-quest/ProjectFlowerbed) - WebXR immersive gardening experience.
@@ -1780,7 +1782,7 @@
 - [OpenNewsLabs/autoEdit_2](https://github.com/OpenNewsLabs/autoEdit_2) - Fast text based video editing, node Electron Os X desktop app, with Backbone front end.
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
-- [aleedmanath/rogue.js](https://github.com/aleedmanath/rogue.js) - The "nearly invisible" way to server-render React applications
+- [alidloren/rogue.js](https://github.com/alidloren/rogue.js) - The "nearly invisible" way to server-render React applications
 - [tomasreimers/tensorjs](https://github.com/tomasreimers/tensorjs) - Read and write tensor protos from multidimensional arrays in Javascript.
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [tusbar/next-runtime-dotenv](https://github.com/tusbar/next-runtime-dotenv) - Expose environment variables to the runtime config of Next.js
@@ -4000,7 +4002,6 @@
 - [guilhem/benchmark-cloud-fr](https://github.com/guilhem/benchmark-cloud-fr) - Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [directus-community/awesome-directus](https://github.com/directus-community/awesome-directus) - A curated list of awesome things related to Directus
-- [pompompurins/Block-bad-bots-with-nginx](https://github.com/pompompurins/Block-bad-bots-with-nginx) - 
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [chainguard-dev/ssc-reading-list](https://github.com/chainguard-dev/ssc-reading-list) - A reading list for software supply-chain security.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices
@@ -5452,6 +5453,11 @@
 
 ## TypeScript 
 
+- [Gallaware/FhirTypeScript](https://github.com/Gallaware/FhirTypeScript) - Implementation of FHIR JSON protocol using TypeScript
+- [Universal-Health-Chain/uhc-fhir-utils-typescript](https://github.com/Universal-Health-Chain/uhc-fhir-utils-typescript) - 
+- [i4mi/fhir-resources-r4](https://github.com/i4mi/fhir-resources-r4) - FHIR library for R4 resources
+- [smart-on-fhir/client-js](https://github.com/smart-on-fhir/client-js) - JavaScript client for FHIR
+- [Ahryman40k/typescript-fhir-types](https://github.com/Ahryman40k/typescript-fhir-types) - Typescript / Javascript object model for FHIR standard
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Y.js WebSocket backend
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
