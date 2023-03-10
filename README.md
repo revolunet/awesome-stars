@@ -832,6 +832,7 @@
 
 ## HTML 
 
+- [keycloak/keycloak-documentation](https://github.com/keycloak/keycloak-documentation) - 
 - [localfirstweb/localfirstweb.dev](https://github.com/localfirstweb/localfirstweb.dev) - A list of various resources for local-first web development
 - [projectcsv/projectcsv.github.io](https://github.com/projectcsv/projectcsv.github.io) - Project CSV - Website / Web App for opening, viewing, and editing .csv files online or offline.
 - [mortalis13/Metronomix](https://github.com/mortalis13/Metronomix) - 
@@ -5503,7 +5504,7 @@
 - [nfroidure/openapi-ts-sdk-builder](https://github.com/nfroidure/openapi-ts-sdk-builder) - Create a TypeScript SDK from an OpenAPI 3 definition
 - [paulsouche/open-api-nest-experiment](https://github.com/paulsouche/open-api-nest-experiment) - Experiment on open api
 - [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
-- [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 DSFR React component library
+- [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 Design system React toolkit
 - [maxlath/wikibase-sdk](https://github.com/maxlath/wikibase-sdk) - JS utils functions to query a Wikibase instance and simplify its results
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [libp2p/js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - WebSockets module that libp2p uses and that implements the interface-transport spec
