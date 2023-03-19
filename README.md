@@ -3183,7 +3183,7 @@
 - [milankinen/livereactload](https://github.com/milankinen/livereactload) - Live code editing with Browserify and React
 - [elierotenberg/react-animate](https://github.com/elierotenberg/react-animate) - React animation mixin.
 - [ferlores/node-hellosign](https://github.com/ferlores/node-hellosign) - API wrapper for node-hellosign
-- [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [stampit-org/stampit](https://github.com/stampit-org/stampit) - OOP is better with stamps: Composable object factories.
 - [malte-wessel/minimal-flux](https://github.com/malte-wessel/minimal-flux) - Scared of Flux? Try this one.
 - [netgusto/IdiomaticReact](https://github.com/netgusto/IdiomaticReact) - Idiomatic React - Flux - REST app
@@ -3811,6 +3811,7 @@
 
 ## Jupyter Notebook 
 
+- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [madebyollin/dino-diffusion](https://github.com/madebyollin/dino-diffusion) - Bare-bones diffusion model code
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
