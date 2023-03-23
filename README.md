@@ -664,7 +664,7 @@
 - [hauke96/tiny-http-proxy](https://github.com/hauke96/tiny-http-proxy) - Maybe the tiniest HTTP proxy that also has a cache
 - [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -3470,7 +3470,7 @@
 - [jpillora/xdomain](https://github.com/jpillora/xdomain) - A pure JavaScript CORS alternative
 - [dylang/grunt-notify](https://github.com/dylang/grunt-notify) - Automatic Notifications when Grunt tasks fail.
 - [btford/angular-modal](https://github.com/btford/angular-modal) - Simple AngularJS service for creating modals
-- [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tabl
+- [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - 📱 The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Ta
 - [storesafe/cordova-sqlite-storage](https://github.com/storesafe/cordova-sqlite-storage) - A Cordova/PhoneGap plugin to open and use sqlite databases on Android, iOS and Windows with HTML5/Web SQL API
 - [madebymany/sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
 - [ajoslin/angular-scrolly](https://github.com/ajoslin/angular-scrolly) - Fake transform-scrolling with angular-friendly utilities
@@ -3815,7 +3815,7 @@
 - [InseeFrLab/cartiflette](https://github.com/InseeFrLab/cartiflette) - Pitch du projet ici: https://10pourcent.etalab.studio/projets/insee/
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [madebyollin/dino-diffusion](https://github.com/madebyollin/dino-diffusion) - Bare-bones diffusion model code
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -4486,6 +4486,7 @@
 
 ## Python 
 
+- [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake or Clickhouse warehouse
 - [ilesinge/shabda](https://github.com/ilesinge/shabda) - Shabda is a semantic audio samples curator for livecoding software such as Estuary or Tidal Cycles
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
@@ -5480,6 +5481,7 @@
 
 ## TypeScript 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Very fast and simple cross-platform IPTV app
 - [wix-incubator/autoviews](https://github.com/wix-incubator/autoviews) - A library for building user interfaces with JSON schemas, react components and data
 - [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - A QueryBuilder component for React
 - [felixroos/claviature](https://github.com/felixroos/claviature) - A versatile SVG piano for the web
@@ -5592,7 +5594,7 @@
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) - TypeScript implementation of Gossipsub
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [etalab/cra-envs](https://github.com/etalab/cra-envs) - ⚙️  Bundle env var in CRA at launch time!
+- [codegouvfr/spa-env](https://github.com/codegouvfr/spa-env) - ⚙️  Bundle env var in Vite or CRA at launch time!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
