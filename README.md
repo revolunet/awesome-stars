@@ -977,6 +977,7 @@
 - [tmort/Socialite](https://github.com/tmort/Socialite) - 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [topcoat/topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [django-admin-bootstrapped/django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped) - A Django admin theme using Twitter Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [mourner/dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
@@ -3578,7 +3579,6 @@
 - [happyplan/happyplan](https://github.com/happyplan/happyplan) - UNMAINTAINED. I can only recommend you to checkout this brand new static website generator https://phenomic.io
 - [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
 - [trochette/Angular-Design-Patterns-Best-Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices) - Slideshow from session done @opencodeqc and @MagmaConf, built with AngularJS using best practices expressed in the presentation.
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [evolvedlight/pydashie](https://github.com/evolvedlight/pydashie) - Port of Dashing to python
 - [edmenendez/django-angular-auth](https://github.com/edmenendez/django-angular-auth) - Example app showing how to use Django for authentication of an Angular app.
@@ -5452,6 +5452,7 @@
 
 ## Swift 
 
+- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [akofman/cordova-plugin-permissionScope](https://github.com/akofman/cordova-plugin-permissionScope) - :unlock: Cordova plugin to handle iOS permissions
@@ -5531,7 +5532,7 @@
 - [libp2p/js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - WebSockets module that libp2p uses and that implements the interface-transport spec
 - [snyk-snippets/modern-npm-package](https://github.com/snyk-snippets/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser appl
 - [gremo/react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
 - [aguinet/secsend](https://github.com/aguinet/secsend) - A file-sharing app providing end-to-end encryption of data.
 - [axa-group/bauta.js](https://github.com/axa-group/bauta.js) - Bauta.js is an add-on for your Node.js applications such as Express.js or Fastify.
@@ -5594,7 +5595,7 @@
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) - TypeScript implementation of Gossipsub
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [codegouvfr/spa-env](https://github.com/codegouvfr/spa-env) - ⚙️  Bundle env var in Vite or CRA at launch time!
+- [etalab/cra-envs](https://github.com/etalab/cra-envs) - ⚙️  Bundle env var in CRA at launch time!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -5637,7 +5638,7 @@
 - [moodysalem/jointz](https://github.com/moodysalem/jointz) - ✅ Zero dependency universal TypeScript validation library
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify) - 🔏 Create Keycloak themes using React
+- [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Create Keycloak themes using React
 - [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - retrouver la notice d'un médicament via son code-barre
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
 - [ftonato/vscode-password-generator](https://github.com/ftonato/vscode-password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
@@ -5681,7 +5682,7 @@
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Legacy version of the Mattermost web app (now located as part of https://github.com/mattermost/mattermost-server)
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [fission-codes/ipfs-photo-gallery](https://github.com/fission-codes/ipfs-photo-gallery) - An InterPlanetary File System (IPFS) photo gallery - example usage of the Fission IPFS Add-on for Heroku
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
