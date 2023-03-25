@@ -1014,6 +1014,7 @@
 
 ## Java 
 
+- [IngoZenz/personaldnsfilter](https://github.com/IngoZenz/personaldnsfilter) - See http://www.zenz-solutions.de/personaldnsfilter for details
 - [p2-inc/keycloak-magic-link](https://github.com/p2-inc/keycloak-magic-link) - Magic Link Authentication for Keycloak
 - [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -1093,6 +1094,7 @@
 
 ## JavaScript 
 
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
 - [bluwy/publint](https://github.com/bluwy/publint) - Lint packaging errors
 - [empreinte-digitale/orejime](https://github.com/empreinte-digitale/orejime) - An easy to use consent manager that focuses on accessibility.
@@ -1493,7 +1495,7 @@
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
 - [smucode/react-world-flags](https://github.com/smucode/react-world-flags) - Easy to use SVG flags of the world for react
 - [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
-- [hCaptcha/react-hcaptcha](https://github.com/hCaptcha/react-hcaptcha) - hCaptcha Component Library for ReactJS
+- [hCaptcha/react-hcaptcha](https://github.com/hCaptcha/react-hcaptcha) - hCaptcha Component Library for ReactJS and Preact
 - [zenghongtu/vscode-asciiflow2](https://github.com/zenghongtu/vscode-asciiflow2) - Asciiflow in VS Code
 - [mmw/react-password-strength](https://github.com/mmw/react-password-strength) - A password strength indicator field for use in React projects
 - [meething/meething](https://github.com/meething/meething) - dWebRTC Video Meetings MESH/SFU hybrid using GunDB, MediaSoup and Beyond!
@@ -1943,7 +1945,7 @@
 - [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org
 - [NekR/self-destroying-sw](https://github.com/NekR/self-destroying-sw) - Code-snippets and guides on removing ServiceWorker from a websiste.
 - [mapbox/batfish](https://github.com/mapbox/batfish) - A static-site generator for React and Markdown
-- [Contexte/cahouete](https://github.com/Contexte/cahouete) - Writing email templates is now so much fun.
+- [Contexte/cahouete](https://github.com/Contexte/cahouete) - ARCHIVED - Writing email templates is now so much fun.
 - [marmelab/coPostgresQuery](https://github.com/marmelab/coPostgresQuery) - Query builder for PostgreSQL in Node.js, built for async
 - [GitStarInc/nodegit-http](https://github.com/GitStarInc/nodegit-http) - Read-only GitHub-like HTTP API atop nodegit using express
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
@@ -5327,7 +5329,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.1) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.2) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [frigi83/traefik-examples](https://github.com/frigi83/traefik-examples) - docker-compose configurations examples for traefik
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
