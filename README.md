@@ -532,7 +532,7 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [particledecay/kconf](https://github.com/particledecay/kconf) - Manage multiple kubeconfigs easily
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
@@ -2924,7 +2924,6 @@
 - [sbstnmsch-zz/window-mock](https://github.com/sbstnmsch-zz/window-mock) - A light-weight window-mock for node/ io.js unit-testing written in ES6
 - [assaf/zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js
 - [davidtheclark/react-aria-tabpanel](https://github.com/davidtheclark/react-aria-tabpanel) - A fully accessible, extravagantly flexible, React-powered Tab Panel component
-- [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
 - [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [chemoish/videojs-chapter-thumbnails](https://github.com/chemoish/videojs-chapter-thumbnails) - Video.js plugin for supporting chapter thumbnails
 - [cloudmu/react-redux-starter-kit](https://github.com/cloudmu/react-redux-starter-kit) - Enjoy React, Redux, and React-Router, with zero build configuration.
@@ -4530,7 +4529,7 @@
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [MaartenGr/BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 - [google/rax](https://github.com/google/rax) - Rax is a Learning-to-Rank library written in JAX.
-- [meltano/meltano](https://github.com/meltano/meltano) - Your CLI for ELT+. It's open source, flexible, and scales to your needs. Confidently move, transform, and test your data using tools you know with a data engineering workflow you’ll love.
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load /with joy/ — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
 - [mrusme/lemon](https://github.com/mrusme/lemon) - Lemon – LED Monitor – is a $79.43 opensource alternative to LaMetric that supports GitHub-, IFTTT- and Zapier-webhooks and even integrates with Pushover!
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
@@ -5606,7 +5605,7 @@
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [datreeio/yaml-schema-validator](https://github.com/datreeio/yaml-schema-validator) - An open source yaml schema validator. just like json schema - only better
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
