@@ -526,6 +526,7 @@
 
 ## Go 
 
+- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [reddec/keycloak-ext-operator](https://github.com/reddec/keycloak-ext-operator) - Creates OAuth clients in Keycloak and creates corresponding secrets in kubernetes
@@ -1137,7 +1138,7 @@
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
 - [danamag/stremio-addons-list](https://github.com/danamag/stremio-addons-list) - A community curated list of Stremio Addons
-- [Meeovi/alternatecms](https://github.com/Meeovi/alternatecms) - Powerful headless content management system that can be used to build all types of sites from personal to ecommerce sites.
+- [Meeovi/Collaborrate](https://github.com/Meeovi/Collaborrate) - Powerful headless customer relationship framework that can be used to build relations with customers, create and manage projects, lists, tickets, and more.
 - [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies) - GlowCookies 🍪 - Powerful Cookie Consent Banner In JavaScript
 - [WDscholia/scholia](https://github.com/WDscholia/scholia) - Wikidata-based scholarly profiles
 - [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (icon avatar) generator
@@ -4488,6 +4489,8 @@
 
 ## Python 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake or Clickhouse warehouse
@@ -4595,7 +4598,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [HumanDynamics/openPDS](https://github.com/HumanDynamics/openPDS) - 
 - [nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges) - Identify IP addresses owned by public cloud providers
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
