@@ -364,7 +364,6 @@
 - [bobylito/talks](https://github.com/bobylito/talks) - My talks
 - [ccoenraets/OpenFB](https://github.com/ccoenraets/OpenFB) - Micro-library that lets you integrate browser and Cordova apps with Facebook with no plugin or SDK dependency.
 - [cardinalcss/cardinalcss](https://github.com/cardinalcss/cardinalcss) - A modular, “mobile-first” CSS framework built with performance and scalability in mind.
-- [leemunroe/grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [forms-angular/forms-angular](https://github.com/forms-angular/forms-angular) - Probably the most opinionated framework in the world
 - [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
@@ -541,7 +540,7 @@
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable
 - [alexellis/run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done 🏃‍♂️
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Superpowers for PostgreSQL
 - [kubemod/kubemod](https://github.com/kubemod/kubemod) - Universal Kubernetes mutating operator
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
@@ -4493,7 +4492,7 @@
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake or Clickhouse warehouse
+- [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake, ClickHouse, or DuckDB warehouse.
 - [ilesinge/shabda](https://github.com/ilesinge/shabda) - Shabda is a semantic audio samples curator for livecoding software such as Estuary or Tidal Cycles
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
@@ -5266,6 +5265,7 @@
 - [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [leemunroe/grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
