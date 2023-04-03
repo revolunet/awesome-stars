@@ -1098,6 +1098,7 @@
 
 ## JavaScript 
 
+- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
@@ -3813,6 +3814,7 @@
 
 ## Julia 
 
+- [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
 - [Legilibre/Legit.jl](https://github.com/Legilibre/Legit.jl) - Convert French law in LEGI database ("Codes, lois et règlements consolidés") to Git & Markdown.
 
 ## Jupyter Notebook 
