@@ -456,7 +456,7 @@
 
 ## Dart 
 
-- [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets
+- [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets. Use https://web.ente.io/auth to view codes on desktop
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [shailen/ng-darrrt-codelab](https://github.com/shailen/ng-darrrt-codelab) - This code lab has moved. Check out the new version:
 - [passy/angular-dart-todomvc](https://github.com/passy/angular-dart-todomvc) - Work in progress
