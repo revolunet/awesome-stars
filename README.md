@@ -122,6 +122,7 @@
 
 ## C 
 
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
@@ -1098,6 +1099,7 @@
 
 ## JavaScript 
 
+- [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
@@ -1110,7 +1112,7 @@
 - [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
 - [meta-quest/ProjectFlowerbed](https://github.com/meta-quest/ProjectFlowerbed) - WebXR immersive gardening experience.
 - [DavidWells/types-with-jsdocs](https://github.com/DavidWells/types-with-jsdocs) - Using JSDoc for Typescript Types
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Build native desktop & mobile apps for any OS using your favorite frontend libraries!
 - [betagouv/pad.numerique.gouv.fr](https://github.com/betagouv/pad.numerique.gouv.fr) - HedgeDoc - The best platform to write and share markdown.
 - [Permissionless-Software-Foundation/ipfs-coord](https://github.com/Permissionless-Software-Foundation/ipfs-coord) - A JS npm library for helping IPFS peers coordinate, find a common interest, and stay connected around that interest.
 - [filipesoccol/react-ipfs-components](https://github.com/filipesoccol/react-ipfs-components) - A React helper for fetch and display IPFs content using public gateways.
@@ -4492,6 +4494,7 @@
 
 ## Python 
 
+- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
@@ -5495,6 +5498,7 @@
 
 ## TypeScript 
 
+- [vlcn-io/live-examples](https://github.com/vlcn-io/live-examples) - vlcn & cr-sqlite example apps deployed to fly.io
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Very fast and simple cross-platform IPTV app
 - [wix-incubator/autoviews](https://github.com/wix-incubator/autoviews) - A library for building user interfaces with JSON schemas, react components and data
