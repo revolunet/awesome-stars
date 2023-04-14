@@ -2248,7 +2248,7 @@
 - [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
 - [geraintluff/tv4](https://github.com/geraintluff/tv4) - Tiny Validator for JSON Schema v4
 - [michaltakac/mathworldvr](https://github.com/michaltakac/mathworldvr) - Math world in WebVR, powered by A-frame.
-- [wmhilton/download-with-webtorrent-button](https://github.com/wmhilton/download-with-webtorrent-button) - Transform ordinary download links into super-powered WebTorrent ones!
+- [billiegoose/download-with-webtorrent-button](https://github.com/billiegoose/download-with-webtorrent-button) - Transform ordinary download links into super-powered WebTorrent ones!
 - [remy/inliner](https://github.com/remy/inliner) - Node utility to inline images, CSS and JavaScript for a web page - useful for mobile sites
 - [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
 - [beyondscreen/fivetwelve](https://github.com/beyondscreen/fivetwelve) - dmx512 lighting-control library
@@ -2432,7 +2432,6 @@
 - [cjpetrus/url2img](https://github.com/cjpetrus/url2img) - A spiffy Node/PhantomJS website screenshot capture tool, built for docker alpine container
 - [ngokevin/angle](https://github.com/ngokevin/angle) - :clock430: A-Frame command-line tool for installing components and scaffolding templates.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
-- [jviotti/queryl](https://github.com/jviotti/queryl) - :mag_right: Query language to perform complex object searches
 - [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React
 - [plasma-umass/browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [react-designer/react-designer](https://github.com/react-designer/react-designer) - It's not art
@@ -4494,6 +4493,8 @@
 
 ## Python 
 
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
