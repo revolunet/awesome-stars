@@ -1114,7 +1114,7 @@
 - [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
 - [meta-quest/ProjectFlowerbed](https://github.com/meta-quest/ProjectFlowerbed) - WebXR immersive gardening experience.
 - [DavidWells/types-with-jsdocs](https://github.com/DavidWells/types-with-jsdocs) - Using JSDoc for Typescript Types
-- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries!
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [betagouv/pad.numerique.gouv.fr](https://github.com/betagouv/pad.numerique.gouv.fr) - HedgeDoc - The best platform to write and share markdown.
 - [Permissionless-Software-Foundation/ipfs-coord](https://github.com/Permissionless-Software-Foundation/ipfs-coord) - A JS npm library for helping IPFS peers coordinate, find a common interest, and stay connected around that interest.
 - [filipesoccol/react-ipfs-components](https://github.com/filipesoccol/react-ipfs-components) - A React helper for fetch and display IPFs content using public gateways.
@@ -5988,7 +5988,7 @@
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [staltz/dat-installer](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
