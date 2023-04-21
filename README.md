@@ -841,6 +841,7 @@
 
 ## HTML 
 
+- [push-based/user-flow](https://github.com/push-based/user-flow) - 📦 Combine Chrome tooling like Lighthouse userflows and DevTools reconder scripts in your CI
 - [kripken/sql.js](https://github.com/kripken/sql.js) - 
 - [localfirstweb/localfirstweb.dev](https://github.com/localfirstweb/localfirstweb.dev) - A list of various resources for local-first web development
 - [projectcsv/projectcsv.github.io](https://github.com/projectcsv/projectcsv.github.io) - Project CSV - Website / Web App for opening, viewing, and editing .csv files online or offline.
@@ -1101,6 +1102,7 @@
 
 ## JavaScript 
 
+- [pgvector/pgvector-node](https://github.com/pgvector/pgvector-node) - pgvector support for Node.js
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
