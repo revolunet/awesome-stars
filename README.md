@@ -4009,6 +4009,7 @@
 
 ## Others 
 
+- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
 - [DevOps-Nirvana/Grafana-Dashboards](https://github.com/DevOps-Nirvana/Grafana-Dashboards) - A variety of open-source Grafana dashboards typically for AWS and Kubernetes
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [codegouvfr/awesome-bluehats-helm](https://github.com/codegouvfr/awesome-bluehats-helm) - handsome list of helm repo maintained by the bluehats community
@@ -5973,7 +5974,7 @@
 - [crh225/angular-github-issues](https://github.com/crh225/angular-github-issues) - This repository searches github for repositories, issues, and users. It is written in Angular 10 and is using ngrx/store for state.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
 - [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
