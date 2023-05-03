@@ -487,7 +487,7 @@
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
 - [LogicalSpark/docker-tikaserver](https://github.com/LogicalSpark/docker-tikaserver) - Apache Tika Server as a Docker Image
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [MicheleBertoli/react-count-to](https://github.com/MicheleBertoli/react-count-to) - Animated counter component for React.js
 
 ## EJS 
@@ -867,7 +867,7 @@
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing,
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [DISIC/frago](https://github.com/DISIC/frago) - Génération de rapports de synthèse pour le suivi et l’amélioration de l’accessibilité (audits et recommandations)
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [Cour-de-cassation/judilibre-search](https://github.com/Cour-de-cassation/judilibre-search) - API de recherche et de consultation de la plateforme JUDILIBRE.
 - [justinsteven/advisories](https://github.com/justinsteven/advisories) - 
 - [alphagov/accessibility-tool-audit](https://github.com/alphagov/accessibility-tool-audit) - Automated accessibility tools audit
@@ -1029,6 +1029,7 @@
 
 ## Java 
 
+- [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [ontop/ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL
 - [IngoZenz/personaldnsfilter](https://github.com/IngoZenz/personaldnsfilter) - See http://www.zenz-solutions.de/personaldnsfilter for details
@@ -1112,7 +1113,7 @@
 ## JavaScript 
 
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
-- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [pgvector/pgvector-node](https://github.com/pgvector/pgvector-node) - pgvector support for Node.js
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
@@ -1159,7 +1160,7 @@
 - [Meeovi/Collaborrate](https://github.com/Meeovi/Collaborrate) - Powerful headless customer relationship framework that can be used to build relations with customers, create and manage projects, lists, tickets, and more.
 - [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies) - GlowCookies 🍪 - Powerful Cookie Consent Banner In JavaScript
 - [WDscholia/scholia](https://github.com/WDscholia/scholia) - Wikidata-based scholarly profiles
-- [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (icon avatar) generator
+- [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (pixelated avatar) generator
 - [ginkgobioworks/react-json-schema-form-builder](https://github.com/ginkgobioworks/react-json-schema-form-builder) - Visual editor for forms based on json schema, built in React JS
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [LavaMoat/LavaMoat](https://github.com/LavaMoat/LavaMoat) - tools for sandboxing your dependency graph
@@ -2365,7 +2366,7 @@
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
 - [cerebral/webpackbin](https://github.com/cerebral/webpackbin) - [Deprecated]. Please move to codesandbox.io.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [uupaa/APNG.js](https://github.com/uupaa/APNG.js) - PNG and APNG decoder and renderer.
 - [davidmz/apng-js](https://github.com/davidmz/apng-js) - Parse and play animated PNG (APNG)
 - [kfarr/aframe-city-builder](https://github.com/kfarr/aframe-city-builder) - 🏗️ A-Frame project demonstrating touch controls for building a VR city scene
@@ -4012,6 +4013,8 @@
 
 ## Others 
 
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
 - [DevOps-Nirvana/Grafana-Dashboards](https://github.com/DevOps-Nirvana/Grafana-Dashboards) - A variety of open-source Grafana dashboards typically for AWS and Kubernetes
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
@@ -4226,7 +4229,7 @@
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate. 🍣
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate 🍣
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [stereobooster/package.json](https://github.com/stereobooster/package.json) - 🗃️ package.json fields explained
 - [DISIC/politique-de-contribution-open-source](https://github.com/DISIC/politique-de-contribution-open-source) - Politique de contribution open-source interministérielle
