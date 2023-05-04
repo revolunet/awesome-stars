@@ -597,7 +597,7 @@
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -2227,7 +2227,6 @@
 - [stripe-archive/react-stripe-elements](https://github.com/stripe-archive/react-stripe-elements) - Moved to stripe/react-stripe-js.
 - [MoOx/react-svg-inline](https://github.com/MoOx/react-svg-inline) - DEPRECATED, I recommend you the tool SVGR
 - [vesparny/fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
-- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [totaljs/framework](https://github.com/totaljs/framework) - Node.js framework
 - [maxogden/googleauth](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps
 - [aframevr/aframe-inspector](https://github.com/aframevr/aframe-inspector) - :mag: Visual inspector tool for A-Frame. Hit *&lt;ctrl&gt; + &lt;alt&gt; + i* on any A-Frame scene.
@@ -4508,6 +4507,7 @@
 
 ## Python 
 
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
@@ -5218,10 +5218,11 @@
 - [sectore/CafeTownsend-Angular-Rails](https://github.com/sectore/CafeTownsend-Angular-Rails) - AngularJS and Rails port of the famous Cafe Townsend demo originally written in ActionScript
 - [tomgenoni/ouroboros](https://github.com/tomgenoni/ouroboros) - CSS spinner for modern browsers, built with Sass.
 - [jimrhoskins/ngmodules.org](https://github.com/jimrhoskins/ngmodules.org) - Angular Modules Website
-- [nomad/cupertino](https://github.com/nomad/cupertino) - CLI for the Apple Dev Center
+- [nomad-cli/cupertino](https://github.com/nomad-cli/cupertino) - CLI for the Apple Dev Center
 
 ## Rust 
 
+- [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
 - [gustin/opaque](https://github.com/gustin/opaque) - OPAQUE protocol, a secure asymmetric password authenticated key exchange (aPAKE) that supports mutual authentication in a client-server setting without reliance on PKI and with security against pre-co
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
@@ -6060,6 +6061,7 @@
 - [foxhound87/mobx-react-form](https://github.com/foxhound87/mobx-react-form) - Reactive MobX Form State Management
 - [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Full-featured reactive state management without the boilerplate
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
