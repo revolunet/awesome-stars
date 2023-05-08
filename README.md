@@ -527,6 +527,7 @@
 
 ## Go 
 
+- [carvel-dev/secretgen-controller](https://github.com/carvel-dev/secretgen-controller) - secretgen-controller provides CRDs to specify what secrets need to be on Kubernetes cluster (to be generated or not)
 - [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector) - Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically.
 - [robusta-dev/kubewatch](https://github.com/robusta-dev/kubewatch) - Watch k8s events and trigger Handlers
 - [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
@@ -847,6 +848,7 @@
 
 ## HTML 
 
+- [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [push-based/user-flow](https://github.com/push-based/user-flow) - 📦 Combine Chrome tooling like Lighthouse userflows and DevTools reconder scripts in your CI
 - [kripken/sql.js](https://github.com/kripken/sql.js) - 
@@ -1512,6 +1514,7 @@
 - [jquintozamora/polyfill-io-feature-detection](https://github.com/jquintozamora/polyfill-io-feature-detection) - Feature detection in the browser before loading polyfill using services like polyfill.io
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) - A collection of ZAP scripts provided by the community - pull requests very welcome!
 - [jitsi/lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet) - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex) - Display math in TeX with KaTeX and ReactJS
 - [koajs/generic-session](https://github.com/koajs/generic-session) - koa session store with memory, redis or others.
@@ -2004,7 +2007,7 @@
 - [bamlab/dev-standards](https://github.com/bamlab/dev-standards) - https://bamtech.gitbooks.io/dev-standards/
 - [DISIC/rgaa_reactjs](https://github.com/DISIC/rgaa_reactjs) - Corrections d'accessibilité sur les composants de l'organisation ReactJS
 - [FGRibreau/json-schema-documentation](https://github.com/FGRibreau/json-schema-documentation) - JSON-Schema documentor (generator, cli, themes)
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [chrisdickinson/ormnomnom](https://github.com/chrisdickinson/ormnomnom) - an orm that does 80% of the work and gets out of the way for the remaining 20%
 - [nytimes/react-tracking](https://github.com/nytimes/react-tracking) - 🎯 Declarative tracking for React apps.
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
@@ -3189,7 +3192,7 @@
 - [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
 - [paoyong/chat-room](https://github.com/paoyong/chat-room) - Chat room built with Reactjs, backend with nodejs, socket.io, and postgresql.
 - [moll/json-stringify-safe](https://github.com/moll/json-stringify-safe) - Like JSON.stringify, but doesn't throw on circular references
-- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
+- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io) - the code behind alrt.io
 - [brianchirls/popcorn-base](https://github.com/brianchirls/popcorn-base) - Popcorn.js Base Plugin
 - [madebyform/react-parts](https://github.com/madebyform/react-parts) - An unofficial catalog of React components
@@ -3944,7 +3947,6 @@
 ## OCaml 
 
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [bloodyowl/reReactPrimitives](https://github.com/bloodyowl/reReactPrimitives) - Primitive components to build UI on the web with ReasonReact
 
 ## Objective-C 
@@ -4012,7 +4014,8 @@
 
 ## Others 
 
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use. Consult a lawyer before using models for commercial purposes.
+- [a8ksh4/chonky-pocket](https://github.com/a8ksh4/chonky-pocket) - An almost pocket-sized portable computer!
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
 - [FredericAmeye/mf-opendata](https://github.com/FredericAmeye/mf-opendata) - 
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -5227,7 +5230,7 @@
 - [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
 - [gustin/opaque](https://github.com/gustin/opaque) - OPAQUE protocol, a secure asymmetric password authenticated key exchange (aPAKE) that supports mutual authentication in a client-server setting without reliance on PKI and with security against pre-co
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. You can use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only S
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -5596,7 +5599,7 @@
 - [aguinet/secsend](https://github.com/aguinet/secsend) - A file-sharing app providing end-to-end encryption of data.
 - [axa-group/bauta.js](https://github.com/axa-group/bauta.js) - Bauta.js is an add-on for your Node.js applications such as Express.js or Fastify.
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [libp2p/js-libp2p-bootstrap](https://github.com/libp2p/js-libp2p-bootstrap) - Rail a libp2p node through a bootstrap peer list
 - [benjamintd/chronotrains](https://github.com/benjamintd/chronotrains) - Shortest times between train stations in Europe
 - [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3) - The fastest and correct module for SQLite3 in Deno.
