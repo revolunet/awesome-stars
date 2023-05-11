@@ -224,6 +224,7 @@
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -598,7 +599,7 @@
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [atombender/ktail](https://github.com/atombender/ktail) - A tool to easily tail Kubernetes container logs
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -1126,7 +1127,7 @@
 - [empreinte-digitale/orejime](https://github.com/empreinte-digitale/orejime) - An easy to use consent manager that focuses on accessibility.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [1uphealth/fhir-react](https://github.com/1uphealth/fhir-react) - FHIR React Component Library
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Experimental port of tidalcycles to Javascript
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
 - [meta-quest/ProjectFlowerbed](https://github.com/meta-quest/ProjectFlowerbed) - WebXR immersive gardening experience.
 - [DavidWells/types-with-jsdocs](https://github.com/DavidWells/types-with-jsdocs) - Using JSDoc for Typescript Types
@@ -4512,6 +4513,7 @@
 
 ## Python 
 
+- [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio respon
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
@@ -4529,7 +4531,6 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
@@ -5536,6 +5537,7 @@
 
 ## TypeScript 
 
+- [inclusion-numerique/mediature](https://github.com/inclusion-numerique/mediature) - 
 - [remcohaszing/rehype-mermaidjs](https://github.com/remcohaszing/rehype-mermaidjs) - A rehype plugin to render mermaid diagrams
 - [dag-andersen/kubernetes-reference-highlighter](https://github.com/dag-andersen/kubernetes-reference-highlighter) - 
 - [chewam/mozart](https://github.com/chewam/mozart) - 
