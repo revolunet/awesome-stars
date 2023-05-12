@@ -1368,7 +1368,7 @@
 - [Ihatetomatoes/nextjs-101](https://github.com/Ihatetomatoes/nextjs-101) - 
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [di-ninja/di-ninja](https://github.com/di-ninja/di-ninja) - The Dependency Injection Framework for JavaScript NodeJS and Browser - really made for Composition Root
-- [LLK/scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
+- [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www) - Standalone web client for Scratch
 - [scratchfoundation/scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [serverless/forms-service](https://github.com/serverless/forms-service) - Serverless Forms Service to collect form data with Admin UI
 - [RubenVerborgh/Solid-React-Components](https://github.com/RubenVerborgh/Solid-React-Components) - Core React components for building your own Solid components and apps
@@ -1515,7 +1515,6 @@
 - [jquintozamora/polyfill-io-feature-detection](https://github.com/jquintozamora/polyfill-io-feature-detection) - Feature detection in the browser before loading polyfill using services like polyfill.io
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) - A collection of ZAP scripts provided by the community - pull requests very welcome!
 - [jitsi/lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet) - A low-level JS video API that allows adding a completely custom video experience to web apps.
-- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex) - Display math in TeX with KaTeX and ReactJS
 - [koajs/generic-session](https://github.com/koajs/generic-session) - koa session store with memory, redis or others.
@@ -1973,6 +1972,7 @@
 - [Contexte/cahouete](https://github.com/Contexte/cahouete) - ARCHIVED - Writing email templates is now so much fun.
 - [marmelab/coPostgresQuery](https://github.com/marmelab/coPostgresQuery) - Query builder for PostgreSQL in Node.js, built for async
 - [GitStarInc/nodegit-http](https://github.com/GitStarInc/nodegit-http) - Read-only GitHub-like HTTP API atop nodegit using express
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [web-pal/DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text
 - [jxnblk/macro-components](https://github.com/jxnblk/macro-components) - Create flexible layout and composite UI components without the need to define arbitrary custom props
@@ -3948,6 +3948,7 @@
 ## OCaml 
 
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [bloodyowl/reReactPrimitives](https://github.com/bloodyowl/reReactPrimitives) - Primitive components to build UI on the web with ReasonReact
 
 ## Objective-C 
@@ -4520,7 +4521,7 @@
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep Learning. Store, query, version, & visualize any data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
 - [peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
-- [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - One Embedder, Any Task: Instruction-Finetuned Text Embeddings
+- [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
@@ -6011,7 +6012,6 @@
 - [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [project-orion/orion](https://github.com/project-orion/orion) - 
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dequelabs/react-axe](https://github.com/dequelabs/react-axe) - [DEPRECATED] Accessibility auditing for React.js applications
