@@ -1972,7 +1972,6 @@
 - [Contexte/cahouete](https://github.com/Contexte/cahouete) - ARCHIVED - Writing email templates is now so much fun.
 - [marmelab/coPostgresQuery](https://github.com/marmelab/coPostgresQuery) - Query builder for PostgreSQL in Node.js, built for async
 - [GitStarInc/nodegit-http](https://github.com/GitStarInc/nodegit-http) - Read-only GitHub-like HTTP API atop nodegit using express
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [web-pal/DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text
 - [jxnblk/macro-components](https://github.com/jxnblk/macro-components) - Create flexible layout and composite UI components without the need to define arbitrary custom props
@@ -3280,7 +3279,6 @@
 - [naholyr/github-todos](https://github.com/naholyr/github-todos) - Git hook to convert your TODOs into Github issues
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [domenic/count-to-6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops.
 - [dpellier/bem-comment](https://github.com/dpellier/bem-comment) - Automatically comment your BEM compliant SASS files to add class name comments
@@ -4514,6 +4512,7 @@
 
 ## Python 
 
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository)
 - [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio respon
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -4549,7 +4548,7 @@
 - [Orange-Cyberdefense/KeePwn](https://github.com/Orange-Cyberdefense/KeePwn) - A python tool to automate KeePass discovery and secret extraction.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
-- [betagouv/content-manager](https://github.com/betagouv/content-manager) - Système de Design de l'État
+- [betagouv/content-manager](https://github.com/betagouv/content-manager) - Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le System de Design de l'état , accessoble et responsive
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
@@ -6012,6 +6011,7 @@
 - [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [project-orion/orion](https://github.com/project-orion/orion) - 
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dequelabs/react-axe](https://github.com/dequelabs/react-axe) - [DEPRECATED] Accessibility auditing for React.js applications
@@ -6170,6 +6170,7 @@
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tjallingt/react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
