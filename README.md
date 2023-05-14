@@ -459,7 +459,7 @@
 
 ## Dart 
 
-- [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets. Use https://auth.ente.io/ to view codes on desktop
+- [ente-io/auth](https://github.com/ente-io/auth) - ente Auth – store your 2FA secrets
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [shailen/ng-darrrt-codelab](https://github.com/shailen/ng-darrrt-codelab) - This code lab has moved. Check out the new version:
 - [passy/angular-dart-todomvc](https://github.com/passy/angular-dart-todomvc) - Work in progress
@@ -474,7 +474,7 @@
 - [appleboy/gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action) - GitHub Action that trigger gitlab CI build.
 - [controlplaneio/kubesec-action](https://github.com/controlplaneio/kubesec-action) - Runs Kubesec as GitHub action
 - [rberrelleza/duketeto](https://github.com/rberrelleza/duketeto) - Debian + Wine + OpenVNC + Docker Compose + Okteto = awesome
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) - Github Action for kubectl
 - [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image
@@ -4233,7 +4233,7 @@
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate 🍣
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Catch, Cook, and Conquer: Unleashing the flavor of Fish 🦞
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [stereobooster/package.json](https://github.com/stereobooster/package.json) - 🗃️ package.json fields explained
 - [DISIC/politique-de-contribution-open-source](https://github.com/DISIC/politique-de-contribution-open-source) - Politique de contribution open-source interministérielle
