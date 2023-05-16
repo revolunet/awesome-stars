@@ -1118,7 +1118,7 @@
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
 - [bluwy/publint](https://github.com/bluwy/publint) - Lint packaging errors
 - [empreinte-digitale/orejime](https://github.com/empreinte-digitale/orejime) - An easy to use consent manager that focuses on accessibility.
@@ -4420,6 +4420,7 @@
 
 ## PHP 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful) - Collection of scripts, thoughts about CSP (Content Security Policy)
 - [datanfr/datan](https://github.com/datanfr/datan) - Datan is a website anlaysing the voting behaviour of French MPs.
