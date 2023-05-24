@@ -857,7 +857,7 @@
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [OWASP/www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten) - OWASP Foundation Web Respository
-- [heejkoo/Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [etalab-ia/programme10pourcent](https://github.com/etalab-ia/programme10pourcent) - Site du programme 10% d'Etalab
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -1208,7 +1208,7 @@
 - [ipld/explore.ipld.io](https://github.com/ipld/explore.ipld.io) - Explore the Merkle Forest from the comfort of your browser
 - [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor) - dag-cbor codec for IPLD
 - [orbitdb/orbit-db-store](https://github.com/orbitdb/orbit-db-store) - Base class for orbit-db data stores
-- [maxgfr/typescript-swc-starter](https://github.com/maxgfr/typescript-swc-starter) - A minimalist typescript swc starter
+- [maxgfr/typescript-swc-starter](https://github.com/maxgfr/typescript-swc-starter) - A minimalist typescript swc starter that generate cjs and esm package
 - [pubkey/eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [orbitdb/orbit-db-identity-provider](https://github.com/orbitdb/orbit-db-identity-provider) - Default identity provider for OrbitDB
@@ -1271,7 +1271,7 @@
 - [ThibautGery/ban-autocomplete-react](https://github.com/ThibautGery/ban-autocomplete-react) - Autocomplete input for french addresses
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [lightstreams-network/lightstreams-js-sdk](https://github.com/lightstreams-network/lightstreams-js-sdk) - Javascript SDK for the Lightstreams Gateway API
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [erdtman/cose-js](https://github.com/erdtman/cose-js) - JavaScript implementation of COSE
 - [lovasoa/aes-cbc-mac](https://github.com/lovasoa/aes-cbc-mac) - Node implementation for aes cbc mac
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
@@ -2935,7 +2935,7 @@
 - [RickWong/react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on Promises instead of GraphQL.
 - [raisemarketplace/ground-control](https://github.com/raisemarketplace/ground-control) - Scalable reducer management & powerful data fetching for React Router & Redux.
 - [dchester/epilogue](https://github.com/dchester/epilogue) - Create flexible REST endpoints and controllers from Sequelize models in your Express app
-- [iTowns/itowns-legacy](https://github.com/iTowns/itowns-legacy) - iTowns is a JS/WebGL framework for 3D geospatial data visualization
+- [IGNF/itowns-legacy](https://github.com/IGNF/itowns-legacy) - iTowns is a JS/WebGL framework for 3D geospatial data visualization
 - [sbstnmsch-zz/window-mock](https://github.com/sbstnmsch-zz/window-mock) - A light-weight window-mock for node/ io.js unit-testing written in ES6
 - [assaf/zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js
 - [davidtheclark/react-aria-tabpanel](https://github.com/davidtheclark/react-aria-tabpanel) - A fully accessible, extravagantly flexible, React-powered Tab Panel component
@@ -5783,7 +5783,7 @@
 - [Borewit/readable-web-to-node-stream](https://github.com/Borewit/readable-web-to-node-stream) - Converts a Web-API readable-stream into a Node readable-stream.
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
 - [kamiazya/typedoc-plugin-mermaid](https://github.com/kamiazya/typedoc-plugin-mermaid) - A plugin for TypeDoc that generates graphs for mermaid.js diagrams by @mermaid annotation.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps for the web.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [sergiodxa/swr-sync-storage](https://github.com/sergiodxa/swr-sync-storage) - Synchronize SWR cache with localStorage or sessionStorage to get offline cache
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
