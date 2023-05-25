@@ -1402,7 +1402,7 @@
 - [accordproject/markdown-transform](https://github.com/accordproject/markdown-transform) - Library for Markdown Transformations and Markdown Templates
 - [orbitdb/orbit-db-powergate-io](https://github.com/orbitdb/orbit-db-powergate-io) - A bridge between OrbitDB and Powergate, which is itself a bridge between Filecoin and IPFS.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
-- [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [msztolcman/mailtrap](https://github.com/msztolcman/mailtrap) - MailTrap has been renamed to Sendria. Please use Sendria now, MailTrap is abandoned. MailTrap is a SMTP server designed to run in your dev/test environment, that is designed to catch any email you or 
 - [lbryio/spee.ch](https://github.com/lbryio/spee.ch) - An image hosting service on top of the LBRY protocol.
@@ -1694,7 +1694,6 @@
 - [pa11y/pa11y-ci](https://github.com/pa11y/pa11y-ci) - Pa11y CI is a CI-centric accessibility test runner, built using Pa11y
 - [techfort/classify-text](https://github.com/techfort/classify-text) - proof of concept of text classification with mimir and brain
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
-- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [imshubhamsingh/file-system-react](https://github.com/imshubhamsingh/file-system-react) - File System UI in Web using react
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -3002,7 +3001,7 @@
 - [acspike/ChordJS](https://github.com/acspike/ChordJS) - Draw guitar chord diagrams on HTML5 canvas
 - [laher/ChordialJS](https://github.com/laher/ChordialJS) - Chord chart utility  for web. Make progressions and interactive tabluation apps
 - [yocontra/rtc-everywhere](https://github.com/yocontra/rtc-everywhere) - Cross-everything WebRTC mega-project
-- [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
+- [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [0xfe/vexchords](https://github.com/0xfe/vexchords) - JavaScript Chord Charts
 - [twitter/labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
 - [zilverline/react-tap-event-plugin](https://github.com/zilverline/react-tap-event-plugin) - Instant TapEvents for React
@@ -3829,7 +3828,6 @@
 
 ## Jupyter Notebook 
 
-- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
 - [opinionscience/BERTransfer](https://github.com/opinionscience/BERTransfer) - A BERT-based application for reusable text classification at scale
 - [InseeFrLab/cartiflette](https://github.com/InseeFrLab/cartiflette) - Pitch du projet ici: https://10pourcent.etalab.studio/projets/insee/
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
@@ -4518,6 +4516,7 @@
 ## Python 
 
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
+- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository)
 - [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio respon
@@ -4773,7 +4772,7 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
@@ -5242,7 +5241,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️
 - [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic) - An in terminal youtube music client with focus on privacy, simplicity and performance
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [magnusmanske/petscan_rs](https://github.com/magnusmanske/petscan_rs) - The repo for the PetScan tool
@@ -5343,6 +5342,7 @@
 
 ## Shell 
 
+- [nginxinc/docker-nginx-unprivileged](https://github.com/nginxinc/docker-nginx-unprivileged) - Unprivileged NGINX Dockerfiles
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of k8s/container/devops tools.
 - [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
 - [dominik-schwabe/zsh-fnm](https://github.com/dominik-schwabe/zsh-fnm) - Plugin for ZSH to install the Fast Node Manager (fnm).
@@ -5542,6 +5542,7 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [framecrafter/framecrafter](https://github.com/framecrafter/framecrafter) - An extensible, fast, all-in-browser video editor.
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
@@ -5945,6 +5946,7 @@
 - [mathiassoeholm/use-anim](https://github.com/mathiassoeholm/use-anim) - A super small hook-based animation library for React
 - [ajv-validator/json-schema-migrate](https://github.com/ajv-validator/json-schema-migrate) - Migrate JSON-Schema draft-04 to draft-07, draft-2019-09 or draft-2020-12
 - [cloud-annotations/cloud-annotations](https://github.com/cloud-annotations/cloud-annotations) - 🐝 A fast, easy and collaborative open source image annotation tool for teams and individuals.
+- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [trojanowski/react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks) - Use Apollo Client as React hooks
 - [Kinto/kinto-admin](https://github.com/Kinto/kinto-admin) - Kinto Web Administration Console
