@@ -77,6 +77,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
@@ -1117,7 +1118,6 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [pgvector/pgvector-node](https://github.com/pgvector/pgvector-node) - pgvector support for Node.js
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
@@ -4697,7 +4697,7 @@
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
 - [facebookresearch/MUSE](https://github.com/facebookresearch/MUSE) - A library for Multilingual Unsupervised or Supervised word Embeddings
 - [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [pytition/Pytition](https://github.com/pytition/Pytition) - Django app for self-hosted privacy-friendly online petitions
@@ -5502,6 +5502,10 @@
 
 - [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n a Workflow Automation Tool. Easily automate tasks across different services.
 
+## Solidity 
+
+- [a16z/cicada](https://github.com/a16z/cicada) - A protocol for private on-chain voting, implemented in Solidity.
+
 ## Svelte 
 
 - [tushar10sh/hasura-keycloak-sveltekit-todo-app](https://github.com/tushar10sh/hasura-keycloak-sveltekit-todo-app) - 
@@ -5542,6 +5546,7 @@
 
 ## TypeScript 
 
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [framecrafter/framecrafter](https://github.com/framecrafter/framecrafter) - An extensible, fast, all-in-browser video editor.
@@ -5553,6 +5558,7 @@
 - [dag-andersen/kubernetes-reference-highlighter](https://github.com/dag-andersen/kubernetes-reference-highlighter) - 
 - [chewam/mozart](https://github.com/chewam/mozart) - 
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [langchain-ai/langchain-template-supabase](https://github.com/langchain-ai/langchain-template-supabase) - 
 - [vlcn-io/live-examples](https://github.com/vlcn-io/live-examples) - vlcn & cr-sqlite example apps deployed to fly.io
@@ -6111,7 +6117,7 @@
 - [planttheidea/selectorator](https://github.com/planttheidea/selectorator) - Simple generator of reselect selectors
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - Dynamic Neural Networks Architect (DN2A)
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
