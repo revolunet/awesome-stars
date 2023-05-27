@@ -4468,7 +4468,6 @@
 
 - [michelp/pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium.
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [morenoh149/postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - Sample databases for postgres
 - [mnesarco/hasura-pg-actions](https://github.com/mnesarco/hasura-pg-actions) - Short script to enable hasura to call postgresql functions (read/write) as mutations
 - [2ndQuadrant/audit-trigger](https://github.com/2ndQuadrant/audit-trigger) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
@@ -5237,7 +5236,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5374,6 +5373,7 @@
 - [hpi-schul-cloud/jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
 - [adamzammit/limesurvey-docker](https://github.com/adamzammit/limesurvey-docker) - Production ready dockerised Limesurvey
 - [djmaze/docker-caching-proxy](https://github.com/djmaze/docker-caching-proxy) - Caching proxy docker image
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [kind-ci/examples](https://github.com/kind-ci/examples) - Repository providing samples and testing for running sigs.k8s.io/kind on various CI services
 - [warnerbryce/DocumentServer](https://github.com/warnerbryce/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and en
@@ -5546,6 +5546,7 @@
 
 ## TypeScript 
 
+- [guidepup/guidepup](https://github.com/guidepup/guidepup) - Screen reader driver for test automation.
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
