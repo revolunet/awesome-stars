@@ -125,6 +125,7 @@
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [please-openit/pam-oauth2](https://github.com/please-openit/pam-oauth2) - OAuth2 pam module
+- [michelp/pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium.
 - [utelle/SQLite3MultipleCiphers](https://github.com/utelle/SQLite3MultipleCiphers) - SQLite3 encryption extension with support for multiple ciphers
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
@@ -4466,7 +4467,6 @@
 
 ## PLpgSQL 
 
-- [michelp/pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium.
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
 - [morenoh149/postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - Sample databases for postgres
 - [mnesarco/hasura-pg-actions](https://github.com/mnesarco/hasura-pg-actions) - Short script to enable hasura to call postgresql functions (read/write) as mutations
@@ -4515,7 +4515,7 @@
 ## Python 
 
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
-- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
+- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository)
 - [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio respon
@@ -6172,7 +6172,7 @@
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
