@@ -526,6 +526,8 @@
 
 ## Go 
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [kastenhq/kubestr](https://github.com/kastenhq/kubestr) - 
 - [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 - [carvel-dev/secretgen-controller](https://github.com/carvel-dev/secretgen-controller) - secretgen-controller provides CRDs to specify what secrets need to be on Kubernetes cluster (to be generated or not)
@@ -1344,7 +1346,7 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of Server Component safe React Hooks – from the ui.dev team
 - [Viglino/ol-ext](https://github.com/Viglino/ol-ext) - Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.
 - [mikeal/IPSQL](https://github.com/mikeal/IPSQL) - InterPlanetary SQL
 - [francoisromain/leaflet-markers-canvas](https://github.com/francoisromain/leaflet-markers-canvas) - A Leaflet plugin to render many markers in a canvas instead of the DOM
@@ -1410,7 +1412,7 @@
 - [lbryio/spee.ch](https://github.com/lbryio/spee.ch) - An image hosting service on top of the LBRY protocol.
 - [transitive-bullshit/lqip-modern](https://github.com/transitive-bullshit/lqip-modern) - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.
 - [autonome/feed-to-tweet](https://github.com/autonome/feed-to-tweet) - Send feed content to a Twitter account.
-- [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
+- [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [Ovilia/ThreeExample.js](https://github.com/Ovilia/ThreeExample.js) - 《Three.js 入门指南》书例代码
 - [cypsela/sailplane-web](https://github.com/cypsela/sailplane-web) - Collaborative p2p file sharing in the browser
@@ -4514,6 +4516,7 @@
 
 ## Python 
 
+- [aaronn/gptfile](https://github.com/aaronn/gptfile) - A proof-of-concept illustration to show how LLM's could manage and organize files.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -4523,7 +4526,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep Learning. Store, query, version, & visualize any data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
 - [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai - 100% private chat and document search, no data leaks, Apache 2.0
@@ -5545,6 +5548,7 @@
 
 ## TypeScript 
 
+- [EmileRolley/publicodes-language-server](https://github.com/EmileRolley/publicodes-language-server) - Language server for Publicodes
 - [guidepup/guidepup](https://github.com/guidepup/guidepup) - Screen reader driver for test automation.
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
@@ -5568,7 +5572,7 @@
 - [wix-incubator/autoviews](https://github.com/wix-incubator/autoviews) - A library for building user interfaces with JSON schemas, react components and data
 - [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - A QueryBuilder component for React
 - [felixroos/claviature](https://github.com/felixroos/claviature) - A versatile SVG piano for the web
-- [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database
+- [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database!
 - [Gallaware/FhirTypeScript](https://github.com/Gallaware/FhirTypeScript) - Implementation of FHIR JSON protocol using TypeScript
 - [Universal-Health-Chain/uhc-fhir-utils-typescript](https://github.com/Universal-Health-Chain/uhc-fhir-utils-typescript) - 
 - [i4mi/fhir-resources-r4](https://github.com/i4mi/fhir-resources-r4) - FHIR library for R4 resources
