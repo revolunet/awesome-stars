@@ -5236,6 +5236,7 @@
 
 ## Rust 
 
+- [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [RainingComputers/Flowmium](https://github.com/RainingComputers/Flowmium) - Workflow orchestrator written in rust
 - [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
 - [gustin/opaque](https://github.com/gustin/opaque) - OPAQUE protocol, a secure asymmetric password authenticated key exchange (aPAKE) that supports mutual authentication in a client-server setting without reliance on PKI and with security against pre-co
@@ -5516,7 +5517,6 @@
 
 - [tushar10sh/hasura-keycloak-sveltekit-todo-app](https://github.com/tushar10sh/hasura-keycloak-sveltekit-todo-app) - 
 - [lovasoa/sanipasse](https://github.com/lovasoa/sanipasse) - Vérificateur de passe sanitaire open-source
-- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [vnglst/svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
 
 ## Swift 
@@ -5839,6 +5839,7 @@
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
