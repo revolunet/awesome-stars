@@ -859,6 +859,7 @@
 - [kripken/sql.js](https://github.com/kripken/sql.js) - 
 - [localfirstweb/localfirstweb.dev](https://github.com/localfirstweb/localfirstweb.dev) - A list of various resources for local-first web development
 - [projectcsv/projectcsv.github.io](https://github.com/projectcsv/projectcsv.github.io) - Project CSV - Website / Web App for opening, viewing, and editing .csv files online or offline.
+- [dnum-mi/CCT-Cloud-Native](https://github.com/dnum-mi/CCT-Cloud-Native) - 
 - [mortalis13/Metronomix](https://github.com/mortalis13/Metronomix) - 
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -887,7 +888,6 @@
 - [VegaDeftwing/opinionatedguide](https://github.com/VegaDeftwing/opinionatedguide) - See OpGuidesHugoSRC repo to Contrubitue---A collection of educational un-textbooked, actually digestible pages on various topics. Links to various better sources as a modern educational source should.
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [mdamien/wikidiff2-git-viewer](https://github.com/mdamien/wikidiff2-git-viewer) - 🗿 A static git web browser using the Wikidiff2 diff engine
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.3) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [18F/ux-guide](https://github.com/18F/ux-guide) - Resources, norms, and practices for doing user experience research and design work at 18F.
 - [govmeeting/govmeeting](https://github.com/govmeeting/govmeeting) - Software to increase citizen involvement in democracy at the local level
 - [LINCnil/GDPR-Developer-Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - The CNIL publishes a GDPR guide for developers
@@ -4039,7 +4039,6 @@
 - [zoom/zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) - Zoom Cryptography Whitepaper
 - [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema) - Schemas for every version of every object in every version of Kubernetes
 - [Relequestual/json-schema-fundamentals](https://github.com/Relequestual/json-schema-fundamentals) - Content related to JSON Schema Fundamentals series (and maybe later, a book!)
-- [dnum-mi/CCT-Cloud-Native](https://github.com/dnum-mi/CCT-Cloud-Native) - 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [koslib/awesome-containerized-security](https://github.com/koslib/awesome-containerized-security) - A collection of tools to improve your containerized apps security posture
 - [theonemule/dos-game](https://github.com/theonemule/dos-game) - A Dockerfile for running Docker based DosBox games streamed to a browser client.
@@ -5395,6 +5394,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.3) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [frigi83/traefik-examples](https://github.com/frigi83/traefik-examples) - docker-compose configurations examples for traefik
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
