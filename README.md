@@ -122,7 +122,6 @@
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
-- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -547,7 +546,7 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [particledecay/kconf](https://github.com/particledecay/kconf) - Manage multiple kubeconfigs easily
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
@@ -1143,6 +1142,7 @@
 - [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
 - [meta-quest/ProjectFlowerbed](https://github.com/meta-quest/ProjectFlowerbed) - WebXR immersive gardening experience.
 - [DavidWells/types-with-jsdocs](https://github.com/DavidWells/types-with-jsdocs) - Using JSDoc for Typescript Types
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [betagouv/pad.numerique.gouv.fr](https://github.com/betagouv/pad.numerique.gouv.fr) - Pad numérique de l'état
 - [Permissionless-Software-Foundation/ipfs-coord](https://github.com/Permissionless-Software-Foundation/ipfs-coord) - A JS npm library for helping IPFS peers coordinate, find a common interest, and stay connected around that interest.
 - [filipesoccol/react-ipfs-components](https://github.com/filipesoccol/react-ipfs-components) - A React helper for fetch and display IPFs content using public gateways.
@@ -4779,7 +4779,7 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
@@ -5025,7 +5025,7 @@
 - [gornostal/Modific](https://github.com/gornostal/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin
 - [revolunet/requests](https://github.com/revolunet/requests) - moved to https://github.com/requests/requests-docs-fr
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
-- [lepture/python-livereload](https://github.com/lepture/python-livereload) - livereload server in python (MAINTAINERS NEEDED)
+- [lepture/python-livereload](https://github.com/lepture/python-livereload) - livereload server in python
 - [geetarista/ST2-Arduino](https://github.com/geetarista/ST2-Arduino) - Sublime Text 2 plugin for Arduino.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [jaraco/path](https://github.com/jaraco/path) - Object-oriented file system path manipulation
