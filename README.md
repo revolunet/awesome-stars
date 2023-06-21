@@ -46,6 +46,7 @@
 - [LiveScript](#livescript)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -859,6 +860,7 @@
 - [push-based/user-flow](https://github.com/push-based/user-flow) - 📦 Combine Chrome tooling like Lighthouse userflows and DevTools reconder scripts in your CI
 - [kripken/sql.js](https://github.com/kripken/sql.js) - 
 - [localfirstweb/localfirstweb.dev](https://github.com/localfirstweb/localfirstweb.dev) - A list of various resources for local-first web development
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [projectcsv/projectcsv.github.io](https://github.com/projectcsv/projectcsv.github.io) - Project CSV - Website / Web App for opening, viewing, and editing .csv files online or offline.
 - [dnum-mi/CCT-Cloud-Native](https://github.com/dnum-mi/CCT-Cloud-Native) - 
 - [mortalis13/Metronomix](https://github.com/mortalis13/Metronomix) - 
@@ -1273,7 +1275,6 @@
 - [keycloak/keycloak-nodejs-connect](https://github.com/keycloak/keycloak-nodejs-connect) - 
 - [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
-- [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [betagouv/annuaire-api](https://github.com/betagouv/annuaire-api) - Une API pour les données de l'annuaire de service-public.fr
 - [dabit3/decentralized-identity-example](https://github.com/dabit3/decentralized-identity-example) - An authentication system built with Ceramic & self.id
@@ -1574,7 +1575,6 @@
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
-- [SocialGouv/www](https://github.com/SocialGouv/www) - Site de la fabrique numérique des Ministères sociaux
 - [dappuniversity/social-network](https://github.com/dappuniversity/social-network) - Blockchain social network powered by Ethereum smart contracts
 - [orbitdb/example-orbitdb-todomvc](https://github.com/orbitdb/example-orbitdb-todomvc) - TodoMVC with OrbitDB
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
@@ -3923,6 +3923,10 @@
 - [GouvernementFR/calculette-impots-m-source-code](https://github.com/GouvernementFR/calculette-impots-m-source-code) - Code source (en langage M) du calculateur des impôts sur le revenu et sur la fortune
 - [openfisca/calculette-impots-m-source-code](https://github.com/openfisca/calculette-impots-m-source-code) - ATTENTION ce dépôt est un miroir
 
+## MDX 
+
+- [SocialGouv/www](https://github.com/SocialGouv/www) - Site de la fabrique numérique des Ministères sociaux
+
 ## Makefile 
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -4020,6 +4024,7 @@
 
 ## Others 
 
+- [christianh814/gitops-examples](https://github.com/christianh814/gitops-examples) - Scratch paper for me to test things. Most things are broken. Don't use this repo.
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
@@ -4031,7 +4036,7 @@
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
 - [DevOps-Nirvana/Grafana-Dashboards](https://github.com/DevOps-Nirvana/Grafana-Dashboards) - A variety of open-source Grafana dashboards typically for AWS and Kubernetes
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [codegouvfr/awesome-bluehats-helm](https://github.com/codegouvfr/awesome-bluehats-helm) - handsome list of helm repo maintained by the bluehats community
+- [codegouvfr/awesome-bluehats-helm](https://github.com/codegouvfr/awesome-bluehats-helm) - Liste de dépôts avec des charts Helm maintenus par la communauté BlueHats
 - [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) - JSON Schemas for every version of every object in every version of Kubernetes
 - [stackrox/kube-linter-action](https://github.com/stackrox/kube-linter-action) - GitHub action for automating KubeLinter.
 - [keycloak/keycloak-documentation](https://github.com/keycloak/keycloak-documentation) - 
@@ -5359,7 +5364,6 @@
 - [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
 - [dominik-schwabe/zsh-fnm](https://github.com/dominik-schwabe/zsh-fnm) - Plugin for ZSH to install the Fast Node Manager (fnm).
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
-- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jpetazzo/nsplease](https://github.com/jpetazzo/nsplease) - Tiny Kubernetes operator to create Namespaces on demand (for CI/CD, for instance)
@@ -5747,6 +5751,7 @@
 - [Kinto/kinto-http.js](https://github.com/Kinto/kinto-http.js) - A JavaScript HTTP client for the Kinto API.
 - [jedisct1/js-base64-ct](https://github.com/jedisct1/js-base64-ct) - Safe Base64 encoding/decoding in pure JavaScript.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
+- [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - A simple JS/TS client for interacting with a Gotenberg API
 - [charto/cxsd](https://github.com/charto/cxsd) - Streaming XSD parser and XML parser generator with TypeScript output
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
