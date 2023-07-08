@@ -1349,7 +1349,7 @@
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [paolomainardi/additronk8s-retrogames-kubernetes-controller](https://github.com/paolomainardi/additronk8s-retrogames-kubernetes-controller) - A retrogames kubernetes controller built in Javascript
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. Never fail to scale!
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
@@ -2230,7 +2230,7 @@
 - [tony-pizza/Stereogram.js](https://github.com/tony-pizza/Stereogram.js) - Generate stereogram images (popularized as "Magic Eye") in the browser
 - [flatiron/director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [kevva/screenshot-stream](https://github.com/kevva/screenshot-stream) - Capture screenshot of a website and return it as a stream
-- [alisd23/mobx-react-router](https://github.com/alisd23/mobx-react-router) - Keep your MobX state in sync with react-router
+- [gcattan/mobx-react-router](https://github.com/gcattan/mobx-react-router) - Keep your MobX state in sync with react-router
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -4683,7 +4683,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [Kinto/kinto-emailer](https://github.com/Kinto/kinto-emailer) - Plugin to manage email notifications on records modification in a collection.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [mozilla-services/telescope](https://github.com/mozilla-services/telescope) - A dumb auditing service
 - [gw3l/richelieu](https://github.com/gw3l/richelieu) - Solution complète du challenge Richelieu de la DGSE
@@ -6149,7 +6149,7 @@
 - [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
-- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - Dynamic Neural Networks Architect (DN2A)
+- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - Dynamic Neural Networks Architect
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 - [callstack/component-docs](https://github.com/callstack/component-docs) - 📝  Simple documentation for your React components
