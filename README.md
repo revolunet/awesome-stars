@@ -1260,7 +1260,6 @@
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [jfrancos/oggmented](https://github.com/jfrancos/oggmented) - decodeAudioData(oggVorbisBuffer) in any browser
 - [palerdot/react-d3-speedometer](https://github.com/palerdot/react-d3-speedometer) - React Speedometer component using d3.js ⚛️
-- [authzed/authzed-node](https://github.com/authzed/authzed-node) - Official SpiceDB client library for NodeJS
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [oauthjs/express-oauth-server](https://github.com/oauthjs/express-oauth-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
@@ -2110,7 +2109,6 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [kentcdodds/react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [elrumordelaluz/reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component
 - [SpectivOfficial/live-tour-lab](https://github.com/SpectivOfficial/live-tour-lab) - :heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
 - [mboperator/sublime-react-es6](https://github.com/mboperator/sublime-react-es6) - ES6 based Sublime Text snippets for React.
 - [FGRibreau/node-language-detect](https://github.com/FGRibreau/node-language-detect) - 🇫🇷 NodeJS language detection library using n-gram
@@ -2231,7 +2229,7 @@
 - [tony-pizza/Stereogram.js](https://github.com/tony-pizza/Stereogram.js) - Generate stereogram images (popularized as "Magic Eye") in the browser
 - [flatiron/director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [kevva/screenshot-stream](https://github.com/kevva/screenshot-stream) - Capture screenshot of a website and return it as a stream
-- [gcattan/mobx-react-router](https://github.com/gcattan/mobx-react-router) - Keep your MobX state in sync with react-router
+- [IBM/mobx-react-router](https://github.com/IBM/mobx-react-router) - Keep your MobX state in sync with react-router
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -5731,6 +5729,7 @@
 - [alexander-fischer/browser-bert](https://github.com/alexander-fischer/browser-bert) - Using BERT for transfer learning - but just in the browser.
 - [vscode-kubernetes-tools/vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
 - [betagouv/tell-me](https://github.com/betagouv/tell-me) - An awesome open source Survey Management System.
+- [authzed/authzed-node](https://github.com/authzed/authzed-node) - Official SpiceDB client library for NodeJS
 - [cheersmas/react-placards](https://github.com/cheersmas/react-placards) - A fancy placards component for React
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
@@ -6094,6 +6093,7 @@
 - [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
+- [elrumordelaluz/reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [chrisguttandin/web-audio-conference-2017](https://github.com/chrisguttandin/web-audio-conference-2017) - My talk at the Web Audio Conference 2017.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
