@@ -189,6 +189,7 @@
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [mikeryan/ems-flasher](https://github.com/mikeryan/ems-flasher) - EMS Flasher for the GB USB smart card 64M GameBoy flash cartridge
+- [johmathe/shotdetect](https://github.com/johmathe/shotdetect) - Automated shot detection software
 - [EyalAr/lwip](https://github.com/EyalAr/lwip) - Light Weight Image Processor for NodeJS
 - [phonegap/phonegap-plugin-contentsync](https://github.com/phonegap/phonegap-plugin-contentsync) - Download and cache remotely hosted content
 - [tj/mon](https://github.com/tj/mon) - mon(1) - Simple single-process process monitoring program written in C
@@ -307,7 +308,6 @@
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [breach/thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
 - [paulvarache/node-gpio](https://github.com/paulvarache/node-gpio) - 
-- [johmathe/shotdetect](https://github.com/johmathe/shotdetect) - Automated shot detection software
 - [elad/node-imagemagick-native](https://github.com/elad/node-imagemagick-native) - ImageMagick's Magick++ bindings for NodeJS
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
@@ -323,6 +323,7 @@
 
 ## CSS 
 
+- [dbarzin/deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [anct-cnum/wp-theme-conseiller-numerique](https://github.com/anct-cnum/wp-theme-conseiller-numerique) - Theme WordPress CnFS
@@ -4792,7 +4793,7 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
@@ -5567,6 +5568,9 @@
 
 ## TypeScript 
 
+- [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy Runtime validator
 - [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML plugin for the Monaco Editor
 - [roipoussiere/jaffle](https://github.com/roipoussiere/jaffle) - An hybrid yaml/node editor for Tidal Cycles, based on Strudel.
 - [visheratin/ai-photo-sorter](https://github.com/visheratin/ai-photo-sorter) - 
