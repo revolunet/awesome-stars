@@ -118,6 +118,7 @@
 
 ## C 
 
+- [laurenz/pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -140,7 +141,7 @@
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -1131,6 +1132,7 @@
 
 ## JavaScript 
 
+- [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [radu-matei/helm-template-wasm](https://github.com/radu-matei/helm-template-wasm) - Helm Template, but in the browser
 - [qiwi/multi-semantic-release](https://github.com/qiwi/multi-semantic-release) - Proof of concept that wraps semantic-release to work with monorepos.
 - [benzino77/clamav-rest-api](https://github.com/benzino77/clamav-rest-api) - ClamAV REST API. Scan files using simple POST request.
@@ -1275,7 +1277,7 @@
 - [stepanstipl/k8s-viz](https://github.com/stepanstipl/k8s-viz) - Visualize what's happening in you Kubernetes cluster
 - [open-amdocs/webrix](https://github.com/open-amdocs/webrix) - Powerful building blocks for React-based web applications
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2022)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
 - [dabit3/polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) - A full stack digital marketplace running on Ethereum with Polygon & Next.js
 - [danfinlay/jazzicon](https://github.com/danfinlay/jazzicon) - Jazzy deterministic identicons for a more entertaining future.
 - [marmelab/ArcheoloGit](https://github.com/marmelab/ArcheoloGit) - Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.
@@ -4533,6 +4535,7 @@
 
 ## Python 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
@@ -5258,6 +5261,7 @@
 
 ## Rust 
 
+- [vlcn-io/typed-sql](https://github.com/vlcn-io/typed-sql) - 
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [RainingComputers/Flowmium](https://github.com/RainingComputers/Flowmium) - Workflow orchestrator written in rust
 - [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
