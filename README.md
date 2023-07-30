@@ -225,6 +225,7 @@
 
 ## C++ 
 
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
@@ -5580,6 +5581,7 @@
 
 ## TypeScript 
 
+- [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - Github Issue management recreation
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [vlcn-io/typed-sql](https://github.com/vlcn-io/typed-sql) - 
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
