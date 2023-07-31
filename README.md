@@ -536,6 +536,7 @@
 
 ## Go 
 
+- [giantswarm/helm-values-gen](https://github.com/giantswarm/helm-values-gen) - The values-gen plugin for Helm allows to generate the default values file based of values.schema.json
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [ktsstudio/mirrors](https://github.com/ktsstudio/mirrors) - Kubernetes Secret Mirroring Controller
@@ -1134,6 +1135,7 @@
 
 ## JavaScript 
 
+- [nice-registry/all-the-package-names](https://github.com/nice-registry/all-the-package-names) - 🔤 A list of all the public package names on npm. Updated daily.
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [radu-matei/helm-template-wasm](https://github.com/radu-matei/helm-template-wasm) - Helm Template, but in the browser
 - [qiwi/multi-semantic-release](https://github.com/qiwi/multi-semantic-release) - Proof of concept that wraps semantic-release to work with monorepos.
@@ -4036,6 +4038,7 @@
 
 ## Others 
 
+- [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
 - [andrecastro0o/SPARQL-cheatsheet](https://github.com/andrecastro0o/SPARQL-cheatsheet) - SPARQL cheatsheet
 - [christianh814/gitops-examples](https://github.com/christianh814/gitops-examples) - Scratch paper for me to test things. Most things are broken. Don't use this repo.
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
@@ -5536,6 +5539,7 @@
 
 ## Smarty 
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) - 
 - [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n a Workflow Automation Tool. Easily automate tasks across different services.
 
 ## Solidity 
@@ -5581,7 +5585,8 @@
 
 ## TypeScript 
 
-- [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - Github Issue management recreation
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
+- [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router and hosted on cloudfare
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [vlcn-io/typed-sql](https://github.com/vlcn-io/typed-sql) - 
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
