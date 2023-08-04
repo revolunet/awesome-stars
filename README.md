@@ -1054,6 +1054,7 @@
 
 ## Java 
 
+- [p2-inc/keycloak-orgs](https://github.com/p2-inc/keycloak-orgs) - Single realm, multi-tenancy for SaaS apps
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [ontop/ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL
@@ -1137,6 +1138,8 @@
 
 ## JavaScript 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [epicweb-dev/totp](https://github.com/epicweb-dev/totp) - Support Two Factor Authentication (2FA) in your application with ease.
 - [shipmight/helm-playground](https://github.com/shipmight/helm-playground) - Interactive site to debug Helm templating (& syntax cheatsheet)
 - [nice-registry/all-the-package-names](https://github.com/nice-registry/all-the-package-names) - 🔤 A list of all the public package names on npm. Updated daily.
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
@@ -1700,7 +1703,7 @@
 - [hobbyquaker/waldorf](https://github.com/hobbyquaker/waldorf) - Simple Mattermost Bot 🤡🤠
 - [use-global-hook/use-global-hook](https://github.com/use-global-hook/use-global-hook) - 
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
+- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [betagouv/react-elasticsearch](https://github.com/betagouv/react-elasticsearch) - 🛁 React + Elasticsearch - UI components for building data-driven search experiences
 - [betagouv/react-final-form-utils](https://github.com/betagouv/react-final-form-utils) - Decorators, validators and string helpers for classic email, password, loading fields in a react final form
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
@@ -4547,6 +4550,7 @@
 
 ## Python 
 
+- [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
 - [marcospereirampj/python-keycloak](https://github.com/marcospereirampj/python-keycloak) - 
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
@@ -4661,7 +4665,7 @@
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
-- [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - A package built on top of Hugging Face's transformers library that makes it easy to utilize state-of-the-art NLP models
+- [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune NLP Transformer models and use them for inference.
 - [juju2013/MPFA](https://github.com/juju2013/MPFA) - Make your Pass (sanitaire) Fun Again
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [viralpoetry/kubesurveyor](https://github.com/viralpoetry/kubesurveyor) - Good enough Kubernetes namespace visualization tool
@@ -4816,7 +4820,7 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases and applications.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
