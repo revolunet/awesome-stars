@@ -540,6 +540,8 @@
 
 ## Go 
 
+- [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
+- [ctrox/csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies
 - [keycloak/keycloak-realm-operator](https://github.com/keycloak/keycloak-realm-operator) - A Kubernetes Operator for managing realms through the Keycloak Admin API
@@ -1057,6 +1059,8 @@
 
 ## Java 
 
+- [shapesecurity/salvation](https://github.com/shapesecurity/salvation) - Parse Content Security Policy headers, warn about policy errors, safely manipulate, render, and optimise policies
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [p2-inc/keycloak-events](https://github.com/p2-inc/keycloak-events) - Useful Keycloak event listener implementations and utilities.
 - [p2-inc/keycloak-orgs](https://github.com/p2-inc/keycloak-orgs) - Single realm, multi-tenancy for SaaS apps
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes
@@ -1142,6 +1146,7 @@
 
 ## JavaScript 
 
+- [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline) - A GitHub Action for running the ZAP Baseline scan
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [epicweb-dev/totp](https://github.com/epicweb-dev/totp) - Support Two Factor Authentication (2FA) in your application with ease.
 - [shipmight/helm-playground](https://github.com/shipmight/helm-playground) - Interactive site to debug Helm templating (& syntax cheatsheet)
@@ -4569,7 +4574,7 @@
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
-- [chenhunghan/ialacol](https://github.com/chenhunghan/ialacol) - 🪶 Lightweight 🦄 Self hosted, 🔒 private, 🐟 scalable, 🤑 commercially usable, 💬 LLM chat streaming service with 1-click Kubernetes cluster installation on any cloud
+- [chenhunghan/ialacol](https://github.com/chenhunghan/ialacol) - 🪶 Lightweight OpenAI drop-in replacement with 1-click Kubernetes installation
 - [pedevineau/llm-experiment](https://github.com/pedevineau/llm-experiment) - Quantized inference code for LLaMA models
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [lsb/pq.js](https://github.com/lsb/pq.js) - Using embeddings compressed by Product Quantization, in Javascript
