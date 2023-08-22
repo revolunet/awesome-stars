@@ -539,6 +539,7 @@
 
 ## Go 
 
+- [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
 - [ctrox/csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
@@ -4504,7 +4505,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [WebPlatformTest/Data](https://github.com/WebPlatformTest/Data) - Data for generating information about other browsers on HTML5test.com
 - [MobilityLab/TransitScreen](https://github.com/MobilityLab/TransitScreen) - Transit screen configuration and display.
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [rockandscissor/osid](https://github.com/rockandscissor/osid) - Open Source Image Duplicator
 - [revolunet/mit-license](https://github.com/revolunet/mit-license) - Hosted MIT License with details controlled through this repo
 - [jpetitcolas/french-geography](https://github.com/jpetitcolas/french-geography) - A collaborative list of all French regions, departments and cities. Currently only in SQL, but perhaps soon in YAML, XML, etc.
