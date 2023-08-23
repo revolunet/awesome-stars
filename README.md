@@ -1389,7 +1389,6 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [NodeSecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) - JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [remotestorage/armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
@@ -3857,6 +3856,7 @@
 
 ## Jupyter Notebook 
 
+- [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [run-llama/modal_finetune_sql](https://github.com/run-llama/modal_finetune_sql) - 
 - [opinionscience/FabriqueLLM](https://github.com/opinionscience/FabriqueLLM) - 
 - [opinionscience/BERTransfer](https://github.com/opinionscience/BERTransfer) - A BERT-based application for reusable text classification at scale
@@ -3958,7 +3958,6 @@
 ## Makefile 
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [topheman/webassembly-wasi-experiments](https://github.com/topheman/webassembly-wasi-experiments) - Discover WebAssembly System Interface (WASI) with C/Rust use cases
 - [scriptype/Makefile-for-the-Front-End](https://github.com/scriptype/Makefile-for-the-Front-End) - A decent Makefile for fast prototyping and a good development experience.
 
@@ -4124,6 +4123,7 @@
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [ColinMaudry/decp-table-schema](https://github.com/ColinMaudry/decp-table-schema) - Définition d'un schéma de données au format tabulaire (csv, xlsx, ods) pour les données essentielles de la commande publique
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.
 - [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) - A list of awesome projects built on Ceramic
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
@@ -4560,6 +4560,7 @@
 
 ## Python 
 
+- [taoyds/spider](https://github.com/taoyds/spider) - scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -5409,6 +5410,7 @@
 
 ## Shell 
 
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages.
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [freegroup/kube-s3](https://github.com/freegroup/kube-s3) - Kubernetes pods used shared S3 storage
 - [tripsolutions/postgres-containers](https://github.com/tripsolutions/postgres-containers) - Operand images for CloudNativePG with extensions
@@ -5689,7 +5691,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node.
+- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.
 - [SocialGouv/streaming-file-encryption](https://github.com/SocialGouv/streaming-file-encryption) - Streaming file encryption for Node.js using AES-256-GCM or ChaCha20-Poly1305, HKDF and HMAC.
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [47ng/opaque](https://github.com/47ng/opaque) - OPAQUE password-authenticated key exchange for Node.js and the browser via WebAssembly
