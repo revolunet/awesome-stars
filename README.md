@@ -539,6 +539,7 @@
 
 ## Go 
 
+- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes operator for executing synthetic tests
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
 - [ctrox/csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3
@@ -1148,6 +1149,7 @@
 
 ## JavaScript 
 
+- [jmespath/jmespath.js](https://github.com/jmespath/jmespath.js) - Javascript implementation of JMESPath, a query language for JSON
 - [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline) - A GitHub Action for running the ZAP Baseline scan
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [epicweb-dev/totp](https://github.com/epicweb-dev/totp) - Support Two Factor Authentication (2FA) in your application with ease.
@@ -5410,6 +5412,7 @@
 
 ## Shell 
 
+- [azu/ni.zsh](https://github.com/azu/ni.zsh) - Alternative `ni` written in zsh: npm/yarn/pnpm/bun with the same command
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages.
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [freegroup/kube-s3](https://github.com/freegroup/kube-s3) - Kubernetes pods used shared S3 storage
