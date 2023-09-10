@@ -2430,7 +2430,7 @@
 - [mohebifar/konsul](https://github.com/mohebifar/konsul) - A react renderer for browser's dev console
 - [zpnk/deploy.now](https://github.com/zpnk/deploy.now) - One click deploys to △ now
 - [moscajs/mosca](https://github.com/moscajs/mosca) - MQTT broker as a module
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [NekR/offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin  (ServiceWorker, AppCache) for webpack (https://webpack.js.org/)
 - [yanwsh/videojs-panorama](https://github.com/yanwsh/videojs-panorama) - a plugin for videojs run a full 360 degree panorama video.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
@@ -6362,7 +6362,7 @@
 
 ## Vue 
 
-- [agateblue/administrans](https://github.com/agateblue/administrans) - Outil de génération de courriers pour faciliter les changement d'état civil
+- [Fransgenre/administrans](https://github.com/Fransgenre/administrans) - Outil de génération de courriers pour faciliter les changement d'état civil
 - [DISIC/Ara](https://github.com/DISIC/Ara) - Faire des audits RGAA, les rendre lisibles et suivre l’amélioration de leur taux de conformité
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [etalab/explore.data.gouv.fr](https://github.com/etalab/explore.data.gouv.fr) - A simple frontend for https://github.com/etalab/csvapi
