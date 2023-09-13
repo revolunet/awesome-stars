@@ -491,7 +491,6 @@
 - [yeasy/docker-ipfs](https://github.com/yeasy/docker-ipfs) - Docker Image for IPFS node
 - [alexellis/cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
-- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [pelias/libpostal-service](https://github.com/pelias/libpostal-service) - Dockerfile for libpostal-service based on the Who's on First implementation
 - [aa8y/docker-dataset](https://github.com/aa8y/docker-dataset) - Docker database images with pre-populated data for testing and/or practice.
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
@@ -683,7 +682,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [mattermost/mattermost-plugin-demo](https://github.com/mattermost/mattermost-plugin-demo) - A demo of what Mattermost plugins can do.
 - [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [kotalco/kotal](https://github.com/kotalco/kotal) - Blockchain Kubernetes Operator
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
@@ -1151,6 +1150,7 @@
 
 ## JavaScript 
 
+- [fgaume/affelnet](https://github.com/fgaume/affelnet) - Boite à outils Affelnet
 - [saehm/DruidJS](https://github.com/saehm/DruidJS) - A JavaScript Library for Dimensionality Reduction
 - [Rich-Harris/zimmerframe](https://github.com/Rich-Harris/zimmerframe) - A tool for walking
 - [cdrini/wikidata-timeline](https://github.com/cdrini/wikidata-timeline) - web app for visualizing Wikidata items on a timeline
@@ -5500,6 +5500,7 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [golendo/knockd](https://github.com/golendo/knockd) - knockd iptables docker
 - [aristarkh87/docker-knockd](https://github.com/aristarkh87/docker-knockd) - 
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [SocialGouv/cdtn-elk](https://github.com/SocialGouv/cdtn-elk) - ELK : Elastic / Logstash / Kibana - Elastic stack to manage CDTN search and suggest logs at scale
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
@@ -6099,7 +6100,7 @@
 - [Kinto/kinto-admin](https://github.com/Kinto/kinto-admin) - Kinto Web Administration Console
 - [rmarganti/re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
 - [theKashey/react-focus-on](https://github.com/theKashey/react-focus-on) - 🎯 Solution for WAI ARIA compatible modal dialogs or full-screen tasks, you were looking for
-- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [anthonyshort/use-next-route](https://github.com/anthonyshort/use-next-route) - React hook for easy routing within a Next.js app
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
