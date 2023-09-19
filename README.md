@@ -326,6 +326,7 @@
 
 ## CSS 
 
+- [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform
 - [dbarzin/deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
@@ -536,6 +537,7 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multipl
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes operator for executing synthetic tests
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
@@ -6309,7 +6311,7 @@
 - [davideast/Querybase](https://github.com/davideast/Querybase) - Bringing the where statement to the Firebase Database.
 - [FirebaseExtended/reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
 - [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
