@@ -798,7 +798,6 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
@@ -6085,7 +6084,7 @@
 - [fission-codes/get-ipfs](https://github.com/fission-codes/get-ipfs) - Utility to get a contextual js-ipfs instance, with graceful web fallbacks
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
-- [pubkey/binary-decision-diagram](https://github.com/pubkey/binary-decision-diagram) - A library to create, minimize and optimize binary decision diagrams
+- [pubkey/binary-decision-diagram](https://github.com/pubkey/binary-decision-diagram) - A library to create, minimize and optimize binary decision diagrams https://github.com/pubkey/binary-decision-diagram
 - [williamboman/react-typewriting](https://github.com/williamboman/react-typewriting) - React component for creating customizable typewriting visualizations
 - [huggingface/node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering in Node.js
 - [ipfs/js-dag-service](https://github.com/ipfs/js-dag-service) - Library for storing and replicating hash-linked data over the IPFS network.
