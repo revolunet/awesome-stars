@@ -539,6 +539,7 @@
 
 ## Go 
 
+- [loft-sh/loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
 - [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3
 - [smithoss/gonymizer](https://github.com/smithoss/gonymizer) - Gonymizer: A Tool to Anonymize Sensitive PostgreSQL Data Tables  for Use in QA and Testing
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
@@ -5666,6 +5667,10 @@
 
 ## TypeScript 
 
+- [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
+- [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
+- [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [oslabs-beta/podwatch](https://github.com/oslabs-beta/podwatch) - A Kubernetes error monitoring and alerting service
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 - [google/csp-evaluator](https://github.com/google/csp-evaluator) - 
