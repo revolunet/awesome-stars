@@ -4592,7 +4592,7 @@
 
 - [dgarnitz/vectorflow](https://github.com/dgarnitz/vectorflow) - VectorFlow is a high volume vector embedding pipeline that ingests raw data, transforms it into vectors and writes it to a vector DB of your choice.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - Evaluation and Unit Testing for LLMs
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [asgeirrr/pgantomizer](https://github.com/asgeirrr/pgantomizer) - Anonymize data in your PostgreSQL dabatase with ease
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
