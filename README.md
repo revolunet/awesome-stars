@@ -1213,7 +1213,7 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [pgvector/pgvector-node](https://github.com/pgvector/pgvector-node) - pgvector support for Node.js (and TypeScript)
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [spagnuolocarmine/touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
@@ -1450,6 +1450,7 @@
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [anotherjesse/hello-hyper-github-publish](https://github.com/anotherjesse/hello-hyper-github-publish) - 
 - [topheman/webrtc-experiments](https://github.com/topheman/webrtc-experiments) - An example of how you could use WebRTC on the web, based on the PeerJS library
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Ihatetomatoes/nextjs-101](https://github.com/Ihatetomatoes/nextjs-101) - 
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [di-ninja/di-ninja](https://github.com/di-ninja/di-ninja) - The Dependency Injection Framework for JavaScript NodeJS and Browser - really made for Composition Root
@@ -4191,7 +4192,6 @@
 - [pillarjs/understanding-csrf](https://github.com/pillarjs/understanding-csrf) - What are CSRF tokens and how do they work?
 - [aaronhayes/awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - A curated list of awesome things relating to the hasura ecosystem.
 - [misato/pico8-game-template](https://github.com/misato/pico8-game-template) - A PICO-8 game template
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Fonds-de-Dotation-du-Libre/awesome-free-software](https://github.com/Fonds-de-Dotation-du-Libre/awesome-free-software) - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases
 - [citp/privacy-policy-historical](https://github.com/citp/privacy-policy-historical) - Historical website privacy policies spanning over two decades.
 - [abulte/schema-donnees-hospitalieres-covid19](https://github.com/abulte/schema-donnees-hospitalieres-covid19) - 
