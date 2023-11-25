@@ -5707,6 +5707,7 @@
 
 ## TypeScript 
 
+- [adrienbrault/json-schema-to-gbnf](https://github.com/adrienbrault/json-schema-to-gbnf) - 
 - [garronej/oidc-spa](https://github.com/garronej/oidc-spa) - Openidconnect client for Single Page Applications
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
@@ -5866,7 +5867,7 @@
 - [Flyrell/axios-auth-refresh](https://github.com/Flyrell/axios-auth-refresh) - Library that helps you implement automatic refresh of authorization via axios interceptors. You can easily intercept the original request when it fails, refresh the authorization and continue with the
 - [quarkslab/mattermost-plugin-e2ee](https://github.com/quarkslab/mattermost-plugin-e2ee) - End-to-end encryption plugin for Mattermost
 - [47ng/prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) - Transparent field-level encryption at rest for Prisma
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
 - [NodeSecure/vulnera](https://github.com/NodeSecure/vulnera) - Programmatically fetch security vulnerabilities with one or many strategies (NPM Audit, Sonatype, Snyk, Node.js DB).
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
