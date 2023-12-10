@@ -4615,6 +4615,8 @@
 
 ## Python 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [etalab-ia/chartsgouv](https://github.com/etalab-ia/chartsgouv) - 
@@ -5374,6 +5376,7 @@
 
 ## Rust 
 
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
