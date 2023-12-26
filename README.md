@@ -579,6 +579,7 @@
 - [giantswarm/helm-values-gen](https://github.com/giantswarm/helm-values-gen) - Helm plugin 'values-gen' generates the default values file based of values.schema.json
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [ktsstudio/mirrors](https://github.com/ktsstudio/mirrors) - Kubernetes Secret Mirroring Controller
 - [K-Phoen/dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
@@ -1211,7 +1212,6 @@
 - [radu-matei/helm-template-wasm](https://github.com/radu-matei/helm-template-wasm) - Helm Template, but in the browser
 - [qiwi/multi-semantic-release](https://github.com/qiwi/multi-semantic-release) - Proof of concept that wraps semantic-release to work with monorepos.
 - [benzino77/clamav-rest-api](https://github.com/benzino77/clamav-rest-api) - ClamAV REST API. Scan files using simple POST request.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [adipasquale/medias-wiki](https://github.com/adipasquale/medias-wiki) - Qui possède les médias français ?
 - [riatelab/magrit](https://github.com/riatelab/magrit) - ♠ Thematic cartography ♠
 - [Redactics/http-nas](https://github.com/Redactics/http-nas) - File streaming service designed for Kubernetes to provide ReadWriteMany storage support
