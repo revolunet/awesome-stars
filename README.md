@@ -2450,7 +2450,7 @@
 - [linkmesrl/react-redux-dashboard](https://github.com/linkmesrl/react-redux-dashboard) - React Redux Dashboard with redux-saga and local-storage support
 - [AdamPflug/express-brute](https://github.com/AdamPflug/express-brute) - Brute-force protection middleware for express routes by rate limiting incoming requests
 - [elierotenberg/react-prepare](https://github.com/elierotenberg/react-prepare) - Prepare you app state for async server-side rendering and more!
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [cvan/webvr360](https://github.com/cvan/webvr360) - It's like Tim Berners-Lee meets Oculus meets YouTube.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
@@ -3536,7 +3536,6 @@
 - [krakenjs/kraken-js](https://github.com/krakenjs/kraken-js) - An express-based Node.js web application bootstrapping module.
 - [videogular/videogular](https://github.com/videogular/videogular) - The HTML5 video player for AngularJS
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 - [kevinlacotaco/grunt-todos](https://github.com/kevinlacotaco/grunt-todos) - Grunt task for finding todos/fixmes in code
 - [paulirish/matchMedia.js](https://github.com/paulirish/matchMedia.js) - matchMedia polyfill for testing media queries in JS
 - [dragonworx/jsel](https://github.com/dragonworx/jsel) - DOM 3 XPath implementation for JavaScript object data.
@@ -5311,7 +5310,6 @@
 - [leepa/django-iphone-push](https://github.com/leepa/django-iphone-push) - A Django Application that uses Python 2.5/2.6 features to contact the Apple Push Service as well as maintaining a list of iPhone objects and handling Feedback from APS
 - [sebleier/django-redis-cache](https://github.com/sebleier/django-redis-cache) - A Redis cache backend for django
 - [bottlepy/bottle](https://github.com/bottlepy/bottle) - bottle.py is a fast and simple micro-framework for python web-applications.
-- [42/42-django-couchdb](https://github.com/42/42-django-couchdb) - django couchdb database adapter
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).
 - [adammck/pygsm](https://github.com/adammck/pygsm) - Send and receive SMS via a GSM modem in Python
 - [montylounge/django-proxy](https://github.com/montylounge/django-proxy) - A reusable django application to create a proxy object for your models. Intended to aggregate various content types into a model for reuse. A poor man's django-tumbleweed.
@@ -5724,6 +5722,7 @@
 
 ## TypeScript 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [publicodes/tools](https://github.com/publicodes/tools) - Set of utility functions to write tooling for Publicodes models
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [adrienbrault/json-schema-to-gbnf](https://github.com/adrienbrault/json-schema-to-gbnf) - Converts JSON-Schema to GBNF grammar to use with llama.cpp
