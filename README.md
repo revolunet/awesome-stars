@@ -480,7 +480,7 @@
 
 ## Dart 
 
-- [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
+- [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [shailen/ng-darrrt-codelab](https://github.com/shailen/ng-darrrt-codelab) - This code lab has moved. Check out the new version:
 - [passy/angular-dart-todomvc](https://github.com/passy/angular-dart-todomvc) - Work in progress
@@ -2928,7 +2928,7 @@
 - [Experience-Monks/ae-to-json](https://github.com/Experience-Monks/ae-to-json) - will export an After Effects project as a JSON object
 - [ds300/derivablejs](https://github.com/ds300/derivablejs) - Functional Reactive State for JavaScript and TypeScript
 - [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript &lt;Slider&gt; component for react-native
-- [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
+- [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [dimaip/server-side-rendering](https://github.com/dimaip/server-side-rendering) - Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 - [mappum/webcoin](https://github.com/mappum/webcoin) - :globe_with_meridians::moneybag: SPV Bitcoin client for Node.js and the browser
@@ -2979,6 +2979,7 @@
 - [davidfoliveira/node-httprequire](https://github.com/davidfoliveira/node-httprequire) - A way to include remote node.js modules
 - [zz85/timeliner](https://github.com/zz85/timeliner) - simple javascript timeline library for animation and prototyping
 - [whichsteveyp/react-localize](https://github.com/whichsteveyp/react-localize) - A simple context wrapper and text localization component for localizing strings.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [dantrain/react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React
 - [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) - A component allowing you to change state using observables
 - [videojs/videojs-overlay](https://github.com/videojs/videojs-overlay) - A video.js plugin to display simple overlays during playback.
@@ -4337,7 +4338,7 @@
 - [kitze/awesome-conference-practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Let's make an awesome list 🎉
 - [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [cypress-io/cypress-react-unit-test](https://github.com/cypress-io/cypress-react-unit-test) - Unit test React components using Cypress
 - [nice-registry/dependent-packages](https://github.com/nice-registry/dependent-packages) - 🔗 Direct dependents and devDependents of every package in the npm registry. Works offline.
 - [Berndinox/compose-v3-collection](https://github.com/Berndinox/compose-v3-collection) - Real World Swarm-Mode docker-compose V3 examples (docker stack deploy)
@@ -4630,6 +4631,7 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [etalab/noms-de-domaine-organismes-secteur-public](https://github.com/etalab/noms-de-domaine-organismes-secteur-public) - Liste de noms de domaine d'organismes publics
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
@@ -6459,7 +6461,6 @@
 - [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 - [vercel/react-keyframes](https://github.com/vercel/react-keyframes) - Create frame-based animations in React
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
