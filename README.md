@@ -915,7 +915,6 @@
 
 - [codegouvfr/docsify-dsfr-template](https://github.com/codegouvfr/docsify-dsfr-template) - Un template pour construire un site de documentation en un instant avec le DSFR et docsify.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [charlesdedampierre/BunkaTopics](https://github.com/charlesdedampierre/BunkaTopics) - 🗺️ Data Cleaning and Textual Data Visualization  🗺️
 - [kwent/pgbouncerhero](https://github.com/kwent/pgbouncerhero) - A dashboard for your PgBouncers.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [Fil/DruidJS](https://github.com/Fil/DruidJS) - A JavaScript Library for Dimensionality Reduction
@@ -4640,8 +4639,7 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [lafranceinsoumise/actionpopulaire.fr](https://github.com/lafranceinsoumise/actionpopulaire.fr) - Le réseau social d'action de la France insoumise
 - [mdomke/schwifty](https://github.com/mdomke/schwifty) - IBAN parsing and validation
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
@@ -4657,6 +4655,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
+- [charlesdedampierre/BunkaTopics](https://github.com/charlesdedampierre/BunkaTopics) - 🗺️ Data Cleaning and Textual Data Visualization  🗺️
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [asgeirrr/pgantomizer](https://github.com/asgeirrr/pgantomizer) - Anonymize data in your PostgreSQL dabatase with ease
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
@@ -5764,6 +5763,7 @@
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows s
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [publicodes/tools](https://github.com/publicodes/tools) - Set of utility functions to write tooling for Publicodes models
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [adrienbrault/json-schema-to-gbnf](https://github.com/adrienbrault/json-schema-to-gbnf) - Converts JSON-Schema to GBNF grammar to use with llama.cpp
@@ -6340,7 +6340,7 @@
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [intuit/node-pom-parser](https://github.com/intuit/node-pom-parser) - Parsing Java's pom.xml and properly returning the json object, including attributes and values.
 - [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
-- [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
+- [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
