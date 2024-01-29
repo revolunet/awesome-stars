@@ -9,7 +9,6 @@
 - [ActionScript](#actionscript)
 - [ApacheConf](#apacheconf)
 - [Arduino](#arduino)
-- [AsciiDoc](#asciidoc)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -111,10 +110,6 @@
 - [dwyl/iot-decibel-meter](https://github.com/dwyl/iot-decibel-meter) - A decibel meter built with an arduino
 - [BobSandberg/LEDColorStrip](https://github.com/BobSandberg/LEDColorStrip) - Controls WS8212B RGB LED Strip Lights from web server
 
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
 ## Astro 
 
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
@@ -131,7 +126,6 @@
 - [laurenz/pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [sraoss/pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremental View Maintenance) implementation as a PostgreSQL extension
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
@@ -237,6 +231,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
@@ -1047,6 +1042,7 @@
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [code9media/overthecs.github.io](https://github.com/code9media/overthecs.github.io) - OverTheCS
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [fergaldoyle/angular.js-ie8-builds](https://github.com/fergaldoyle/angular.js-ie8-builds) - AngularJS 1.3 builds for IE8
 - [darylrowland/angucomplete](https://github.com/darylrowland/angucomplete) - AngularJS Autocomplete Directive
 - [latentflip/bows](https://github.com/latentflip/bows) - Safe, production happy, colourful logging for chrome & firefox - makes reading your logs much easier.
@@ -3101,7 +3097,7 @@
 - [0xfe/vexchords](https://github.com/0xfe/vexchords) - JavaScript Chord Charts
 - [twitter/labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
 - [zilverline/react-tap-event-plugin](https://github.com/zilverline/react-tap-event-plugin) - Instant TapEvents for React
-- [skidding/dragdealer](https://github.com/skidding/dragdealer) - Drag-based vanilla JS component
+- [ovidiuch/dragdealer](https://github.com/ovidiuch/dragdealer) - Drag-based vanilla JS component
 - [metafizzy/unidragger](https://github.com/metafizzy/unidragger) - :point_down: Draggable base class
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [freeqaz/redux-simple-router-example](https://github.com/freeqaz/redux-simple-router-example) - This is a simple example of how to use redux-simple-router.
@@ -4122,6 +4118,7 @@
 
 ## Others 
 
+- [43081j/ecosystem-cleanup](https://github.com/43081j/ecosystem-cleanup) - A place to keep track of ongoing efforts to clean up the JS ecosystem
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [theodo-group/awesome-security-automation](https://github.com/theodo-group/awesome-security-automation) - Awesome links to automate your cybersecurity checks
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
@@ -4637,6 +4634,7 @@
 
 ## Python 
 
+- [OSTEsayed/OSTE-Meta-Scan](https://github.com/OSTEsayed/OSTE-Meta-Scan) - The OSTE meta scanner is a comprehensive web vulnerability scanner that combines multiple DAST scanners, including Nikto Scanner, OWASP ZAP, Nuclei, SkipFish, and Wapiti.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [captn3m0/stackshare-dataset](https://github.com/captn3m0/stackshare-dataset) - A dataset of popular tools and services powering various stacks.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
@@ -5432,7 +5430,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for streaming data. Engineered to offer the simplest and most cost-efficient way for event stream processing, analytics, and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for streaming data. Event stream processing, analytics, and management. 🚀 10x easier. 🚀 10x more cost-efficient.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5760,6 +5758,7 @@
 
 ## TypeScript 
 
+- [arthur-fontaine/octent](https://github.com/arthur-fontaine/octent) - Git-based CMS. 100% frontend, no backend.
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [expatfile/next-runtime-env](https://github.com/expatfile/next-runtime-env) - Next.js Runtime Environment Configuration - Populates your environment at runtime rather than build time.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
