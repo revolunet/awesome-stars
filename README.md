@@ -1188,6 +1188,8 @@
 
 ## JavaScript 
 
+- [aplisay/llm-agent](https://github.com/aplisay/llm-agent) - LLM based Agent
+- [calculang/calculang](https://github.com/calculang/calculang) - calculang is a language for calculations 🧮💬👩‍💻
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [mbrn/material-table](https://github.com/mbrn/material-table) - Datatable for React based on material-ui's table with additional features
 - [tomasz-sodzawiczny/next-plugin-yaml](https://github.com/tomasz-sodzawiczny/next-plugin-yaml) - Import .yml files in your next.js project
@@ -4902,7 +4904,7 @@
 - [andychase/reparse](https://github.com/andychase/reparse) - Regular Expression based parsers for extracting data from natural languages
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
+- [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [libre-money-projects/Geconomicus](https://github.com/libre-money-projects/Geconomicus) - Ğeconomicus is a free economic game. It simulates more than life expectancy and allows to compare different money systems
 - [fpaupier/tensorflow-serving_sidecar](https://github.com/fpaupier/tensorflow-serving_sidecar) - Serve machine learning models using tensorflow serving
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
@@ -5761,6 +5763,8 @@
 
 ## TypeScript 
 
+- [alloc/tusken](https://github.com/alloc/tusken) - 100% type-safe query builder compatible with any Postgres client 🐘 Generated table/function types, tree-shakable, implicit type casts, and more
+- [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [arthur-fontaine/octent](https://github.com/arthur-fontaine/octent) - Git-based CMS. 100% frontend, no backend.
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [expatfile/next-runtime-env](https://github.com/expatfile/next-runtime-env) - Next.js Runtime Environment Configuration - Populates your environment at runtime rather than build time.
@@ -5837,7 +5841,7 @@
 - [garronej/nextra-dsfr-demo](https://github.com/garronej/nextra-dsfr-demo) - A demo project for nextra-theme-dsfr-docs
 - [vlcn-io/vite-starter](https://github.com/vlcn-io/vite-starter) - scaffold for a vitejs based vlcn project
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
 - [publicodes/language-server](https://github.com/publicodes/language-server) - Language server for Publicodes
 - [guidepup/guidepup](https://github.com/guidepup/guidepup) - Screen reader driver for test automation.
@@ -6202,7 +6206,7 @@
 - [castorini/covidex](https://github.com/castorini/covidex) - A multi-stage neural search engine for the COVID-19 Open Research Dataset
 - [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [sqren/backport](https://github.com/sqren/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
+- [sorenlouv/backport](https://github.com/sorenlouv/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [wokwi/wokwi-elements](https://github.com/wokwi/wokwi-elements) - Web Components for Electronics and IoT Parts
 - [Silind-Software/direflow](https://github.com/Silind-Software/direflow) - 🧩 Use the best of two worlds. Create fast, performant, native Web Components using React.
 - [sammccord/perge](https://github.com/sammccord/perge) - Perge is a p2p synchronization system for Automerge documents using PeerJS
