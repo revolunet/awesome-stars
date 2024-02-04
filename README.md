@@ -181,7 +181,7 @@
 - [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [wandenberg/nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [adafruit/Adafruit_DotStar_Pi](https://github.com/adafruit/Adafruit_DotStar_Pi) - DotStar module for Python on Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [jperkin/node-rpio](https://github.com/jperkin/node-rpio) - Raspberry Pi GPIO library for node.js
 - [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [claudiosousa/PersistenceOfVisionGlobe](https://github.com/claudiosousa/PersistenceOfVisionGlobe) - Persistence of vision globe based on AtMega1284p
@@ -3821,7 +3821,6 @@
 - [yostudios/Spritemapper](https://github.com/yostudios/Spritemapper) - CSS Spritemap Generator
 - [superfeedr/ejabberd-websockets](https://github.com/superfeedr/ejabberd-websockets) - An ejabberd component to handle XMPP over Websockets
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-- [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [jeromeetienne/shorttag.js](https://github.com/jeromeetienne/shorttag.js) - javascript template engine - micro framework - 20 lines
 - [goldledoigt/Ext.ux.Message](https://github.com/goldledoigt/Ext.ux.Message) - simple singleton to display messages
 - [node-js-libs/load.js](https://github.com/node-js-libs/load.js) - Lazy-load your JavaScript
@@ -4726,7 +4725,7 @@
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [scottpersinger/pgwarehouse](https://github.com/scottpersinger/pgwarehouse) - Easily sync your Postgres database to a Snowflake, ClickHouse, or DuckDB warehouse.
 - [ilesinge/shabda](https://github.com/ilesinge/shabda) - Shabda is a semantic audio samples curator for livecoding software such as Estuary or Tidal Cycles
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
@@ -5329,7 +5328,6 @@
 - [clintecker/django-chunks](https://github.com/clintecker/django-chunks) - Think of it as flatpages for small bits of reusable content you might want to insert into your templates and manage from the admin interface.
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [zsiciarz/django-markitup](https://github.com/zsiciarz/django-markitup) - Markup handling (using Jay Salvat's MarkItUp! flexible universal markup editor) for Django
-- [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [django-cms/cmsplugin-filer](https://github.com/django-cms/cmsplugin-filer) - DEPRECATED, this project is no longer maintained, see README for more information.
 - [zain/jogging](https://github.com/zain/jogging) - Easier Django logging!
 - [shrubberysoft/django-picklefield](https://github.com/shrubberysoft/django-picklefield) - A pickled object field for Django
