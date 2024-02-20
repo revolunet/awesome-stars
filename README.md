@@ -1195,6 +1195,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
@@ -1964,7 +1965,6 @@
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
 - [raphamorim/react-ape](https://github.com/raphamorim/react-ape) - 🦍• React Renderer to build UI interfaces using canvas/WebGL (TV and Hardware-Accelerated GPU development based)
-- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [yandongliu/learningjs](https://github.com/yandongliu/learningjs) - javascript implementation of logistic regression/c4.5 decision tree
 - [miguelmota/C4.5](https://github.com/miguelmota/C4.5) - C4.5 decision tree generation algorithm in JavaScript.
 - [ryami333/react-accessible-tooltip](https://github.com/ryami333/react-accessible-tooltip) - React Component for rapidly developing Tooltip components, without worrying about accessibility.
@@ -4709,7 +4709,6 @@
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [chenhunghan/ialacol](https://github.com/chenhunghan/ialacol) - 🪶 Lightweight OpenAI drop-in replacement for Kubernetes
 - [pedevineau/llm-experiment](https://github.com/pedevineau/llm-experiment) - Quantized inference code for LLaMA models
@@ -4721,7 +4720,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository)
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 - [peterw/JarvisBase](https://github.com/peterw/JarvisBase) - Question-answering chatbot using OpenAI's GPT-3.5-turbo model, DeepLake for the vector database, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio respon
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -5847,6 +5846,7 @@
 - [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML plugin for the Monaco Editor
 - [roipoussiere/jaffle](https://github.com/roipoussiere/jaffle) - An hybrid yaml/node editor for Tidal Cycles, based on Strudel.
 - [visheratin/ai-photo-sorter](https://github.com/visheratin/ai-photo-sorter) - 
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [codingones/conference-website](https://github.com/codingones/conference-website) - Use this starter to build your powerful, fully static, and SEO-friendly conference website effortlessly deployable anywhere.
 - [martijnversluis/ChordSheetJS](https://github.com/martijnversluis/ChordSheetJS) - A JavaScript library for parsing and formatting ChordPro chord sheets
@@ -5868,7 +5868,7 @@
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
 - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript
-- [inclusion-numerique/mediature](https://github.com/inclusion-numerique/mediature) - 
+- [inclusion-numerique/mediature](https://github.com/inclusion-numerique/mediature) - A french national platform allowing citizens to request mediation for administrative issues
 - [dag-andersen/kubernetes-reference-highlighter](https://github.com/dag-andersen/kubernetes-reference-highlighter) - 
 - [chewam/mozart](https://github.com/chewam/mozart) - 
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -5997,7 +5997,7 @@
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [ChainSafe/js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) - TypeScript implementation of Gossipsub
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [garronej/vite-envs](https://github.com/garronej/vite-envs) - ⚙️  Bundle env var in Vite at container startup!
+- [garronej/vite-envs](https://github.com/garronej/vite-envs) - ⚙️  Env var in Vite at container startup
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -6014,11 +6014,11 @@
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
-- [InseeFrLab/onyxia](https://github.com/InseeFrLab/onyxia) - 🔬 Web app to simplify data science environment setup on Kubernetes
+- [InseeFrLab/onyxia](https://github.com/InseeFrLab/onyxia) - 🔬 Data science environment for k8s
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [jasonkuhrt/template-typescript-lib](https://github.com/jasonkuhrt/template-typescript-lib) - 🎛️ Project template for TypeScript libraries
 - [jsCommander/tsv-to-database](https://github.com/jsCommander/tsv-to-database) - Convert tsv file to js object and write it into database
@@ -6332,6 +6332,7 @@
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [Atrox/haikunatorjs](https://github.com/Atrox/haikunatorjs) - Generate Heroku-like random names to use in your node applications.
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
+- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [podefr/react-debounce-render](https://github.com/podefr/react-debounce-render) - A React higher order component to debounce the rendering of your React components
 - [data-forge/data-forge-ts](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
