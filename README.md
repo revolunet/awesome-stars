@@ -1196,6 +1196,7 @@
 
 ## JavaScript 
 
+- [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
 - [trubrics/streamlit-feedback](https://github.com/trubrics/streamlit-feedback) - Collect user feedback from within your Streamlit app
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
@@ -4653,6 +4654,7 @@
 
 ## Python 
 
+- [UmarSpa/HairAnalysis](https://github.com/UmarSpa/HairAnalysis) - "Hair detection, segmentation, and hairstyle classification in the wild"
 - [CharlyWargnier/LangchainRAG-Trubrics-Langsmith](https://github.com/CharlyWargnier/LangchainRAG-Trubrics-Langsmith) - 
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -4672,6 +4674,7 @@
 - [mdomke/schwifty](https://github.com/mdomke/schwifty) - IBAN parsing and validation
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [numerique-gouv/chartsgouv](https://github.com/numerique-gouv/chartsgouv) - 
@@ -4974,7 +4977,7 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Connexion is a modern Python web framework that makes spec-first and api-first development easy.
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
@@ -5012,7 +5015,7 @@
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [regardscitoyens/the-law-factory-parser](https://github.com/regardscitoyens/the-law-factory-parser) - Data generator for the-law-factory project
-- [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
+- [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Side Bar Tools and Enhancements for Sublime Text. Files and folders.
 - [YoannDupont/SEM](https://github.com/YoannDupont/SEM) - SEM, a free NLP tool relying on machine learning technologies, especially CRFs.
 - [Legilibre/Archeo-Lex](https://github.com/Legilibre/Archeo-Lex) - Pure Histoire de la Loi française – Git + Markdown
 - [Legilibre/legi.py](https://github.com/Legilibre/legi.py) - Outils de manipulation des archives LEGI (lois françaises)
@@ -5780,6 +5783,7 @@
 
 ## TypeScript 
 
+- [betagouv/nexauth](https://github.com/betagouv/nexauth) - A dead simple JWT-based authentication library for Next.js framework.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [arneoio/rgaa-checker](https://github.com/arneoio/rgaa-checker) - A browser extension to check compliance with the RGAA standard
@@ -5808,7 +5812,6 @@
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [adrienbrault/json-schema-to-gbnf](https://github.com/adrienbrault/json-schema-to-gbnf) - Converts JSON-Schema to GBNF grammar to use with llama.cpp
 - [keycloakify/oidc-spa](https://github.com/keycloakify/oidc-spa) - Openidconnect client for Single Page Applications
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [usellm/usellm](https://github.com/usellm/usellm) - Use Large Language Models in Your React App
 - [MinChatHQ/react-chat-ui](https://github.com/MinChatHQ/react-chat-ui) - Build your own chat UI with React Chat UI components in a few minutes. React Chat UI Kit from minchat.io is an open source UI toolkit for developing web chat applications.
