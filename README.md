@@ -1196,6 +1196,7 @@
 
 ## JavaScript 
 
+- [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [Tanaguru/webextension](https://github.com/Tanaguru/webextension) - 
 - [SocialGouv/webseal](https://github.com/SocialGouv/webseal) - A static web interface to generate sealed-secrets
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
@@ -3939,7 +3940,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [run-llama/modal_finetune_sql](https://github.com/run-llama/modal_finetune_sql) - 
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
+- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [opinionscience/FabriqueLLM](https://github.com/opinionscience/FabriqueLLM) - 
 - [opinionscience/BERTransfer](https://github.com/opinionscience/BERTransfer) - A BERT-based application for reusable text classification at scale
 - [InseeFrLab/cartiflette](https://github.com/InseeFrLab/cartiflette) - https://observablehq.com/@linogaliana/cartiflette-demo
@@ -5560,6 +5561,7 @@
 
 ## Shell 
 
+- [beatlabs/delete-old-branches-action](https://github.com/beatlabs/delete-old-branches-action) - GitHub Action that deletes old branches
 - [MTES-MCT/keycloak-buildpack](https://github.com/MTES-MCT/keycloak-buildpack) - Scalingo buildpack to install Keycloak with PostgreSQL database
 - [osm-fr/osmpoi4addok](https://github.com/osm-fr/osmpoi4addok) - OSM POI for addok geocoder
 - [peter-evans/nominatim-k8s](https://github.com/peter-evans/nominatim-k8s) - Nominatim for Kubernetes on Google Container Engine (GKE).
