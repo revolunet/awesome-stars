@@ -52,7 +52,6 @@
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nginx](#nginx)
-- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -826,7 +825,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
+- [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [jacobtomlinson/krontab](https://github.com/jacobtomlinson/krontab) - ⏰ A crontab like editor for Kubernetes cron jobs
@@ -913,6 +912,7 @@
 
 ## HTML 
 
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [codegouvfr/docsify-dsfr-template](https://github.com/codegouvfr/docsify-dsfr-template) - Un template pour construire un site de documentation en un instant avec le DSFR et docsify (alternative à GitBook).
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kwent/pgbouncerhero](https://github.com/kwent/pgbouncerhero) - A dashboard for your PgBouncers.
@@ -1196,6 +1196,7 @@
 
 ## JavaScript 
 
+- [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [Tanaguru/webextension](https://github.com/Tanaguru/webextension) - 
 - [SocialGouv/webseal](https://github.com/SocialGouv/webseal) - A static web interface to generate sealed-secrets
@@ -4055,10 +4056,6 @@
 
 - [KyleAMathews/docker-nginx](https://github.com/KyleAMathews/docker-nginx) - Nginx Docker image for easy hosting of static sites
 
-## Nix 
-
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
-
 ## Nunjucks 
 
 - [codegouvfr/eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr) - Template pour la création d'un site utilisant le système de design de l'État avec Eleventy.
@@ -4656,6 +4653,8 @@
 
 ## Python 
 
+- [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools) - Maltego transforms for investigative journalism
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [UmarSpa/HairAnalysis](https://github.com/UmarSpa/HairAnalysis) - "Hair detection, segmentation, and hairstyle classification in the wild"
@@ -4897,7 +4896,7 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [vladimarius/pyap](https://github.com/vladimarius/pyap) - Python address detector and parser
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [hellohaptik/spello](https://github.com/hellohaptik/spello) - Fast and accurate spell correction library
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [numerique-gouv/pseudonymisation_decisions_ce](https://github.com/numerique-gouv/pseudonymisation_decisions_ce) - Temporary repo to split the pseudo livrable
