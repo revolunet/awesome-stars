@@ -703,7 +703,6 @@
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [oursky/kubernetes-github-authn](https://github.com/oursky/kubernetes-github-authn) - GitHub token authentication for Kubernetes
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
@@ -3804,7 +3803,7 @@
 - [theatlantic/django-chosen](https://github.com/theatlantic/django-chosen) - django FormFields using the Chosen javascript plugin for jQuery
 - [lexandera/Aardwolf](https://github.com/lexandera/Aardwolf) - A remote JavaScript debugger for Android/iOS/WindowsPhone7/BlackBerry6. Written in JavaScript.
 - [elmasse/Ext.ux.Cover](https://github.com/elmasse/Ext.ux.Cover) - Coverflow implementation for Sencha Touch
-- [hxgf/smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
+- [jyoungblood/smoke.js](https://github.com/jyoungblood/smoke.js) - framework-agnostic styled alert system for javascript
 - [e1ven/Robohash](https://github.com/e1ven/Robohash) - RoboHash.org
 - [ahmadnassri/app-restconsole](https://github.com/ahmadnassri/app-restconsole) - HTTP Client and Request Visualizer and Constructor tool, helps developers build, debug and test RESTful APIs
 - [joelambert/morf](https://github.com/joelambert/morf) - A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions
@@ -4662,7 +4661,7 @@
 - [CharlyWargnier/LangchainRAG-Trubrics-Langsmith](https://github.com/CharlyWargnier/LangchainRAG-Trubrics-Langsmith) - 
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
-- [OSTEsayed/OSTE-Meta-Scan](https://github.com/OSTEsayed/OSTE-Meta-Scan) - The OSTE meta scanner is a comprehensive web vulnerability scanner that combines multiple DAST scanners, including Nikto Scanner, OWASP ZAP, Nuclei, SkipFish, and Wapiti.
+- [OSTEsayed/OSTE-Meta-Scan](https://github.com/OSTEsayed/OSTE-Meta-Scan) - The OSTE meta scanner is a comprehensive web vulnerability scanner that combines multiple DAST scanners, including Nikto Scanner, ZAP, Nuclei, SkipFish, and Wapiti.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [captn3m0/stackshare-dataset](https://github.com/captn3m0/stackshare-dataset) - A dataset of popular tools and services powering various stacks.
@@ -5790,6 +5789,7 @@
 
 ## TypeScript 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing -- 🍊YC W23 🤖 integrate via Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
 - [betagouv/nexauth](https://github.com/betagouv/nexauth) - A dead simple JWT-based authentication library for Next.js framework.
@@ -6084,6 +6084,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [mattrothenberg/flat-data-to-ts](https://github.com/mattrothenberg/flat-data-to-ts) - 
+- [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [ceramicnetwork/js-did](https://github.com/ceramicnetwork/js-did) - A simple interface to interact with DIDs that conform to the DID-provider interface.
 - [ceramicstudio/js-3id-did-provider](https://github.com/ceramicstudio/js-3id-did-provider) - DID Provider for 3IDs in JavaScript
