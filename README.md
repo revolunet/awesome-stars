@@ -1197,6 +1197,9 @@
 
 ## JavaScript 
 
+- [mylofi/webauthn-local-client](https://github.com/mylofi/webauthn-local-client) - Browser-only utils for locally managing WebAuthn (passkey) API
+- [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+- [betagouv/budget-show](https://github.com/betagouv/budget-show) - 
 - [fuzhenn/node-svg2img](https://github.com/fuzhenn/node-svg2img) - A high-performance in-memory convertor to convert svg to png/jpeg images for Node.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -4656,6 +4659,7 @@
 
 ## Python 
 
+- [ColinMaudry/petabase](https://github.com/ColinMaudry/petabase) - Command line tool to mass manage Metatabase questions and dashboards
 - [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools) - Maltego transforms for investigative journalism
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
