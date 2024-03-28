@@ -4659,6 +4659,8 @@
 
 ## Python 
 
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [ColinMaudry/petabase](https://github.com/ColinMaudry/petabase) - Command line tool to mass manage Metatabase questions and dashboards
 - [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools) - Maltego transforms for investigative journalism
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
@@ -4673,7 +4675,7 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [captn3m0/stackshare-dataset](https://github.com/captn3m0/stackshare-dataset) - A dataset of popular tools and services powering various stacks.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [etalab/noms-de-domaine-organismes-secteur-public](https://github.com/etalab/noms-de-domaine-organismes-secteur-public) - Liste de noms de domaine d'organismes publics
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
@@ -5576,7 +5578,7 @@
 - [MTES-MCT/keycloak-buildpack](https://github.com/MTES-MCT/keycloak-buildpack) - Scalingo buildpack to install Keycloak with PostgreSQL database
 - [osm-fr/osmpoi4addok](https://github.com/osm-fr/osmpoi4addok) - OSM POI for addok geocoder
 - [peter-evans/nominatim-k8s](https://github.com/peter-evans/nominatim-k8s) - Nominatim for Kubernetes on Google Container Engine (GKE).
-- [publiccodenet/standard](https://github.com/publiccodenet/standard) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
+- [standard-for-public-code/standard-for-public-code](https://github.com/standard-for-public-code/standard-for-public-code) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
 - [publiccodenet/standard-compliant](https://github.com/publiccodenet/standard-compliant) - This repository records codebases that are in compliance with the Standard for Public Code
 - [azu/ni.zsh](https://github.com/azu/ni.zsh) - Alternative `ni` written in zsh: npm/yarn/pnpm/bun with the same command
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages.
@@ -5589,7 +5591,7 @@
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
 - [dominik-schwabe/zsh-fnm](https://github.com/dominik-schwabe/zsh-fnm) - Plugin for ZSH to install the Fast Node Manager (fnm).
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as an Open-Source RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jpetazzo/nsplease](https://github.com/jpetazzo/nsplease) - Tiny Kubernetes operator to create Namespaces on demand (for CI/CD, for instance)
@@ -5629,7 +5631,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.43.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.43.1) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
@@ -5982,7 +5984,7 @@
 - [sigstore/sigstore-js](https://github.com/sigstore/sigstore-js) - Code-signing for npm packages
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
 - [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm) - HPCC-Systems Web-Assembly (JavaScript)
-- [culturecommunication/francetransfert-gui](https://github.com/culturecommunication/francetransfert-gui) - 
+- [numerique-gouv/francetransfert-gui](https://github.com/numerique-gouv/francetransfert-gui) - 
 - [Flyrell/axios-auth-refresh](https://github.com/Flyrell/axios-auth-refresh) - Library that helps you implement automatic refresh of authorization via axios interceptors. You can easily intercept the original request when it fails, refresh the authorization and continue with the
 - [quarkslab/mattermost-plugin-e2ee](https://github.com/quarkslab/mattermost-plugin-e2ee) - End-to-end encryption plugin for Mattermost
 - [47ng/prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) - Transparent field-level encryption at rest for Prisma
