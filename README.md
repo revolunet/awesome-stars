@@ -548,6 +548,7 @@
 
 ## Go 
 
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) - Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [unagex/metabase-operator](https://github.com/unagex/metabase-operator) - Unagex Kubernetes Operator for Metabase
@@ -1197,6 +1198,9 @@
 
 ## JavaScript 
 
+- [haan/Lightbot-editor](https://github.com/haan/Lightbot-editor) - 
+- [haan/Lightbot](https://github.com/haan/Lightbot) - Educational game about programming
+- [eureka2/G6K](https://github.com/eureka2/G6K) - Generator of calculation simulator (calculator)
 - [mylofi/webauthn-local-client](https://github.com/mylofi/webauthn-local-client) - Browser-only utils for locally managing WebAuthn (passkey) API
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [betagouv/budget-show](https://github.com/betagouv/budget-show) - 
@@ -5799,6 +5803,7 @@
 
 ## TypeScript 
 
+- [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream) - A tiny (745b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing -- 🍊YC W23 🤖 integrate via Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
@@ -5847,7 +5852,7 @@
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
-- [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
+- [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [oslabs-beta/podwatch](https://github.com/oslabs-beta/podwatch) - A Kubernetes error monitoring and alerting service
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
