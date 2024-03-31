@@ -4560,7 +4560,7 @@
 - [mrsunshine/Mobile-Chat-with-Sencha-Touch---node.js---socket.io-](https://github.com/mrsunshine/Mobile-Chat-with-Sencha-Touch---node.js---socket.io-) - 
 - [uswaretech/Django-Socialauth](https://github.com/uswaretech/Django-Socialauth) - Allows logging via Facebook, Yahoo, Gmail, Twitter and Openid
 - [theRemix/CasaLibHaXe](https://github.com/theRemix/CasaLibHaXe) - CasaLib for haXe
-- [kennethreitz-archive/open-icons](https://github.com/kennethreitz-archive/open-icons) - A collection of open and free icons for your next web app.
+- [kennethreitz/open-icons](https://github.com/kennethreitz/open-icons) - A collection of open and free icons for your next web app.
 - [nlothian/FlashCamShim](https://github.com/nlothian/FlashCamShim) - A Flash powered shim to get access to webcams from Javascript
 - [Kami/django-deployment-script](https://github.com/Kami/django-deployment-script) - Fabric deployment script for Django applications
 - [practicalarduino/WeatherStationReceiver](https://github.com/practicalarduino/WeatherStationReceiver) - Use an Arduino and a 433MHz receiver module to intercept and process weather data from a La Crosse home weather station
@@ -5805,8 +5805,10 @@
 
 ## TypeScript 
 
+- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [turt2live/matrix-bot-sdk-bot-template](https://github.com/turt2live/matrix-bot-sdk-bot-template) - A template for creating bots with matrix-bot-sdk
-- [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream) - A tiny (774b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
+- [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream) - A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing -- 🍊YC W23 🤖 integrate via Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
