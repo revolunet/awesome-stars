@@ -977,7 +977,6 @@
 - [AshKyd/geojson-regions](https://github.com/AshKyd/geojson-regions) - 🌏 A repo to create simplified GeoJSON regions so we can display map-based visualisations without having to load tiles all over the place.
 - [holochain/holoscape](https://github.com/holochain/holoscape) - A complete end-user deployment of a Holochain conductor with UI for administration and a run-time for hApp UIs
 - [etalab/piaf-site](https://github.com/etalab/piaf-site) - Site de présentation du projet PIAF: pour une IA francophone
-- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [google/security-crawl-maze](https://github.com/google/security-crawl-maze) - Security Crawl Maze is a comprehensive testbed for web security crawlers. It contains pages representing many ways in which one can link resources from a valid HTML document.
@@ -1771,6 +1770,7 @@
 - [mafintosh/hyperdb](https://github.com/mafintosh/hyperdb) - Distributed scalable database
 - [arunghosh/react-time-line](https://github.com/arunghosh/react-time-line) - A react component to display event in a vertical timeline format
 - [JSainsburyPLC/react-timelines](https://github.com/JSainsburyPLC/react-timelines) - React Timelines Library
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [SocialGouv/react-medixtor](https://github.com/SocialGouv/react-medixtor) - MDX-based Editor, Previewer & Renderer for React.
 - [Rich-Harris/sevenup](https://github.com/Rich-Harris/sevenup) - Tool for making and loading sprites
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples
@@ -2967,7 +2967,6 @@
 - [phil-r/react-native-looped-carousel](https://github.com/phil-r/react-native-looped-carousel) - :carousel_horse: Looped carousel for React Native
 - [atilacamurca/react-native-ebook](https://github.com/atilacamurca/react-native-ebook) - React Native E-book (.mobi, .epub)
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [1602/jugglingdb](https://github.com/1602/jugglingdb) - Multi-database ORM for nodejs: redis, mongodb, mysql, sqlite3, postgresql, arango, in-memory...
 - [react-alpha-beta/alphabeta](https://github.com/react-alpha-beta/alphabeta) - Declarative split testing for React
 - [arguseyes/argus-eyes](https://github.com/arguseyes/argus-eyes) - A lightweight commandline tool for visual regression testing of UI components.
@@ -4787,7 +4786,7 @@
 - [awesome-it/adeploy](https://github.com/awesome-it/adeploy) - Universal deployment tool for Kubernetes that supports rendering and deployment of lightweight Jinja templated k8s manifests as well as complex Helm charts.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [emnetter/codeislow](https://github.com/emnetter/codeislow) - recherche, dans un fichier texte, de références à des articles de codes de droit français, puis utilisation de l'API Légifrance
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -6547,6 +6546,7 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 - [vercel/react-keyframes](https://github.com/vercel/react-keyframes) - Create frame-based animations in React
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
