@@ -549,6 +549,7 @@
 
 ## Go 
 
+- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) - Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
