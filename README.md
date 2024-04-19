@@ -585,7 +585,7 @@
 - [keycloak/keycloak-realm-operator](https://github.com/keycloak/keycloak-realm-operator) - A Kubernetes Operator for managing realms through the Keycloak Admin API
 - [giantswarm/helm-values-gen](https://github.com/giantswarm/helm-values-gen) - Helm plugin 'values-gen' generates the default values file based of values.schema.json
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [ktsstudio/mirrors](https://github.com/ktsstudio/mirrors) - Kubernetes Secret Mirroring Controller
 - [K-Phoen/dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
@@ -929,7 +929,7 @@
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [push-based/user-flow](https://github.com/push-based/user-flow) - 📦 Combine Chrome tooling like Lighthouse userflows and DevTools reconder scripts in your CI
 - [kripken/sql.js](https://github.com/kripken/sql.js) - 
-- [mylofi/localfirstweb.dev](https://github.com/mylofi/localfirstweb.dev) - A list of various resources for local-first web development
+- [localfirstweb/localfirstweb.dev](https://github.com/localfirstweb/localfirstweb.dev) - A list of various resources for local-first web development
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [projectcsv/projectcsv.github.io](https://github.com/projectcsv/projectcsv.github.io) - Project CSV - Website / Web App for opening, viewing, and editing .csv files online or offline.
 - [dnum-mi/CCT-Cloud-Native](https://github.com/dnum-mi/CCT-Cloud-Native) - 
@@ -1200,6 +1200,7 @@
 
 ## JavaScript 
 
+- [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 - [VCityTeam/UD-Viz](https://github.com/VCityTeam/UD-Viz) - UD-Viz is a javascript mono repository for creating web applications for visualizing and interacting with geospatial 3D urban data.
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
@@ -1222,7 +1223,7 @@
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 - [ajaykrupalk/rag-app](https://github.com/ajaykrupalk/rag-app) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
@@ -5816,9 +5817,13 @@
 
 ## TypeScript 
 
+- [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+- [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+- [InseeFrLab/jsonforms-react-seed](https://github.com/InseeFrLab/jsonforms-react-seed) - React-based JSON Forms Seed App
+- [garronej/jsonforms-react-playground](https://github.com/garronej/jsonforms-react-playground) - React-based JSON Forms Seed App
 - [kothing/vite-react-typescript-library-template](https://github.com/kothing/vite-react-typescript-library-template) - ⚛️ Create a new react library project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
-- [google/generative-ai-js](https://github.com/google/generative-ai-js) - Google AI SDK for JavaScript
+- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - Google AI SDK for JavaScript
 - [bolonio/a11y-github-actions](https://github.com/bolonio/a11y-github-actions) - This is a demo repository to illustrate how to test web accessibility using Github Actions.
 - [effectussoftware/react-custom-roulette](https://github.com/effectussoftware/react-custom-roulette) - Repository for the react-custom-roulette library
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
@@ -5861,7 +5866,7 @@
 - [usellm/usellm](https://github.com/usellm/usellm) - Use Large Language Models in Your React App
 - [MinChatHQ/react-chat-ui](https://github.com/MinChatHQ/react-chat-ui) - Build your own chat UI with React Chat UI components in a few minutes. React Chat UI Kit from minchat.io is an open source UI toolkit for developing web chat applications.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
 - [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
