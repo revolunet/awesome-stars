@@ -1114,7 +1114,7 @@
 - [stephanj/rag-genie](https://github.com/stephanj/rag-genie) - The RAG Genie, an LLM RAG prototype to test and evaluate your embeddings, chunk splitting strategies using Q&A and evaluations.
 - [tchapgouv/tchap-identite](https://github.com/tchapgouv/tchap-identite) - Service d'Authentication pour les produits BetaGouv
 - [rgrunbla/Keycloak-Mattermost-Auto-Generate-Id](https://github.com/rgrunbla/Keycloak-Mattermost-Auto-Generate-Id) - Auto generate IDs for the interface between Keycloak and Mattermost
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [shapesecurity/salvation](https://github.com/shapesecurity/salvation) - Parse Content Security Policy headers, warn about policy errors, safely manipulate, render, and optimise policies
 - [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [p2-inc/keycloak-events](https://github.com/p2-inc/keycloak-events) - Useful Keycloak event listener implementations and utilities.
@@ -6297,7 +6297,7 @@
 - [sammccord/perge](https://github.com/sammccord/perge) - Perge is a p2p synchronization system for Automerge documents using PeerJS
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in JavaScript.
+- [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in TypeScript.
 - [fission-codes/get-ipfs](https://github.com/fission-codes/get-ipfs) - Utility to get a contextual js-ipfs instance, with graceful web fallbacks
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
