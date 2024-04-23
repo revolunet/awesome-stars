@@ -1201,6 +1201,7 @@
 
 ## JavaScript 
 
+- [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x) - 🔥 single-command flamegraph profiling 🔥
 - [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 - [VCityTeam/UD-Viz](https://github.com/VCityTeam/UD-Viz) - UD-Viz is a javascript mono repository for creating web applications for visualizing and interacting with geospatial 3D urban data.
@@ -2766,7 +2767,7 @@
 - [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
 - [FormidableLabs/redux-little-router](https://github.com/FormidableLabs/redux-little-router) - A tiny router for Redux that lets the URL do the talking.
 - [TheLarkInn/webpack-developer-kit](https://github.com/TheLarkInn/webpack-developer-kit) - webpack dev kit for writing custom plugins and loaders on the fly. Education/Exploration tool as well.
-- [smalldots/smalldots](https://github.com/smalldots/smalldots) - 
+- [hnordt/smalldots](https://github.com/hnordt/smalldots) - 
 - [anandkumarpatel/rest-fs](https://github.com/anandkumarpatel/rest-fs) - restful interface to a filesystem.
 - [ksafranski/Node-FSAPI](https://github.com/ksafranski/Node-FSAPI) - A RESTful FileSystem API for NodeJS
 - [marmelab/restful.js](https://github.com/marmelab/restful.js) - A pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.
@@ -3959,7 +3960,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [run-llama/modal_finetune_sql](https://github.com/run-llama/modal_finetune_sql) - 
-- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
+- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [opinionscience/FabriqueLLM](https://github.com/opinionscience/FabriqueLLM) - 
 - [opinionscience/BERTransfer](https://github.com/opinionscience/BERTransfer) - A BERT-based application for reusable text classification at scale
 - [InseeFrLab/cartiflette](https://github.com/InseeFrLab/cartiflette) - https://observablehq.com/@linogaliana/cartiflette-demo
@@ -4694,7 +4695,7 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [captn3m0/stackshare-dataset](https://github.com/captn3m0/stackshare-dataset) - A dataset of popular tools and services powering various stacks.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [etalab/noms-de-domaine-organismes-secteur-public](https://github.com/etalab/noms-de-domaine-organismes-secteur-public) - Liste de noms de domaine d'organismes publics
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
@@ -5862,7 +5863,7 @@
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows s
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [publicodes/tools](https://github.com/publicodes/tools) - Set of utility functions to write tooling for Publicodes models
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [adrienbrault/json-schema-to-gbnf](https://github.com/adrienbrault/json-schema-to-gbnf) - Converts JSON-Schema to GBNF grammar to use with llama.cpp
@@ -6187,7 +6188,7 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [duniter/duniter-currency-monit](https://github.com/duniter/duniter-currency-monit) - This specialize duniter node monitoring the state of currency and web of trust
 - [duniter/duniter](https://github.com/duniter/duniter) - Crypto-currency software to manage libre currency such as Ğ1. Mirror of:
-- [j0lv3r4/next-csrf](https://github.com/j0lv3r4/next-csrf) - CSRF mitigation for Next.js
+- [zbnauj/next-csrf](https://github.com/zbnauj/next-csrf) - CSRF mitigation for Next.js
 - [natemoo-re/microsite](https://github.com/natemoo-re/microsite) - Do more with less JavaScript. Microsite is a smarter, performance-obsessed static site generator powered by Preact and Snowpack.
 - [joe223/tiny-swiper](https://github.com/joe223/tiny-swiper) - Ingenious JavaScript Carousel powered by wonderful plugins. Lightweight yet extensible. Import plugins as needed, No more, no less.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -6358,7 +6359,6 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [Weakky/ra-data-opencrud](https://github.com/Weakky/ra-data-opencrud) - A react-admin data provider for Prisma and GraphCMS
-- [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [FotonTech/gigatron](https://github.com/FotonTech/gigatron) - https://gigatron.now.sh/signin
