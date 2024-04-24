@@ -1226,7 +1226,7 @@
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 - [ajaykrupalk/rag-app](https://github.com/ajaykrupalk/rag-app) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
@@ -1476,7 +1476,7 @@
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [dataesr/react-dsfr](https://github.com/dataesr/react-dsfr) - Non-official React components of the official french Système de Design de l'État.
 - [vasturiano/aframe-forcegraph-component](https://github.com/vasturiano/aframe-forcegraph-component) - Force-directed graph component for A-Frame
-- [rwieruch/purchasing-power-parity](https://github.com/rwieruch/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
+- [purchasing-power-parity/purchasing-power-parity](https://github.com/purchasing-power-parity/purchasing-power-parity) - 💫  Make your products affordable for everyone around the world.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [betagouv/analyse-flux-insertion](https://github.com/betagouv/analyse-flux-insertion) - Outil d'analyse des flux et échanges de données dans le domaine de l'insertion
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
