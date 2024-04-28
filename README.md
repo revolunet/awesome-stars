@@ -5826,6 +5826,7 @@
 
 ## TypeScript 
 
+- [blakewilson/tsconfig.guide](https://github.com/blakewilson/tsconfig.guide) - TSConfig Guide is a simple web app that generates a modern TSConfig based on a few user inputs
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [pocka/figspec-react](https://github.com/pocka/figspec-react) - React binding for Figspec web components
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -5896,7 +5897,7 @@
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [oslabs-beta/podwatch](https://github.com/oslabs-beta/podwatch) - A Kubernetes error monitoring and alerting service
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [google/csp-evaluator](https://github.com/google/csp-evaluator) - 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openfun/cunningham](https://github.com/openfun/cunningham) - 🎨 The Open FUN Design System
