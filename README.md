@@ -4017,6 +4017,7 @@
 
 ## Kotlin 
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
 - [EugenMayer/officeconverter](https://github.com/EugenMayer/officeconverter) - Convert file formats like docx, xlx to other formats like pdf, png - based on jodconverter and libreoffice
@@ -5496,7 +5497,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. PostgreSQL simplicity, unrivaled performance, and seamless elasticity. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5846,7 +5847,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [turt2live/matrix-bot-sdk-bot-template](https://github.com/turt2live/matrix-bot-sdk-bot-template) - A template for creating bots with matrix-bot-sdk
 - [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream) - A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorato
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. 🍊YC W23
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
 - [betagouv/nexauth](https://github.com/betagouv/nexauth) - A dead simple JWT-based authentication library for Next.js framework.
