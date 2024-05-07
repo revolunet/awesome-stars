@@ -3291,7 +3291,7 @@
 - [GianlucaGuarini/Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script (~1kb) to detect via Javascript events like 'tap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
 - [jdalton/docdown](https://github.com/jdalton/docdown) - A simple JSDoc to Markdown generator.
 - [peutetre/vendor-prefix](https://github.com/peutetre/vendor-prefix) - prefix dom style
-- [WoollyMittens/useful-cropper](https://github.com/WoollyMittens/useful-cropper) - A visual touch interface for generating cropping coordinates.
+- [WoollyMittens/photo-cropper](https://github.com/WoollyMittens/photo-cropper) - A visual touch interface for generating cropping coordinates.
 - [lodash-archive/lodash-fp](https://github.com/lodash-archive/lodash-fp) - Lodash with more functional fun.
 - [davidmz/apng-chrome](https://github.com/davidmz/apng-chrome) - APNG support for Google Chrome
 - [goatslacker/alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation
@@ -6210,7 +6210,7 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [duniter/duniter-currency-monit](https://github.com/duniter/duniter-currency-monit) - This specialize duniter node monitoring the state of currency and web of trust
 - [duniter/duniter](https://github.com/duniter/duniter) - Crypto-currency software to manage libre currency such as Ğ1. Mirror of:
-- [zbnauj/next-csrf](https://github.com/zbnauj/next-csrf) - CSRF mitigation for Next.js
+- [juanbzpy/next-csrf](https://github.com/juanbzpy/next-csrf) - CSRF mitigation for Next.js
 - [natemoo-re/microsite](https://github.com/natemoo-re/microsite) - Do more with less JavaScript. Microsite is a smarter, performance-obsessed static site generator powered by Preact and Snowpack.
 - [joe223/tiny-swiper](https://github.com/joe223/tiny-swiper) - Ingenious JavaScript Carousel powered by wonderful plugins. Lightweight yet extensible. Import plugins as needed, No more, no less.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
