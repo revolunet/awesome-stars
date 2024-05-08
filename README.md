@@ -1173,7 +1173,7 @@
 - [ghondar/react-native-vlc-player](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [yegor256/s3auth](https://github.com/yegor256/s3auth) - Amazon S3 HTTP Basic Auth Gateway: put your files into S3 bucket and make them accessible with a login/password through a browser
 - [westonganger/cordova-plugin-camera-preview](https://github.com/westonganger/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
-- [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
+- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [nordnet/cordova-hot-code-push](https://github.com/nordnet/cordova-hot-code-push) - [DEPRECATED] - This plugin provides functionality to perform automatic updates of the web based content in your application.
 - [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
 - [davidohayon669/react-native-youtube](https://github.com/davidohayon669/react-native-youtube) - A &lt;YouTube/&gt; component for React Native.
@@ -1206,6 +1206,7 @@
 
 ## JavaScript 
 
+- [jackdbd/zod-to-doc](https://github.com/jackdbd/zod-to-doc) - Inject your Zod schemas into your docs
 - [vwedesam/Cron-to-human](https://github.com/vwedesam/Cron-to-human) - A Node.js library that Validate and Convert Cron-tab Instructions Format (* * * * * *) to human readable text
 - [francoborrelli/spotify-react-web-client](https://github.com/francoborrelli/spotify-react-web-client) - A spotify web client using React, React Redux, Spotify Web API and Spotify Playback SDK.
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
@@ -4682,6 +4683,7 @@
 
 ## Python 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Memory, knowledge and tools for LLMs
 - [numerique-gouv/magnify](https://github.com/numerique-gouv/magnify) - A video conferencing solution with OIDC authentication and room management. Built with Django, React and Livekit
 - [numerique-gouv/people](https://github.com/numerique-gouv/people) - Teams management application
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
@@ -5831,6 +5833,13 @@
 
 ## TypeScript 
 
+- [HiDeoo/zod-matter](https://github.com/HiDeoo/zod-matter) - Typesafe front matter
+- [matejchalk/zod2md](https://github.com/matejchalk/zod2md) - Generate Markdown docs from Zod schemas
+- [astahmer/typed-openapi](https://github.com/astahmer/typed-openapi) - Generate a headless Typescript API client from an OpenAPI spec
+- [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
+- [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi) - A library that generates OpenAPI (Swagger) docs from Zod schemas
+- [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi) - Use Zod Schemas to create OpenAPI v3.x documentation
+- [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [demarches-simplifiees/ds-api-client](https://github.com/demarches-simplifiees/ds-api-client) - 
 - [dnum-mi/ds-api-client](https://github.com/dnum-mi/ds-api-client) - Client d'API DémarcheSimplifiée
@@ -5906,7 +5915,7 @@
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [oslabs-beta/podwatch](https://github.com/oslabs-beta/podwatch) - A Kubernetes error monitoring and alerting service
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [google/csp-evaluator](https://github.com/google/csp-evaluator) - 
