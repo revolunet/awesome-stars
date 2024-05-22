@@ -924,6 +924,7 @@
 ## HTML 
 
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [betagouv/reno](https://github.com/betagouv/reno) - Mes Aides Réno : Aides à la rénovation 2024 + coût des travaux
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [codegouvfr/docsify-dsfr-template](https://github.com/codegouvfr/docsify-dsfr-template) - Un template pour construire un site de documentation en un instant avec le DSFR et docsify (alternative à GitBook).
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1209,6 +1210,7 @@
 
 ## JavaScript 
 
+- [tjscollins/axe-crawler](https://github.com/tjscollins/axe-crawler) - Web crawler that runs axe-core accessibility tests on the urls it collects
 - [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 - [jackdbd/zod-to-doc](https://github.com/jackdbd/zod-to-doc) - Inject your Zod schemas into your docs
 - [vwedesam/Cron-to-human](https://github.com/vwedesam/Cron-to-human) - A Node.js library that Validate and Convert Cron-tab Instructions Format (* * * * * *) to human readable text
@@ -4169,6 +4171,7 @@
 
 ## Others 
 
+- [betagouv/Ressources-techniques](https://github.com/betagouv/Ressources-techniques) - Un repository permettant de stocker des ressources transverses pour les startups d'Etat
 - [coltoneshaw/Mattermost-SQL-Queries](https://github.com/coltoneshaw/Mattermost-SQL-Queries) - 
 - [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
 - [a11ywatch/github-actions](https://github.com/a11ywatch/github-actions) - A11yWatch Github Action
@@ -4773,6 +4776,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [chenhunghan/ialacol](https://github.com/chenhunghan/ialacol) - 🪶 Lightweight OpenAI drop-in replacement for Kubernetes
 - [pedevineau/llm-experiment](https://github.com/pedevineau/llm-experiment) - Quantized inference code for LLaMA models
@@ -5675,7 +5679,6 @@
 - [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - Load testing as a service (LTaaS) with Apache Jmeter on kubernetes
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
-- [cryptpad/docker](https://github.com/cryptpad/docker) - 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
@@ -5808,6 +5811,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [mquandalle/publicodes-compiled](https://github.com/mquandalle/publicodes-compiled) - publicodes-compiled
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [tushar10sh/hasura-keycloak-sveltekit-todo-app](https://github.com/tushar10sh/hasura-keycloak-sveltekit-todo-app) - 
 - [lovasoa/sanipasse](https://github.com/lovasoa/sanipasse) - Vérificateur de passe sanitaire open-source
 - [vnglst/svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
@@ -5905,7 +5909,6 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [betagouv/espace-membre-next](https://github.com/betagouv/espace-membre-next) - Gestion des membres de la communauté
 - [betagouv/secretariat](https://github.com/betagouv/secretariat) - La webapp espace membre de l’incubateur 💁‍♂️👩‍💻
-- [betagouv/reno](https://github.com/betagouv/reno) - Aides à la rénovation 2024 + coût des travaux
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows s
@@ -5967,7 +5970,6 @@
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [codingones/conference-website](https://github.com/codingones/conference-website) - Use this starter to build your powerful, fully static, and SEO-friendly conference website effortlessly deployable anywhere.
 - [martijnversluis/ChordSheetJS](https://github.com/martijnversluis/ChordSheetJS) - A JavaScript library for parsing and formatting ChordPro chord sheets
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse
@@ -6132,7 +6134,6 @@
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
