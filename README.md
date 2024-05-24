@@ -149,7 +149,6 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-- [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - Software in C and data files for the popular GloVe model for distributed word representations, a.k.a. word vectors or embeddings
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
@@ -263,6 +262,7 @@
 - [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white_square_button: Geometrize is a desktop app that geometrizes images into geometric primitives
 - [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg.
 - [patriciogonzalezvivo/MidiGyver](https://github.com/patriciogonzalezvivo/MidiGyver) - 
+- [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [FilBip/tube-radio-FM](https://github.com/FilBip/tube-radio-FM) - Arduino solution to add FM to old tube radios. Tuning with original variable cap
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
@@ -335,6 +335,7 @@
 
 ## CSS 
 
+- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [numerique-gouv/b3desk](https://github.com/numerique-gouv/b3desk) - BBB frontend by the French Ministry of Education
 - [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform
@@ -1210,6 +1211,7 @@
 
 ## JavaScript 
 
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs
 - [tjscollins/axe-crawler](https://github.com/tjscollins/axe-crawler) - Web crawler that runs axe-core accessibility tests on the urls it collects
 - [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 - [jackdbd/zod-to-doc](https://github.com/jackdbd/zod-to-doc) - Inject your Zod schemas into your docs
@@ -1675,7 +1677,7 @@
 - [jhiesey/videostream](https://github.com/jhiesey/videostream) - Play html5 video when from a file-like object
 - [nyambati/express-acl](https://github.com/nyambati/express-acl) - This is a express module that enables you to implement ACL with much ease
 - [jquintozamora/polyfill-io-feature-detection](https://github.com/jquintozamora/polyfill-io-feature-detection) - Feature detection in the browser before loading polyfill using services like polyfill.io
-- [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) - A collection of ZAP scripts provided by the community - pull requests very welcome!
+- [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) - A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [jitsi/lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet) - A low-level JS video API that allows adding a completely custom video experience to web apps.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex) - Display math in TeX with KaTeX and ReactJS
