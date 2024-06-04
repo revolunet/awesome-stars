@@ -1216,7 +1216,7 @@
 
 ## JavaScript 
 
-- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs, configurable with SHACL
 - [tjscollins/axe-crawler](https://github.com/tjscollins/axe-crawler) - Web crawler that runs axe-core accessibility tests on the urls it collects
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [jackdbd/zod-to-doc](https://github.com/jackdbd/zod-to-doc) - Inject your Zod schemas into your docs
@@ -4705,6 +4705,7 @@
 
 ## Python 
 
+- [run-llama/gmail-extractor](https://github.com/run-llama/gmail-extractor) - 
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
