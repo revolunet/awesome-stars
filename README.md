@@ -1124,6 +1124,7 @@
 
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [FX-HAO/keycloak-phone-authenticator](https://github.com/FX-HAO/keycloak-phone-authenticator) - Obtain token and reset password via SMS
 - [softwarefactory-project/keycloak-event-listener-mqtt](https://github.com/softwarefactory-project/keycloak-event-listener-mqtt) - A Keycloak SPI that publishes events to a MQTT broker.
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
