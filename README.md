@@ -340,7 +340,7 @@
 - [numerique-gouv/b3desk](https://github.com/numerique-gouv/b3desk) - BBB frontend by the French Ministry of Education
 - [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-- [anct-cnum/wp-theme-conseiller-numerique](https://github.com/anct-cnum/wp-theme-conseiller-numerique) - Theme WordPress CnFS
+- [anct-cnum/wp-theme-conseiller-numerique](https://github.com/anct-cnum/wp-theme-conseiller-numerique) - Theme WordPress CoNum
 - [DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr) - Le site officiel du référentiel général d’amélioration de l’accessibilité (RGAA).
 - [oklmdev/starter-betagouv](https://github.com/oklmdev/starter-betagouv) - Démarrer un projet betagouv en toute sérénité
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -566,7 +566,7 @@
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) - Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [unagex/metabase-operator](https://github.com/unagex/metabase-operator) - Unagex Kubernetes Operator for Metabase
 - [joncrlsn/pgdiff](https://github.com/joncrlsn/pgdiff) - Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match.
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
@@ -1218,6 +1218,7 @@
 
 ## JavaScript 
 
+- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [betagouv/help-mattermost-bot](https://github.com/betagouv/help-mattermost-bot) - 
 - [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs, configurable with SHACL
 - [tjscollins/axe-crawler](https://github.com/tjscollins/axe-crawler) - Web crawler that runs axe-core accessibility tests on the urls it collects
@@ -2072,7 +2073,6 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [ajoslin/react-form-lifecycle](https://github.com/ajoslin/react-form-lifecycle) - Effortless forms, no payload. Render-prop wrapper for npm.im/form-lifecycle
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
-- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
 - [voxpelli/node-connect-pg-simple](https://github.com/voxpelli/node-connect-pg-simple) - A simple, minimal PostgreSQL session store for Express
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
@@ -5873,6 +5873,7 @@
 
 ## TypeScript 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [basehub-ai/basehub](https://github.com/basehub-ai/basehub) - SDK for BaseHub—Fast, Collaborative, AI-Native Content Management.
 - [TimRobinson1/notional](https://github.com/TimRobinson1/notional) - An unofficial Notion API for interacting with table data in NodeJS
@@ -5957,7 +5958,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
 - [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is the platform for adding collaborative editing, comments, and notifications into your application.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [cah4a/rekube](https://github.com/cah4a/rekube) - React renderer for Kubernetes configurations
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex is a data framework for your LLM applications
@@ -6014,7 +6015,7 @@
 - [publicodes/language-server](https://github.com/publicodes/language-server) - Language server for Publicodes
 - [guidepup/guidepup](https://github.com/guidepup/guidepup) - Screen reader driver for test automation.
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [framecrafter/framecrafter](https://github.com/framecrafter/framecrafter) - An extensible, fast, all-in-browser video editor.
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
@@ -6492,6 +6493,7 @@
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [funkia/list](https://github.com/funkia/list) - 🐆 An immutable list with unmatched performance and a comprehensive functional API.
 - [buildo/react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading
+- [gx0r/connect-session-knex](https://github.com/gx0r/connect-session-knex) - A knex.js session store for express-session, supporting PostgreSQL, MySQL, MariaDB, Oracle and SQLite.
 - [jameslnewell/xhr-mock](https://github.com/jameslnewell/xhr-mock) - Utility for mocking XMLHttpRequest.
 - [graphql-compose/graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
