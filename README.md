@@ -340,7 +340,6 @@
 - [numerique-gouv/b3desk](https://github.com/numerique-gouv/b3desk) - BBB frontend by the French Ministry of Education
 - [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-- [anct-cnum/wp-theme-conseiller-numerique](https://github.com/anct-cnum/wp-theme-conseiller-numerique) - Theme WordPress CoNum
 - [DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr) - Le site officiel du référentiel général d’amélioration de l’accessibilité (RGAA).
 - [oklmdev/starter-betagouv](https://github.com/oklmdev/starter-betagouv) - Démarrer un projet betagouv en toute sérénité
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -4340,7 +4339,7 @@
 - [dair-ai/nlp_newsletter](https://github.com/dair-ai/nlp_newsletter) - 📰Natural language processing (NLP) newsletter
 - [iceddev/pg-connection-string](https://github.com/iceddev/pg-connection-string) - Functions for dealing with a PostgresSQL connection string
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
-- [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
+- [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [melvynator/ELK_twitter](https://github.com/melvynator/ELK_twitter) - This is a data pipeline for Twitter (ETL) using the elastic stack Elasticsearch, Logstash and Kibana (version 6.1)
 - [rodolpheh/awesome-matrix](https://github.com/rodolpheh/awesome-matrix) - A curated list of awesome stuff around Matrix
@@ -4707,6 +4706,7 @@
 
 ## Python 
 
+- [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [run-llama/gmail-extractor](https://github.com/run-llama/gmail-extractor) - 
