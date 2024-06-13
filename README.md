@@ -927,6 +927,7 @@
 
 ## HTML 
 
+- [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [betagouv/reno](https://github.com/betagouv/reno) - Mes Aides Réno : Aides à la rénovation 2024 + coût des travaux
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -1123,6 +1124,7 @@
 
 ## Java 
 
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [FX-HAO/keycloak-phone-authenticator](https://github.com/FX-HAO/keycloak-phone-authenticator) - Obtain token and reset password via SMS
 - [softwarefactory-project/keycloak-event-listener-mqtt](https://github.com/softwarefactory-project/keycloak-event-listener-mqtt) - A Keycloak SPI that publishes events to a MQTT broker.
@@ -1250,7 +1252,7 @@
 - [trubrics/streamlit-feedback](https://github.com/trubrics/streamlit-feedback) - Collect user feedback from within your Streamlit app
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
-- [ajaykrupalk/rag-app](https://github.com/ajaykrupalk/rag-app) - 
+- [ajaykrupalk/rag-app](https://github.com/ajaykrupalk/rag-app) - An RAG (retrieval augmented generation) app which iterates through a PDF document and can answer user's questions based on the document uploaded. This application needs a Google API Key.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
@@ -4081,6 +4083,7 @@
 
 ## Makefile 
 
+- [timescale/pgai](https://github.com/timescale/pgai) - Helper functions for AI workflows
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [topheman/webassembly-wasi-experiments](https://github.com/topheman/webassembly-wasi-experiments) - Discover WebAssembly System Interface (WASI) with C/Rust use cases
 - [scriptype/Makefile-for-the-Front-End](https://github.com/scriptype/Makefile-for-the-Front-End) - A decent Makefile for fast prototyping and a good development experience.
@@ -4656,6 +4659,7 @@
 
 ## PLpgSQL 
 
+- [bigsmoke/pg_readme](https://github.com/bigsmoke/pg_readme) - Functions to generate a `README.md` document for a database extension or schema, based on `COMMENT` objects found in the `pg_description` system catalog
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
@@ -5873,6 +5877,7 @@
 
 ## TypeScript 
 
+- [ilyaplot/postgres-markdown](https://github.com/ilyaplot/postgres-markdown) - 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [basehub-ai/basehub](https://github.com/basehub-ai/basehub) - SDK for BaseHub—Fast, Collaborative, AI-Native Content Management.
