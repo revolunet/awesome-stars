@@ -585,7 +585,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
@@ -1439,7 +1439,6 @@
 - [danfinlay/jazzicon](https://github.com/danfinlay/jazzicon) - Jazzy deterministic identicons for a more entertaining future.
 - [marmelab/ArcheoloGit](https://github.com/marmelab/ArcheoloGit) - Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
-- [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [evanshortiss/keycloak-nodejs-quickstart-tutorial](https://github.com/evanshortiss/keycloak-nodejs-quickstart-tutorial) - A strong starting point and tutorial for Keycloak secured applications 💪
 - [keycloak/keycloak-nodejs-connect](https://github.com/keycloak/keycloak-nodejs-connect) - 
 - [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa) - Extension de navigateur permettant d'auditer des pages web en suivant le référentiel RGAA.
@@ -2022,7 +2021,6 @@
 - [raphamorim/react-ape](https://github.com/raphamorim/react-ape) - 🦍• React Renderer to build UI interfaces using canvas/WebGL (TV and Hardware-Accelerated GPU development based)
 - [yandongliu/learningjs](https://github.com/yandongliu/learningjs) - javascript implementation of logistic regression/c4.5 decision tree
 - [miguelmota/C4.5](https://github.com/miguelmota/C4.5) - C4.5 decision tree generation algorithm in JavaScript.
-- [ryami333/react-accessible-tooltip](https://github.com/ryami333/react-accessible-tooltip) - React Component for rapidly developing Tooltip components, without worrying about accessibility.
 - [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image) - 🖼️ An Almost Ideal React Image Component
 - [reach/router](https://github.com/reach/router) - 
 - [erikdahlstrand/redraw](https://github.com/erikdahlstrand/redraw) - Redraw is a JavaScript library which provides basic image annotation tools in your browser
@@ -5881,6 +5879,7 @@
 
 ## TypeScript 
 
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [addyosmani/chatty](https://github.com/addyosmani/chatty) - ChattyUI - your private AI chat for running LLMs in the browser
 - [ilyaplot/postgres-markdown](https://github.com/ilyaplot/postgres-markdown) - 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -5924,7 +5923,7 @@
 - [garronej/jsonforms-react-playground](https://github.com/garronej/jsonforms-react-playground) - React-based JSON Forms Seed App
 - [kothing/vite-react-typescript-library-template](https://github.com/kothing/vite-react-typescript-library-template) - ⚛️ Create a new react library project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
-- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - Google AI SDK for JavaScript
+- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google's Gemini API
 - [bolonio/a11y-github-actions](https://github.com/bolonio/a11y-github-actions) - This is a demo repository to illustrate how to test web accessibility using Github Actions.
 - [effectussoftware/react-custom-roulette](https://github.com/effectussoftware/react-custom-roulette) - Repository for the react-custom-roulette library
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper
@@ -5996,7 +5995,7 @@
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Volcomix/meettorrent](https://github.com/Volcomix/meettorrent) - [WIP] P2P meetings relying on BitTorrent and WebRTC
 - [codegouvfr/keycloak-theme-dsfr](https://github.com/codegouvfr/keycloak-theme-dsfr) - Generic Keycloak DSFR theme
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
@@ -6105,7 +6104,7 @@
 - [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3) - The fastest and correct SQLite3 module for Deno runtime
 - [alexislozano/salaires.dev](https://github.com/alexislozano/salaires.dev) - 
 - [drand/tlock-js](https://github.com/drand/tlock-js) - Timelock Encryption made practical.  A Typescript library for encrypting for the future.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [scastiel/nextjs-typescript-supabase-tailwind-starter](https://github.com/scastiel/nextjs-typescript-supabase-tailwind-starter) - Next.js starter with TypeScript, Supabase and TailwindCSS
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
@@ -6204,6 +6203,7 @@
 - [moodysalem/jointz](https://github.com/moodysalem/jointz) - ✅ Zero dependency universal TypeScript validation library
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
+- [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Create Keycloak themes using React
 - [maxgfr/medoc](https://github.com/maxgfr/medoc) - Médoc - retrouver la notice d'un médicament via son code-barre
 - [dyedgreen/deno-sqlite](https://github.com/dyedgreen/deno-sqlite) - Deno SQLite module
@@ -6493,6 +6493,7 @@
 - [Atrox/haikunatorjs](https://github.com/Atrox/haikunatorjs) - Generate Heroku-like random names to use in your node applications.
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
+- [ryami333/react-accessible-tooltip](https://github.com/ryami333/react-accessible-tooltip) - React Component for rapidly developing Tooltip components, without worrying about accessibility.
 - [podefr/react-debounce-render](https://github.com/podefr/react-debounce-render) - A React higher order component to debounce the rendering of your React components
 - [data-forge/data-forge-ts](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
