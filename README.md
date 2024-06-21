@@ -229,6 +229,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mmomtchev/pymport](https://github.com/mmomtchev/pymport) - Use Python libraries from Node.js
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -240,7 +241,7 @@
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -510,7 +511,7 @@
 - [pelias/libpostal-service](https://github.com/pelias/libpostal-service) - Dockerfile for libpostal-service based on the Who's on First implementation
 - [aa8y/docker-dataset](https://github.com/aa8y/docker-dataset) - Docker database images with pre-populated data for testing and/or practice.
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 - [LogicalSpark/docker-tikaserver](https://github.com/LogicalSpark/docker-tikaserver) - Apache Tika Server as a Docker Image
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [MicheleBertoli/react-count-to](https://github.com/MicheleBertoli/react-count-to) - Animated counter component for React.js
@@ -565,7 +566,7 @@
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) - Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [unagex/metabase-operator](https://github.com/unagex/metabase-operator) - Unagex Kubernetes Operator for Metabase
 - [joncrlsn/pgdiff](https://github.com/joncrlsn/pgdiff) - Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match.
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
@@ -4083,7 +4084,6 @@
 
 ## Makefile 
 
-- [timescale/pgai](https://github.com/timescale/pgai) - Helper functions for AI workflows
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [topheman/webassembly-wasi-experiments](https://github.com/topheman/webassembly-wasi-experiments) - Discover WebAssembly System Interface (WASI) with C/Rust use cases
 - [scriptype/Makefile-for-the-Front-End](https://github.com/scriptype/Makefile-for-the-Front-End) - A decent Makefile for fast prototyping and a good development experience.
@@ -4227,6 +4227,7 @@
 - [koslib/awesome-containerized-security](https://github.com/koslib/awesome-containerized-security) - A collection of tools to improve your containerized apps security posture
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [dnum-mi/dso-doc](https://github.com/dnum-mi/dso-doc) - 
+- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [shigapov/wikibase-knowledge-graphs](https://github.com/shigapov/wikibase-knowledge-graphs) - A collection of open source tools and resources related to Wikibase knowledge graphs
 - [emijrp/awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
@@ -4659,6 +4660,7 @@
 
 ## PLpgSQL 
 
+- [timescale/pgai](https://github.com/timescale/pgai) - Helper functions for AI workflows
 - [bigsmoke/pg_readme](https://github.com/bigsmoke/pg_readme) - Functions to generate a `README.md` document for a database extension or schema, based on `COMMENT` objects found in the `pg_description` system catalog
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
@@ -4711,7 +4713,7 @@
 ## Python 
 
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 
+- [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 🔀 Deployement of LLM at a large scale using VLL server for inference
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [run-llama/gmail-extractor](https://github.com/run-llama/gmail-extractor) - 
@@ -5062,7 +5064,7 @@
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [tiangolo/meinheld-gunicorn-docker](https://github.com/tiangolo/meinheld-gunicorn-docker) - Docker image with Meinheld managed by Gunicorn for high-performance WSGI (Flask, Django, etc) web applications in Python with performance auto-tuning.
 - [StartupsPoleEmploi/gerboise](https://github.com/StartupsPoleEmploi/gerboise) - Data collection and visualisation in Kibana for startups
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Connexion is a modern Python web framework that makes spec-first and api-first development easy.
 - [awslabs/open-data-registry](https://github.com/awslabs/open-data-registry) - A registry of publicly available datasets on AWS
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
@@ -5672,7 +5674,6 @@
 - [dominik-schwabe/zsh-fnm](https://github.com/dominik-schwabe/zsh-fnm) - Plugin for ZSH to install the Fast Node Manager (fnm).
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
-- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jpetazzo/nsplease](https://github.com/jpetazzo/nsplease) - Tiny Kubernetes operator to create Namespaces on demand (for CI/CD, for instance)
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
