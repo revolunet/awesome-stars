@@ -121,6 +121,7 @@
 
 ## C 
 
+- [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -1220,6 +1221,7 @@
 
 ## JavaScript 
 
+- [nbald/simulateur-impots](https://github.com/nbald/simulateur-impots) - Code source du calculateur d'impôts de La France Insoumise
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [betagouv/help-mattermost-bot](https://github.com/betagouv/help-mattermost-bot) - 
@@ -4660,7 +4662,7 @@
 
 ## PLpgSQL 
 
-- [timescale/pgai](https://github.com/timescale/pgai) - Helper functions for AI workflows
+- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
 - [bigsmoke/pg_readme](https://github.com/bigsmoke/pg_readme) - Functions to generate a `README.md` document for a database extension or schema, based on `COMMENT` objects found in the `pg_description` system catalog
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
@@ -5880,6 +5882,8 @@
 
 ## TypeScript 
 
+- [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere.
+- [codegouvfr/rjsf-dsfr](https://github.com/codegouvfr/rjsf-dsfr) - react-jsonschema-form for the DSFR
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [addyosmani/chatty](https://github.com/addyosmani/chatty) - ChattyUI - your private AI chat for running LLMs in the browser
 - [ilyaplot/postgres-markdown](https://github.com/ilyaplot/postgres-markdown) - 
@@ -5924,7 +5928,7 @@
 - [garronej/jsonforms-react-playground](https://github.com/garronej/jsonforms-react-playground) - React-based JSON Forms Seed App
 - [kothing/vite-react-typescript-library-template](https://github.com/kothing/vite-react-typescript-library-template) - ⚛️ Create a new react library project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
-- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google's Gemini API
+- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [bolonio/a11y-github-actions](https://github.com/bolonio/a11y-github-actions) - This is a demo repository to illustrate how to test web accessibility using Github Actions.
 - [effectussoftware/react-custom-roulette](https://github.com/effectussoftware/react-custom-roulette) - Repository for the react-custom-roulette library
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper
@@ -6006,7 +6010,7 @@
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validations and serializations through transformation
-- [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML plugin for the Monaco Editor
+- [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML support for Monaco Editor
 - [roipoussiere/jaffle](https://github.com/roipoussiere/jaffle) - An hybrid yaml/node editor for Tidal Cycles, based on Strudel.
 - [visheratin/ai-photo-sorter](https://github.com/visheratin/ai-photo-sorter) - 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -6300,7 +6304,7 @@
 - [scastiel/excalidraw-slides](https://github.com/scastiel/excalidraw-slides) - Create slides using Excalidraw.
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [opengovsg/FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
