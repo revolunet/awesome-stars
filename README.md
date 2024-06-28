@@ -121,6 +121,7 @@
 
 ## C 
 
+- [fossasia/badgemagic-firmware](https://github.com/fossasia/badgemagic-firmware) - Hardware details and information to build an open firmware for LED badge
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -516,7 +517,7 @@
 - [Whhoesj/docker-mopidy](https://github.com/Whhoesj/docker-mopidy) - Mopidy in Docker
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 - [LogicalSpark/docker-tikaserver](https://github.com/LogicalSpark/docker-tikaserver) - Apache Tika Server as a Docker Image
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [MicheleBertoli/react-count-to](https://github.com/MicheleBertoli/react-count-to) - Animated counter component for React.js
 
 ## EJS 
@@ -600,7 +601,7 @@
 - [keycloak/keycloak-realm-operator](https://github.com/keycloak/keycloak-realm-operator) - A Kubernetes Operator for managing realms through the Keycloak Admin API
 - [giantswarm/helm-values-gen](https://github.com/giantswarm/helm-values-gen) - Helm plugin 'values-gen' generates the default values file based of values.schema.json
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [ktsstudio/mirrors](https://github.com/ktsstudio/mirrors) - Kubernetes Secret Mirroring Controller
 - [K-Phoen/dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
@@ -1223,6 +1224,7 @@
 
 ## JavaScript 
 
+- [muthuishere/chrome-llm-local-nextjs](https://github.com/muthuishere/chrome-llm-local-nextjs) - 
 - [nbald/simulateur-impots](https://github.com/nbald/simulateur-impots) - Code source du calculateur d'impôts de La France Insoumise et de son barème à 14 tranches
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
@@ -4186,6 +4188,7 @@
 
 ## Others 
 
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [french-ai/french-nlp](https://github.com/french-ai/french-nlp) - Awesome list of resources about NLP applied to French | Liste de ressources liées au NLP appliqué au français
 - [betagouv/Ressources-techniques](https://github.com/betagouv/Ressources-techniques) - Un repository permettant de stocker des ressources transverses pour les startups d'Etat
 - [coltoneshaw/Mattermost-SQL-Queries](https://github.com/coltoneshaw/Mattermost-SQL-Queries) - 
@@ -4715,6 +4718,7 @@
 
 ## Python 
 
+- [aphp/eds-pseudo](https://github.com/aphp/eds-pseudo) - EDS-Pseudo is a hybrid model for detecting personally identifying entities in clinical reports
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [CentraleSupelec/aristote-dispatcher](https://github.com/CentraleSupelec/aristote-dispatcher) - 🔀 Deployement of LLM at a large scale using VLL server for inference
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -4976,7 +4980,7 @@
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [javiergarza/diy-air-filter-and-monitor-pi-sds011](https://github.com/javiergarza/diy-air-filter-and-monitor-pi-sds011) - Measuring Air Quality with a Nova SDS011 particle matter sensor
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [usini/diagrams](https://github.com/usini/diagrams) - Electronics Diagrams (svg)
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
@@ -5883,6 +5887,7 @@
 
 ## TypeScript 
 
+- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere.
 - [codegouvfr/rjsf-dsfr](https://github.com/codegouvfr/rjsf-dsfr) - react-jsonschema-form for the DSFR
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
@@ -5971,7 +5976,7 @@
 - [usellm/usellm](https://github.com/usellm/usellm) - Use Large Language Models in Your React App
 - [MinChatHQ/react-chat-ui](https://github.com/MinChatHQ/react-chat-ui) - Build your own chat UI with React Chat UI components in a few minutes. React Chat UI Kit from minchat.io is an open source UI toolkit for developing web chat applications.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
 - [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is the platform for adding collaborative editing, comments, and notifications into your application.
