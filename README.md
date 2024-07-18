@@ -28,6 +28,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -294,7 +295,7 @@
 - [PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) - Detect touch or proximity by capacitve sensing
 - [bhagman/SoftPWM](https://github.com/bhagman/SoftPWM) - A Wiring (and Arduino) Library to produce PWM signals on arbitrary pins.
 - [Bhlowe/streamer](https://github.com/Bhlowe/streamer) - Low-latency WebRTC broadcasting streamer for H.264 RTSP IP cameras.
-- [MechaDuck/HexapodHDA](https://github.com/MechaDuck/HexapodHDA) - University Project: Design of a six-legged Hexapod with 3 DoF at each leg. Communication and control implementation on an Arduino 2560.
+- [MechaDuck/Hexapod_Botolomaeus](https://github.com/MechaDuck/Hexapod_Botolomaeus) - University Project: Design of a six-legged Hexapod with 3 DoF at each leg. Communication and control implementation on an Arduino 2560.
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
@@ -557,6 +558,10 @@
 ## GDScript 
 
 - [RodZill4/godot-openstreetmap](https://github.com/RodZill4/godot-openstreetmap) - Rendering 3d scenes from openstreetmap data...
+
+## GLSL 
+
+- [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
 
 ## Go 
 
@@ -5678,6 +5683,7 @@
 
 ## Shell 
 
+- [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker.
 - [beatlabs/delete-old-branches-action](https://github.com/beatlabs/delete-old-branches-action) - GitHub Action that deletes old branches
 - [MTES-MCT/keycloak-buildpack](https://github.com/MTES-MCT/keycloak-buildpack) - Scalingo buildpack to install Keycloak with PostgreSQL database
 - [osm-fr/osmpoi4addok](https://github.com/osm-fr/osmpoi4addok) - OSM POI for addok geocoder
