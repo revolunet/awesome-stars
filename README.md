@@ -1236,6 +1236,7 @@
 
 ## JavaScript 
 
+- [bluwy/renoma](https://github.com/bluwy/renoma) - 
 - [incubateur-ademe/nosgestesclimat](https://github.com/incubateur-ademe/nosgestesclimat) - Estimez votre empreinte climat - le modèle de calcul
 - [ElSicarius/chunkloader](https://github.com/ElSicarius/chunkloader) - A chrome/Firefox extension to retrieve and load react javascript chunks all at once for a wide range of javascript techs
 - [adnodev/adno](https://github.com/adnodev/adno) - adno.app. The ADNO source code. adno.app. Adno is a web application for viewing, editing and sharing narratives and pathways on static images and IIIF images.
@@ -5886,6 +5887,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
@@ -5921,6 +5923,7 @@
 
 ## TypeScript 
 
+- [AriPerkkio/eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 - [mckaywrigley/buildware-ai](https://github.com/mckaywrigley/buildware-ai) - 
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use in LLMs
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
