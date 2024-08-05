@@ -124,7 +124,7 @@
 ## C 
 
 - [fossasia/badgemagic-firmware](https://github.com/fossasia/badgemagic-firmware) - Hardware details and information to build an open firmware for LED badge
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -2986,7 +2986,7 @@
 - [christianalfoni/formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS
 - [bloodyowl/react-motion-flip](https://github.com/bloodyowl/react-motion-flip) - A simple component to naively perform transitions between children changes
 - [fregante/iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Tool for User-Agent Detection in JavaScript & Web Development.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection.
 - [mobxjs/mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate) - Small project to quickly start with React, MobX, JSX, ES6, Babel
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [noble/noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
@@ -4689,6 +4689,7 @@
 - [launchql/pgsql-parser](https://github.com/launchql/pgsql-parser) - PostgreSQL Query Parser for Node.js
 - [bigsmoke/pg_readme](https://github.com/bigsmoke/pg_readme) - Functions to generate a `README.md` document for a database extension or schema, based on `COMMENT` objects found in the `pg_description` system catalog
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
 - [morenoh149/postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - Sample databases for postgres
@@ -5594,7 +5595,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL database for event streaming workloads. Build live dashboards, event-driven applications, ETL pipelines, and feature stores in minutes. Featuring a best-in-class stream processing engine. PostgreS
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable SQL engine for event streams and time series data. Build live dashboards, event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch proces
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5924,6 +5925,7 @@
 
 ## TypeScript 
 
+- [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [mjackson/multipart-parser](https://github.com/mjackson/multipart-parser) - A fast, efficient parser for multipart streams in any JavaScript environment
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
@@ -5999,7 +6001,6 @@
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
 - [betagouv/nexauth](https://github.com/betagouv/nexauth) - A dead simple JWT-based authentication library for Next.js framework.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [arneoio/rgaa-checker](https://github.com/arneoio/rgaa-checker) - A browser extension to check compliance with the RGAA standard
 - [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 - [run-llama/ts-playground](https://github.com/run-llama/ts-playground) - 
