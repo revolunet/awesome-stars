@@ -536,7 +536,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Postgres everywhere — your data, in sync, wherever you need it.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [open-peer-network/open-peer-network](https://github.com/open-peer-network/open-peer-network) - P2P decentralized application platform. https://sites.google.com/view/open-peer-network/home
@@ -4739,6 +4739,7 @@
 
 ## Python 
 
+- [thomasnormal/fewshot](https://github.com/thomasnormal/fewshot) - 
 - [aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer) - 
 - [qloridant/mb-dashboard-duplicator](https://github.com/qloridant/mb-dashboard-duplicator) - Duplicate a tab froma  metabase dashboard and make some edition to the new questions in this tab
 - [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - Evaluate the accuracy of LLM generated outputs
@@ -5595,7 +5596,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable SQL engine for event streams and time series data. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming a
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable SQL engine for event streams and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and ba
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -6624,7 +6625,7 @@
 - [elrumordelaluz/reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [chrisguttandin/web-audio-conference-2017](https://github.com/chrisguttandin/web-audio-conference-2017) - My talk at the Web Audio Conference 2017.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [vitaly-t/pg-promise-demo](https://github.com/vitaly-t/pg-promise-demo) - :eyeglasses: Advanced example of using pg-promise
