@@ -5379,7 +5379,6 @@
 - [kivy/kivy-ios](https://github.com/kivy/kivy-ios) - Toolchain for compiling Python / Kivy / other libraries for iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [jeanphix/Ghost.py](https://github.com/jeanphix/Ghost.py) - Webkit based scriptable web browser for python.
-- [navdeep-G/spark.py](https://github.com/navdeep-G/spark.py) - ▁▂▃▅▂▇ in your python.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [t3rm1n4l/s3cmd](https://github.com/t3rm1n4l/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [chartit/django-chartit](https://github.com/chartit/django-chartit) - A Django app to plot charts and pivot charts directly from the models. Uses HighCharts and jQuery JavaScript libraries to render the charts on the webpage.
@@ -5574,7 +5573,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data l
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets across databases, data warehouses, and data 
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [demarches-simplifiees/ds_proxy](https://github.com/demarches-simplifiees/ds_proxy) - Proxy de chiffrement utilisé sur demarches-simplifiees
 - [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
@@ -5916,6 +5915,7 @@
 
 ## TeX 
 
+- [Paljasn/Maths](https://github.com/Paljasn/Maths) - 
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
 - [prplsknk/21lessons-book](https://github.com/prplsknk/21lessons-book) - 21 Lessons - A book about a bitcoin journey, written by a bitcoiner
 - [x-alternative/numerique](https://github.com/x-alternative/numerique) - note numérique
@@ -6558,7 +6558,7 @@
 - [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js
