@@ -348,6 +348,7 @@
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [numerique-gouv/b3desk](https://github.com/numerique-gouv/b3desk) - BBB frontend by the French Ministry of Education
 - [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform
+- [trberrido/wp-dsfr](https://github.com/trberrido/wp-dsfr) - Design System WordPress Gutenberg FSE
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr) - Le site officiel du référentiel général d’amélioration de l’accessibilité (RGAA).
 - [oklmdev/starter-betagouv](https://github.com/oklmdev/starter-betagouv) - Démarrer un projet betagouv en toute sérénité
@@ -4646,7 +4647,6 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [matomo-org/plugin-CustomAlerts](https://github.com/matomo-org/plugin-CustomAlerts) - Alerts are a great way to get notified of changes on your website in Matomo.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
-- [trberrido/wp-dsfr](https://github.com/trberrido/wp-dsfr) - Design System WordPress Gutenberg FSE
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [nico3333fr/CSP-useful](https://github.com/nico3333fr/CSP-useful) - Collection of scripts, thoughts about CSP (Content Security Policy)
@@ -5932,7 +5932,7 @@
 ## TypeScript 
 
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
-- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [mistralai/client-ts](https://github.com/mistralai/client-ts) - TS Client library for Mistral AI platform
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [mjackson/multipart-parser](https://github.com/mjackson/multipart-parser) - A fast, efficient parser for multipart streams in any JavaScript environment
