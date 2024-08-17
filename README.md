@@ -4005,6 +4005,7 @@
 
 ## Jupyter Notebook 
 
+- [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - Evaluate the accuracy of LLM generated outputs
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [OutofAi/StableFace](https://github.com/OutofAi/StableFace) - Build your own Face App with Stable Diffusion 2.1
 - [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
@@ -4741,12 +4742,12 @@
 
 ## Python 
 
+- [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Inference of Diffusion Models for Apple Silicon
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
 - [thomasnormal/fewshot](https://github.com/thomasnormal/fewshot) - 
 - [aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer) - 
 - [qloridant/mb-dashboard-duplicator](https://github.com/qloridant/mb-dashboard-duplicator) - Duplicate a tab froma  metabase dashboard and make some edition to the new questions in this tab
-- [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - Evaluate the accuracy of LLM generated outputs
 - [lunarring/lunar_tools](https://github.com/lunarring/lunar_tools) - toolkit for interactive exhibitions
 - [pranavjad/mlx-gpt2](https://github.com/pranavjad/mlx-gpt2) - gpt-2 from scratch in mlx
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
