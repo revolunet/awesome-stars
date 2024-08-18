@@ -1625,7 +1625,6 @@
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [mikeal/dagdb](https://github.com/mikeal/dagdb) - Syncable database built on IPLD
-- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [cypsela/sailplane-node](https://github.com/cypsela/sailplane-node) - collaborative file system on ipfs
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [NodeSecure/cli](https://github.com/NodeSecure/cli) - JavaScript security CLI that allow you to deeply analyze the dependency tree of a given package or local Node.js project.
@@ -1907,7 +1906,7 @@
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [tomdreamer/hptime-backend-express](https://github.com/tomdreamer/hptime-backend-express) - Mongo powered backend: CRUD requests, sorting data according to user location. https://medirect.herokuapp.com/
 - [Freeboard/thingproxy](https://github.com/Freeboard/thingproxy) - A simple forward proxy server for processing API calls to servers that don't send CORS headers or support HTTPS.
-- [smrtnt/NodeMCU-and-JavaScript](https://github.com/smrtnt/NodeMCU-and-JavaScript) - Programming NodeMCU boards with Espruino (JavaScript)
+- [SamZorSec/NodeMCU-and-JavaScript](https://github.com/SamZorSec/NodeMCU-and-JavaScript) - Programming NodeMCU boards with Espruino (JavaScript)
 - [getsentry/sentry-webpack-plugin](https://github.com/getsentry/sentry-webpack-plugin) - Repo moved to https://github.com/getsentry/sentry-javascript-bundler-plugins. Please open any issues/PRs there.
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [leebyron/react-loops](https://github.com/leebyron/react-loops) - React Loops works with React Hooks as part of the React Velcro Architecture
@@ -2175,7 +2174,6 @@
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [lukeed/sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
 - [digidem/react-dimensions](https://github.com/digidem/react-dimensions) - [Looking for maintainers]
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [newbreedofgeek/react-stepzilla](https://github.com/newbreedofgeek/react-stepzilla) - A React multi-step/wizard component for sequential data collection
 - [JMLX42/dredd](https://github.com/JMLX42/dredd) - A RESTful API to fetch data from the French "Assemblée Nationale".
 - [JMLX42/passport-franceconnect](https://github.com/JMLX42/passport-franceconnect) - 
@@ -4005,6 +4003,7 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - Evaluate the accuracy of LLM generated outputs
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [OutofAi/StableFace](https://github.com/OutofAi/StableFace) - Build your own Face App with Stable Diffusion 2.1
@@ -4140,6 +4139,7 @@
 ## Nunjucks 
 
 - [codegouvfr/eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr) - Template pour la création d'un site utilisant le système de design de l'État avec Eleventy.
+- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system) - One place for service teams to find styles, components and patterns for designing government services.
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
@@ -4742,6 +4742,7 @@
 
 ## Python 
 
+- [Blaizzy/mlx-embeddings](https://github.com/Blaizzy/mlx-embeddings) - MLX-Embeddings is the best package for running Vision and Language Embedding models locally on your Mac using MLX.
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Inference of Diffusion Models for Apple Silicon
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
@@ -5932,6 +5933,8 @@
 
 ## TypeScript 
 
+- [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
+- [supabase-community/snapshot](https://github.com/supabase-community/snapshot) - Capture a snapshot (or subset) of your Postgres database whilst transforming the data.
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [mistralai/client-ts](https://github.com/mistralai/client-ts) - TS Client library for Mistral AI platform
@@ -6006,7 +6009,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [turt2live/matrix-bot-sdk-bot-template](https://github.com/turt2live/matrix-bot-sdk-bot-template) - A template for creating bots with matrix-bot-sdk
 - [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream) - A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
 - [betagouv/nexauth](https://github.com/betagouv/nexauth) - A dead simple JWT-based authentication library for Next.js framework.
@@ -6598,6 +6601,7 @@
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [project-orion/orion](https://github.com/project-orion/orion) - 
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [dequelabs/react-axe](https://github.com/dequelabs/react-axe) - [DEPRECATED] Accessibility auditing for React.js applications
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
