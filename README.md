@@ -187,7 +187,7 @@
 - [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [wandenberg/nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [adafruit/Adafruit_DotStar_Pi](https://github.com/adafruit/Adafruit_DotStar_Pi) - DotStar module for Python on Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [jperkin/node-rpio](https://github.com/jperkin/node-rpio) - Raspberry Pi GPIO library for node.js
 - [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [claudiosousa/PersistenceOfVisionGlobe](https://github.com/claudiosousa/PersistenceOfVisionGlobe) - Persistence of vision globe based on AtMega1284p
@@ -5602,7 +5602,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch p
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5761,7 +5761,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [redhat-developer-demos/knative-tutorial](https://github.com/redhat-developer-demos/knative-tutorial) - https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and easy way with lots of demos and exercises.
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.45.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.46.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
@@ -6083,7 +6083,7 @@
 - [vlcn-io/typed-sql](https://github.com/vlcn-io/typed-sql) - 
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validations and serializations through transformation
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML support for Monaco Editor
 - [roipoussiere/jaffle](https://github.com/roipoussiere/jaffle) - An hybrid yaml/node editor for Tidal Cycles, based on Strudel.
 - [visheratin/ai-photo-sorter](https://github.com/visheratin/ai-photo-sorter) - 
