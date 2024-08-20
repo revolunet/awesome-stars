@@ -1383,7 +1383,6 @@
 - [manucaralmo/GlowCookies](https://github.com/manucaralmo/GlowCookies) - GlowCookies 🍪 - Powerful Cookie Consent Banner In JavaScript
 - [WDscholia/scholia](https://github.com/WDscholia/scholia) - Wikidata-based scholarly profiles
 - [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (pixelated avatar) generator
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [LavaMoat/LavaMoat](https://github.com/LavaMoat/LavaMoat) - tools for sandboxing your dependency graph
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
@@ -4742,6 +4741,7 @@
 
 ## Python 
 
+- [RayFernando1337/MLX-Auto-Subtitled-Video-Generator](https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator) - Generate accurate transcripts using Apple's MLX framework
 - [Blaizzy/mlx-embeddings](https://github.com/Blaizzy/mlx-embeddings) - MLX-Embeddings is the best package for running Vision and Language Embedding models locally on your Mac using MLX.
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Inference of Diffusion Models for Apple Silicon
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -4818,7 +4818,7 @@
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [dgarnitz/vectorflow](https://github.com/dgarnitz/vectorflow) - VectorFlow is a high volume vector embedding pipeline that ingests raw data, transforms it into vectors and writes it to a vector DB of your choice.
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [charlesdedampierre/BunkaTopics](https://github.com/charlesdedampierre/BunkaTopics) - 🗺️ Data Cleaning and Textual Data Visualization  🗺️
@@ -6033,7 +6033,7 @@
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows s
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [publicodes/tools](https://github.com/publicodes/tools) - Set of utility functions to write tooling for Publicodes models
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
