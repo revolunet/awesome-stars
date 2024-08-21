@@ -145,6 +145,7 @@
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [resilar/sqleet](https://github.com/resilar/sqleet) - SQLite3 encryption that sucks less
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -704,7 +705,6 @@
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [mattermost/chimera](https://github.com/mattermost/chimera) - 
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
@@ -4213,6 +4213,7 @@
 
 ## Others 
 
+- [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [french-ai/french-nlp](https://github.com/french-ai/french-nlp) - Awesome list of resources about NLP applied to French | Liste de ressources liées au NLP appliqué au français
 - [betagouv/Ressources-techniques](https://github.com/betagouv/Ressources-techniques) - Un repository permettant de stocker des ressources transverses pour les startups d'Etat
@@ -4691,7 +4692,6 @@
 - [launchql/pgsql-parser](https://github.com/launchql/pgsql-parser) - PostgreSQL Query Parser for Node.js
 - [bigsmoke/pg_readme](https://github.com/bigsmoke/pg_readme) - Functions to generate a `README.md` document for a database extension or schema, based on `COMMENT` objects found in the `pg_description` system catalog
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL
 - [morenoh149/postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - Sample databases for postgres
@@ -5933,6 +5933,7 @@
 
 ## TypeScript 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [supabase-community/snapshot](https://github.com/supabase-community/snapshot) - Capture a snapshot (or subset) of your Postgres database whilst transforming the data.
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
@@ -6014,6 +6015,7 @@
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
 - [betagouv/nexauth](https://github.com/betagouv/nexauth) - A dead simple JWT-based authentication library for Next.js framework.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [arneoio/rgaa-checker](https://github.com/arneoio/rgaa-checker) - A browser extension to check compliance with the RGAA standard
 - [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 - [run-llama/ts-playground](https://github.com/run-llama/ts-playground) - 
