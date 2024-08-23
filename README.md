@@ -1437,7 +1437,7 @@
 - [maxgfr/react-async-context](https://github.com/maxgfr/react-async-context) - React application using Context API to process async actions without redux
 - [devthefuture-org/nctx](https://github.com/devthefuture-org/nctx) - NodeJS Contextual Dependency Injection using native async_hooks - IoC
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
-- [rod4n4m1/hashi-vault-js](https://github.com/rod4n4m1/hashi-vault-js) - A node.js module to interact with the Hashicorp Vault API.
+- [kyndryl-open-source/hashi-vault-js](https://github.com/kyndryl-open-source/hashi-vault-js) - A node.js module to interact with the Hashicorp Vault API.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [krawaller/swordle](https://github.com/krawaller/swordle) - Very smol Swedish Wordle clone
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
@@ -2263,7 +2263,6 @@
 - [sidraval/MONDRIAN.js](https://github.com/sidraval/MONDRIAN.js) - 
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [L3au/gitbook-plugin-git-author](https://github.com/L3au/gitbook-plugin-git-author) - A gitbook plugin to show git author info
-- [betagouv/beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr) - Le site public de l'Incubateur de Services Numériques de l'État
 - [JWally/jsLPSolver](https://github.com/JWally/jsLPSolver) - Simple OOP javaScript library to solve linear programs, and mixed integer linear programs
 - [fazouane-marouane/reason-react-storybook](https://github.com/fazouane-marouane/reason-react-storybook) - Showcasing the integration between ReasonReact & Storyboard
 - [brandonmp/gatsby-source-google-sheets](https://github.com/brandonmp/gatsby-source-google-sheets) - A GatsbyJS plugin that pulls nodes from rows in a Google Sheet.
@@ -3985,6 +3984,7 @@
 
 ## Jinja 
 
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to Kubernetes with Ansible
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -4061,6 +4061,7 @@
 - [lynnlangit/Hello-AWS-Data-Services](https://github.com/lynnlangit/Hello-AWS-Data-Services) - AWS Data/MLServices sample code & notes for my LinkedIn Learning courses
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
 - [qmoret/nuit-du-code-citoyen-DGCS](https://github.com/qmoret/nuit-du-code-citoyen-DGCS) - 
+- [betagouv/beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr) - Le site public de l'Incubateur de Services Numériques de l'État
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [BinPy/BinPy](https://github.com/BinPy/BinPy) - An electronic simulation library written in pure Python
 
@@ -5602,7 +5603,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch p
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tropicbliss/symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5722,7 +5723,6 @@
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
 - [dominik-schwabe/zsh-fnm](https://github.com/dominik-schwabe/zsh-fnm) - Plugin for ZSH to install the Fast Node Manager (fnm).
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jpetazzo/nsplease](https://github.com/jpetazzo/nsplease) - Tiny Kubernetes operator to create Namespaces on demand (for CI/CD, for instance)
@@ -5933,6 +5933,7 @@
 
 ## TypeScript 
 
+- [sgomez/ollama-ai-provider](https://github.com/sgomez/ollama-ai-provider) - Vercel AI Provider for running LLMs locally using Ollama
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [supabase-community/snapshot](https://github.com/supabase-community/snapshot) - Capture a snapshot (or subset) of your Postgres database whilst transforming the data.
@@ -6060,7 +6061,7 @@
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [oslabs-beta/podwatch](https://github.com/oslabs-beta/podwatch) - A Kubernetes error monitoring and alerting service
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [google/csp-evaluator](https://github.com/google/csp-evaluator) - 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openfun/cunningham](https://github.com/openfun/cunningham) - 🎨 The Open FUN Design System
