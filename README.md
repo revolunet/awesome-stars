@@ -189,7 +189,7 @@
 - [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [wandenberg/nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [adafruit/Adafruit_DotStar_Pi](https://github.com/adafruit/Adafruit_DotStar_Pi) - DotStar module for Python on Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [jperkin/node-rpio](https://github.com/jperkin/node-rpio) - Raspberry Pi GPIO library for node.js
 - [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [claudiosousa/PersistenceOfVisionGlobe](https://github.com/claudiosousa/PersistenceOfVisionGlobe) - Persistence of vision globe based on AtMega1284p
@@ -571,6 +571,7 @@
 
 ## Go 
 
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [boxabirds/text2sql-prompt-engineering](https://github.com/boxabirds/text2sql-prompt-engineering) - A very simple golang experiment testing the effectiveness of prompt engineering for accurate and safe automatic SQL query generation
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1304,7 +1305,7 @@
 - [tomasz-sodzawiczny/next-plugin-yaml](https://github.com/tomasz-sodzawiczny/next-plugin-yaml) - Import .yml files in your next.js project
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
-- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
+- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [eyssette/chatMD](https://github.com/eyssette/chatMD) - Un chatbot que l'on peut configurer avec un fichier en Markdown
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [tex2e/reverse-shell-generator](https://github.com/tex2e/reverse-shell-generator) - A tool to generate reverse shells.
@@ -3447,7 +3448,6 @@
 - [vadimdemedes/ronin](https://github.com/vadimdemedes/ronin) - Toolkit for killer CLI applications
 - [tomchentw/react-toastr](https://github.com/tomchentw/react-toastr) - React.js toastr component
 - [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [videojs/videojs-vimeo](https://github.com/videojs/videojs-vimeo) - Support Vimeo source for Video.js
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -4221,6 +4221,7 @@
 
 ## Others 
 
+- [The-Hacker-Recipes/The-Hacker-Recipes](https://github.com/The-Hacker-Recipes/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile app
 - [mattpocock/package-tools](https://github.com/mattpocock/package-tools) - 
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
 - [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.
@@ -4751,6 +4752,7 @@
 
 ## Python 
 
+- [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 - [tchapgouv/tchap-sample-bot](https://github.com/tchapgouv/tchap-sample-bot) - Un bot d'exemple fait par Tchap
 - [numerique-gouv/django-dsfr](https://github.com/numerique-gouv/django-dsfr) - Intégration du système de design de l'État français dans Django
@@ -5950,6 +5952,8 @@
 
 ## TypeScript 
 
+- [vercel-labs/ai-sdk-preview-rsc-genui](https://github.com/vercel-labs/ai-sdk-preview-rsc-genui) - Generative UI with React Server Components and Vercel AI SDK
+- [betagouv/aides-jeunes](https://github.com/betagouv/aides-jeunes) - Un simulateur global des prestations sociales françaises pour les jeunes.
 - [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and 
 - [mjackson/lazy-file](https://github.com/mjackson/lazy-file) - Lazy, streaming files for JavaScript
 - [sgomez/ollama-ai-provider](https://github.com/sgomez/ollama-ai-provider) - Vercel AI Provider for running LLMs locally using Ollama
@@ -6009,7 +6013,7 @@
 - [dnum-mi/ds-api-client](https://github.com/dnum-mi/ds-api-client) - Client d'API DémarcheSimplifiée
 - [numerique-gouv/blocknote-llm](https://github.com/numerique-gouv/blocknote-llm) - A proof of concept of what can be done with the BlockNote editor based on ProseMiror and an LLM running in the browser
 - [numerique-gouv/tchap-bot-webhook](https://github.com/numerique-gouv/tchap-bot-webhook) - 
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [blakewilson/tsconfig.guide](https://github.com/blakewilson/tsconfig.guide) - TSConfig Guide is a simple web app that generates a modern TSConfig based on a few user inputs
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [pocka/figspec-react](https://github.com/pocka/figspec-react) - React binding for Figspec web components
@@ -6055,7 +6059,7 @@
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [nitaiaharoni1/vector-storage](https://github.com/nitaiaharoni1/vector-storage) - Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows s
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [publicodes/tools](https://github.com/publicodes/tools) - Set of utility functions to write tooling for Publicodes models
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
@@ -6189,7 +6193,7 @@
 - [nfroidure/openapi-ts-sdk-builder](https://github.com/nfroidure/openapi-ts-sdk-builder) - Create a TypeScript SDK from an OpenAPI 3 definition
 - [paulsouche/open-api-nest-experiment](https://github.com/paulsouche/open-api-nest-experiment) - Experiment on open api
 - [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
-- [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 The Frech Government Design system React toolkit
+- [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 The French Government Design system React toolkit
 - [maxlath/wikibase-sdk](https://github.com/maxlath/wikibase-sdk) - JS utils functions to query a Wikibase instance and simplify its results
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [libp2p/js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - WebSockets module that libp2p uses and that implements the interface-transport spec
@@ -6793,9 +6797,10 @@
 - [OneSignal/OneSignal-Cordova-SDK](https://github.com/OneSignal/OneSignal-Cordova-SDK) - OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Ionic, PhoneGap CLI, PhoneGap Build, Cordova, or Sencha Touch app with OneSignal. Supports An
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tjallingt/react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
