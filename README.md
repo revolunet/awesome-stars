@@ -540,7 +540,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [open-peer-network/open-peer-network](https://github.com/open-peer-network/open-peer-network) - P2P decentralized application platform. https://sites.google.com/view/open-peer-network/home
@@ -3012,7 +3012,7 @@
 - [kschzt/gopro](https://github.com/kschzt/gopro) - API for controlling GoPro Hero 3 Camera from Node.js
 - [elm-community/elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) - Boilerplate for developing Elm apps on Webpack
 - [jasonslyvia/react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [garbles/why-did-you-update](https://github.com/garbles/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [axemclion/browser-perf](https://github.com/axemclion/browser-perf) - Performance Metrics for Web Browsers
@@ -3448,6 +3448,7 @@
 - [vadimdemedes/ronin](https://github.com/vadimdemedes/ronin) - Toolkit for killer CLI applications
 - [tomchentw/react-toastr](https://github.com/tomchentw/react-toastr) - React.js toastr component
 - [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [videojs/videojs-vimeo](https://github.com/videojs/videojs-vimeo) - Support Vimeo source for Video.js
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -3991,7 +3992,7 @@
 
 ## Jinja 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free & Better RDS Alternative —— Pigsty
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [openfun/arnold](https://github.com/openfun/arnold) - :construction_worker_woman: Deploy your applications to Kubernetes with Ansible
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -4752,6 +4753,8 @@
 
 ## Python 
 
+- [AdnaneKhan/Gato-X](https://github.com/AdnaneKhan/Gato-X) - GitHub Attack Toolkit - Extreme Edition
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 - [tchapgouv/tchap-sample-bot](https://github.com/tchapgouv/tchap-sample-bot) - Un bot d'exemple fait par Tchap
@@ -4964,7 +4967,7 @@
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [ossf/osv-schema](https://github.com/ossf/osv-schema) - Open Source Vulnerability schema.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) - Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
@@ -6797,7 +6800,6 @@
 - [OneSignal/OneSignal-Cordova-SDK](https://github.com/OneSignal/OneSignal-Cordova-SDK) - OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Ionic, PhoneGap CLI, PhoneGap Build, Cordova, or Sencha Touch app with OneSignal. Supports An
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tjallingt/react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
