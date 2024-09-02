@@ -1246,6 +1246,7 @@
 
 ## JavaScript 
 
+- [stdlib-js/datasets-savoy-stopwords-fr](https://github.com/stdlib-js/datasets-savoy-stopwords-fr) - A list of French stop words.
 - [slevithan/regex](https://github.com/slevithan/regex) - Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
 - [mylofi/client-storage](https://github.com/mylofi/client-storage) - Simple key-value storage API backed by various client storage mechanisms
 - [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
@@ -1269,7 +1270,6 @@
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [jackdbd/zod-to-doc](https://github.com/jackdbd/zod-to-doc) - Inject your Zod schemas into your docs
 - [vwedesam/Cron-to-human](https://github.com/vwedesam/Cron-to-human) - A Node.js library that Validate and Convert Cron-tab Instructions Format (* * * * * *) to human readable text
-- [francoborrelli/spotify-react-web-client](https://github.com/francoborrelli/spotify-react-web-client) - A spotify web client using React, React Redux, Spotify Web API and Spotify Playback SDK.
 - [18F/analytics.usa.gov](https://github.com/18F/analytics.usa.gov) - The US federal government's web traffic.
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x) - 🔥 single-command flamegraph profiling 🔥
@@ -4012,6 +4012,7 @@
 
 ## Jupyter Notebook 
 
+- [louisbrulenaudet/ragoon](https://github.com/louisbrulenaudet/ragoon) - High level library for batched embeddings generation, blazingly-fast web-based RAG and quantized indexes processing ⚡
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [defog-ai/sql-eval](https://github.com/defog-ai/sql-eval) - Evaluate the accuracy of LLM generated outputs
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
@@ -6023,6 +6024,7 @@
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [demarches-simplifiees/ds-api-client](https://github.com/demarches-simplifiees/ds-api-client) - 
 - [dnum-mi/ds-api-client](https://github.com/dnum-mi/ds-api-client) - Client d'API DémarcheSimplifiée
+- [francoborrelli/spotify-react-web-client](https://github.com/francoborrelli/spotify-react-web-client) - A complete Spotify clone built with Typescript, React, React Redux, Spotify Web API, and Spotify Playback SDK. This web client replicates the core functionalities of Spotify, including music playback,
 - [numerique-gouv/blocknote-llm](https://github.com/numerique-gouv/blocknote-llm) - A proof of concept of what can be done with the BlockNote editor based on ProseMiror and an LLM running in the browser
 - [numerique-gouv/tchap-bot-webhook](https://github.com/numerique-gouv/tchap-bot-webhook) - 
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -6688,7 +6690,7 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
-- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
