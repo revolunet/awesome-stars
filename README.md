@@ -435,7 +435,7 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [ClickHouse/metabase-clickhouse-driver](https://github.com/ClickHouse/metabase-clickhouse-driver) - ClickHouse database driver for the Metabase business intelligence front-end
 - [Markenson/csv-metabase-driver](https://github.com/Markenson/csv-metabase-driver) - A CSV metabase driver
@@ -963,7 +963,6 @@
 - [kwent/pgbouncerhero](https://github.com/kwent/pgbouncerhero) - A dashboard for your PgBouncers.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [Fil/DruidJS](https://github.com/Fil/DruidJS) - A JavaScript Library for Dimensionality Reduction
-- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [remcohaszing/rehype-mermaid](https://github.com/remcohaszing/rehype-mermaid) - A rehype plugin to render mermaid diagrams
@@ -1169,6 +1168,7 @@
 - [rgrunbla/Keycloak-Mattermost-Auto-Generate-Id](https://github.com/rgrunbla/Keycloak-Mattermost-Auto-Generate-Id) - Auto generate IDs for the interface between Keycloak and Mattermost
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [shapesecurity/salvation](https://github.com/shapesecurity/salvation) - Parse Content Security Policy headers, warn about policy errors, safely manipulate, render, and optimise policies
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [p2-inc/keycloak-events](https://github.com/p2-inc/keycloak-events) - Useful Keycloak event listener implementations and utilities.
 - [p2-inc/keycloak-orgs](https://github.com/p2-inc/keycloak-orgs) - Single realm, multi-tenancy for SaaS apps
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes
@@ -1281,7 +1281,7 @@
 - [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 - [VCityTeam/UD-Viz](https://github.com/VCityTeam/UD-Viz) - UD-Viz is a javascript mono repository for creating web applications for visualizing and interacting with geospatial 3D urban data.
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [incubateur-ademe/publicodes-impact-livraison](https://github.com/incubateur-ademe/publicodes-impact-livraison) - Modèle Publicodes sur les données "Livraison" pour Impact CO2
 - [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
 - [haan/Lightbot-editor](https://github.com/haan/Lightbot-editor) - 
@@ -6159,7 +6159,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [riatelab/magrit](https://github.com/riatelab/magrit) - Thematic cartography entirely in the browser ♥
 - [garronej/nextra-dsfr-demo](https://github.com/garronej/nextra-dsfr-demo) - A demo project for nextra-theme-dsfr-docs
 - [vlcn-io/vite-starter](https://github.com/vlcn-io/vite-starter) - scaffold for a vitejs based vlcn project
