@@ -728,7 +728,7 @@
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [mkimuram/k8sviz](https://github.com/mkimuram/k8sviz) - Generate Kubernetes architecture diagrams from the actual state in a namespace
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -1191,7 +1191,7 @@
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [ClementGre/PDF4Teachers](https://github.com/ClementGre/PDF4Teachers) - PDF editing software in large quantities. Designed for teachers, this app keeps recorded previous annotations, and offers features like marking scale, PDF conversion, vectorial drawing...
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [svenstaro/keycloak-http-webhook-provider](https://github.com/svenstaro/keycloak-http-webhook-provider) - A Keycloak provider that posts events to a URL via HTTP POST as JSON
 - [Tanaguru/Tanaguru](https://github.com/Tanaguru/Tanaguru) - Automated accessibility (a11y) testing tool, with emphasis on reliablity and automation
@@ -4020,6 +4020,7 @@
 
 ## Jupyter Notebook 
 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [theSuriya/Gemma-SQL-Generator](https://github.com/theSuriya/Gemma-SQL-Generator) - Google Gemma Fine tune SQL Generator
 - [louisbrulenaudet/ragoon](https://github.com/louisbrulenaudet/ragoon) - High level library for batched embeddings generation, blazingly-fast web-based RAG and quantized indexes processing ⚡
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
@@ -4768,6 +4769,7 @@
 
 ## Python 
 
+- [replicate/cog-flux](https://github.com/replicate/cog-flux) - Cog inference for flux models
 - [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [replicate/flux-fine-tuner](https://github.com/replicate/flux-fine-tuner) - Cog wrapper for ostris/ai-toolkit + post-finetuning cog inference for flux models
@@ -6760,7 +6762,7 @@
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
-- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - Dynamic Neural Networks Architect
+- [antoniodeluca/dn2a](https://github.com/antoniodeluca/dn2a) - Dynamic Neural Networks Architecture
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
 - [bemusic/bemuse](https://github.com/bemusic/bemuse) - ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
