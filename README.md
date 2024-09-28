@@ -1251,6 +1251,7 @@
 
 ## JavaScript 
 
+- [Carnaux/NFT-Marker-Creator](https://github.com/Carnaux/NFT-Marker-Creator) - This editor creates NFT markers for ARTOOKIT 5.x
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [oTranscribe/oTranscribe](https://github.com/oTranscribe/oTranscribe) - A free & open tool for transcribing audio interviews
 - [OpenTermsArchive/engine](https://github.com/OpenTermsArchive/engine) - Tracks contractual documents and exposes changes to the terms of online services.
@@ -4769,6 +4770,7 @@
 
 ## Python 
 
+- [run-llama/human_in_the_loop_workflow_demo](https://github.com/run-llama/human_in_the_loop_workflow_demo) - 
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - [replicate/cog-flux](https://github.com/replicate/cog-flux) - Cog inference for flux models
 - [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
@@ -5990,7 +5992,7 @@
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 - [oguimbal/pgsql-ast-parser](https://github.com/oguimbal/pgsql-ast-parser) - Yet another simple Postgres SQL parser
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [serenity-kit/secsync](https://github.com/serenity-kit/secsync) - Architecture for end-to-end encrypted CRDTs
+- [nikgraf/secsync](https://github.com/nikgraf/secsync) - Architecture for end-to-end encrypted CRDTs
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
