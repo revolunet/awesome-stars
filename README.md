@@ -4770,6 +4770,7 @@
 
 ## Python 
 
+- [dottxt-ai/prompts](https://github.com/dottxt-ai/prompts) - A prompting library
 - [run-llama/human_in_the_loop_workflow_demo](https://github.com/run-llama/human_in_the_loop_workflow_demo) - 
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - [replicate/cog-flux](https://github.com/replicate/cog-flux) - Cog inference for flux models
