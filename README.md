@@ -504,6 +504,7 @@
 
 ## Dockerfile 
 
+- [incubateur-ademe/grafana](https://github.com/incubateur-ademe/grafana) - 
 - [iv-org/documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 - [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs)
 - [cloudnative-pg/postgis-containers](https://github.com/cloudnative-pg/postgis-containers) - Operand images for CloudNativePG containing PostgreSQL with PostGIS
@@ -1251,6 +1252,7 @@
 
 ## JavaScript 
 
+- [JohnPostlethwait/fixme](https://github.com/JohnPostlethwait/fixme) - Scan for NOTE, OPTIMIZE, TODO, HACK, XXX, FIXME, and BUG comments within your source, and print them to stdout so you can deal with them.
 - [Carnaux/NFT-Marker-Creator](https://github.com/Carnaux/NFT-Marker-Creator) - This editor creates NFT markers for ARTOOKIT 5.x
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [oTranscribe/oTranscribe](https://github.com/oTranscribe/oTranscribe) - A free & open tool for transcribing audio interviews
@@ -2133,7 +2135,6 @@
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [googlecreativelab/teachable-machine-boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate) - Boilerplate code for Teachable Machine
 - [stylesuxx/graphql-custom-types](https://github.com/stylesuxx/graphql-custom-types) - A collection of custom GraphQL types like Email, URL and password.
-- [remarkjs/remark-react](https://github.com/remarkjs/remark-react) - Legacy plugin to transform to React — please use `remark-rehype` and `rehype-react` instead
 - [guigrpa/jest-html](https://github.com/guigrpa/jest-html) - Preview your Jest snapshots visually in the browser
 - [CondeNast/perf-timeline-cli](https://github.com/CondeNast/perf-timeline-cli) - Generate Chrome Performance Timelines via a command line interface
 - [obartra/attina](https://github.com/obartra/attina) - React Mermaid Renderer 🐟
@@ -4473,6 +4474,7 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [cypress-io/cypress-react-unit-test](https://github.com/cypress-io/cypress-react-unit-test) - Unit test React components using Cypress
+- [remarkjs/remark-react](https://github.com/remarkjs/remark-react) - Deprecated plugin to transform to React — please use `remark-rehype` and `rehype-react` instead
 - [nice-registry/dependent-packages](https://github.com/nice-registry/dependent-packages) - 🔗 Direct dependents and devDependents of every package in the npm registry. Works offline.
 - [Berndinox/compose-v3-collection](https://github.com/Berndinox/compose-v3-collection) - Real World Swarm-Mode docker-compose V3 examples (docker stack deploy)
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -4610,7 +4612,6 @@
 - [YahooArchive/flux-examples](https://github.com/YahooArchive/flux-examples) - Isomorphic Flux examples with Fluxible
 - [mbrio/react-boilerplate](https://github.com/mbrio/react-boilerplate) - A set of boilerplates for use compiling static applications consisting of ES6 source using Babel and Webpack. The various branches of React Boilerplate correspond with different versions of React and 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [gkraynov/nexus-4-navfix](https://github.com/gkraynov/nexus-4-navfix) - Fix making Nexus 4 navigation buttons working after enigmatic hardware issue
 - [aeroseed/urbolienne](https://github.com/aeroseed/urbolienne) - 
 - [elierotenberg/coding-styles](https://github.com/elierotenberg/coding-styles) - My coding styles.
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
@@ -6196,7 +6197,7 @@
 - [langchain-ai/langchain-template-supabase](https://github.com/langchain-ai/langchain-template-supabase) - 
 - [vlcn-io/live-examples](https://github.com/vlcn-io/live-examples) - vlcn & cr-sqlite example apps deployed to fly.io
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
-- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Very fast and simple cross-platform IPTV app
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [wix-incubator/autoviews](https://github.com/wix-incubator/autoviews) - A library for building user interfaces with JSON schemas, react components and data
 - [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - The Query Builder component for React
 - [felixroos/claviature](https://github.com/felixroos/claviature) - A versatile SVG piano for the web
