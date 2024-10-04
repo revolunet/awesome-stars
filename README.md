@@ -1158,7 +1158,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, Zapier, RunDeck, Camunda, ...
 - [SPARQL-Anything/sparql.anything](https://github.com/SPARQL-Anything/sparql.anything) - SPARQL Anything is a system for Semantic Web re-engineering that allows users to ... query anything with SPARQL.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
@@ -3461,7 +3461,6 @@
 - [vadimdemedes/ronin](https://github.com/vadimdemedes/ronin) - Toolkit for killer CLI applications
 - [tomchentw/react-toastr](https://github.com/tomchentw/react-toastr) - React.js toastr component
 - [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [videojs/videojs-vimeo](https://github.com/videojs/videojs-vimeo) - Support Vimeo source for Video.js
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -6849,6 +6848,7 @@
 - [OneSignal/OneSignal-Cordova-SDK](https://github.com/OneSignal/OneSignal-Cordova-SDK) - OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Ionic, PhoneGap CLI, PhoneGap Build, Cordova, or Sencha Touch app with OneSignal. Supports An
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tjallingt/react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
