@@ -123,6 +123,7 @@
 
 ## C 
 
+- [Next-Flip/Momentum-Apps](https://github.com/Next-Flip/Momentum-Apps) - Bundle of external apps tweaked for Momentum Firmware
 - [cgorringe/pmosaic](https://github.com/cgorringe/pmosaic) - PhotoMosaic image generator
 - [asg017/sqlite-lembed](https://github.com/asg017/sqlite-lembed) - A SQLite extension for generate text embeddings from GGUF models using llama.cpp
 - [fossasia/badgemagic-firmware](https://github.com/fossasia/badgemagic-firmware) - Hardware details and information to build an open firmware for LED badge
@@ -572,6 +573,7 @@
 
 ## Go 
 
+- [epinio/epinio](https://github.com/epinio/epinio) - Opinionated platform that runs on Kubernetes, that takes you from App to URL in one step.
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
 - [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
@@ -786,7 +788,7 @@
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [banzaicloud/dast-operator](https://github.com/banzaicloud/dast-operator) - Dynamic Application and API Security Testing
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -1031,7 +1033,6 @@
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [platformland/government-design-systems](https://github.com/platformland/government-design-systems) - 
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
-- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [ActiveCampaign/postmark-templates](https://github.com/ActiveCampaign/postmark-templates) - Rock-solid transactional email templates for applications.
 - [opendata-stuttgart/feinstaub-map](https://github.com/opendata-stuttgart/feinstaub-map) - 
 - [scottaohara/a11y_breadcrumbs](https://github.com/scottaohara/a11y_breadcrumbs) - Accessible breadcrumb pattern
@@ -1938,6 +1939,7 @@
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
 - [storybook-eol/react-cdk](https://github.com/storybook-eol/react-cdk) - under development - React Component Development Kit with Storybook
 - [johncmunson/react-taggy](https://github.com/johncmunson/react-taggy) - A simple zero-dependency React component for tagging user-defined entities within a block of text.
+- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [geut/caracara](https://github.com/geut/caracara) - GEUT LABS. An experimental Dat based collaborative editor.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
